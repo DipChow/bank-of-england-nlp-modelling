@@ -1,0 +1,404 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions]. Our first call today is Aman Rakkar from Barclays."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "I had a question on net interest income, please. I guess first of all, around the usual NIM and NII drivers into Q4 as you see them, would be helpful. I guess I'm particularly interested about the structural hedge. It's big, big contribution in the quarter in Q3 and I'm just ultimately trying to work out if there's any upside to the structural hedge this year. I suspect that there should be, by virtue of the kind of year to date, performance that you've achieved is close to the, I think it's close to the 700 million, or in excess of 700 million, that you're guiding for the full year. I also suspect that your structural hedge notional probably isn't going to fall much from here. So I think there should probably be a pickup from this hedge being more stable, and I guess that the SWAT rate environment has been better than expected through the course of this year. I know you've pre-hedged, but it does seem to me like there is upside to that structural hedge. So you know, to be more succinct here, should we expect a meaningful kind of sequential pickup in the structural hedge, Q-on-Q, in Q4 and what does that mean for NIM, please?"
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "And then I had a second question, on average interest earning assets. So you've got, you've pointed to kind of sequential growth in Q4 in your IMS, I can see that averaging is a decent tailwind Q-on-Q, but I think there is some decent underlying momentum in your retail business as well. So could you help us maybe think about Q4 for average interest earning assets? I feel like it should be decent Q-on-Q, and I think you need it to be in order to deliver on your full year. I think that's, I think that's what you're pointing to, right? That the lending momentum really should drive average interest earning assets quite meaningfully from here. Thank you very much."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "Thanks I will answer two questions. I'll take them in order. Net interest margin first of all, as you know, net interest margin was at 295, during Q3. The drivers, in respect of that, were the principal ones that we've discussed before. But to go through each of those, we've seen structural hedge make a good contribution in the third quarter, 10 basis points, as you'll have seen in our numbers. And then on the flip side of that, the two headwinds that we've seen are deposit churn and mortgage refinancing. So to comment on those, respectively, deposit churn we've seen during the course of the quarter, as anticipated, actually, that is to say, modest PCA outflows in combination with a continued drift from instant access into fixed term and limited withdrawal, but a couple of points within that amount which are relevant, the PCA outflows are probably a little more modest than we had expected. That is to say, the PCA balances are a little better than we had expected. That's off the back of things like inflationary wage settlement. It's probably off the back of slightly more conservative spending patterns, but also things like government or bank gyro credits and alike. So overall, a more benign picture, and PCA is down 1.1 billion in the quarter, but leading to a balanced outcome that has said touch better than expectations, perhaps."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "And then alongside of that, the churn taken overall has, as I mentioned in my comments earlier on, eased up a little bit over quarter two. So we're seeing essentially what we thought might happen in the falling rates environment, which is to say, the deposit churn eased a little bit as we go through the year. The mortgage refinancing headwind continues pretty much in line with where we thought it might do. That is to say we've got mortgages the refinancing, or rather coming off the balance sheet at about 110 as a margin, they're going on the balance sheet at a completion margin of around 70, maybe a touch over 70 basis points. So you've still got that mortgage refinancing headwind, playing out again in a more or less mechanical way, in line with how we expected."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "Now, when you look forward on that, and pursuant to your question on structural hedge, which I'll come back to Aman, we would expect that net interest mechanic, if you like, either principal tailwind allied to the two headwinds that I mentioned, to continue to play out in the course of the fourth quarter. Overall as I mentioned in my comments earlier on, we think the net interest margin has more or less turned for the time being, it looks to us like the net interest margin increased by a couple of basis points in the quarter of Q3 I think we might expect something roughly similar in the course of Q4 of course, that will be affected by things like deposit behavior, for example, competition in the mortgage market and the like but overall, taking what we can see into perspective, if you like, I would expect that net interest margin to continue to tick up a little bit in the course of Q4."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "Now, the structural hedge role within that is clearly important. As I said a second ago, we've seen the structural hedge contribute 10 basis points in the course of quarter three. That was a particularly strong contribution simply because of maturities, because of yields on those maturities and alike and that's the type of, you know, overall, very positive contribution you get from the structural hedge, but it will go up and down a little bit quarter on quarter when we look forward the structural hedge expectation for the year as a whole, as you know, I think we mentioned at our half year numbers that we thought it would be growth of greater than 700 million in the course of 2024. As we stand today it may be that swap curves have been a little bit stronger than we expected, but there's probably not much in it, to be honest, a mile and so, you know, maybe it's a touch stronger than that, but not awfully, not awfully much. And, you know, not terribly material."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "Your notional comment is interesting. How do we see the notional balances in the structural hedge? We thought at the beginning of the year that they would come off by a modest amount. We compared that, I think, at the time, to what we saw in 2023 which is an 8 billion reduction. So far, we've seen a 5 billion reduction and I mentioned earlier on that the deposit churn picture is easing up, just as we thought it might. Where does that take us to let's see what depositors do during the course of the fourth quarter. But overall, I think we feel pretty good about the notional balance at 242, as it is right now, and we'll report back to you how we fared during quarter four."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "Just taking a step back on your first question still Aman, what does that net interest margin picture look like rather, what does it imply for net interest income? And I think it's just worth finishing the question on that, which is to say, when you look at net interest income as a whole, as you know, it's composed of net interest margin, AIEAs and non-banking net interest income."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "And I'll come back to AIEAs in a bit more detail in just a second but to round that off net interest margin is said, looks like it's turned you know, maybe a bit more progression in context of Q4 would be our base case. AIEAs you've got our guidance there it's greater than 450 billion. I'll come back to that in just a second but don't forget, during my scripted comments, I did comment that NB NII non-banking, net interest income is expected to tick up a little bit in the course of Q4 and that's off the back of greater levels of activity, which in turn go into securing our other operating income growth that you've seen year to date."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "So consider that point too. Where does that take us to net interest income? Our expectation is that net interest income will be broadly stable Q4 versus Q3 and that's, you know, overall, if you like, the point that I'd finish off that question. Second question, AIEAs, Aman a couple of points there. You've seen the strengthening of AIEAS through the course of the year. In quarter three, you saw AIEAs of 451 billion and year to date as you know, AIEAs are touched below that at basically 450 billion. When we look into Q4 we see the type of growth that we've seen in assets 4.6 billion lending increase in assets in quarter three. We would overall expect that growth to continue during the course of quarter four, and therefore contribute to the AIEAs build over that time but where we think that will land us in terms of AIEAs for the year as a whole is in line with our guidance of greater than 450. I don't think we'll be an awful lot ahead of that, to be perfectly clear, but nonetheless, we do expect to meet our guidance of greater than 450 billion based upon that building trajectory of AIEAs quarter three, 451 let's see where we get to in quarter four, but overall, as said, meeting our guidance at 450 so that's an overall picture. Perhaps I'll stop there for now. Aman, hopefully that's helpful."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next caller is Jonathan Pierce from Jefferies"
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "I've got a couple of questions, if that's okay. The first is on this hedge tail wind again. I mean 450 million pound annualized increase in the third quarter, given there probably wasn't any averaging benefit coming through from Q2 there was no tail wind in that quarter. It is obviously pretty big in the context of the 20 billion pound maturity number you previously talked to across H2 as a whole. I just really want to clear something up from a definitional perspective here, that when you talk about maturities, that 20 billion in H2 for instance, is that number as I understand its excluding positions you have already pre-hedged. So we can't sort of look at 20 billion and multiply by a yield delta to get the tail wind in any particular quarter, so that's the first question. The second question is a broader one on 2026, the TNAV is obviously now moving up at a decent clip. I think if you look at consensus retained earnings, next couple of years, get about 10p on the end of ‘26 the cash flow hedge reserve is still a 5.5pence negative, I think and presume a lot of that will unwind. So it now feels like it's moving into the mid 60s, plus, if that's the number you recognize, and are you still confident, if that is the base, the ROT will be north of the 15% and you still went into this idea that you'll do a 15% plus ROT, even if the FT Tier 1 ratio were 13.5% rather than 13% you talked of earlier in the year. Thanks a lot."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "Thanks, Jonathan, I may ask you to just repeat your first question to make sure I followed it. But in essence, on the structural hedge, what we've committed to, in terms of the income profile, is, as you know, in 2023 we saw 3.4 billion. We believe that we're going to achieve greater than 700 million growth over the course of 2024 we then, I'll take it further forward for now, expect a step up from that 700 million growth in 2025 and a further-more significant step up in respect to 2026 so that's the overall income picture, Jonathan. When we when we describe that income picture, it takes into account the dynamics of the hedge, in terms of notionals, in terms of the extent to which we have pre-hedged, in terms of the yields and maturities that are coming up and so forth. So everything is gathered together that may or may not answer your question. Perhaps you can tell me at the end, if there's anything further you'd like to ask."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "On your second question, in respect of TNAV, we've seen pretty decent TNAV build over the course of the third quarter, as you know, up 2.9p per share during the third quarter to 52.5p. We do expect that TNAV per share to increase over the course of the near term and into the medium term and the primary drivers for that, from a business point of view, from a TNAV as a whole point of view, if you like, our business growth, are the unwind of the cash flow, hedge reserve, our pensions, not pensions contributions, I shouldn't say, but rather asset performance in the context of pension context of pensions, and that overall drives TNAV positivity, that is then augmented by the buyback, which obviously reduces the number of shares, and therefore further boosts the TNAV per share."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "You've seen in the in respect of the cash flow hedge reserve, in particular, Jonathan, you've seen the rates profile that we have, the cash flow hedge reserve right now is about three 3.3 billion, they are about in the context of rates profile, we have that unwind more or less in line with the structural hedge, albeit some of it is front loaded by its nature, that overall leads to pretty decent TNAV growth over the immediate future as said, and over the forecast period. When we look at the 2026 expectations, Jonathan, we always thought that was going to be the case. There's nothing new there that is consistent with what we said at the beginning of this year and indeed in the preceding year. So nothing terribly much has changed in that respect we've had some short term volatility in rates, for sure, but the overall profile hasn't changed terribly much from what we previously set out. Where does that leave us? That leaves us with greater than 15% ROT expectation for 2026 and you've seen our capital commitments and likewise, alongside of that, but greater than 15% ROT expectation for 2026 off the back of what will in our expectation at least be an undoubtedly materially higher TNAV, it's that combination. Jonathan, yes,"
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Okay, and you're still comfortable you'll do that, even if the FT Tier 1 ratio has been held at 13.5% as it was when the target was put in place?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "Well absolutely, that's what we committed to at the beginning of this year, and that's very much where we continue to be."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Okay And sorry, just to follow up on the hedge tailwind point. I think it's the point that if I just took 20 billion in maturities in the second half, it's very difficult to see how you're getting the tail wind in income terms that you're talking about and I'm just wondering whether the 20 billion is really the relevant number, or if they're more maturities, and you're not including within the 20 stuff that's been pre-hedged."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "Now, I think the maturities are always slightly difficult to kind of model, if you like, off the back of the hedge expectation, simply because you don't have other parts of the puzzle, such as the yield on maturities and the pre-hedging, which, as you say, is a further metric. So, you know, overall, I think it's that balance. I think I'll pay more attention to the income expectation for the hedge as a whole, in terms of modeling expectations."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next caller is Benjamin Toms from RBC."
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "At a recent conference, I think you talked about NIM gently rising in ‘25 and more significantly in 2026 I just checked whether you think that current consensus actually reflects that sentiment that you were trying to convey at 301 basis points for next year, and 311 for 2026 and then secondly, in respect to motor finance, I think there's a couple of court cases we're due to get judgment on before Christmas. Can you just give some timing around those? And do those cases have the potential to impact your motor finance, provisioning, modeling, or are we really waiting for the May 25 consultation paper for shifting impact expectations? I think I noticed in your presentation that your remediation charge yesterday is 124 million, but you're guiding still to 200 to 300 million, which leaves me with a slight feeling you might be giving yourself room to do a top up at year end. Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "Thanks. Ben for those two questions. In respect of NIM, as said in my comments earlier on, the NIM has effectively turned as of Q3 we expect that to continue over the course of Q4 so when we look at 2025 we obviously haven't given guidance to 2025 we'll certainly do that in February of next year, when we meet to discuss all year results."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "But overall, some comments on the shape there that we might expect. It is our expectation that the same factors, if you like, will drive the 2024, 2025, NIM outcome as are currently driving the setup right now. Specifically, what do I mean by that? I mean a gathering pace in the structural hedge. As said, we're delivering greater than 700 million growth in respect to ‘24 our expectation is that ‘25 deliveries in the structural hedge will be in excess of that 700 million growth during that year. And alongside of that continued slowdown in deposit churn, I think, very much consistent with our interest rate expectations and off the back of that, the incentive, if you like, to move from instant access, or PCA, for that matter, into fixed term savings. So that reduces deposit churn over time and then, alongside of that, finally, the mortgage headwind tapers a little bit going through 2025 albeit it will not be done until the first half of 2026 so you know, we'll give specific guidance for the margin in 2025 at the beginning of next year, but the expectation is based upon those dynamics that we do indeed, to your point Ben, see an increase, but a gradual one during the course of the year."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "The only offset to that that I would highlight that we have not seen during the course of this year so much is rate cuts. That is to say, we've seen one rate cut so far this year. We expect one further rate cut during the course of Q4 and we expect three rate cuts during the course of ‘25 and those do act, as you know, a have a lag effect, a cost effect essentially on the margin, but still taking that point into account. You add up all of what I've just said, and we would expect to see a gradual increase in the margin over the course of next year."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "On the motor points Ben that you raise, first of all, just to distinguish between the 200 million - 300 million remediation guidance that I mentioned earlier on, anything to do with motor 200 million to 300 million of remediation guidance that I gave that has been our long standing guidance in remediation for a very long time, which predates motor. So it's not with reference to anything to do with motor. It's simply to guide you to what we expect on a full year run rate remediation basis. In respect of the court cases that you referred to Ben, a couple of points to make. I mean, one is obviously the main event here is the FCA motor commission review, which has been moved into May of next year, which from our perspective, at least, is a timing event, rather than anything more substantive than that. So we obviously look forward to getting that motor commission review wrapped up and moving on from that, it's going to be May rather than this year. Fine that doesn't affect our 450 million provision. With respect to court cases, court cases are obviously a matter of law, as opposed to the FCA review, albeit the FCA did say that they would take them into account in considering the overall stance. So we will observe those court cases. We'll obviously consider them in the context of where they might go. I would note a couple of things, the principal, one of which is to say that the court cases that have been determined to date on motor have predominantly gone in our favor, not everyone, but mostly gone in our favor. So we'll look with interest to the court cases and how they come out, but with that context in mind."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next caller is Jason Napier from UBS."
+  },
+  {
+    "person": "Jason Napier",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "Thank you for taking my questions. Two pieces, good momentum in in parts of the loan book in particular. So first question on the mortgage growth in the quarter. Thank you for the completion margins. Presumably this is strong from a market share perspective. If we think about, you know, the background, you've got an SVR book that is running down and so on, you just talk about, sort of your share, where it's coming from, and what you're seeing on sort of front end pricing there. And then secondly, UK retail has done, you know phenomenally well, year to date, up another 7% in the quarter, if you just talk about the credit quality of what's going on the book there, and sort of how you're seeing end consumer credit demand. I mean, UK savings rate to 10% looks like everybody's very, very cautious, but you're generating really quite good commercial momentum in that portfolio. In particular, if you could talk through that, that'd be that'd be helpful. Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "First of all, in respect of mortgage growth, yes, we're, we're pleased with the mortgage rate that we've seen in the context of third quarter. In fact, in the context of the year to date, the third quarter growth, as you know, is 3.2 billion, which represents a good performance. We've always taken a stance with mortgage growth, as you know, the mortgage market, I should say, as you know, which is to say that we will aim for a decent, a healthy proportion of share, but we will only do so if it is acceptable on value basis. It's good to see actually, that over the course of this year, and particularly in the third quarter, the trade-off between share and value, from our perspective, at least, has been a constructive one. So what have we seen in respect of pricing, and what have we seen in respect of share."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "Respective pricing, we've seen a circa 70 basis points, maybe a touch over, as I mentioned earlier on, for completion margins. So you know, that's a return that allows us to deliver a cost of capital, positive return, both on a stock basis and a marginal basis. What have we seen in terms of share? We've seen around a 21.5% market share inflow within mortgages within the third quarter. Importantly, I think what is delivering for us there is the results of some of the investments, as I mentioned in my script comments earlier on. And specifically, what do I mean by that? We've invested heavily in the intermediaries journey, for example, to address the needs of intermediaries to get a quicker result for our customers. And we've invested heavily in the overall proposition, including focusing on certain segment sectors, including, for example, a mass affluent mortgage that we've recently put out."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "So it's that combination of investing in end product, investing in journeys, which we think is helping us to achieve a successful market share, again, in the backdrop of what we see to be acceptable pricing, UK retail overall, yes, I think we've seen some decent growth within UK retail outside of mortgages too Jason, which is good to see. A couple of comments within that we've seen about 0.6 billion increase in loans. We've seen about point 0.1 billion increase in cards that's all in third quarter. We've seen a modest decrease, actually, about 0.6 billion decrease in motor so that motor one I'll just dwell on briefly, the motor reduction of 0.6 billion is about half of that is about securitization that we did in August, which is an important risk management approach in the context of our operating lease depreciation exposure."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "So half of that reduction in UK motor is off the back of the securitization done in August. The other half, or a good part of the other half, is essentially about dealer destocking. Dealers had built up their stocks early on in the year through the course of the year, they run those down basically as vehicles get sold. We've seen a bit of that during the third quarter. So you step back, and I think, Jason, to your point, we've seen strong personal loans growth. We've seen strong cards growth and that's pleasing. You asked about the credit quality, the credit quality, I think, is not just benign, but actually more benign than probably surpassing our expectations. What is behind that? I think it's a benign macro economy on the whole. I think it's also some of the approaches that we've invested in the context of our strategic initiatives. So for example, we've created a your credit score tool, which is a tool that customers can visit and build an understanding of their overall credit performance. We've seen that link to greater take up within the personal loans business, and indeed, I think that is probably what's one of the factors behind the good credit quality that we're seeing. So overall, Jason, I think it's been healthy volume growth. I think it has been very benign credit quality that we've seen behind that and it's a good combination. One slight point that I make on the personal loans growth again, 0.6 billion up during the quarter, which is great. Don't forget the fact that we did a securitization on the personal loans tail end of last year, which in turn, probably slightly flattens that 0.6 billion increase in personal loans. It's still healthy growth underneath it, but just bear that in mind."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next caller is Chris Cant from Autonomous."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good morning. Thank you for taking my questions, two relatively quick ones I think firstly, you mentioned Basel 3.1 is now expected to be modestly positive upon transition in ’26. I was just wondering if you could give us a little bit more quantification there in terms of how we should think about the RWA impact. Obviously, that will be a factor potentially within how you think about distributions for next year, given it hits [indiscernible] ‘26 but any more precise quantification than modestly positive would be appreciated. And then the other question I wanted to ask was on non-banking NII. I'm sure we're all going to spend a bit of time today trying to wrangle the generally positive commentary on the direction of NIM and loan growth with the fact that NII is expected to be broadly flat. And you mentioned non-banking, NII will be stepping up into the fourth quarter. Is there any way you could give us a sense of the quantum of that impact? Then, I guess, more importantly, how we should be thinking about that looking into 2025 so I think the 2025 consensus for non-banking NII would essentially be flat on roughly where you were as of the third quarter of this year. If it's stepping up into 4Q should we be expecting a sort of a bigger negative, non-banking, no number in ‘25 and consensus currently hasn't. Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "Take those in order. Bar 3.1 you're quite right to spot a change in language, we do believe that Bar 3.1 is now going to come out modestly positive, as opposed to neutral to modestly positive, which is what we have said before. What's behind that is a number of changes that have been adopted in the consultation process, which in turn, are marginally favorable versus where they previously were so things like scalar in the context of infrastructure, things like credit, counterparty credit conversion factors, rather those types of things, reduction in standardized loss, given defaults trade facilities being more benign than we expected, all of these things add up into a slightly more benign RWA outcome for Bar 3.1 Chris, I shan't put a number on it actually, because the Bar 3.1 process is still going through finalization. And as you know, the types of estimates that we're adopting now basically assume a more or less static balance sheet and likewise, credit environment. And so we have to see how that evolves over the course of the coming period."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "In order to give you a more precise number, at the beginning of 2026 but overall, I do expect it to be modestly positive, which is, frankly, a better outcome than we previously thought. Our capital commitments you asked about that in the context of your question, we remain at 13% as of 2026 so our ambition to get to that level, and it's in our intention to get to that level. So hopefully that gives you some context to think about. In respect of non-banking net interest income. Your second question, we've given an overall guidance a non-banking net interest income of 450 to 500 for the year as a whole. And it's the upper end of that that I would steer you towards in the context of the overall year, and therefore, hopefully give you some sense as to where we might go during the course of quarter four. What's going on there? As you know, it's off the back of increasing levels of other operating income, increasing levels of activity, often fueled by the strategic investments that we're making. And so that's the main characteristic, if you like, or say, good part of the characteristic of the increase in non-banking, net interest income. Alongside of that, we've got some areas of activity within OOI that are basically term financing, transport being the obvious case in point."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "And so there's a bit of a lag effect between, if you like, base rates going up and the refinancing of those term structures, which in turn feeds into NB-NII in a slightly lag way versus changes in base rates. You asked that next year, I would expect that lag effect, a little bit of the activity to slightly tick up NB-NII next year, we'll give you more precise guidance at the end of the year, but a modest tick up might be a reasonable expectation but having said that, Chris, the overwhelming pattern, I think, in the context of our NII for next year, if you like, overcomes that. That is to say, the effect of any NII increase is offset, more than offset by the other positives that we're seeing going on in the NII line, by which I obviously mean the developments in average interest earning assets, and alongside of that, the development in the margin. That's what prevails during the course of 2025"
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Just to clarify on the non-banking NII, when you say slightly tick up into next year. Do you mean relative to the implied 4Q run-rate of just north of 600 or do you mean relative to the 500 that you're now pointing to for Q4 ‘24 as a whole? The should we be assuming growth on the 4Q level given those continued investments and the lagging effect, or is it actually coming down sequentially, quarter over quarter from [indiscernible] implied number, and I am taking the top end of your 450 to 500 I appreciate some give within towards the top end?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "Yes, it's amazing. My answer, Chris referred to the 450 to 500 and that's what I was referring to, in terms of slight tick up."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next caller is Edward Firth from KBW."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Just two quick questions. One was actually broadly, I think, answered by Chris' but I just to clarify that. So just to be absolutely clear, you would expect net interest income to broadly follow your margin guidance for next year. Is that, should we broadly take that? And I guess so supplemental to that is my understanding correct in a falling rate environment, that non-banking charge should go down. I think it went up with higher rates, and I assume it reverses. But just to check that, that would be point number one, and then the second question is a sort of broader question. You're still buying back shares, but you're obviously now buying them back at above tangible book, and at a price that is probably well considerably higher, let's say, than you've done in the past. Is that something you think about when you're buying back shares, or is it more of a sort of mechanical process you've got the surf as capital, and you buy it back? And does it in any way influence your thinking about buybacks versus dividends? Firstly and secondly, does it influence your thinking in terms of acquisitions. Because, I mean, obviously you will see that there are a number of banking assets available in the UK at the moment that substantive prices materially cheaper than you are. And I wonder if that is that the sort of trade off you think of as a management team strategically."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "On the interest income point, I'll start there, as it refers to your questions again. Just bear in mind that net interest income is a function of margin of AIEAs and of NBN-NII, non-banking net interest income I mentioned earlier on and again, I won't get any more specific about this, but I will underline the patterns that we expect to see, the shape that we expect to see, if you like. Our expectation on NIM as set out is that it gradually moves upwards, basically from here on, our expectation around AIEAs is that we've seen the rise to 451 billion in the course of quarter three, we'll see more modest lending growth during the course quarter four to be sure, but we do expect AIEAs to grow during the course of next year, in line with our strategic ambitions to grow the business, and in line with, you know, I won't put a number on it at all, but in the line with the spirit of the growth in balance sheet that we've seen over the course of this year, and expect to continue to see next year."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "So that's a AIEA comment, and then this probably addresses both question one and question two of your of your questions, NBN-NII, however, is lagged in terms of its growth off the back of rates. And the reason for that is said is because we've got within NB-NII financing of things like transportation assets. Both transportation assets will often be on, let's say, three year lending facilities, and therefore base rates can come down, but there's a lagged effect as the higher level of rates versus when these things were financed is put into the NB-NII structure. Alongside of that, and perhaps more importantly, we get growth in activity and that growth in activity drives OOI. You've seen OOI up 9% year on year, up 3% quarter and quarter. It's our expectation that OOI continues to grow in next year, and we have to pay for that. We have to pay for that at some level, which is still, frankly, awfully shareholder value accreted, but we have to pay for the financing of that through the NB-NII line. So it's that combination Ed which hopefully answers question one and question two"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "On the buyback I'm very pleased to see that the share price actually is ahead of tangible net asset value for all kinds of reasons, as you can imagine, starting from the beginning, though, the key point here is that we are very committed as a team, as a Board, as an Organization, to capital return to shareholders. That's a core commitment of the organization you've seen it hopefully manifested in abundance or testified to over the course of the last few years, both in terms of the dividend, which, again, we've increased by 15% as of the half year, and also in terms of the succession of buybacks that we have launched. The moment, as you know, we have a 2 billion buyback out there, which is being completed, more or less as we speak, and we remain very committed to that. As we look forward, we expect the business to continue to be strongly capital generative. We do expect to continue to invest in the business. We also expect to produce surplus capital above and beyond the investment needs of the business, even in the context of the strategic transformation that we're undertaking. And so the question of excess capital generation is unlikely to go away, and it will be. It will drive, if you like, both the growing dividend and also a question beyond that, about what we do. But you've asked the question about, how does the current share price drive the decision on that excess capital. Couple of points to make there. One is, we still see significant value in the business, even at the current share price, significant value."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "The second point is, our investors, I think, likewise, see significant value and as a result, like the buyback structure for a value based proposition the buyback makes sense to them, and that's the consistent feedback that we get. Alongside of that, it's obviously an EPS and a DPS driver, which is good to see and alongside of that, you know, we see many banks out there who are engaging in buybacks, so significantly higher valuations. And in short, we think we've got a long way to go on the valuation, which in turn, will, I'm sure, be a factor in any board decision that will be made at the year-end as to what to do with excess capital."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "Final point, Ed, you mentioned around acquisitions. As you know, our approach to acquisitions is a pretty cautious one, where we see the ability to add scale, or alternatively add a capability which is strategically consistent. We will look at them but on the other hand, it's a relatively high bar before we'll actually execute. And what informs that bar is, is it a faster way of getting to our strategic ambitions? Number one, can it be done with an acceptable level of risk? Number two, and most importantly, can it be done with an acceptable value outcome for shareholders? Number three, and so although there might be a lot out there in the market, and we do see everything clearly, it is relatively little, or the opportunities that pass those hurdles are relatively few and far between."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next caller is Guy Stebbings from BNP Paribas Exane."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Exane BNP Paribas",
+    "text": "Thanks for taking the questions. First was on other operating income. If you can a little bit more color on. So the drivers of growth decks haven't spent too much time on that. If there was any sort of standout contributor supporting the positive performance in the quarter. And looking ahead, Q3 was quite strong. There can be a bit of seasonality so just to confirm whether you're happy for us to start with the 5.7 billion or so Q3 annual run-rate and grow off that base into 2025, I think consensus is only about 2% above that figure, which doesn't look particularly stretching, versus a sort of recent pace of growth we've seen for other operating income. And then the second question was just on impairments, another very encouraging quarter. I'm not expecting you to guide on next year, but you've highlighted the 18 basis point charge ex-CMEs changes. There's quite a gap to 27-28 basis points consensus in future periods, just wondering if you're seeing anything in the data which leads you to sort of stay a little bit conservative and expect a slight uptick from that, or actually quite the opposite, and you're quite sort of comforted by the data you're seeing. Your remarks regarding personal lending certainly sort of seem to suggest so. Thanks a lot."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "Just taking each of those in turn, in respect of OOI first of all, as you saw, Q3 1.43 billion OOI, which was a decent uptick 3% on Q2 first of all, Q3 underlying is much the same as q3 headline, there's nothing going on an underlying basis that changes that picture. And that, as you know, is up 9% year to date. As I said, up 3% quarter on quarter. So decent growth within OOI, the headline being much the same as the underlying specifically, what's driving the growth? I think what's placing about OOI growth is that over the course of the year, we've got a number of different engines that are driving that OOI growth, retail, commercial, IT and Central, by which I mean basically the equity businesses. There's four engines there, and then within each of those, there's a set of kind of sub businesses, if you like, that are diversified and driving growth. Their contribution in any given quarter is more or less, by which I mean in some quarters, some areas will be stronger, some areas will be weaker and then generally speaking, that evolves over the quarters. What we saw in Q3 was a particularly strong contribution from the retail business, including the PCA area and including the transport area and then secondly, also a decent contribution from the equities business, including LDC."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "So that was a good pattern to see in quarter three if you look at the year as a whole. However, it is also complemented by strong contributions from commercial particularly C&I, corporate institutional that is and strong contributions from insurance, pensions and investments from a variety of different engines, including things like general insurance business, home insurance has been particularly strong at very attractive pricing, if you like, alongside of that long standing business and so that combination of businesses within OOI and the diversification that it affords is a good thing."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "When we look at Q4 by its nature Q4 is typically a slightly slower quarter, and the reason for that is simply seasonal. That is to say, there are fewer market days, I suppose, which in turn contributes to OOI being a slightly slower quarter. But overall, what would I expect? I'd expect to consolidate the gains that we have seen in Q3 if not necessarily keep up the growth rate between Q3 to Q4 that we saw from Q2 to Q3. Overall. I think that leads to a solid, a pretty good outcome for OOI, for the year as a whole, for 2024."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "Looking forward into ‘25 I think it's the same pattern that informs the trends that we've seen. You know, that is to say, increasing levels of activity, and, as importantly, the continued benefit of our strategic initiatives. Our strategic initiatives, as you know, will deliver 1.5 billion of incremental revenues by 2026 of which we expect about half to be OOI. So there's an engine of activity there in-line with our economic forecasts. There's an engine of activity there in line with our strategic investments, and a good part of that is OOI driven. Your second question on impairments, you're right to point out Guy that the impairments picture has been continues to be pretty benign. Q3, impairment charge 172 million, about 15 basis points. Underneath that, we did do a debt sale, as mentioned in my script earlier on, and that debt sale was across a number of different asset classes, actually, but overall contributed about nine basis points in the quarter, which, if you add that back in, means that the underlying impairment charge is about 24-25 basis points. Interestingly enough, that is very consistent with what we saw at quarter two, and I would say it's more or less consistent with what we expect to see in quarter four. When we look at 2025 I shan't comment in any detail on 2025 other than to say that the overall impairment trends continue to be pretty stable and on the whole pretty benign. So that's if you like, feeding into our expectations for that year. It is informed by, and this goes back to some of the comments on UK retail earlier on that not just the underlying charge being, again, pretty stable and being pretty benign, but alongside of that new to arrears being low, write offs being low, flow to default, being low and perhaps most importantly, early warning indicators as you know, we look at an array of early warning indicators across our customer base, within retail, within consumer, and we're not seeing anything there that is anything other than stable, if anything. We're seeing modest declines in new to arrears, for example, but equally, a lot of stability in things like minimum repayments within credit cards and that sort of thing, similar patterns within commercial."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next caller is Amit Goel from Mediobanca"
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "So two questions, one, I'm just basically curious to see if there were any kind of customer behavior changes or anything that was even slightly different to what you were expecting post the Bank of England rate cut and then secondly, just curious if there's any color that you could share from, you know some of the meetings you've had more recently with Rachel Reeves and/or you know how receptive you think the government is to some of the proposals that you've been putting forward. Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "Thanks, Amit, I mean, I'll take your questions in order, obviously, the first of which customer behavior changes off the back of the Bank of England base rate change. There's nothing in particular that I would highlight, say to say, the deposit churn comments that I made earlier on, which I think have been reinforced by the base rate changes that we've seen. So overall, we took the base rate change we passed on an element of it, I would say it was less than 50% that we passed on to our customer base, most clearly within retail but overall, I think we were interested to look at how the market responded to those base rate changes, and in turn, I think we saw it as a relatively rational response from the market."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "Now overall, I suspect that played a bit of a role in terms of competitive pricing, in terms of the stability, in fact, reduction, as I mentioned earlier on, that we have seen in deposit churning, perhaps it was a factor in our PCA outcomes being a little stronger than expected. And so, you know, at the forgive the term, but at the margin, I would say that the main effect of the Bank of England rates change was we saw a rational market response to it, and we saw it as more or less confirmatory of our expectations and indeed experience in the context of deposit churn, which feed into the margin comments that I made earlier on. As you know, we've got we expect one more Bank of England base rate change during the remainder of this year. That is also a factor behind our expectations for churn continuing to slow into this year and then again into next, as the Bank of England continues to cut rates. The second of your question just remind me of the second of your questions Amit, if you could"
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Sure it was just, you know, in terms of your conversations with the chancellor in recent weeks. Just curious if there's any, any additional color you could give from those and or even with respect to, you know, some of the proposals you've made for enhancing UK growth. Just curious if there's any color you can share. Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "Yeah, of course. Sorry, I hadn't noted it down. Thank you, Amit, when we look towards the budget, I guess a couple of points. One is when we look towards the budget, we note the progress stance of the government, and we very much hope the budget will be delivered in a manner consistent with that. I'll come back to that in just a second. But I think most importantly, when we look towards the budget, we look at it as an event that will provide some certainty, some clarity on what has been, you know, quite a few weeks of speculation, as you know. And so we very much look forward to the budget in that context, there's effectively a clearing event that we can then get on with business, get on with the growth ambitions that we have as a organization and that we hope to contribute to in respect to the UK."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "We have no particular insight as to exactly where the government will come out in terms of its various choices it might face into, in the budget. We do know, as said, its progress stance, and we very much hope that the net, if you like, of all that the government does during that budget, will be consistent with that progress ambition. Now you asked about our involvement. I mean, we, as obviously a major player in the UK, and with our purpose of helping Britain prosper, have a strong interest in all where this comes out, in particular in the context of encouraging growth within the UK, if it is the case that the government chooses to come out with measures that are positive, if you like, or supportive of housing ambitions, of infrastructure ambitions, of energy transition ambitions, then we will find that obviously presenting opportunities for us to get involved and to promote the growth agenda that we all want to see happen over the course of the coming months and years ahead. So certainly, we'll look at the budget with interest. We'll look forward to it being a clearing event, providing clarity, providing certainty, and we look forward very much to being supportive of the growth ambitions that we hope the government will launch. Thank you. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. As you know, this call is scheduled for 60 minutes, and we have now reached the end of the allotted time. So this is the last question we have time for this morning. If you have any further questions, please contact the Lloyds Investor Relations Team. Please go ahead. Ben Caven Roberts from Goldman Sachs."
+  },
+  {
+    "person": "Ben Caven Roberts",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Thank you very much. So just on completion margins for mortgages, you've indicated that a recent activity had been around 70 basis points or a touch above. Just curious, is that broadly consistent with the level you're baiting into your terms guidance moving ahead, or do you see any potential for a further strengthening there and then secondly, just in terms of operating costs, looking ahead, your sub-50% cost income ratio target for 2026 still sits a fair bit ahead of consensus. Do you think there are any elements of your strategic initiatives which are perhaps a bit more back end loaded, or should the progress on mitigating cost growth driven by inflation and investment be relatively linear from here?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "Yeah, thanks, Ben. I'll take you to those in turn completion margins, as you say, a touch ahead of 70 basis points or thereabouts. So that's a overall, said, pretty constructive picture, which allows us to write EVA positive economic value added positive business both on a marginal basis and a stock basis. At that, as said, just a touch above 70 basis points overall. Well, you know, overall pricing might have been a bit volatile it's good to see that that margin performance has been pretty consistent, actually, over the course of recent periods, not dissimilar to what we saw in Q2 a little bit stronger, maybe not totally dissimilar to what we are seeing so far, at least in the context of Q4 as we look forward, Ben, we've built in a more or less consistent picture in the context of our overall plans, and that is what's behind, if you like, the convergence that we expect to see between new business that we're writing as an old business that rolls off, as said, with that headwind, more or less completed within the first half of 2026."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "So hopefully that addresses the point. The one point that I would add on to the back end of that, Ben, is that to the extent that we see pressure in mortgage margins beyond that, then I think we just like every other financial services organization, or at least every other bank, would expect, to manage the margin in a relatively holistic way. So if there is any given mortgage completion margins, you would likely see a bit of an offset to that in respect of other parts of the overall business, which in turn gives us continued confidence in the expectation around the NIM that I set out for ‘25 and indeed beyond."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "Your second question, Ben around the cost, income ratio, expectation less than 50% for 2026 as you know, we set out ambitions for 2024 and 2026 hopefully very clearly in the context of 2026 we set out basically three main ambitions. One is a sub-50% cost income ratio. One is an ROT expectation of greater than 15% and one is a capital return expectation of circa above 200 basis points. So those three are the pieces of guidance we've given 2026 and again, as we did today, we have a lot of confidence in those we reiterated the confidence earlier on today in exactly that commitment that we have made."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director &amp; CFO",
+    "text": "What's going on there? It is two or three things, but the main drivers of which are, we see income is growing. We see income is growing off the back of a significantly greater structural hedge contribution, as per my comments earlier on, we see income is growing off the back of increased added value from our strategic initiatives investments 1.5 billion, as you know, by 2026. Number two, as well as a stable macro-economic environment, we put out in our forecast today. So that combination delivers a materially stronger income picture going into 2026. The second point that we see Ben is the overall cost picture starts to lead to a flatter cost base. Now, a couple of points to make in respect of that. One is, as you know, we, just like every other institution, have been subject to bit of inflation in the cost base recently, off the back of macro-economic trends that's still there. You know, it's still it's still to an extent, at least, requiring tightly managed cost measures to at least partially offset that. The other thing that's going on in our cost base is that we're investing heavily. And as you know, depreciation lags cash investment, which means that a bit of that carried on gains 2025 but then by time getting into 2026 the depreciation pressure if you like, is starting to slow down, and so off the back of that, together with the benefits from the strategic investments in savings that we're making, you've heard me talk about severance for example, today, we're making a lot of technology investments in our ambitions to ensure that we have an efficient cost base is that combination which leads to a flatter cost base by the time we get to 2026 again, not flat, but flatter. The combination of the income growth points that I've made together with the cost points that I've just made, leads us to have a lot of confidence in our 2026 commitments as outlined just now and also earlier on the session. It does, however, mean, though Ben that 2025 looks more like 2024 than it does like 2026 so this is not a linear journey. It's going to tick up notably in 2026."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. This now concludes today's call. There will be a replay of the call and webcast available on the Lloyds Banking Group website. Thank you all for participating. You may now disconnect your lines."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

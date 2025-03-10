@@ -1,0 +1,842 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] Our first question today comes from Joseph Dickerson of Jefferies. Please go ahead. Your line is open."
+  },
+  {
+    "person": "Joseph Dickerson",
+    "role": "questioner",
+    "position": "Jefferies &amp; Company",
+    "text": "Hi, good morning, gentlemen. Thank you for taking my question and congratulations on a very strong set of numbers. I guess, just two things from my side. You've provided some interest rate sensitivity with the 50% pass-through and then some sensitivities around that. Could you just explain for us what that was in the first half of the year or, say, in Q2 just to gauge where we've been on a slightly backward-looking view? And then secondly, with the card commentary that you've mentioned, it seems like there could be some meaningful impact on the Group margin in terms of favorable mix on the retail side. I mean how is that factored into this year's NIM guidance, if at all? Thanks."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes. Thank you, Joe. I will perhaps take both of those. The first question in relation to pass-on. As you say, we've provided some added sensitivity today in -- to accompany our usual sensitivities there. The pass-on assumption in the base case sensitivities, as you're aware, is 50%. We use that as an illustrative number to give you some idea of the effect of parallel shift in market and base rates. We have typically operated at levels below that during the first half, but we don't typically disclose exactly what our pass-on is in any given half or quarter."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And again, I don't think we will break that pattern today, but you can see that effectively a reduction in pass-on makes a material difference to both net interest income and indeed to NIM. The illustration that we've given there is a 10% reduction in pass-on to 40% rather than 50% makes a difference of ₤50 million, which by way of interest margin, is around 1 basis point or thereabout. So it gives you some idea of calibration."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "While we don't disclose specifics, it is generally the case that the pass-on that we have in practice seen in the first half has been somewhat less than the 50% illustration that is in those slides. And that is really determined by two or three factors. One is competitive conditions that we see in the market, two is the overall funding position of the balance sheet. As you're aware, we're operating a loan-to-deposit ratio of around 95%."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And three is, and most importantly, for our franchise is, making sure that we offer our customers great service and great value. So we seek to satisfy those three constraints. As I said, the first half, we've typically been operating at levels below the 50% in the illustration. I suspect that as rates rise, we will see that gradually gravitate back towards levels that we use in our planning assumptions, which, by the way, are slightly ahead, actually, i.e., above of the 50% illustration that you see in the slides. So Joe, that's the first question."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "In terms of the impact of cards, the impact on mix in margin, a couple of points that I've made. What is, as you've see in our Q2 margin is at 287, which is an improvement of 19 basis points over Q1 of 268. We've seen a variety of headwinds and tailwinds in that composition. So we've seen the benefits of the bank base rate moves alive [ph] with investing the hedge at higher interest rates and then some funding and capital support. And that's slightly offset by mortgage headwinds as high yielding maturities start to mature into slightly lower yielding front book margins."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "As we look forward, those dynamics are going to shift a little bit in the sense that we'll continue to see support from bank base rate changes, likewise, deployment of the hedge and a favorable interest rate [technical difficulty] environment. The mortgage headwind will strengthen a little bit. You asked specifically about cards. There's no doubt that an expansion of cards is likely to be beneficial to our group margin. To be clear, the expansion that we've seen so far has been transactor led and slightly less about interest-bearing balances."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And so the beneficial effect of that to date has been relatively modest. But clearly, if we see these patterns continue, increase travel at this expenditure, for example, over the course of summer, increased restaurant and entertainment spending that we've seen, if those patents continue and lead to increased interest-bearing balances within the cards book, that will indeed accrue a favorable mix development within the business. We have to see, obviously, in the context of the macro, how that evolves, but as I mentioned in my comments, we expect to see gradual improvement, i.e., increases in the card balances for the remainder of this year."
+  },
+  {
+    "person": "Joseph Dickerson",
+    "role": "questioner",
+    "position": "Jefferies &amp; Company",
+    "text": "Great. That’s helpful. Many thanks. So just to interpret the answer on the second question, it's basically if card loan does pick up to a material extent, it's for lack of a better word, all else equal, optionality on top of what you've already provided in terms of the guide."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Well we've assumed a level of gradual increase in unsecured balances generally in our business planning assumptions, Joe. That, in turn, lend support to our guidance of greater than 280 basis points for the margin is a year. So there's some element of increasing balances assumed there, albeit depending upon where it takes place, it will have more or less effect on the Group margin. Overall, that's the expectation. If it exceeds those expectations, then yes, the beneficial margin effect above and beyond."
+  },
+  {
+    "person": "Joseph Dickerson",
+    "role": "questioner",
+    "position": "Jefferies &amp; Company",
+    "text": "Fantastic. Thank you very much."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Thank you, Joe."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question will come from Omar Keenan of Credit Suisse. Please go ahead. Your line is open."
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "Good morning, everybody. Thank you for taking the questions. I've got two questions, please. So one on the RoTE target and one on NIM. So firstly, on RoTE, I appreciate you said it's too early to update the 2024 target. But at a high level, since the strategy day, the near-term NIM guide has gone from above 260 to above 280 bps, assuming base rates now stays around 2%."
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "And quite simplistically, if I add 20 bps of NIM to the 2024 target, then the 10% becomes 12%. And presumably, the strategic initiatives are still supposed to deliver another incremental 2 by 2026. So is it broadly correct that if higher rates are sustained, then the current 10 in 2024 and 12 and '26 will be 12 and 14. And in terms of waiting for the full year results, is it really the sustainability of the rate picture that you're looking for?"
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "And my second question on NIM. So if we think about the 287 basis points that was delivered in the quarter, funding and capital delivered 4 basis points, that was strong and presumably, deposit pass-through was a lot better in the quarter. And we're not seeing deposit mix shift yet. I appreciate you don't like to give forward guidance, but seeing that the Bank of England is going to hike presumably next week, 25 or 50 bps, can you give us a bit of an indication as to what the three variables on deposit pricing, you've talked about are currently looking like it? Is it still broadly favorable? And what level of interest rate do you think we will start to see a bit of a mix shift from current savings accounts. Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes. Thank you, Omar. The two questions there, one on RoTE, one on NIM. First of all, I will comment on the RoTE question. I mean in essence, as you know, when we set out in the February 24 presentation, our expectations, we put forward a 2024 RoTE of greater than 10%. There have been, as you know, significant developments across the market since then, including significant rises in market interest rates, also significant increases in base rate expectations. And those have played through in the business over the course of H1, and we expect them to continue to play through over the course of H2 and indeed beyond. So many of those trends that we've seen in terms of market rates and bank base rate changes lead to sustained improvements in the context of net interest income in the context of net interest margin, both this year and beyond."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "When we look at other aspects of the business, indeed, there are also some beneficial impacts that we are seeing. Operating lease depreciation, for example, continues to stay low. And the impairment performance is pretty much mapping out as planned. Albeit as I said today, we continue to see a very benign impairment experience. Now having said all of that, we see an overall stronger picture than February 24, but we are not inclined to update our plan on a kind of 6 monthly or quarterly basis, if you like. So we will take a look at that in the context of the full year results that we announced next year. Safe to say the way in which the market is panning out and our income development is corresponding to that, is materially stronger now than it was as of February 24, when we set our assumptions out."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "On the NIM, a couple of points, really. What have we seen on NIM in terms of the development -- the half one development, as I mentioned earlier on, has seen some benefits from bank base rate changes in deployment of the hedge and some headwinds from mortgages. As we look forward, we see those tailwinds from bank base rates and hedge continuing to be favorable and continuing to pay their way out into the margin. And the headwinds from mortgages, we see is gradually intensifying as the high yielding book redeploys into slightly lower yield in front book margins."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So what does all of that mean? Two or three points. One is Q2, as you know, has been 287 basis points. Our summary of look-forward expectations is, therefore, that H2 margin, given our guidance of greater than 280 for the year is, by definition, going to be higher than our H1 margin of 277. The extent to which it is higher is going to depend in part upon pass-on assumptions in terms of the bank base rate moves that we expect to see and to a degree, at least activity dependent."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "But if you sum it all up, we are looking at from Q2 a broadly flat margin as we look into the remainder of this year, which, again, coming back to your first question, is a significant improvement on where we were versus the 24th of February. In terms of the overall impact of that on deposits that you highlighted in your question there, Omar, we've seen continued deposit inflows during the course of the first half, including into PCA accounts. It may be that over time, that balance tilt into savings, and indeed, we expect to see savings growth in the course of H2. The -- so that is the expected pattern for sure."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "But again, we've seen continued inflows into the current accounts mix that we have seen in the first half of this year, and we expect some element of that to continue, albeit as you say, perhaps with more of a savings twist."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "William, I might just add one thing, if that's right, Omar. And it may or may not help you can tell us. But the guidance we gave around 50% pass-through on the base rate, we always said it was going to be a through-cycle view around this. Obviously, the competitive context has been different from that in the first half. But I do think, as you head towards 2% interest rates based on previous cycles, that's the level at which the kind of 50% pass-through becomes a more normal standard."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Now we will need to see what happens this time, and obviously, there's some dynamics in the U.K. between pricing on assets and liabilities that you're all tracking carefully. But I think, as you said, the next 25 to 75 basis points you would typically have seen a more normalized through-cycle pricing around liabilities, but we will have to see how it plays out."
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "That's great. So just if I understood right, so the flat NIM going forward from here assumes that we sort of get back to the 50% pass-through?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "It's actually slightly different, Omar. We -- as I said, our expectations are for the NIM to be broadly flat through the course of the second half. The pass-through assumptions that we have in our planning models are actually, as I mentioned earlier on, slightly ahead of the 50% illustration that we see. To date, we have pass-through less than that in line with the competitive conditions, the need to, as I said, give customer service and value and the funding position of the business. We will have to see how we get on during the course of the second half. As said, it's been below that so far. But the planning assumptions as I said, are above, i.e., ahead of more than 50% in the illustration."
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "Okay, great. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "We will take our next question from Jonathan Pierce of Numis. Please go ahead."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis Securities",
+    "text": "Hello, there. Just staying on margin, if that's okay. I presume the exit margin as you entered or left Q2 and to Q3 must have been a bit above 287 basis points given the developments over the course of the quarter. So I'm just wondering whether you are as also in the case playing down a little bit to the extent to which the margin behaves in the second half of the year. So hearing your comments earlier around mortgage headwinds intensifying so on and so forth, I can understand that. But maybe you can give us a little bit more color on what would maybe be bringing the margin back down if it did indeed exit Q2 at a level somewhere above 287."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis Securities",
+    "text": "The second question is really a broader question on the risk to this fabulous dynamic you're experiencing at the moment where you can pay deposit customers, even in interest-bearing accounts of 20, 25 basis points, but then put that overnight with the Bank of England at 125 basis points, either the risk of some form of political pressure to increase savings rates, or maybe more likely the Bank of England deciding at some point not to pay base rate in its entirety on the overnight reserve balances. So a broader question around sustainability of this fantastic environment that you find yourselves in at the moment. Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes, thank you, Jonathan. Maybe I will take the first one, and Charlie will comment on the second. In terms of the way in which the margin plays out as said, we reported a Q2 margin of 287. The strength of that over the first quarter is clear. I mentioned earlier on that we expect the margin development to be broadly flat going into the remainder of this year. That, in turn, is evident in our 2022 guidance of greater than 280 basis points, which implies that H2 by definition is greater than H1."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "I talked a bit about some of the headwinds and tailwinds, which will perhaps help answer your question. Tailwinds bank base rate changes, deployment of the hedge and funding capital benefits. Headwinds, the mortgage turnover is expected to be greater in 2H than it was in 1H. And so if you look at -- if you step back and look at that, what could make a favorable impression upon that margin guidance. I think one is the extent of base rate changes and the pass-on decisions associated with that being below our planning assumptions. So as I said, our planning assumptions are that we pass-on more than 50%. If we end up passing on less than 50%, it makes a difference both to income and to margin."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "I think the second point is around mortgages. We have in our planning assumptions, seen a deterioration in the performance or rather the margin in mortgages over the course of Q1 and Q2. And interestingly, we're now seeing, as I said in my comments, that back up a little bit. that is say application margin strengthening. We are now in a position where application margins are ahead of completion margins. And so that is pulling us back into a slightly more favorable place. If that dynamic continues, then the extent of that headwind in Q2 -- sorry, H2 that we're planning on for mortgages, obviously gets diluted by that dynamic. And that in turn will result in a more favorable net interest income and net interest margin outcome. So that's a further dynamic that plays into the equation, I guess, Jonathan."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "But again, I think subject to that pass-on point that I've just made, subject to that mortgage dynamic that I've just made, I think broadly flat is not a bad planning assumption. And then you see what varies around that. As said, looking back to where we were, it's certainly a better picture and the combination of strengthening mortgage margins and indeed, the benefits of bank base rates. Those two are relatively powerful combination for net interest income and net interest margin."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Great. And then, Jonathan, on your broader question, which is obviously a good question. A few thoughts. The first is we've not had any discussions with government or the Bank of England about any of those topics. I can't predict what may be in the future, but we've not had any discussions on those topics. Second thing, which is more contextual, it is just worth looking at the banking NIM over time. And the NIM levels that we are guiding to here are still significantly below NIM levels for Lloyds Banking Group pre-COVID. And I do think that's important context when we think about the future and then how government or the banking and will look at what we're doing."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "And then I think the third thing, which you know very well is obviously, as William said, we are very thoughtful about our savings proposition for our customers. We are continuing to grow our deposits. And of course, the other thing we know in the U.K. is that the vast majority of our deposits are with the top two deciles in terms of income wealth. And that's important because when we look at the analysis around customers that are struggling from a cost of living perspective, it's not those customers."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "And at the same time, the margins on lending have really significantly tightened over the last 12 months, as you know. So I don't know how that's going to play out from a political perspective, I'm not a politician. But certainly, no conversation on this to date. Historically, we're not at high levels of NIM and in terms of value for customers and how customers are trusting us on the deposit side and then the value we're bringing on the asset side, I think, is a good story."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis Securities",
+    "text": "Yes, that will makes sense. Thank you for that. And sorry, can I just have one very quick follow-up on this regulatory point? Just to check, you haven't encountered any sort of resistance at all on the distribution front given the economic outlook is a bit uncertain from the PRA to date?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "No, none."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis Securities",
+    "text": "Okay. [Indiscernible]. Brilliant. Thanks a lot."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Thank you, Jonathan."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. We will take our next question from Rohith Chandra-Rajan of Bank of America. Please go ahead."
+  },
+  {
+    "person": "Rohith Chandra-Rajan",
+    "role": "questioner",
+    "position": "Bank of America Merrill Lynch",
+    "text": "Right. Thank you. Good morning. I -- sorry, I'd just like to follow-up on the margin again. Your comments so far have been really helpful. I just would like to clarify them though, if I could. In terms of the flat margins in the second half of the year versus Q2, I presume that you've probably still got about half the benefit of the 50 basis points of rate rises that we had during Q2 still to come through. So we'd see those in Q3. So I just wanted to check that."
+  },
+  {
+    "person": "Rohith Chandra-Rajan",
+    "role": "questioner",
+    "position": "Bank of America Merrill Lynch",
+    "text": "And then if I understand your comments correctly, William, I think you're indicating a -- greater than 280 basis points for the full year is, assumes a high pass-through than 50%. So I wanted to check that's correct. And you're anticipating basically all the deposit benefits essentially being offset by mortgage repricing. I appreciate you said that there's heavy maturities in the second half. But what are you assuming in terms of completion spreads for those mortgages? Is it the better application spreads that you're seeing are maintained or that we go back to the 60 basis points that we saw in Q2? So that's the first question, sorry, around margin dynamics."
+  },
+  {
+    "person": "Rohith Chandra-Rajan",
+    "role": "questioner",
+    "position": "Bank of America Merrill Lynch",
+    "text": "And then the second one was just on credit quality. So, I mean, you sound very confident on credit quality. I mean it sounds like you've been through the books pretty thoroughly. I just wondered if you can give some additional clarity on thinking behind the ₤400 million cost of living reserves, so ₤460 million so far. And whether you can walk us through how that's been arrived at, what sort of scenario? Is it stresses for, for example, compared to the severe downside scenario that you have in your IFRS models and which customer groups are covered? Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes. Thank you, Rohith. Two questions there. One, on the margin and some of the assumptions we are making in the margin guidance. Two on credit quality and what's in the cost of living provisions that we've taken. In terms of the margin, though, I've mentioned the dynamics that we see within the margin. So I won't go through those too much again. But to clarify on your question, Rohith, when we have given that guidance of greater than 280, we are planning on our usual pass-through assumptions that we have deployed throughout the plan, and indeed in the plan that we gave you on February 24. Those in turn, are above the 50% illustration that we show on the slide that you can see in the pack today."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So if we see a part that is below those levels, i.e., below the planning levels, then that will accrue to the benefit of the margin. And as you can see from the sensitivity, what does that mean in numerical terms, roughly 10% reduction in pass-on equals ₤50 million, equals about 1 basis point of NIM benefit. So you can calibrate if you like the benefits that you get from the lower part within the context of the bank base rate changes."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "As you said, we've seen bank base rate changes progressively through the course of this year. And so what you'll see in the H1 numbers is effectively the benefit of those base rate changes to the extent that they have accrued and the numbers to date. And so we make changes to customer pricing in line with base rate decisions and in periods thereafter."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "To the extent that any of those price changes have been delayed or alternatively accelerated, the check that we do as of June 30 through accounts takes into account the extent to which that price benefit or cost has flowed through into the accounts. Therefore, as we look forward, it may be that further benefits from base rate changes that are still to play out will accrue into the numbers in the second half."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "You asked about the assumption on application margins and completion margins in the plan. When we look back to February 24, as I said to you at the time, we were planning on 75 to 100 basis points by virtue of mortgage spreads. What we've seen in H1 is lower than that. We saw 85 basis points during the course of the first quarter, which is clearly within the range, but then saw completion margins of around 60 basis points in the second quarter, which is below the range."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "As said, what we've seen over the course of the second quarter is application margins starting to go up as swap spreads have stabilized, number one; and as the market has become more rational and relatively disciplined, number two. And so those application margins have started to creep up. Over the course of the last several weeks, they have indeed started to exceed completion margins. And so application margins are now above completion. If we were to stop the clock today, we look out in the market and application margins appear to be well within the planning range that we adopted on the 24th of February."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And so now, as I mentioned before, we have this reasonably powerful combination of base rate changes and the beneficial effect of that has upon net interest income and margin, aligned to a mortgage pricing regime, which for the moment at least, is within our planning range. Now to be clear, that it's gone up and down, as you know, but nonetheless, that's where we stand as of today. In terms of our plans, we had effectively calibrated our plans against the application market margin as we saw it during Q2. And so that guidance of greater than 280 is based upon application margins as they were during the course of June, which is below where they are today, to be clear."
+  },
+  {
+    "person": "Rohith Chandra-Rajan",
+    "role": "questioner",
+    "position": "Bank of America Merrill Lynch",
+    "text": "Okay. Just to make sure -- sorry, William, just to make sure I got that right, the -- what's baked into the margin guidance for the year is a deposit pass-through of greater than 50% and mortgage application margins as they were in Q2."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "That's right. That's right. Now again, just to be mindful here, two points to bear in mind in that, Rohith. One is, as you know, application margins have been relatively volatile, and they've been going up and down and swap spreads have gone up and down. But as we stand today, what you just said is exactly right. And again, we are within our planning assumptions of February 24 for application margins."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "The second point is, before we kind of get too carried away about the disappearance of the mortgage margin headwind, let's not forget that maturing mortgages were priced at 150 to 170 in that range, and they're now being replaced with mortgages that are within the completion application range that I just mentioned which is materially above where these things were initially priced. So there is still a mortgage margin headwind in place that will play itself through into our margin over the remainder of this year and beyond, Rohith. But clearly, as the market improves, as application margins come up, the extent of that headwind starts to get diluted."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Your second question, Rohith, credit quality. A number of points taken into account in the cost of living reserve. As said, in the context of our ₤4.5 billion ECL right now, the cost of living reserve is ₤460 million. That cost of living reserve is built up of a combination of model developments because, as you know, our models are across the base case and really through the upside and downside cases taking into account a more inflationary environment."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "We have also modeled a high inflationary severe, which in turn has a 10% weighting in our overall ECL. And the combination of those factors means that our models are naturally producing some cost of living adjustment for those higher inflationary pressures. On top of that, we've also taken some judgments, which take into account areas of the book that we think might be more exposed to the pressures induced by inflation. And so to talk through one or two of those areas in line with your question, we've looked at sectors of the book on the retail side that are higher indebtedness, for example, more exposed customers, and we have taken an additional provision for potential stresses that may appear in the context of that book. So that's a sectorial view on the retail side."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "The second thing that we have done is adjust nominal for real incomes. So our models have typically worked on nominal incomes. We have taken account of the inflationary pressures and adjusted income variable for real factors, and therefore, taken into account a -- effectively a model judgment for that real to nominal -- sorry, nominal to real switch. So that's the second element."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And then the third element that we've looked at is to look carefully at the sectors of our commercial book that may be more susceptible to inflationary pressure. So things like manufacturing where input prices have gone up, for example, things like agriculture, where, again, input prices have gone up, for example, we have specifically taken those into account on a sector-by-sector basis to ensure that we feel comfortable with the potential impact of inflationary pressures and applied judgment in the context of those."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Some of those taken at Q4 last year, ₤60 million, as you say. Just over ₤100 million -- ₤109 million, I think it was taken as of Q1. And then we've taken a further ₤289 million as of Q2 in sum for inflation. You add those three up and you get to the ₤460 million that we have in the book for inflationary pressures within ECL right now."
+  },
+  {
+    "person": "Rohith Chandra-Rajan",
+    "role": "questioner",
+    "position": "Bank of America Merrill Lynch",
+    "text": "Okay, thank you. So it covers both your retail and corporate customer bases where you think there might be some stress?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes, that's right. It's deliberately covering both sectors. Again, in different ways, as I have described, but it's covering both retail and commercial."
+  },
+  {
+    "person": "Rohith Chandra-Rajan",
+    "role": "questioner",
+    "position": "Bank of America Merrill Lynch",
+    "text": "Thanks. And if I could just, a very quick follow-up. What are the total management adjustments that you've currently got in place, so both the COVID and cost of living on top of your models ECL requirement."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes, thanks for the question on that, Rohith. In terms of the judgments that we have in place, I'm going to take you through each of the areas of judgment, and I will talk a little bit more about the numbers around those. So we have three main areas of judgment within the ECL right now, coronavirus related, number one; inflation related, number two; and so-called model limitations related number three, which is essentially where our models stop short or given the full picture, for example, in things like past interest-only mortgages, some of the delayed repositions that we've seen. We adjust for those."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So to take you through each of those, the coronavirus-related total provision right now for coronavirus-related issues is just a shade over ₤500 million. That's the total coronavirus-related provision. Now ₤200 million of that Rohith is actually in the models. ₤300 million of that is applied by management judgment, including the ₤200 million central overlay that you'll remember from previous periods. The inflation adjustments, similar picture. We've got, in total, ₤460 million of inflation adjustments in the ECL, as mentioned, but of those ₤275 million are judgments, and the remainder is integrated into models. And then finally, model limitations that I described, that's about ₤370 million. So those are the three components of the management judgment."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Again, coronavirus is a ₤300 million judgment, but don't forget there's a further ₤200 million embedded in models, equals ₤500 million total coronavirus related provisions. Inflation, ₤275 million judgment, but again, don't forget it's ₤460 million in total as a result of judgments and models. And then finally, model limitations, the type of pass-through interest only, some of the loss given default assumptions that we tweak slightly to get results that we believe are the correct result, about 370. So hopefully, that gives you a picture."
+  },
+  {
+    "person": "Rohith Chandra-Rajan",
+    "role": "questioner",
+    "position": "Bank of America Merrill Lynch",
+    "text": "Yes. That’s very helpful. Thank you very much."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Thanks, Rohith."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "We will take our next question from Raul Sinha of JPMorgan. Please go ahead."
+  },
+  {
+    "person": "Raul Sinha",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Hi, good morning. Thanks very much for taking my questions. I’ve got two left, please. Just on capital. If we look at the very strong capital generation you've had in the first half of the year, obviously, I think the outlook for the second half is probably not going to be as good as what you've delivered in the first half. I was just wondering, William, if you could talk about what you're seeing in terms of risk to cyclicality across the book from the current environment. And especially if you were to consider a situation where interest rates end up perhaps being higher than your 2% assumption, where there might be more risks both from an asset quality perspective and from a risk-weighted asset or capital perspective."
+  },
+  {
+    "person": "Raul Sinha",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And then related to that, second question is around the timing of the next share buyback given the fact that the PRA has sort of delayed its annual stress testing results cycle, it's no longer going to be in December this year if pushed out into 2023. I was just wondering if that might create any risk to the size of the potential distribution that, Lloyd -- that you might consider at full year results, just given the fact that you wouldn't actually have your stress test results by then. Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes, sure. Thanks very much indeed for those questions, Raul. I will take the first question on capital. I will make one comment on the buyback and then hand over to Charlie for your second question that you raised there. In terms of capital, a couple of comments. Actually, as you pointed out, the first half capital generation has been very strong at 139 basis points. When we look at the performance over the remainder of this year, the right way to look at it, I think, is to take account with some of the H1 one-offs want of a better word. So we've seen some tailwinds from RWA benefits around 20 basis points. We've seen some benefits from market volatility and consolidation of Embark probably around 10 basis points. And those two together have offset the fixed pension contributions that we made during the first half of about 30 basis points. So that kind of nets off."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Second point is we saw a large insurance dividend in the first half. Part of that was rates driven. That part, we don't see recurring and will revert to a more run rate contribution from insurance for the capital picture in the second half. Third point is we see a strong, but probably slightly softer core banking contribution because, as you know, our costs tend to be weighted into the second half. And again, the investment picture will follow a similar sort of pattern. Plus auto impairments will start to normalize in the second half, and we're not forecasting the repeat of the release. And even if we did, because of the balance between expected loss and ECL right now, it's unlikely to result in a capital benefit."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So put all of that together, take the one-offs out if you like, and then take account of a still strong but a slightly softer picture. And that gives you the direction for the H2 capital generation, which leads us to be very confident about the greater than 200 basis points. I would say greater than is an important part of the guidance within that point."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "You asked about procyclicality. It's an important point. Obviously one that we keep an eye on. There's a range of models that we deploy through the business, Raul. So if you look at the retail piece, for example, we generally have a through-the-cycle mortgage model, an important point. But on the other hand, some of the CRD4 developments are moving it to a slightly more pro-cyclical stance. So a little bit of movement there, but basically founded upon a through-the-cycle model."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Other elements of retail, a bit more point in time. Now I would stress in making that comment that, as said, we are seeing no underlying signs of deterioration in the book. We see it as a prime book, and therefore, we're very comfortable on it. And we have seen so no credit migration during the course of the first half. So although other retail models are slightly more point in time, and therefore, perhaps a bit more sensitivity, I don't think we anticipate any significant movements or any large movements."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Moving on to commercial, commercial, as you know, is built upon a foundation IRB approach. That, in turn, means that we use regulatory describe loss given defaults, and it also means that we are, therefore, much more through the cycle. And so we expect commercial banking procyclicality to be very limited because of that FIRB point that I made. And we saw that during the crisis, coronavirus crisis even with quite significant downgrades, we saw very limited procyclicality in the commercial books. And we expect if we do see a serious downturn here, which, as you know, it's not our base case so much, but if we do see a serious downturn, we expect, again, very limited effect in the commercial book because of those reasons."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Final point on this, Raul. By way of sensitivity, we've looked at the relationship, if you like, between HPI and mortgage RWAs. To give you some idea on where to gauge that, we think a 10% drop in HPI leads to around a ₤1 billion to ₤1.5 billion mortgage RWA increase. Hopefully it gives you a basis on which to calibrate how the book might respond to such a scenario."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Second question on timing of buyback. A couple of points I'll make, and then I'll hand over to Charlie. The timing of the ACS, as you know, is second half of this year. We have not seen the assumptions for the ACS. So we can't obviously comment on those. But you know, Raul, that we passed the last ACS in a very significant U.K.-focused stress. We have, today, as you know, a very strong capital position of 14.8%. We also have, as I said, very strong capital generation of greater than 200 basis points. So we're deploying that in the context of the dividend growth that you've seen today. And based upon everything that we know today, I would have thought subject to the Board decision at the appropriate time, I would expect us to be in an excess capital distribution discussion. But perhaps I will stop there and hand over to Charlie."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Yes. Thanks, William. The only thing I'd add is, I agree with everything that William said, we obviously don't know the nature of the stress yet. I do think the context of the PRA reintroducing the 2% countercyclical buffer is important in this context. And as you know, that's fully incorporated in our capital stack and our guidance around in the medium term, our 13.5% CET1. So introducing the full 2% stack in the potential middle of what could be a softer economic environment, I think, is partly around good capital management from their perspective prudential perspective. And it feeds into this discussion, I expect, Raul, that when we get to the conclusion time for the ACS findings, it will give confidence that we have built the right capital stack at that stage. So we are committed to distributions as are appropriate. As William has said, we'll make those decisions at the end of the year. Capital build is strong, and we already have the full 2% countercyclical buffer in our 13.5% CET1 medium-range target."
+  },
+  {
+    "person": "Raul Sinha",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Got it. Thank you very much."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Thank you, Raul."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "We will take our next question from Chris Cant of Autonomous. Please go ahead. Your line is open."
+  },
+  {
+    "person": "Christopher Cant",
+    "role": "questioner",
+    "position": "Autonomous Research LLP",
+    "text": "Good morning. Thanks for taking my questions. If I could come back to Slide 11, please, and you've given us that quite interesting booking disclosure around the sort of sensitivity of your sensitivity to the beta inputs. Could you just help me to square the circle on that, please? So if each 10 percentage point reduction in the assumed beta adds ₤50 million for a 25 bps hike, that would seemingly imply managed margin deposit balances of about ₤200 billion. But the ₤175 million sensitivity for a 50% pass-through on a 25 bps parallel shift would imply at most ₤140 billion of managed margin deposits."
+  },
+  {
+    "person": "Christopher Cant",
+    "role": "questioner",
+    "position": "Autonomous Research LLP",
+    "text": "And if I assume some hedge roll within that ₤175 million probably more like ₤100 billion, ₤105 billion of managed margin deposits. So how should I think about this? I mean, put it another way, if each 10% change in the beta is ₤50 million for a 25 bps shift -- how is a 50% beta assumption within your parallel shift sensitivity, not equal to at least ₤250 million of NII sensitivity with the hedge churn effect on top line just really struggling to square those two statements on that Slide 11."
+  },
+  {
+    "person": "Christopher Cant",
+    "role": "questioner",
+    "position": "Autonomous Research LLP",
+    "text": "And then my other question was on Slide 15. So when I think about the size of your structural hedge, as rates go higher, what are you assuming about customer behaviors in terms of a move back out of current account balances into noncurrent account balances? Obviously, you've increased progressively the size of your hedge capacity. It's now 48% of the balance sheet notional you show on the slide."
+  },
+  {
+    "person": "Christopher Cant",
+    "role": "questioner",
+    "position": "Autonomous Research LLP",
+    "text": "And if I go back to the end of 2019, for instance, it would be about 41%. So you're saying more and more of the balance sheet is hedgeable because of the growth in current accounts. But what, if anything, you're assuming about the behavior there as rates go back up again, please? Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes. Thanks, Chris. I will give you an answer to the first question, but I'll also just make sure that you're connected to the team here in IR, going through any particular numbers that you may have in your spreadsheet, which they can square with you. In terms of the -- and then obviously, the second question, more than happy to go into. In terms of the sensitivity that we're showing on the hedge, as you know, the sensitivity of 175 is composed of a number of different features. So we have repricing lags, a relatively modest component of the overall 175."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "We then have hedge maturities in the first year, obviously, a relatively modest component of the 175 because you've got a hedge roll, if you like, that takes place gradually over time, but it comes more significant over time as that hedge roll cumulatively increases. You then got reinvestment of the buffer, and indeed, the uninvested part of the buffer contributes around 25% or so of the 175 that I mentioned."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And then finally, the margin management, which goes to your pass-on question, which contributes around 50%, 55% of that overall 175. I think the reason why you're seeing more -- the sensitivity that you do in terms of the pass on sensitivity, either 40 -- sorry, the 50 to the just 40% because when we reduce the pass-on by 10%, essentially what you're getting is a 10% contribution from a 25 basis point increase applied to the invested deposits. And if you run those modifications on through, that's what arrives at the ₤55 million."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "In terms of the components of the 175, as I mentioned earlier on, those will be numbers you are familiar with. So the structural hedge maturities -- that is contributing, as I said, around 15% or so of the 175. It's a combination of the maturities that we expect to see on average over the course of the year applied to 25 basis points. The buffer, likewise, it's the on average maturities -- sorry, the buffer applied to 25 basis points and so forth."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So beyond that, Chris, I'll direct you to the team just to kind of compare the spreadsheets, if you like, but the particular point that you're worried about, the 10% pass-on, how does that contribute ₤50 million, the simple answer to that is to take 10%, times 25 basis points times the structurally hedged or interest rate insensitive deposits that we have. You mentioned the number of ₤200 billion. I won't comment on that precisely, but it's a little bit north of that, and you're not far off."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "The question that you had in relation to Page 15, Chris, I think it's probably easiest answered by giving you a sense as to how we're looking at the hedge. And indeed, how the dynamics of the hedge have progressed since roughly 2019. The hedge, as you know, and as indicated on the slide, is at ₤250 billion right now. We're in currently a neutral position given developments within the market, and we've chosen to deploy the hedge."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "We've seen an increase in hedge capacity of about ₤65 billion in 2019. I think your question relates to where does that come from and what is our exposure to deposit type activity and changes in deposit behavior. The best way to answer it, I think, is of that increase in deposits that I mentioned earlier on of almost ₤70 billion that we've seen since 2019, we've probably deployed around ₤40 billion, 4-0 billion of that in the structural hedge."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Where is the rest of the increase in capacity of ₤65 billion come from? So where is the other ₤25 billion come from? It's come from two things. One is increased deposit eligibility of the existing deposits that we had. So we've looked very closely and worked with various aspects of the book, including on the commercial side to make sure the existing deposits are better managed, if you like, and therefore, more eligible for the hedge going forward, more static, less interest rate sensitive."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And then we've also looked at prior buffers that we have in place previous to 2019, and some of those have come into play as well. So the overall makeup of ₤65 billion increase in hedge capacity is counting about ₤40 billion of deposits taken from that -- roughly ₤70 billion increase that I mentioned earlier on. Further, sort of 15-ish billion of deposit eligibility and in prior buffers making up the remainder."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So that gives you some idea of the composition of the increase in hedge capacity, which, in turn, allows you to, I suppose, note the fact that the buffer during that time for the structural hedge has gone from roughly 9 billion to 10 billion to roughly 30 billion. So we've tripled the size of the structural hedge buffer. And at the same time, we have ₤13 billion of maturities this year and ₤35 billion of maturities next year. All of that gives us significant flexibility for any change in deposit behavior that we might see."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Now of course, we plan prudently. And of course, we don't invest deposits that we think ultimately might become interest rate sensitive. But in the context of a buffer that has tripled, in the context of maturities of ₤13 billion followed by ₤35 billion, hopefully, that gives you some comfort that we're not being too aggressive in terms of investing our hedge. We really don't think we are. We think we're erring on the side of prudence. And we think that the behavior over the next couple of years will bear that out."
+  },
+  {
+    "person": "Christopher Cant",
+    "role": "questioner",
+    "position": "Autonomous Research LLP",
+    "text": "Okay, thanks, all. I will follow-up with IR on the first question. Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Thanks, Chris."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "We will take our next question from Guy Stebbings of BMP Paribas Exane. Please go ahead."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "Hi, good morning. Thanks for taking the questions. Firstly, I wanted to come back to margin. I know you don't want to guide beyond 2022, but just if we could think about some of the moving parts as we look a little bit further out. So I guess there might be a slight concern that given you're guiding to flattish NIM in the second half of this year despite some sizable rate tailwinds to work through what that might mean as rate tailwinds fade next year. I guess, in particular, how much of a mortgage margin headwind we should be thinking about beyond 2022 or is that largely confined to the second half 2022 rather than 2023? I mean looking at historic pricing, that seems to be the case, but just helpful if you could comment around how much we should be thinking about that rolling into next year, some of that mortgage headwind?"
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "And then the second question was just on volumes and the interest and the asset guidance, which is perhaps a bit more farther than I sort of expected. I mean you're talking to further growth from the consumer book with discretionary spends on cards. I guess, that isn't what we see in here sometimes in terms of the most recent consumer spending data. So I'm just intrigued around your conviction levels on consumer lending growth in the second half of this year. And on mortgage lending, which has remained remarkably [indiscernible]? Are you seeing any slowdown now in the pipeline, perhaps as people have to reflect about higher mortgage rates? Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes, thanks so much, Guy. On your first question, can I just check I understood it properly. Would you mind just repeating your first question again, Guy?"
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "Yes, certainly. So I guess your guidance, which given some of the questions people might say is struck slightly conservatively. But on face value, you're talking to flat margin in the second half of 2022, even though we've got a lot of rate tailwinds still to work through the numbers, i.e., you've got a big offset coming from mortgage spreads. So just trying to understand how isolated is that to the second half of 2022, or should we think about some of those mortgage spread headwinds still working through into 2023, at which time maybe the rate tailwinds [indiscernible]? Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes, I’ve got it. Thank you, Guy, I will take the first question on margin. I will make one comment on AIEAs and then hand over to Charlie on general trends that we are expecting to see in terms of customer behavior and balances. In terms of the margin picture, Guy, as I said we are seeing our guidance increased to greater than 280. We expect that to translate into broadly flat margin for Q2 as we go through the remainder of this year with the Q2 start point, of course, being 287, as you know."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "What does that mean in terms of the components within that, I talked about the second half seeing an increased role of the mortgage headwinds that we will see, and that being a slightly more important factor in terms of offsetting some of the benefits of the base rate rise and indeed the deployment of the hedge. That mortgage headwind is a factor that starts to build up in the course of H2 of this year. And because of the nature and the term of the mortgages that we wrote during 2020 and 2021, inevitably, that continues into '23 and a little bit beyond. And we will get pass the worst of that mortgage headwind, if you like, by the end of 2023. It's a '23 year that is probably seeing most of that effect."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Now a couple of points to make in addition to that are as we've been discussing throughout this conversation, as we see [indiscernible] margins improving, and if they stay at the type of rates that we're seeing today, the extent of that mortgage headwind is going to be dilutive, not just for the second half of this year, but also for next year. But nonetheless, don't forget that it is -- even if that margins are, let's say, 80 basis points, that 80 basis points replacing the 150 and 170 that this stuff was written out in 2021. So there's still a reasonable gap there. But as I said, could be diluted if we see continued progress in terms of app rates, such as we are seeing at the moment."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "In terms of the hedge, as I mentioned a second ago, we're now fully invested in the hedge, but we are seeing roles of ₤13 billion second half of this year, ₤35 billion next year. And two effects to note there. One is that we've already through deployment of the hedge built in considerable progression in hedge earnings next year versus this year and indeed the year after that versus '23. So we are seeing continued progression in hedge earnings off the back of what we have invested right now."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And then as those roles take place, if swap rates stay at rates such as they are now, then we will benefit from those roles as they go forward. So we do expect meaningful progression in hedge earnings over the course of the second half of this year and indeed beyond. And those are factors, too. And then finally, in terms of base rate, we are expecting a base rate of 2% at the end of this year. We then got one more rise going into next year. We will see how those take place and also how the pass-on assumptions differ or the same as our planning assumptions, that is a source of further support in the context of the overall margin net interest income. So hopefully, that gives you some idea, Guy, about why we say we expect the margin to be flattish second half of this year and a picture as to how we see the gives and takes thereafter."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "I will hand over to Charlie on kind of balance sheet as we expect it to play out the second half of this year, but I will just leave with one point, which is the guidance that we gave at the beginning of the year, which is low single-digit AIEAs remains in place. So we -- I don't think any of the comments that we've made or intended to make would change that picture at all. It's low single-digit AIEAs, probably not terribly different to some of the patterns that we saw in the first half."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Yes, and thank you, William. That's the macro theme, but you should definitely take away Guy, but maybe a bit of color that will be helpful. Just on unsecured in credit cards. As William said, a couple of key points there. First of all, 90% of the spending we're seeing is for medium and higher income families. And obviously, that's really important when we look at sustainability of spending and then the ability for those customers to sustainably manage that debt they have with us if it converts into debt. So that's the first point, and that's why we believe there is likely to be some continued spending in that space."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "When you unpack that, there's a couple of things happening on our card spending. First of all, customers are stopping some of the goods spending, which when you look at the retail data would come through. So white goods, computers, department stores are actually down 20% to 30% year-on-year. As you all know, actually goods spending went up significantly during COVID. But they're all down year-on-year. But then travel, restaurants, pubs, some of the services spending is materially -- travel is up 300% year-on-year and is up above now where it was pre-COVID. So there's a shift away from, if you like, goods into services, and there's still strong spending through the higher income customers, which means we will have to see what happens, but that gives us confidence, as William said, for that single-digit AIEA growth."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "On mortgages, you'll have seen the data, there's already a softening in the mortgage market, both supply and demand of houses as a leading indicator of how the mortgage market will come through. At the same time, however, there's obviously a stronger remortgage market going on as customers are looking at rates and trying to lock in better rates. And one of the obvious, but important dynamics in that market is there's been a shift we have talked about in the past, a 50-50 split between 2-year, 5-year fixed mortgages. There's obviously been a meaningful shift towards longer-term mortgages. And all of that, again, we expect to continue to play through into the second half in our baseline unless there's a materially different outlook. Guy, hopefully that helps and gives you a bit more color."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "Yes, that’s helpful. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "We will take our last question today from Martin Leitgeb of Goldman Sachs. Please go ahead. Your line is open."
+  },
+  {
+    "person": "Martin Leitgeb",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Yes, good morning. First of all, also let me echo the comments on the good numbers today. Could I just follow-up, firstly, on earlier comments on mortgage pricing. I was just wondering -- what in your view is driving the improvement in mortgage pricing you have seen recently? Is there anything we do think traffic to call out? Is there any increase in the mortgaging volumes with maybe some borrowers trying to fix in rates before the increase in swap rates? Or is this a kind of more rational behavior of market participants you attribute the improved pricing trends to? I'm just trying to understand how to think about these pricing trends going forward."
+  },
+  {
+    "person": "Martin Leitgeb",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "And secondly, a more broader question. [Indiscernible] revised upward the revenue guidance or income guidance twice this year. And I was just wondering if there are any potential offset to that going forward, offset either in terms of cost or in terms of impairments. So compared to when you laid out your 2024 targets early in the year, inflation print has come in higher. Does this make it more challenging to reach the 2024 target for the cost progression, particularly in terms of asset quality, so much higher mortgage pricing, cost of living squeeze. Could there be a risk that we might see some offset from this higher income frame today on [indiscernible] cost or impairments, say, in 2023. Thank you."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Thanks, Martin. So let me take the first one and then William can -- even though we are not guiding to '22 -- '23, '24 to give you some perspectives on that in terms of costs and impairments. So just on mortgage pricing. Obviously, we can only know what we are doing as an organization. We don't know what our competitors are doing. But our perspective on that is it's not about some change in perspective on risk already on idiosyncratic risk. We think it reflects more that we've just had a period of stability around the swap curves."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "And as you'll recall, through the first two quarters, there was a lot of volatility and change in the swap curves. And we talked on previous calls with this community with this group around some of our competitors would it take 2 to 6 weeks or 8 weeks to adjust their pricing, partly because they may have locked in their own rates around their own [indiscernible] activity. So we've had a period of stability. It's been flatter. In fact, there were some declines in the swap curve more recently. And we think competitive pricing has therefore going to normalized or stabilized in that context."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "I think just as you look forward then in that context, if we see more stability around this, then we'll get to a stable equilibrium that we'll be able to report on and share with you more broadly going forward. If you start seeing additional volatility up or down, I think we should expect the market pricing to take, as I said, 2 to 8 weeks to adjust or 1 to 2 months, you'll see some of the behavior we saw in the first quarter in the second quarter."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "One more thing from us. You will see that I think we have continued to position ourselves and price in a way we think is good value for customers, but also making the right trade-off between value and market share. And we've been trying to very rationally price through this dynamic environment, and hopefully, you've seen that."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "William, Second question?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Thanks, Charlie. Thanks for the question, Martin. You asked about costs and its effect on the -- sorry, inflation rather than its effect on the business, both in costs and impairments, and there's one or two other points I will add. In terms of the impairment picture, as I said earlier on, we have taken account of the inflation in terms of the ECL that we currently have in the context of the economics as we have portrayed them. As you know, that implies a base case, which sees inflation peak at 10% in Q4 of this year. But importantly, it also implies a waiting for the high inflationary severe scenario, which sees higher levels of inflation of around 14%, again later on this year."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So the inflationary pressures that we're seeing are very much incorporated in the ECL. How is that done? That comes back to the answer to the question earlier on, which is around the models that feed their way through into expectations as to losses. And those have fed their way through in the course of the 1460 total inflation adjustment that we've taken. And then also as part of that, the post-model adjustments that we have taken, again, assimilated into overall 460 ECL component accounting for increased inflation. And those have been both within the retail space and also within the commercial space."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So overall, the ECL contains the inflationary pressures that we expect to see, including base case and including the severe downside scenario. Those are contained within the 460 inflationary provision that we have within the ECL, which is a combination of models and post-model adjustments that we've taken. Further point here is that the model is coherent. And so the asset price effect of those inflationary tendencies, for example, on house price indices, are contained within our overall expectations of economics in a coherent fashion and, again, feed through into the ECL."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So inflation in terms of its direct effect, inflation in terms of its indirect effects are part of the coherent model that in turn is imported in the ECL. Now clearly, if assumptions change, then you can expect to see an ECL change with that. And hopefully, the sensitivities that we provided at the back of the pack gives you some idea as to how the ECL might respond to that."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Moving on, the second component of inflation, how is it influencing our cost base, we are clearly seeing some inflation. We are not immune for inflation. Where are we seeing it? We are seeing it in the context of wage pressures, we are seeing in the context of the variable compensation, we are seeing it in the context of relationships with suppliers. But importantly, as you know, we are good at cost management. And so when we look at those variables, one, we have built into our existing planned expected increases in wages, expected increase in variable compensation."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "We have also long-term supplier contracts, which will take us over the course of this year and into next in ways that effectively lock in matrix pricing agreements with suppliers. Likewise, we have forward purchased much of our energy commitment for this year and for next, which again gives us some certainty around the cost base there. And then finally, we obviously resort to our strong matrix management and third-party supplier management in terms of ensuring that we are able to absorb any unexpected increases coming from inflation."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "For example, our compensation of ₤1,000 compensation to employees that we took earlier on this year, and we were able to absorb those types of shocks by virtue of our BAU cost management. which in turn gives us the confidence to say that we will be delivering on our cost commitments for 2022. And there is really no room for question or doubt around that in line with our delivery in prior years, again, on cost commitments, Martin."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Final point is I'm sometimes asked about what the effect on -- of inflation is on the pensions plan? Pensions plan are very largely hedged. So if you look at it on an actuarial basis or on an accounting basis, the impact of inflation there is very largely hedged. And indeed, we've been making sure that we are increasingly protected for the deficits that we see going forward as we approach the funding round at the end of this year so that we are not taken unawares or surprised by the effect of inflation. We are effectively locking those in on top of the existing hedges that we have."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So I will perhaps stop there. But Martin, the short answer is that inflation is taken account of for our asset quality judgments as we stand today. And clearly, if economic assumptions change, then we will change with that. But as we stand today, our expectations are that we've taken account of them. That, in turn, inflation is taken account of in our cost base and our commitment. And then finally, the inflation is taking account of in the context of the pension management that we adopt and indeed as we look towards the end of the year, that becomes increasingly important."
+  },
+  {
+    "person": "Martin Leitgeb",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Thank you. Thanks very much, William."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Thank you, Martin."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "As you know, this call is scheduled for 90 minutes and we have now reached the end of the allotted time. So this is the last question we have time for this morning. If you have any further questions, please contact the Lloyds' Investor Relations team."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So we will just say thank you to everybody for joining. Sorry, I don't know whether you caught the tail end of that, but I was just saying thank you, everybody, for joining this morning. We appreciate the questions, and I appreciate your interest in the business. Thank you very much."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "This concludes today's call. For those of you wishing to review this event, information for the replay is available on the Lloyds Banking Group website. Thank you for participating."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

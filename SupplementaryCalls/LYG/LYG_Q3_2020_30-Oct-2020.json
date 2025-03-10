@@ -1,0 +1,674 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. [Operator Instructions]. Your first question comes from the line of Rahul Sinha, J.P. Morgan. Please go ahead. You're live on the call."
+  },
+  {
+    "person": "Rahul Sinha",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good morning Antonio. Good morning William. A couple of questions from my side, essentially the same topics that we've been discussing on the calls for the last few quarters. I am going to start with NII; obviously pleasing to see the recovery in the quarter, and I hear you on the pickup in average interest earning assets. Can I just ask, how much of this recovery is driven by your intention to take a greater share of the mortgage market, given pricing trends have improved, versus just the sort of pent-up demand related boost that we are seeing in the mortgage market right now, which might peter out next year?"
+  },
+  {
+    "person": "Rahul Sinha",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "So I'm just trying to understand, whether you think structurally pricing might have improved now sufficiently, that you can actually operate at a higher share, and if you could give us some numbers around what sort of share are you comfortable with, that would be really helpful."
+  },
+  {
+    "person": "Rahul Sinha",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then the second one just on non-NII, I'm still struggling with the consensus off about £5 billion of non-NII for 2021, looking at what you've delivered, and I do accept you have called, that it has probably bottomed out now. Could you help us, since I am trying to understand, what are the growth drivers from here, you [indiscernible] sort of £1.1 billion run rate, what bridges the gap from that sort of run rate to the sort of £5 billion plus of consensus expenses. Thank you."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Good morning Rahul. Maybe I'll start to give you an overview of the mortgage markets, to explain the environment of your question on NII, and William can build up on the specific numbers you mentioned also, on OOI. So in terms of the mortgage market, and you will remember – as you said, we discussed this many times before, that we had adopted in the last few years, a prudent strategy in relation to the mortgage markets. We thought that prices were not where we would like to see them, and we have therefore privileged capital and margins and risk versus volumes, and we basically held our open mortgage book, stable."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Prices have improved from the start of the year, as we discussed previously and they have continued to improve. And therefore, given our absolute focus on helping Britain prosper or recovery in this case, and being the largest mortgage lender in the country, we have been supplying the needs of our customers on mortgages, and this has been very, very strong on Q3, as you heard and it has been quite strong across the board, to your question. So this is both on first-time buyers and on home movers, and I think that this basically is an outcome based on three factors. The first, as you mentioned, there was some pent-up demand to satisfy."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Secondly, it is also a fact that we have strong incentives on people to buy again, as you said as well, of the stamp duty expiring next year. But thirdly, there is a significant change in customer behaviors, people have been on one hand, saving more, as they have spent less on traveling hospitality, and they have saved more in general. And secondly, they have, as you know, most people spend much more time at home, and therefore their home became somewhat more valuable to them, and they are strongly moving homes across the board and wanting to go into larger homes outside cities, with gardens if possible. So it's both the first-time buyers and the home movers, that are driving this significant demand in mortgages, and that is, in my opinion, a structural change in behaviors from people. So you have all of these three effects. And this is quite important."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Our market share of approval has been 22% at target, which is the highest we have had since 2008. So within these conditions, and with very strong customer demand, we have been absolutely meeting those customer needs, to give you an idea on first time buyers, our market share has been even higher at 24%, and given that there is, as you know, a time lag between applications and completions of around three to four months, we already know that we will have an even stronger growth in the open mortgage book in Q4, even we already know the applications that we got."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And therefore this is a changing trend. We are the largest mortgage lender in the country as I said. We have a very strong capital position, therefore we are absolutely supporting our customers and the supply and the mortgages that they need, and this is very important to sustain NII, and it has more than offset, as William said, the impact of the low yield curve. William, can you comment on the other income question?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thanks Rahul. First all on other income in Q3 what we see. As you can see from the release today, we had £988 million, which completed an AMMR charge of roughly £80 million, which in turn means that we are around £1070 million, if you take out that that AMMR March charge. I think in terms of answering to your question, I obviously won't comment on consensus for next year, that's a matter for next year, not for today. But it's important to give a little context about what's in that OOI charge and to a degree, what's not in there. What do we see, we saw relatively flat performance in retail."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Retail continues to be subdued off the back of modest activity, and in particular limited travel. We saw commercial banking performance, relatively affected by our UK focus on markets, which was down on the quarter two performance. And we saw insurance modestly performing off the back of, such as the AMMR charge, but also some GI claims from weather events in August, and absence of bulk activity and very limited new business in terms of some of our areas, such as workplace, where the coronavirus impact is clearly taking its toll on new business schemes, as well as things like protection activity."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So when we look forward for OOI, it is very activity sensitive, and to the extent that you see things like return to travel and retail, for example, things like a bit more activity in UK markets for example. Things like a bit more activity in some of the insurance value streams that we have. Then you would expect OOI to respond to that. I think added to that on a secular basis, we're making a number of investments, as I mentioned in my comments earlier on in the OOI stream, in order to build the non-interest streams within the business. So examples of that might be packaged bank account propositions in retail, might be the transaction banking platform in commercial and cash management. Likewise, the protection platform, the GI platform within insurance, and those investments over time will build this income stream. I think your final comment, Rahul is, as I said before, this will be gradual. It's not going to change overnight, but it is activity sensitive, and it is also the subject of ongoing investment."
+  },
+  {
+    "person": "Rahul Sinha",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Great. Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Next question comes from the line of Aman Rakkar, Barclays. Please go ahead. You're live in the call."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Morning gents. Could I ask a couple please. So first on mortgages; interested in what your application experience has been in October? Is it OE? And are we seeing a similar level of robust performance, as you've observed in Q3, and does that give you any indication on drawdowns and completions in Q1? I'm just trying to work out, how much this kind of volume dynamic is, is a tailwind into next year? As part of that, could you help us understand the kind of front and back margin dynamic on the open book, presumably it's a nice tailwind now, but if you're able to quantify that, that would really help?"
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Another one on capital if I may, so it's good to see the upgraded guidance in RWAs which is good, it might be a matter of timing. I just wanted to come back to – you know the regulatory headwinds that you guys have called out before, about £6 billion to £10 billion. I think you noted that number lower. I was interested in what's your best estimate of that, and how much of that is captured in this year, versus is expected to come through next year? I guess I'm just trying to get a sense on the RWA inflation that might be coming next year, as a combination of RWA pro cyclicality, but also the RWA regulatory headwinds that might be coming? Thank you."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Right. Thank you very much, Aman. I will elaborate on your first question in terms of the Q1 and applications, and William can take the second one on front and back book and on capital. So, just to complement what I'm saying to how – we haven't seen any significant different behavior in October from customers. We always, as you know, we constantly adapt our prices and strategies according to our multi-brand strategy, depending on demand. And especially on the intermediary channel, we are quite agile in terms of adapting. But from a demand point of view, we haven't seen any significant change in behavior in October."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I think relating to my previous points that as the stamp duty incentives deadline gets closer, you might have an additional rush into people that want to take advantage of that. And for people to take advantage of the stamp duty, they will more or less have to submit their applications by the end of the year, as you know, in order to take advantage, next year from the deadline. And then after that, of course, that incentive will disappear. So, you should expect that to disappear, but a bit later on."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On the other hand, the structural impact, I told you about the customer behavior and people structurally investing more on their houses and wanting to have better houses, given they spend more time in the houses, I think it is a more structural demand point. So, this would be the additional feedback and color I could give you on these points."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thanks, Antonio. Thanks, Aman, for the question. On the mortgage margin question, first of all, what we're looking at there is completions taking place at around 160 basis points versus 140 basis points on maturities. But also having said that, applications are more like 190 basis points and above in Q3. So that gives you a sense as to the margin and the trends on the mortgage front."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "You asked about RWAs. The RWA's picture for next year, again, is really a matter for next year's guidance, which we're not giving on this call. But two or three factors that are perhaps worth bearing in mind in that context. When we look at RWAs going forward, I called out credit migration as a point in my comments earlier on. We haven't seen that in Q3. We don't really expect to see it on the basis of what we've seen so far in Q4. So, it's perhaps more of a next-year event, contingent upon your view of macroeconomics."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "You asked about regulatory headwinds there. The only significant regulatory headwind that we see in 2021 at the moment is counterparty credit risk, which we will call out in the early part of next year. That's modest, but it's there. Then offset against that, we'd expect our Commercial business, in particular, to continue with its ongoing optimization, just as it has done this year. And that will then lead in combination to our picture for RWAs during the course of 2021. But again, we'll give more guidance on that in 2021 rather than today."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Perfect. Thanks a lot. Can I just clarify then, so does it sound like that £6 billion to £10 billion isn't happening in the way that you thought it was before? Or is it that actually you digested a decent chunk of it this year, and there's only a little bit more to come next year?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I think – again, it's a matter for guidance probably at the beginning of next year, but it's more a question of timing, I suspect, and the particular issues that are being referred to."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question comes from the line of Guy Stebbings, Exane. Please go ahead. Your live in the call."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good morning. Thanks for taking the questions. Can I come back to NII, actually, please, and just on NIM quickly and sort of the exit rate this year and thinking into next year. I mean, it's just about the multiple references you've made today on stability in the margin. I think if we look into next year, clearly, the hedge will be a meaningful drag based on prevailing rates. Looks like, obviously, much more secured than the over unsecured lending."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then we got the interesting dynamic on spread widening on mortgages, which maybe dissipate somewhat, but probably is still a net positive into next year in terms of back to front book. I mean, is it just that mortgage back to front book, which is enough to provide stability into next year? Or is there something else going on? Or we're – actually are we looking at 240 exit rate and maybe a bit of pressure from that sort of level as we think into next year?"
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then on volumes and average interest-earning assets, we've ended the quarter about £2 billion above the average for the quarter. Consensus this year is £433 million and then £435 million next year, and we're somewhere above that already and you've got the good pipeline into next year. So, I'm just trying to work out, is there anything you can see that should persuade us from thinking that actually we're running somewhere above that into 2021? Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thanks very much, Guy, for the questions. Maybe dealing first of all with the margin picture. I'll start off with what we've seen in Q3. As you saw, the Q3 margin ended at 242. That's consistent with the guidance that we gave at the half year. Within that, we saw a couple of positives and a couple of negatives. The positives that we saw were deposit repricing, number one, and the removal of interest-free overdrafts. Chargeable balances, for example, were up 65% in the context of Q3. Against that, we saw a couple of negatives."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "The structural hedge was one of them. And the second was around asset mix, which is to say unsecured balances came a lot – off a little bit, as I called out in my comments earlier on. And mortgages, while they are very good for net interest income, by virtue of the comments that I made earlier, are a little bit dilutive to the group margin."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "The margin picture looking forward into Q4 is going to be subject to similar factors, and that's why we're calling out margin stability into Q4 with the positives being a full quarter of deposit repricing, a full quarter of the interest-free overdraft coming to an end and indeed to reduce funding costs from things like our drawdown in TFSME."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "The negatives, again, weren't surprising. They're very similar. The structural hedge has about £10 billion of maturities in the remainder of 2020. Again, we'll see a little bit more attrition in unsecured volumes, albeit that's slowing down. And we'll see a boost in mortgages, just as Antonio was commenting on earlier on, which, again, is great for NII, but a little bit dilutive to margin."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "That gives you a picture as to the margin. I think looking beyond that, again, guidance is really a matter for 2021, but you can see the factors at play in Q4, which are going to be not totally dissimilar. The important point here comes to your second question, which is what's going on in AIEAs and the driver of that to net interest income. We've seen in the context of Q3 the strength in mortgages. We have seen the – that offset, if you like, the unsecured balances from an AIEA perspective. And we've seen Commercial, a combination of Bounce Back Loans going up and RCFs coming down, which more or less nets out."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "When we go into Q4, we're going to continue to see the mortgage growth based upon what we're seeing today in the pipeline, and that continues to grow. We're going to continue to see a little bit of unsecured attrition, just as I commented on the margin earlier on. Overall, that leads us to the view that AIEAs will continue to increase from what they are today into the year-end."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "To the extent that we see those patterns continue in the course of 2021, and again that's a matter for 2021 guidance, but you can see where we head off at the end of this year. With a stable NIM, that is good news, obviously, from an NII perspective."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Okay. Very, very clear. Thank you. Perhaps it's an obvious point, but I get the sense that in the past, there was perhaps more emphasis placed on net interest margin, whereas given the environment we're in, it feels like NII should really be what we're a bit more focused on rather than just simply the headline NIM. Is that a fair way that you're thinking about it more these days?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. I think it is. But I think it is important to say that it's in the context of making sure that we do things that are in the best interest of both customers and shareholders and we are in the context of relatively attractive mortgage margin pricing."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Next question comes from the line of Chris Cant, Autonomous. Please go ahead. You're live in the call."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good morning. Thank you for taking my questions. Just on the structural hedge. You mentioned in your remarks, you talked about the net contribution for the nine months being £1.1 billion, I think it was. If I look at your hedge disclosures for 3Q and the equivalent disclosure at the 2Q stage, in the nine months, you say £1.1 billion; in the six months, was £600 million net contribution. So, we're at about £500 million net contribution for the third quarter, specifically annualizing to about £2 billion."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And if there is any rounding there that I'm misunderstanding that would be – it would be a helpful clarification. But if we say the £2 billion, two-year average life on the hedge, are we basically looking at a headwind of about £500 million per annum from the 3Q NII level? And if you could also give us a number on the hedge maturities next year specifically, that would be helpful. Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, sure. Thanks for the question, Chris. The structural hedge, it's important, first of all, just to make sure that we refer to the right benchmark. So, there is the structural hedge and absolute income, if you like, which is around – so far year-to-date is around £1.8 billion. There is some structural hedge contribution above and beyond LIBOR, which is obviously a lower number because you have to subtract LIBOR from that £1.8 billion number. So, just by way of reference, it's important just to, if you like, benchmark against the right context."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "In terms of the look forward, the – I mentioned that we have £10 billion maturities in the context of 2020. What we have been doing, as I mentioned in my comments earlier on, is in the context of very low rates, we have been trying to preserve earnings stability and to preserve value, just as we always do with the hedge. And that has led us to a strategy of short-dated hedging, which protects against further downside, for example, should, not our base case, but should we see negative interest rates emerge, we are protecting ourselves against that downside by virtue of the short-dated hedging, but at the same time we're preserving optionality, if you like, if the curve kind of resumes back to normal by, again, making sure that the hedging is appropriately short-dated."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Looking forward – this is your second question, but it's part of my answer to the first. Looking forward, because of that short-dated hedging, we see slightly more maturities in 2021, and we're now looking at a number of around £60 billion in 2021 maturities for structural hedge."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "As you look at that on a roll forward basis in terms of the headwinds, as you're referring to it, that we have over the life of the hedge, just over a two-year weighted average life, but importantly an average life of the hedge that is more like five to six years. And so, when you think about the structural hedge, as it rolls off, if we see a flat rate curve, then that's the type of – it's that five-to-six-year parameter that you should be thinking about."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "In terms of the headwind on an annualized basis, a couple of things that I'd caution against really. One is that the hedge profile is relatively lumpy, number one. Number two is that we will, in the interest of preserving earnings stability and shareholder value, be, just as we always are, careful about when we deploy the hedge in order to ensure that we achieve those objectives, which one would hope would abate some of the headwinds that you're referring to."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "The further point that I would make and more kind of strategic structural, which is that we're in a low interest rate environment, I suspect that we are seeing some pricing moves. We've been talking about mortgages quite extensively this morning that are offsetting some of the effects of that low interest rate environment. So, you have to think about the industry response, I think, to the low rate environment that we have, which is driving the structural hedge, but it's also driving some benefits in other product markets. We're in a rational, relatively well-ordered market, and I think when you think about the dynamics in our P&L, that's important context."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Understand completely on the other moving parts. And if I could just come back to the numbers point, though, I understand you did give the gross numbers as well, and perhaps I missed that, perhaps you were speaking to the gross. But if I'm thinking about the contribution of the hedge NII, it's about £2 billion annualized in 3Q, the NII generated from the hedge. I think that's right. I mean the gross number you give is £1.9 billion. For the six months, it was £1.3 billion."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "So, the gross contribution in 3Q is £600 million. The net contribution is £500 million. The LIBOR component is about £100 million, which checks out versus your average hedge balance. But if I think about how much NII you would lose if the entire hedge just rolls into this very flat curve environment, which is essentially £2 billion annualized over the life of the hedge with, by the sounds of it, quite a chunk of that hitting in next year."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I think the numbers that you've given for the performance year-to-date, Chris, are not terribly different to the numbers that I see. They're slightly different, but not much. Obviously, we won't comment on next year beyond what I've already said."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Okay. All right. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Next question comes from the line of Martin Leitgeb, Goldman Sachs. Please go ahead. You're live in the call."
+  },
+  {
+    "person": "Martin Leitgeb",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes, Good morning. I just wanted to ask you on the potential impact of negative rates and how you see negative rates. I think the Bank of England had that bank to comment on whether they're ready for a negative rate of the system. So, the first question, is Lloyd's ready? And do you think the broader market is ready as of now? Meaning that anything could at least operationally come in the near-to-medium term?"
+  },
+  {
+    "person": "Martin Leitgeb",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then maybe to the question on mortgage pricing, but related to mortgage pricing, what are the levers banks have left to address the impact of potentially lower rates? Is there anything left in terms of repricing on the liability side? Or could there be a scenario where banks increasingly look at asset pricing in order to try to find an offset to potentially lower rate? Thank you."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you very much, Martin. Look, in relation to negative rates, I think we should bear in mind two factors. So, there is an operational side and the financial side. What the Bank of England said and the governor and Andy Haldane just last week is that the bank wants to have negative rates in their tool kits. And for them to be in their tool kits, obviously that has to be operationally feasible. So, we are in discussions with the Bank of England about how to make that feasible, how long does it take and what are the steps to make that part of their tool kits. So, that's one point."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "The second one is about, financially, is the bank – has the bank changed their mind about their view on interest rates. Both the governor and then Andy Haldane said, they haven't changed their mind. Andy Haldane just said last week that most likely the bank, if the bank decided to do something else, they would resort to additional QE before thinking about anything about negative rates."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And so, I'm just repeating what the governor said and what Andy Haldane said. And we are on that phase, where operationally we are discussing with the bank what it would take to enable the tool kits to be available for the Bank of England."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "In terms of pricing and William will want to comment, I'm sure. Just a comment I would advance you to make. I mean, as you know, and as I said in one previous question, we have been prudent throughout the last few years in terms of the mortgage market, as we thought pricing was not where we thought it should be sustainably, considering capital, risk volumes and other considerations. And now that mortgage margins are more stable and in a more rational environment almost for 12 months now, I would see it's frankly very difficult why that environment would change."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "While we still have significant uncertainties out there, there is significant demand, as we discussed. And there is a different risk premium going forward, especially for high LTVs. So, I would see that difficult to change in the current economic environment. William, I don't know if you want to add."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Well, just to address the second of your two questions there, Martin, which is around liabilities, and it was inherent in what Antonio said as well. The liability margin is – won't surprise you, relatively modest right now, not just for us, but I'm sure for the sector as a whole, given where interest rates are. In that context, it is interesting actually that some of the support to Q3 margin was indeed through liability repricing, as I mentioned in my comments. Looking forward, it's more about asset repricing. So, that's a point looking forward, if you like."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I think one point that is worth making is that liabilities pricing being low is a function of where we are in the rates curve. That, in turn, means that I suspect most of the opportunities going forward from the asset side of the balance sheet."
+  },
+  {
+    "person": "Martin Leitgeb",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Next question comes from the line of Andrew Coombs, Citi. Please go ahead. Your live in the call."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thank you. Perhaps if I could stay on the same theme, looking at mortgage dynamics, and thank you for the numbers on the margin on completions versus maturities and applications. Just on that theme. In the discussions you have with the Bank of England, it's been quite interesting in the dynamics this year, in that really the mortgage rates have been a function of supply and demand, whereas in the past we've really seen the pass-through of lower rates on to the mortgage market. You've just indicated you think that the scenario or the environment is likely to remain similar."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "So, a big picture question here that in the discussions you have with the Bank of England, when they are talking about the prospect of further rate cuts potentially moving to negative rates, what we've seen this year is that hasn't passed through to the mortgage market and hasn't passed through to the end consumer. In fact, it's going the other way, mortgage rates are higher. So, did that disincentivize the Bank of England from introducing negative rates? There's been any discussions you've had with them on that transmission mechanism?"
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then a second question is more of a boring number one. At the first half stage, you gave the aggregate gross margin on consumer and on customer deposit. So, I think it was 681 on consumer and 20 bps on customer deposits. Could you just give us the updated number, please?"
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Okay. Andrew, I will comment on the first, and William will comment on the second. I mean, just to point, I would add to what we have been discussing, Andrew. In terms of conversations with the Bank of England, the conversations have not been about implementing negative rates themselves, as I said to you, but they are about what it would take for us banks, in general, all of us, to be ready to operationally implement them, should they decide to do it."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, we are on the operational phase, as I said. The Bank of England wants to have this available in the tool kit. For it to be available, it has to be feasible, it has to be implementable. And we are on that phase that if they were minded to discuss additional monetary policy measures, they would probably first resort to additional quantitative easing."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, our conversations, to be very clear about that, are about implementation and driving the tool available, not about the change of mind of the bank in terms of whether they want to implement it or not. On the second point, which connects to the first, I understand, Andrew, about passing that to consumers. Well, they have been passed to consumers. I mean, as rates went from 75 basis points to 10 basis points, we and most of the banks have lowered their FCR rates exactly by the amount that base rate has passed. And that is an immediate very substantial impact, which was passed to consumers."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "New business price has fluctuated over the years. It has increased a little bit from the beginning of the year in terms of margins, but given the decrease in terms of base rates, prices for consumers are lower than at the beginning of the year, but you have to look at the different segments, etc. But on average, you have to distinguish which was the impact on absolute prices, which has into consideration the decrease on the base rate and what the dynamics of the market. There is very substantial demand, which I think will continue and will continue both because of the incentives for the – taking advantage of the stamp duty, lower stamp duty, until the beginning of next year, that is going to continue."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And apart from that, there is a structural shift in customer behavior, which is also driving demand up very substantially. I mean, we have never had so many approvals, as I told you, since 2008, and we are the largest player in the segment. So that's quite important. The mortgage prices, in general, are in – more rational opinion, in our opinion and – more rational position, in our opinion. And I really don't see given both the demand factors I mentioned to you, the uncertain results there and the risk factors that high LTVs, I don't see that changing in the next one or two quarters."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I'll just maybe add one comment to Antonio there, Andrew, and then go on to address the second of your two questions. I think it is our view that the regulator realizes or the Bank of England more appropriately realizes the profit impact, if you like, or the concerns around negative rates from a financial sector point of view as a general matter. I think, therefore, the – as Antonio says, we have passed on mortgage rate – in mortgage rates, rate reductions that we've seen so far."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Going forward, I suspect that the Bank of England will be sympathetic in terms of the form in which negative rates might get introduced. In order to ensure that, if you like, bank sectoral profitability concerns are addressed. We'll see, that's obviously in the realm of slight speculation. But I suspect there is an understanding and a desire to avoid necessarily significant negative impact from introduction of negative rates if they get that."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Second point, on your gross margin point on consumer. The – we won't give that just because I don't want to get into the business of giving detailed 3Q disclosures along the same lines as we give at H1. We'll save those for the half. There's been, as a general matter, as a trend matter, there's been a very modest amount of pressure on the Consumer Finance margin, but I won't go into more detail beyond that."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Okay. Thanks. Just a quick follow-up then on that consumer margin. Given the dynamics you're seeing in the credit card market, and obviously it's probably – it is largely a mix shift effect that have weighed on that gross margin on the consumer book. Do you think that will now stabilize in terms of mix effect going forward?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Well, I think our margin, as I mentioned at the half year, is very dependent upon activity levels, in general, and what that does to the unsecured book. So, if one sees a resumption in activity during the course of 2021, which would be our expectation, then you would expect to see that feeding through into the margin."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Next question comes from the line of Jonathan Pierce, Numis. Please go ahead. You're live in the call."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Hello, folks. Two questions, please. The first is just a clarification on that hedge maturity number. Did you say £60 billion next year? And if so, is that relatively smooth set of maturities through 2021? That's the first question."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "The second question is on capital. I mean everything you're telling us suggests we get a small profit, probably again in Q4. You got software benefits. Risk-weighted assets are flat. It feels like the equity Tier 1 ratio probably ends the year up toward 16%. And even if I fully load to your severe downside scenario, would only be at sort of 13%. I know it's difficult to comment on, but can you see any good reason now why the regulator wouldn't let you turn distributions back on, particularly given you've been lending into the important markets as well through the course of 2020?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. Thanks, Jonathan. On the first of your three questions, the hedge maturity, I won't give a detailed breakdown as to the timing of that during the course of 2021, but the number of £60 billion is the right number, roughly £60 billion for next year, but again I won't go into detail about how exactly that breaks down."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "The second of your question is around capital performance. The capital performance for the remainder of the year is obviously macro-dependent. I mentioned how you might see our P&L and one or two of the trends within that in the course of my prepared remarks. We would expect to see continued capital build, but with that macro dependency. You mentioned the software exemption. I think we need to see where the PRA goes on that and what it decides to do."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "What does that all mean for the distributions question, the third of your questions. The organization, I think, entirely recognizes the importance of dividends to investors. We also see ourselves, as you've commented. And we've also agreed with, we have a very strong capital position, both with and without transitionals. That is clearly appropriate given the uncertainties that we're in, the macroeconomic uncertainties, the ones that we know about."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "The distribution ultimately is a question for the Board at the end of the year based upon – and I'm sure a number of considerations, but the types of things I would expect it to consider would obviously be the capital strength and the evolution of that position, would obviously be the macro outlook and where we stand and would obviously be the regulatory position and what the regulator would like to see us as a sector do. So again, that's a question for the Board at the end of the year, but those are the types of considerations I would expect it to debate."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Next question comes from the line of Frederique Sleiffer, KBW. Please go ahead. You're live in the call."
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes. I think my name has been changed. So, it's Ed Firth here. But I'm happy to go under Frederique, if that helps. The – no, I just had a question about the economic environment because it seems we're in a, sort of, slightly several world at the moment, where all the banks, not just you, are delivering very low impairment numbers. And yes, if I'm reading my newspaper, we're reading that France is going back into lockdown, Manchester in lockdown, Nottingham in Tier 3, etc. So, I guess my question is, insofar, as you can, in those areas of the UK that you have seen in lock – that going back into some form of lockdown, and I think in places like Manchester, I guess, is the most obvious one, how has the book performed in those areas?"
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And can you see a sort of marked differential between those areas versus the rest, which might give us some indication of what would happen if the whole of the UK goes back into some form of lockdown? I suppose that's my first question. And then my second question related to that is if we do see some form of sort of greater lockdown in Q4, would we expect that to be reflected in Q4 provisioning? Or would your first call be to utilize some of the impairments you've already made rather than adding to them further?"
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Okay. So, I will take the first question and then William will take the second one. Look, it is – very frankly, I mean, it is still too early to see, to your example, whether, for example, the Manchester lockdown would have had any significant different impact on the book because I mean we are speaking about weeks. So, it is really difficult to know about that."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "What I would say are probably two things. The first one is I mean the government measures of support to the economy are absolutely the right ones there. First, because as we have discussed in previous quarters, obviously it keeps a productive structure ready, that whenever the pandemic effects dissipate, that productive structure can immediately be used and not have to be reset. Of course, as we move into the pandemic, the government has then rightly so again, driven more targeted help to the sectors that will continue to operate post pandemic and has looked differently at sectors, which has structural impact from the pandemic."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "But overall speaking, the impact of supporting the sectors with a very significant external and expected shock is the right thing to do. If you have not spent that money in that way, you would spend it through unemployment benefits, lower taxation from corporations that kept operating, etc., etc., and you would not have the flexibility of going this quickly after the pandemic into production. That's the first important point."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "But the second important one, I think, which has been less discussed is that this support, not only to businesses as I was just mentioning, but to individuals as well, through the furlough scheme, has also enabled people and businesses to adapt with the transition period, if you want, and to plan. And that's what you see by unsecured debt having decreased. So, individuals have decreased their leverage as they save more and as they spend less, which is reflected in the balance sheets of the banks by lower and secured balances. And that makes those individuals more resilient to an expected – to the fact that they might lose their jobs going forward, and some will, unfortunately, lose their jobs going forward. But they have had, number one, they are in a stronger situation financially."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And secondly, they have – they are having time to plan ahead for those uncertainties, which is also really important in terms of not having an unexpected shock. So, I think that is – those are two important points that I think you should bear in mind."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "A third one I would add, relating to us specifically, because you're mentioning impairments, and I'll ask William to comment in a moment, is that you should bear in mind that us being a retail and a commercial bank, it is not really important what we do in the six months previously to a shock like this one or doing the shock itself. What is really relevant for retail and commercial bank is what you have been doing for the past five years and the cohorts of loans you have been putting into the books."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And as you know, we have – since the start, we have always said we wanted to build a low-risk, simple, digital financial institution based on the real economy in the UK. So, we wanted to build a low-risk bank. And we have, as we have discussed with you through several years now, we have taken that view sustainably."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "For example, to give you an example, on mortgages, it was already five years ago that we had decided to lower our activity in mortgages in London and Southeast by decreasing the loan to incomes from five to four in order to deemphasize our focus on that part of the market. And when you look at the slides we gave you in the appendix, the situation of our mortgage book, again, just to give you a factual example, is completely different than before."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, if you look at 2010, you see that the bank had £145 billion of mortgages above an LTV of 80%. And after 10 years, we only have £25 billion. And if you look above 100% LTV, when prices have gone down in certain areas of the country, we have less than £1 billion of mortgages over 100% LTV, in spite of that, when 10 years ago, we had £45 billion and our equity is around £40 billion to give you an example."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, I think it's really important to bear in mind in our specific case that we have been building a low-risk bank that's focused on prime businesses over many years now, and that's what most of our book is now after so many years. William, would you like to go to the second question?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I'll address your second question, Ed. The start point is probably just to better understand what's in and what's not in the IFRS 9 provision as we see it today. So, our forecasts currently include some measure of localized lockdowns, but also an end to government support as it was articulated at the end of Q3."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Now, if you look at what we're seeing today, it could be that the lockdowns get a bit worse. We'll see how that transpires over the coming weeks. But it's also the case that government support is a bit better than we have previously anticipated. So, there's a bit of a net effect there and some positives and negatives going on."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "As we look forward into the future, you asked if we end up in a more adverse macroeconomic situation, does that cause a change in our IFRS 9 impairment provision? Or do we dig into the provisions that we already have? It's perhaps just important to step back and say our IFRS 9 impairment provision is constructed based upon the macroeconomic forecast that we have given you. If those macroeconomic forecasts change, then so will our IFRS 9 impairment provision."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Now having said that, it is important to recognize that the macroeconomic forecasts are a net forecast based upon potential future impairments driven by coronavirus scenario, but offset by whatever government measures may be taken to soften those blows. So, our macroeconomic forecasts rest upon a net of those two. And we'll have to see if there are any changes going forward, what the net impact, if you like, of those two is."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Coming back to Q3, within Q3, as I said, we've seen pretty benign arrears experience. We have more or less maintained our ECL, now at £7.1 billion. And indeed, within that, we've had to work pretty hard to offset releases driven by the model to maintain that prudent stance. So our position right now, we feel very comfortable with, based upon macroeconomic assumptions as given to you today."
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Right. Okay. Thanks so much indeed."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Due to time constraints, we have one final question. It comes from the line of Benjamin Toms, RBC. Please go ahead. You're live in the call."
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Hi. Thanks for taking my questions. Two, please. Firstly, in relation to the PRA consultation paper that was published last week, which includes a proposed change to the rules in MDAs, if the paper would be implemented in its current form, does that have the potential to change the way the management thinks about its 1% management buffer? And then secondly, do you expect to recalibrate your property cost footprint following the crisis? Or is it still too early to say? Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Sure. Thanks very much for the question. I think on the first of those two, our ambition with capital, as we've demonstrated today, is to stay very comfortably ahead of any MDA or other regulatory constraints. As we stand today, we've got a BAU regulatory requirement of around 11%. The capital ratio today is 15.2%. So, there's obviously a very substantial buffer there. I think we would always look to manage the business comfortably in excess of whatever regulatory hurdles there may be."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On the property portfolio, I think that as we look forward, one of the things that we've done in our restructuring charge, and we'll continue to do, is look at the overall property estate. And to the extent it makes sense in the context of new ways of working, in the context of some of the learnings that we're taking out of the coronavirus environment, we will adjust that property portfolio accordingly. Again, we've done a little bit of that in the course of 2020. And as we look forward, we'll clearly be planning on what is the appropriate property network in the current environment."
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. That concludes your Lloyds Quarter results 2020. You may now all disconnect. Thank you for joining and please enjoy the rest of the day."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

@@ -1,0 +1,590 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] First question is from the line of Andrew Lim from Societe Generale. Please go ahead."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good afternoon. Thanks for taking my questions. One on Investment Banking and the ECM. I was wondering if we could talk a bit more about the SPACs business, whether you see that as being in a structural growth trend or whether we’ve just seen maybe one or two quarters of strength. And then also with that business, is that purely a fee business? Or does Deutsche Bank invest in balance sheet and SPACs? And then secondly, I think I might have missed this earlier, but could you explain why the CET1 capital increased as much as it did? I think it was a €1.7 billion increase, which can’t be fully accounted for by net earnings. So if you could explain the movements there."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Well, thanks, Andrew. Let me start with the SPACs business, clearly, a business which in 2020 grew and has shown a strong growth also with us. We have an excellent expertise in that business. And therefore, we took obviously the opportunity of the market to help our clients, to advise our clients. I think in the SPACs business, it’s all about actually working with the right sponsors. In this regard, we can say for us that we work with high-quality sponsors."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "As I said, a lot of expertise and yes, to your question, it’s in particular, obviously, a fee business. But what we can see, it’s not only the initial SPAC business, there’s a lot of add-on business with the SPACs with also some financing behind that. And therefore, it turns actually into a business where there is a lot of incremental and cross-selling. We are monitoring that business quite closely. Clearly, the market has grown. That also always means that you need to stay close to it, and that’s exactly what we are doing, not only from a business point of view but also from a risk management point of view, and that’s what I would add to this."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And Andrew, it’s James. On the CET1 capital, the driver was overwhelmingly the software intangibles rule change that was implemented in the quarter. So that was in total about €1.6 billion of CET1 capital. There was an offset from the NPE backstop, which was also implemented in the fourth quarter. So there is a netting effect. But by far, the biggest single driver was software intangibles, represented about 43 basis points on the ratio."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "That’s great. Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from the line of Jon Peace from Credit Suisse. Please go ahead."
+  },
+  {
+    "person": "Jon Peace",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes, thank you. So first question, please, is on costs. Sorry if I missed it, but did you give a figure for adjusted costs in 2021? Or was the indication just that it wouldn’t necessarily be linear between 2020 and 2022? And then a question, please, on capital return. I saw a headline on Bloomberg that you intended to pay dividends this year. Does that mean that you would be accruing something in capital to pay out in 2022? And then of your €5 billion of capital return for 2022, what’s your thinking there at the moment between dividends and buybacks and how quickly that €5 billion might actually come back to shareholders?"
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Jon, thanks for the questions. Starting with adjusted costs. Look, we’re not going to tie ourselves to the mast on a target for 2021. But we did provide in the Investor Day a – what I’ll call a planned number of €18.5 billion, same definition as this year. And of course, we’re going to work to meet or improve on that number. And as you say, we’ve been trying to indicate not linear, meaning of the €2.8 billion distance that we need to travel between 2020 and 2022, of course, less of that is achieved, call it, €1 billion in 2021 than is in 2022."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "One other thing I’d just note on that point is that does assume or build in the assumption on the single resolution fund assessment this year, which we called out as an assumption where advocacy was still ongoing in December and remains true today. On the capital return, yes, we would need to accrue for that expected dividend over the course of 2021. At this point, it’s too early to say exactly the path or the ramp-up of our capital distributions. Of course, we want to implement a dividend, and then where there’s some flexibility, we would certainly look at stock buybacks, particularly given where our share is today. The €5 billion is somewhat open-ended, but as we said in December, we see that as achievable within the five-year planning window that we have. And we’d certainly hope and expect that it will ramp up starting – in respect of 2021."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from the line of Jernej Omahen from Goldman Sachs."
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thank you, James Rivett, for all your help that you’ve given us over the years as well. I have a number of questions, but I’ll limit it down to two. So the first question I’d like to ask is when all is said and done in – about the 2020, the bank made a return of 0.2%. And I was just wondering, so when one thinks about the opportunity set, which was clearly challenging on credit risk side but very favorable on the revenue side, how – what levers are available to Deutsche Bank if fixed income revenues swing back to a level to where they were, for example, in 2019? Because I guess that potentially, it’s all good to look at the structural improvements that are undeniable that you’ve achieved on costs, but revenues, I guess, are not that much within your control. And then the second question I want to ask is on this €5 billion buyback that you’ve mentioned."
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "So €5 billion is broadly 10% of Deutsche Bank’s total shareholder equity – tangible equity today. So if Deutsche Bank hits the 8% return on tangible target, the €5 billion return of capital to shareholders, I guess, would equal around 60% plus of those profits over the course of two years. And I was just wondering, to what extent do you think various stakeholders like the rating agencies, how they would react to a potential reduction of the capital base of that magnitude? And perhaps just finally, this is really short, James, you mentioned that the tax was positive because there was a release of a nontax deductible litigation reserve. Can you just please let us know what that relates to, where there was positive resolution?"
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Jernej, let me start with your first question. First of all, obviously, the way to our 8%, which you indirectly asked, is a function of further stabilizing and growing our revenues. It is clearly our delivery which I think we have shown quite well over the last 12 consecutive quarters that we can manage and reduce costs, and we will do this going forward. And then I think everybody will also buy in that we will see a normalization of credit losses. And I think we have shown in 2020 not only that we are in control of that but that we are also spot on with our forecasting."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Now to your key question, revenues. I’m very confident that we can deliver the growth rates which we showed you and demonstrated you in the so-called stable business, Corporate Bank and Private Bank as well as DWS. If you think about DWS with, I think, an expected revenue in 2022 of €2.4 billion, if I look at the run rate right now, then we are very close, if not already there, shows me that there is underlying business. The momentum is clearly there. We have hit all internal targets in our plan in 2020 for those business which had the interest rate headwinds, and we have the underlying measures and action taken in the Private Bank as well as in the Corporate Bank to further boost our revenues there, and the Corporate Bank, in particular, in the payment area."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Furthermore, you know that we are continuing to charge the deposit rates to our corporates versus the end of the third quarter. In the fourth quarter, we added another €13 billion of charging, which obviously helps us. And then you may also have seen our initiatives for the German Business Banking, where, in my view, we underserviced that in the past, and we clearly came out with another initiative. So all the revenue initiatives in the stable business, and I could go on for the Private Bank, are ongoing."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Now to your question on the Investment Bank. First of all, I hope that we have shown extensive disclosure last month in December on our FIC business and how we see that. I think Page 8 of Ram Nayak’s presentation is telling the story, and that really gives us the confidence that a good part of the outperformance which we have seen in 2020 is sustainable. I mean we are clearly, at the end of the day, benefit from the execution work we are doing in the rates business. Ram talked about that. We are the house which is, I think, benefiting very much from the recovery in credit. The sustainability in funding costs is clearly there and also that we said."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So simply saying we fall back to 2019 levels is, in my view, something which we don’t see and where we see simply from the evidence from the reengagement of the clients and also rating upgrades or outlook upgrades which we have seen are helping us, obviously, we don’t believe that this is happening, and therefore our internal plan that a good part of the out-performance is sustainable. We firmly believe in, and to be honest Jernej this exactly the momentum we see also now in the New Year. I mean, if I look at the last five weeks, exactly that what we described to you four weeks ago or six weeks ago is happening and I can see the momentum in the business. So, falling back to 2019 level is in my view something, which is more than a downside and hence, I can only tell you from the initiatives we took that our base case in this regard is a firm one."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Jernej on the dividend payout, it’s an interesting question. I’m reminded of the U.S. banks in the middle or early part, middle of the last decade, where there was a similar debate. Can payout ratios rise 30%, 60%, 50%, 100% overtime? And it’s a dynamic of, is the industry generating profit that goes beyond its asset growth. In our modeling, we need to build in anticipation of the Basel III final framework effects. And so that’s really the main constraint in terms of our payout and that’s built into the model. But we think the assumptions are reasonable. Of course, they’re going to be subject to regulatory approval, and all of those discussions that go with it, but we think they’re reasonable as expectations."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Briefly on the tax item, it was a €14 million benefit on the tax line driven by really three things, litigation, as you mentioned, share based payments, and also a true-up of the tax rate during the year. I don’t want to go into the specifics of the litigation item, but what I give you kind of for color is very clear event that drove that release and it’s a partial release associated with the item and it was in Europe, if that’s helpful to your line of thinking."
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Okay. Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from the line of Daniele Brupbacher from UBS. Please go ahead."
+  },
+  {
+    "person": "Daniele Brupbacher",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes, good afternoon and thank you. I – actually, I only have two small clarification questions. James when you talked to, I think it was Slide 15, the Corporate Bank, you said that the performance this year for 2021, probably will be more like 2020. Just to be clear, is that referring to the top-line or pre-tax? So that’s one."
+  },
+  {
+    "person": "Daniele Brupbacher",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then on costs, I mean obviously you expect cost to go toward the 18.5 around 18.5 this year, then further down next year. Is there anything we should be aware of in terms of quarterly pattern? And also in the past I think you made reference to, how much of that expected cost cutting is already, let’s call it in the bag, so kind of decided and it will almost automatically – well, it never happens automatically, but it is kind of decided all and it should come through with a very high likelihood. Yes. That’s the two questions. Thanks."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. Danielle. Thank you for the questions. Look, we – it was really mostly the top-line I was referring to. And it’s the dynamic that we described also in December of relatively good underlying growth both in the Corporate Bank and the Private Bank from the drivers that you’d expect, transaction volumes, flows in the Private Bank, some degree of loan growth, which in the recent past has been offset by the impact of the interest rate curve or deposit margin compression. We see that as we’ve said abating in 2021 and also more dramatically declining in 2022. And so the – the sort of what you think is a bit of a hockey stick that Stephan described is really a function of relatively consistent underlying growth, more of which is showing through to reported income or revenues over time."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On the cost line equally I think we’d expect some improvement this year and then a more dramatic improvement in 2022. So, I would expect to see the operating leverage go from 1% to something a little bit better this year and then quite a lot better next year in the Corporate Bank. In terms of cost on the run rate, you’ll see in the quarterly chart that we show, we’ve been working hard to generate about €100 million sequential benefits each quarter over the last several years. We think that slows down a little bit. I’m not sure I’d commit to a specific quarterly pattern. Our goal remains to keep it at least flat, if not somewhat down as the year goes by. And as you point out at a run rate of EUR4.6 billion you annualize that and you quickly arrive at a fair amount of the work for the overall reduction we are planning for this year is already done. But as we’ve said, we’ve got a lot of work to do. We’re focused on the technology path and on building in a sense the momentum on the action this year to ensure that we hit our goals for next year."
+  },
+  {
+    "person": "Daniele Brupbacher",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thank you. Very clear."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thanks, Daniele."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question is from the line of Adam Terelak from Mediobanca. Please go ahead."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes, operator. Thanks for the questions. I had one on NII, and then a clarification on the – on capital and accruals. On NII, clearly there has been a step down Q-on-Q in both the Private Bank and the Corporate Bank. I was wondering if there’s any sort of episodic items to worry about in there, and whether you can call those out for both businesses but also kind of the outlook from here. Clearly you’re repricing deposits faster and faster, but that and loan growth haven’t been enough to defending the quarterly NII trim. So, whether the revenue mix going forward is going to be more skewed toward fees as we’ve seen in this quarter?"
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then on the capital side, I just wanted to ask on the AT1, is that now fully accrued for the year in capital in the year-end print or is there a catch-up accrual to come through when that gets paid – I think it’s May or whenever it is this year? Thank you."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thanks, Adam. So on NII, it’s an interesting line. There is more noise in the NII line then one would normally expect. You’re right. If I look at it on an annualized basis, we’ve looked at it essentially adjusted and reported, and interestingly, the compression you had in both the Private Bank and the Corporate Bank is about the same whether it’s adjusted or as reported. So, without having to walk you through all of the ins and outs, the direction or the quantum of travel if you like is more or less as you see in the financials."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Looking forward, there is still some compression ahead, but I would – but I think it slows, in part because take the example of the Corporate Bank the – we sort of lap the movement in U.S. dollar rates after the first quarter. And as I say, we’re slowing somewhat in the Private Bank, and, of course, NIM stabilization is part of the goal of our of our hedging strategies. In 2021, there will be again some noise. I would call out in particular the timing of the TLTRO revenue recognition as being one item that’ll introduce a little bit of volatility into the line. On capital, fully accrued is the short answer, the AT1 coupon."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "On the TLTRO, can you give any guide to a split between Corporate and Private Bank?"
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Off the top of my head, no. Both participate. I think it’s a little bit weighted to Private Bank given the locus of the of the euro deposits. To give you a little sense of timing, we recorded at a – we sort of, had a catch-up in Q4 to record at a 50 basis point rate, where we’ve been working with our auditors on the revenue recognition, which requires virtual certainty that you will achieve the loan balances that the scheme – that the incentive scheme provides. We think that, as we said last year, that will have a catch-up in Q1 this year as much as €125 million that we would see in Q1, and then in our, in our expectations, the next point where we have a catch-up would be Q3. Again as we believe we’ll get to a point of virtual certainty. So that’s where the lumpiness is in the quarters. And back to the recognition, I think more or less 50-50 is what you’d expect to see in the business in terms of how they participate."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "But pretty clear there’s no bonus rate in the Q4 run rate."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "There was a catch-up, not a bonus. We had not accrued at the 50 basis points in Q3, so there was a catch-up in Q4 to get to the 50 basis points, but not the 100 basis point inducement."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "But the Q-on-Q is less than the one seaside catch-up you’re talking about for Q1?"
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "The Q-on-Q would be a little less than that – would be more the 85 range of an increment in recognition."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then a step down. Perfect. Thank you."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "The step-down in Q2, backup in Q3. Sorry, to have complicated but…"
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "No. That’s okay. Thank you."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "But as we said, there’s a lot more noise in NII. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from the line of Stuart Graham from Autonomous Research. Please go ahead."
+  },
+  {
+    "person": "Stuart Graham",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Hi. Thanks for taking my questions. But first, a big thank you from me for James Rivett who – I agree has done a fantastic job over the last few years. I had a few questions please. First, Christian, you mentioned that the client trust is at its highest level since 2012. How do you measure that, please?"
+  },
+  {
+    "person": "Stuart Graham",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then my second question is on the EBA stress test. AS far as I can see the macro assumptions look very tough even for Germany. The market with shock, looks extremely tough after this seemed to hit the commercial real estate prices. So it looks harsh on your business mix and the static cost assumption does you no favors either. So, my question therefore is whether the EBA stress test creates any heightened risks to €5 billion capital return ambition."
+  },
+  {
+    "person": "Stuart Graham",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then the final question is a very short one. Within your guidance for slightly lower provisions in full-year 2021, are you assuming any further releases of Stage 1 and Stage 2 provisions, please? Thank you."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, so to your first question very quickly. This is a monthly survey we are doing with our private clients and corporate clients in Germany. And there we can see that we have now achieved a trust level in both segments of corporate clients as well as the retail or private clients, as we had last seen in 2012, and that was what I was referring to."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And Stuart on your two other questions, it’s early days on the EBA stress test. We’ve been looking at the last week at the assumptions that were published on the 29th. We agree with you. They are – it is a severely adverse case stepping off as it does from already a – as a recessionary environment and as you say the commercial real estate and a couple of other portfolio assumptions are quite severe. That said, very early days in being able to get a sense of how we come out of that stress test. There are, as you know, a lot of rules and methodologies that depart from our typical stress testing, so we do essentially have to go through the process. I think it’s even earlier to speculate how the ECB will incorporate the stress test results in their assessments of the banks, given, of course, the severity of the scenario and that we – we’re obviously in an unusual environment as we all recognize."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "In terms of stages one and two at this point, very early in the year, but our planning would assume more or less flat in stages one to two; maybe, either a slight build or a slight release in the year. I will say that we don’t yet know if and when we would reverse the overlay that we’ve talked about. So, there is at least some uncertainty in that path based on the overlay. We feel good that it’s conservative to carry that forward. But at a point in time, when we see more certainty and clarity in the macroeconomic outlook, we’d have to revisit that decision. And that is in essentially stages one and two provisions."
+  },
+  {
+    "person": "Stuart Graham",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thanks for taking my questions. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from the line of Piers Brown from HSBC. Please go ahead."
+  },
+  {
+    "person": "Piers Brown",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes, good afternoon. I’ve got two questions, please. First of all, on revenues, I wonder whether I can just tease a – some revenue commentary out of you for 2021. I mean, we’ve talked about the cost trajectory not being linear to 2022. I mean, should we be thinking about the revenue side being the same as that i.e., lower year-over-year revenues, 2021 over 2020 before rebuild up to the 2024 target for 2022. That’s the first question and then secondly, just on the Investment Bank, I’m just thinking in terms of the cost income ratio of 58% for full year 2020, what do you think we should be thinking of as a sustainable ratio? Thanks."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Well, on the revenue outlook, I think, again with – also with respect to our Investor Deep Dive in December, we show a stable development in the Corporate Bank, Private Bank and Asset Management. We do think that the initiatives we are working on will show slight increases, at least being able to fully offset the interest rate headwinds we have. And on the Investment Bank, I think we said very clearly that obviously, 2021 will not see an outperformance overall in revenues, which we have seen in 2020, but that in the trading business, but also in the origination advisory, we clearly, see that we gained market share that we make momentum and that all of the structural changes we did to the businesses, sub-business like rates, credit trading, the emerging market business, they are starting to pay off. They started to pay off in 2020 and with the reengagement of the clients we are very confident that a very good part of that outperformance is sustainable for 2021. And that, then obviously, also explains in our run rate for the year and then for 2022. Again, January in this regard, clearly supports this and in this regard, we are confident to achieve our plan for 2021."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And Piers, on the cost-income ratio, and if I think back to the model that we described in December, the implication of the numbers that Ram and Mark went through would give you a cost-income ratio between say, 55% and 60%, which we think is realistic, again, given the initiatives that we’ve been discussing around the technology investments, reengineering and simplification of our processes and also efficiencies in the infrastructure areas that support the Investment Bank. So that’s the ballpark that we’re working to and again, reflected in all of our initiatives and plans that we’re executing on as we speak."
+  },
+  {
+    "person": "Piers Brown",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Do you mind if I just ask a follow-up on the IB? I’m just thinking, just in terms of our variable resource, I mean, you’re 30% up year-on-year on revenues and the headcount is only up 3% and some of the big wins in the fourth quarter coming in areas, where we might not have expected them, namely equity origination, I mean, do you think there’s areas of the franchise where you would need to add additional resource on the headcount side, I guess, something in particularly, of the equity business?"
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Well, let me put it this way, I think we have done on the front office side to the adjustments which we committed to one and a half years ago, we always said that the further structural cost changes must income – in particular come from the back office side and from the infrastructure. Therefore, we invest heavily into technology, into the FIC reengineering in order to gain the efficiency here. I think we are well set up for the volume we have right now, which we have seen in Q4 and hence we feel comfortable with the level of resources, which we have given to the Investment Bank and again, no further cuts were planned, because we think we have now the right platform to act from."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Mr. Brown, are you finished with your question?"
+  },
+  {
+    "person": "Piers Brown",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes, sorry. No, that’s great. Thank you. Thank you very much. Very clear answers."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from the line of Magdalena Stoklosa from Morgan Stanley. Please go ahead."
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Hi, good afternoon. Do you actually, hear me well?"
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We can hear you 10 by 10, Magdalena."
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Okay, great. Thanks very much. I’ve got two questions and of course, a huge thank you to Mr. Rivett as well and all the best in your future roles as well. So, two things, really; first is the deposits charging, because I think that, because we’ve seen the €85 billion that you’ve done this year, of course, the vast majority of that in the Corporate Bank and of course, it is a big part of the kind of defense of the NII. but my question really is how far can you take the re-pricing from here? How much more of the – either corporate or maybe, kind of wealth deposits do you think you can continue re-pricing into 2021? So, that’s my first question."
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And my second question is really about the costs in the Investment Bank, but more from a geographical perspective, because you run quite significant currency mismatch in your investment bank. I mean, similarly to other and the global institutions. You’ve got revenues in U.S. dollars and euros, and you’ve got costs in sterling and U.S. dollars. So effectively, I think if you look at that – the structure of that business operationally, two, three years out, how likely is it that you will concentrate more of the Investment Bank in the Continental Europe, particularly, also given the fact that financial services ended up with effectively, very little cover in the Brexit deal so far? Thank you."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. Magdalena, let me take the first question on your deposit question. You’re right, with €85 billion. Actually, we have done more in 2020 than we initially expected. And that gives us all the confidence that obviously, we can continue both on the corporate side, but also on the Private Banking side in order to selectively, grow that ratio. You will not see a development like we have seen in 2020 that it simply doubled from €85 billion to €170 billion. That would be unrealistic. But if I compare our deposit strategy now with that what we actually wanted to achieve at the beginning of 2020 we are far beyond that point and we have the confidence that we can further increase. That will be done selectively in both businesses, because you always have to look then also at the overall relationship and hence, I can’t give you a definite amount, but I can tell you that it’s both in the private banks and corporate strategy to follow up there."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Magdalena, I’ll just add, we showed in the Investor Deep Dive, my deck in the appendix Page 32, an update of the euro current account volumes or site accounts; and by business, and what you’ll see if we re-price now accounts representing €78 billion in Corporate Bank that was against €128 billion in total of, call it, addressable deposits, which is a relatively high percentage so – which underscores Christian’s point about sort of more modest benefits from here. If you then look at the same schedule, and by the way, the number hasn’t changed a great deal to December. If you look at the same schedule for the Private Bank, at around €8 billion or €9 billion deposits in client accounts against, which they are charging agreements, you can see it’s a much smaller percentage. But to Christian’s point, the question there is how you advance through the various tiering levels. And also, the interesting thing in both businesses, especially in the Commercial Bank and the Private Bank sort of it’s a granular discussion with the client around the overall relationship, whether there is a tiering level, whether there are other business opportunities, or the clients can move from deposits into investment products."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, it’s a relatively rich dialogue. On your currency, which is why by the way of the €100 million that we talk about in re-pricing in Private Bank, a relatively small portion of that is actually interest revenues. most of it’s in the broader relationship. Currency risk in the IB is a feature, you’re correct and we’re not alone by the way in having a mismatch, particularly in the sterling expense base relative to sterling revenues. I don’t see a dramatic shift necessarily in that relationship. Of course, with Brexit, we’re – we’ve been slowly migrating activities to the continent, and that will continue, but I don’t see there being a wholesale or noticeable shift in the near future."
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from the line of Jeremy Sigee from Exane BNP Paribas. Please go ahead."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thank you. Firstly, a clarification, when we’re talking about capital planning, you said that you need to retain some of the earnings to fund the Basel IV step-up in 2024. I just wondered whether you expect to fund the whole of that RWA increase and need capital for all of that or whether you can offset that partly by easing down the ratio that you’re going to apply in a post Basel IV world? So that’s my first question. The second question was on costs in the Private Bank. You talked about the year-on-year reduction, but there was also a lot of reduction during the quarters, and the 4Q run rate was quite a lot lower that sort of €16 million, €12 million compared to 1Q to 3Q. So, I just wondered if that’s a representative run rate coming into 2021, can we base off that 4Q cost level in the Private Bank."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Great question, Jeremy. So, on the first, we do not assume a change in our ratio target over the, again, projection period. I think it’s conceivable, and in the medium term that one might look at it depending on what changes there are in the environment around us. but for our purposes, the 12.5% remains the planning assumption. As it relates to the Private Bank expenses, we do call out that there was sort of a one-time pension benefit in the quarter. So, if I were to give you a run rate, I’d probably add back about €40 million to give you the step-off into 2021."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Fantastic, that’s very helpful. Just can I throw in another clarification? I feel like you’re itching to be more specific about your January investment banking revenue performance. You mentioned that the trend has continued. I wondered what you meant by that. Do you mean the trend of growth? So we’re also up again year-on-year in January or do you mean the trend level – that it’s at a similar level to last year?"
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "No way. I would be more precise and would refer the word trend to growth. And you have seen a growth in the fourth quarter, and if I say the trend continued in January, then I refer to that and potentially I’m even a bit more positive."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Fantastic. That’s very helpful, and congratulations to James and to Ioana as well. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from the line of Andrew Coombs from Citi. Please go ahead."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thank you. Three technical clarification for James, if it is possible? The first, coming back to the adjusted costs in the €18.5 billion, I think the caveat you added was around the Single Resolution Fund assessment. I know previously when you talked about that, you mentioned if the fund side which go from €55 billion to €70 billion, it might be an extra €300 million for yourselves over the next two years. So, can you just clarify what’s in your best case €18.5 billion? Is that assuming the fund size stays as is or it is upside?"
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "So that’s the first question. Second question, a very quick one. But on the Corporate Center, the VNT difference is obviously some lumpy numbers there during 2020. I know that’s linked directly to your credit spreads. So a, can you can give us some sensitivity there would be helpful. And then my final question, just on the CRU, I know you talk about a leverage exposure coming in, €8 billion ahead of guidance but I think originally your target there was the sub €50 billion before you changed it. You’ve also talked about another change in the perimeter, in the first half adding another €10 billion. So that means just elaborate a bit more on the premature changes we have seen, both in 2020 and expecting in first half 2021? Thank you."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Sure, Andrew. Let me take those – so the assumption on the SRF assessment is in a ballpark of €300 million for 2021. That would assume a change in the assessment basis from what the current expectations are, which is why we wanted to call it out. And it’s, by the way, more consistently with the assumptions that we used a year ago. We had always assumed that with a – of declining and simplified balance sheet, that would over time be reflected in our assessment. Of course, we didn’t expect that the assessment would begin to float up based on higher levels of liquidity in the system, and hence the reason we called it out."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "What we don’t want to do is make radical changes and harm the company by attempting to offset that additional €300 million. And as I mentioned, we continue to engage on advocacy steps because we think it – it would be a – the policy does take a lot of capital out of the banking system at a time when I think the authorities would like to see it still in the banking systems. So we’ll see where that comes out. It would add, we think, about €300 million to the assessment this year if it were to move to the €70 billion or stay at the €70 billion and the multiplier that was applied in 2020."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "In VNT, the sensitivity really isn’t on credit spreads and actually most of the owned credit spread sensitivity is in the businesses. The VNT sensitivity, for the most part is actually FX basis, and that was what drove the year-on-year swing in VNT. To some degree, interest rates but that is hard to give you kind of a DVO on because it does depend on the curve and shape of the curve."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "As it relates to the CIU leverage exposure perimeter, we reset the target in December given all the things that we’d learned over the course of the year 2020, including by the way just an allocation change in central liquidity reserves. But it included as we mentioned 2020 being more focused on risk-rated assets, a decision that the economic choice was to allow more the leverage exposure to run off. And so, that was really – that was the true up in December to new targets. The last time we called out in the prepared remarks were SACCR or SACCR, and it does have an impact on leverage exposure in the second quarter we believe. We are still working through, so if the estimates of what that could imply for the group of which the CRU would take a piece. But both of those changes were baked into our 2022 target for leverage exposure. Hope that helps."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "It does indeed. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from the line of Amit Goel from Barclays. Please go ahead."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Hi. Thank you, and also thank you to James Rivett as well for all the help you’ve given. So yes, two questions, maybe both are a bit more of a follow-up. So I just wanted to come back on the NII trends within the Private Bank in particular in the quarter. So I just wanted to check this, in terms of the base final or going forward, so there was I guess a little but if a catch-up or part of that catch-up in Q3 on the 50 bps. In terms of – sorry, in Q4. In Q3, how much of a benefit was there? Because it just seems like quite a big step down, quite a bit change in kind of reported trend for the NII."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "So just trying to understand those dynamics a little bit better. And then the second question – also yeah, just coming back to the FIC trends. I think at the Investor Day, you also gave some color on year-on-year trends for each month of 2020. I think January you said at that time was up 49%, but we don’t have the specific kind of starting point as such. So just trying to get a sense of how significant January was in the context of Q1, 2020. Thank you."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And if I go in reverse order, the first quarter saw relatively strong performance in January and February and of course, March was then heavily impacted by the crisis environment that we found ourselves in. I don’t want to go into specific client– product-by-product area analysis of those months but the comparison, at this point is to a point in time where the franchise improvement was beginning to show as it was already partially in Q4 of 2019. So again, we feel like there has been an ongoing improvement in the franchise, that’s visible to us and I think Ram spoke to in his in his monthly comparisons."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "In the PB margin there actually wasn’t much in the way of TLTRO. We were accruing at a rate of, I think blended rate of about 17 basis points at that time. So the bump isn’t TLTRO. I’d have to come back to you on what was sort of not straight line about the development that you see– the quarterly development in the PB line. As I mentioned, it’s – on a reported basis, a noisier line, then you might expect, but we can follow-up with you on what specifically fell in Q3."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from the line of Anke Reingen from RBC. Please go ahead."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes. Thank you very much for taking my question and thanks to James and all the best for the future. Two more like, follow-up questions. First is on the provisioning line where you gave us the guidance for 25 to 30 basis points in 2022. Now I understand obviously, it’s quite hard to know where 2021 comes and by the way you currently stand, is it more like a gradual decline or should we, obviously see the second half as more on the 25 basis points? What is your expecting – expectation for 2021 on the current basis?"
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then secondly, about your variable compensation. Just looking at the Investment Bank, obviously, there is strong revenues but compensation flat. I just wondered if you can share some light about – I think you said at the Investor Day you’re compensating staff for performance and maybe you’re not, or is there any change in the way you bought your stuff in terms deferral or cash or fixed, I just wondered what the message here is on variable compensation and performance. Thank you very much."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thanks for the questions, Anke. So on provisioning, you may have thought. It’s odd to give a range for 2022 and not for 2021, but it reflects that frankly the outlook is still quite uncertain in 2021. As we say, we do think there is an improvement sequentially year-on-year. Whether that’s, I’ll go back to the use of the word linear from 2020 on the way to the now normalized level, remains to be seen. As I mentioned earlier, I think we’re looking at it more cautiously optimistic perhaps than even a month or two ago."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I will point out that the fourth quarter provision was just 23 basis points of CLP which although we were in a pandemic environment and I think some of the, the CLPs can still be attributed to the COVID environment that already as we’ve – is trending toward a normalized level for us. So, all of which is to say at this point hard to really judge exactly where 2021 will be, but we are, as I say cautiously optimistic on the improvements relative to 2020."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Look, Anke, on the compensation, like the standard process here, we are finalizing that over the next weeks when the final, final numbers for 2020 are then published including the Compensation Report but of course, we stick to that what we said, that we obviously must compare ourselves to the compensation development in the industry and pay for performance. I think the financial performance as we all see has been significantly better than last year. And in this regard, on the one hand, we will make sure that we pay for performance, and on the other hand, as we have done in the past, we are very attentive and responsible also to find the right balance we think also in this regard, we are on the right path, but again to final decisions needs to be taken over the next coming weeks."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Okay. Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "There are no further questions at this time, and I would like to hand back to James Rivett for closing comments. Please go ahead."
+  },
+  {
+    "person": "James Rivett",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, Christian. Thank you, James. And thank you everyone for your kind remarks. You know where Joanna and her Investor Relations team are, should you need her. And I hope to speak to you all very soon. Thanks, guys. Bye."
+  },
+  {
+    "person": "James Rivett",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

@@ -1,0 +1,710 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. [Operator Instructions] We already have the first question from the line of Francisco Riquel from Alantra. Please go ahead."
+  },
+  {
+    "person": "Francisco Riquel",
+    "role": "questioner",
+    "position": "Alantra",
+    "text": "Yes. Thank you for taking my questions. First is on NII in Spain, which has surprised positively. We have seen local peers raising guidance. So I wonder if you can update on your guidance for 2024 and detail the main assumptions behind it? And then how big a lift shall we expect in 2025 with the current yield curve?"
+  },
+  {
+    "person": "Francisco Riquel",
+    "role": "questioner",
+    "position": "Alantra",
+    "text": "Also connected to this, the NII in the corporate center because the Spanish liquidity, I understand is remunerated here. So you can provide any comment to better assess the combined NII performance of Spain and the corporate center?"
+  },
+  {
+    "person": "Francisco Riquel",
+    "role": "questioner",
+    "position": "Alantra",
+    "text": "And my second question is on capital after the 20 bps front loaded in first quarter for Basel IV. You mentioned in the past 30 bps left for January 1, 2025. So, meaning that you're already in line with the 12% pro forma post Basel IV. I wonder if you can update on this Basel IV regulatory impacts and other headwinds that we should expect? And where do you see your CET1 target in the context also of potential countercyclical buffers? Thank you."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you, Francisco. Let me explain exactly how do we see NII basically going in Spain. First of all, I mean, we see really good trends as you can see in retail due to the fact that we had really good growth in clients. I basically talk about 630,000 net new clients in just one year. And the trend continues basically very positive during the first quarter as well, which we can basically have been able to add 130,000 new clients."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "It's important to say, and as I commented, that we see this continued trend also on the interest rates towards the second quarter to continue to go. All the different business basically are doing quite well. As you can see, I mean, CIB is also performing quite well and the commercial business, too, and that will basically give you the idea that we expect to have a very strong 2024 all along in NII in Spain."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "In terms of the corporate center of what we see there on capital, I will ask basically Jose to give you the details."
+  },
+  {
+    "person": "José García-Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "José García-Cantera"
+  },
+  {
+    "person": "José García-Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thank you, Héctor. Let me complement those comments. With the current forward rates, as Héctor said, we see NII still up in the second quarter, basically flat in the third and a bit down in the fourth. This would lead to NII in Spain year-on-year, up low single digits. Remember that we expected NII in Spain to drop a bit year-on-year in 2024 relative to 2023 with the current level of interest rates and forward rates, we see actually NII up in Spain year-on-year."
+  },
+  {
+    "person": "José García-Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "In the Corporate Center, the first quarter is a bit abnormal, because we increased the hedging. We always try to hedge at the beginning of the year based on our expectations for the different currencies. So I would expect the NII in the corporate center to gradually perform better, as future charges might be lower."
+  },
+  {
+    "person": "José García-Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Capital, Basel III. Let me make a general comment before I go into Basel III. There are a few elements -- well, several elements of uncertainty to European bank's capital and capital requirements in the coming quarters. The first is the U.S. has stated that they will not implement FRTB for the time being and that they will analyze the proposed Basel III rules to avoid having any unexpected impacts. impacts. It is therefore very likely that both the FRTB and the Basel III rules in the US will be quite different from the initial proposals. Europe needs to react to this because this will put European banks at a profound competitive disadvantage. It is not unlikely though that the commission will make use of its delegated act to postpone the implementation of FRTB beyond January 1, 2025. However, we don't think CRR is going to change."
+  },
+  {
+    "person": "José García-Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "In addition, the EBA needs to publish 140 technical papers to interpret the new directive -- capital directive. The EBA mandate is that in aggregate, all these -- the impact of all these papers must be neutral. But that doesn't guarantee that everyone and all these papers will be neutral themselves. This is the case, for instance, in the paper presented for consultation on advanced operational risk model calculation. So all in all, with the information we have today, we maintain our estimate for a very low day one impact of Basel III. So on January 1, the impact will be very low, zero to 20 basis points, and the fully loaded impact of between 30 to 50 basis points as we had commented before. So all in all, we would expect to be above 12% fully loaded and phase-in once Basel III comes into effect."
+  },
+  {
+    "person": "José García-Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Countercyclical buffers. If in Spain, in Spain we have approximately 25% of our risk-weighted assets for the group. So any countercyclical buffer will have a quarter of that amount impact on capital for the group. So if it's 50 it will be 12 basis points. If it's 100 basis points, it will be 25 basis points. Remember, however, that from the time countercyclical buffers are announced to the time they're implemented, there is a one-year lag. So any announcement will not impact capital requirements for a year. It most likely will not impact 2025 capital requirements or they might impact year-end capital requirements in 2025, but not 2024."
+  },
+  {
+    "person": "Begoña Morenés",
+    "role": "answerer",
+    "position": "Director, Investor Relations",
+    "text": "Thank you. Can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Question from Ignacio Ulargui from BNP Paribas. Please go ahead."
+  },
+  {
+    "person": "Ignacio Ulargui",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "Hi, good morning. Good morning, everyone. Thanks for taking my questions. I have two, if I may. The first one is on fees and fee generation in the quarter was quite good when looking to the coming quarters, what should we expect? Should we expect an acceleration of growth, driven by the good performance of CIB and Wealth Management insurance? Linked to this, I just wanted to see if there was any kind of one-off in the fees reported in the US, which jumped out quarter-on-quarter?"
+  },
+  {
+    "person": "Ignacio Ulargui",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "The second question is a bit linked to the capital debate. And I just wanted to better understand what is the organic generation that you expect, I mean, as profitability improves, I feel that 10 to 15 bps is to be a bit low and you could probably generate a bit more or you would be able that to additional growth of our revenue base? Thank you."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you, Ignacio. Okay. In terms of fee generation, okay, we have, as you can see, I mean, a strong Q1, 14% quarter-on-quarter. That's an 18% quarter-on-quarter growth in retail. Retail represents basically half of the quarterly growth, and it's basically solid commercial activity in all the regions and it's continued to do so, okay? You talk about the outstanding performance in CIB, that's 39% quarter-on-quarter. That's record revenue. This is basically what we've been doing in global transactional banking, and there is no one-offs whatsoever in all the bank and in the U.S. It's basically business as usual and client flow from all accounts, okay?"
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "In wealth, we have also a very strong recurring activity in private banking. Also, we have higher volumes in asset management. And as well in the insurance business, we have seen a very good trend and probably we see a very good trend coming from Brazil towards the end of the year that could help us out, okay?"
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Consumer growth came mainly from Europe, okay? Volumes grew and also the insurance fees recovered in Europe, and that shall help us as well. For 2024, we expect that trying to continue, as I told you, the fees are growing to reach mid to high single-digit. This is not an official target, but I can tell you that this is a trend that we see. This is mostly driven by the increase in CIB with the connectivity we have on wealth and payments and the growth in customer and transactionality."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And most of the global businesses, we experienced double-digit fee growth in 2024 as we changed the business model and we concentrate on the principality of the account. It's very important that you understand what the model change is about."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "The model change is exactly about that. When I was talking about to become the number one bank to our clients, this goes more to transactionality and fees than RWA consumption as we used to do in the past, okay?"
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, this is the basic change that we're executing today. So, you're going to see a much better trend towards that and the most disciplined part on the allocation of RWAs. With that, then I'll leave on the capital question to José. Thank you."
+  },
+  {
+    "person": "José Garcia-Cantera",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Hello Ignacio. Our organic capital generation post dividends is around 15 basis points per quarter. We think we can keep risk-weighted assets fairly flat throughout the year, very, very low risk-weighted asset consumption because of the asset rotation initiatives that I mentioned."
+  },
+  {
+    "person": "José Garcia-Cantera",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, we should be able to have available for capital growth or regulatory headwinds, 15 per quarter the next three quarters. We still expect 20 to 30 basis points of additional regulatory requirements and some positive contributions for intangible management. So, net-net, with all of that, we still see 12.40 to 12.50 capital ratio by year end."
+  },
+  {
+    "person": "Begoña Morenés",
+    "role": "answerer",
+    "position": "Director, Investor Relations",
+    "text": "Thank you. Can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question from Alvaro Serrano from Morgan Stanley. Please go ahead."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Hi, good morning. I've got kind of a couple of follow-up questions. Héctor, you gave details on the fee performance. I just want to circle back to U.S. again and Brazil. In the U.S. so is this -- I noticed you said there's no one-offs, but is this the run rate we should expect going forward? How is the pipeline looking? I realize there's no one-offs, but there may be seasonality?"
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And can you repeat, you mentioned in Brazil, there was a renegotiation [indiscernible] I suspect that's why the fees have been lower, but if you could repeat that?"
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And then the second question on NII. If you think through your comments on Spain, could I invite you to comment on Brazil and U.K., Brazil, obviously, very, very strong. It sounds like above the sensitivity you gave. Can -- do you expect -- what do you expect for the full year? Can it continue strong? And on UK, just when you think it can bottom? Thank you."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you, Alvaro. Yes, as I explained to you, the performance in the US is quite good. And look, we have a very strong pipeline. It's -- and if the markets are there and we're able to execute everything that we have I think we will have a very good trend. But as you know, that will all depend, I mean, how the market basically goes. But what I can tell you is that, the market is basically helping us out in that sense, and we will continue the trend if the market helps us. I'm sorry to repeat myself."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "In what we're looking at in Brazil is exactly you were saying, I mean, we had a one-off in payments that we had on the first quarter last year, which is not going to repeat itself. It was a big one, €195 million. So that basically slowed us a little bit, but I see the trend quite well in the sense that I see payments growing nice. And I also see that retail is helping us out also in the growth. And what I saw towards the end of the year, we see that if we continue that trend, that should help as well in insurance, in retail, so that will help us as well, okay?"
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So I see pretty good trends in that sense and the trends that will continue to be strong. In terms of NII in Spain, Brazil and the UK, I could tell you that the indications we gave at the beginning is that with -- if the rates continue the way they are, this is going to give us -- I mean, first of all, see the volume growth that we're having in Brazil. So it's important to understand, and the volume growth is coming from payments and from retail mainly. And NII, in Spain, already Jose gave you a very good explanation, but I will allow Jose to go deep into that detail on that one."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "In terms of the UK, let me go real fast to tell you what the trend is. I mean, as you have been seeing the UK basically will behave the same as our competitors are behaving, okay? The business, as you know, is very focused on retail. It's our core business, and we continue to improve their offering and the user experience. And we also are gradually continued growing and investing in the corporate segment and wealth to try to diversify away from retail, okay?"
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "NII is down 4.4% in the quarter, similar just as I said, to the UK banks. And all the big ones have the similar trends of us, but we're taking actions to improve the NII. We're doing pricing changes. We announced both deposits and lending in the first quarter, and we are trying to use the betas and to manage them in a much better way. And asset mortgage spreads also are improving in the UK market, so that shall help us towards the next quarter. So it wouldn't be as negative as we expected in the beginning of the year. And then we are also executing cost control efforts to help us on that. That is basically the main part that you're going to see in the UK. And the cost of risk is basically very well -- I mean, under control, and we expect it to be very much there. So with that, I'll ask Jose to basically give you more details in terms of Spain and Brazil NII."
+  },
+  {
+    "person": "José García-Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yes. So in Brazil, NII should gradually accelerate over the second half of the year. That means that year-on-year, we should see mid- to high double digits teens, not double digit teams, growth in NII. And in the UK, the performance for the rest of the year should be similar than the one we saw in the first quarter. We've -- as Hector said, we've seen a pickup in volumes, margins, customer margins were flat quarter-on-quarter. So year-on-year, for the full year, NII down a little bit, mid-single digits, something like that."
+  },
+  {
+    "person": "José García-Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "With all of these estimates, we believe NII for the group should grow quarter-on-quarter this year. So sequentially, we should see higher NII every quarter this year. And year-on-year, customer revenue, we've talked about fees and the strong performance in fees. So year-on-year, customer revenue should be very close to double digit in 2024 relative to 2023."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Thanks."
+  },
+  {
+    "person": "Begoña Morenés",
+    "role": "answerer",
+    "position": "Director, Investor Relations",
+    "text": "Thank you both Can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question from Ignacio Cerezo from UBS. Please go ahead."
+  },
+  {
+    "person": "Ignacio Cerezo",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "Hi, good morning. Thank you for taking my questions. There are two, both on the US. I don't think I have seen the slide you used to have in last quarter around the aspirational 15% RoTE target in the US. So if you can kind of update us basically on how quickly you think you can get to that number, and what are the main drivers and the main initiatives I've seen Openbank being launched in the US recently. So just a little bit of color basically on how quickly you can get to that?"
+  },
+  {
+    "person": "Ignacio Cerezo",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "And the second one is on the asset quality in the US. I mean, you used to give some information around PV's charge-offs in the past as well. I don't think I've seen those actually. So forgive me if I have missed them, but if you can give us a little bit of underlying color of how the US asset quality, delinquencies on the auto businesses are developing from here? Thank you."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you, Ignacio. Okay. In terms of the US, a particular thing is, first of all, I mean, as you know, we've been investing quite heavily on that market basically to concentrate ourselves in the most important businesses, which is consumer on one side, which is a business that we have at scale. We have also expanded a little money on the CIB side to be for our presence there. And we're also investing to become domestic in our private banking and wealth management capabilities to do it in a domestic way due to the fact that today, we are just basically for non-US alliance."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So those are the things that we're investing in the US to take it to a 15% RoTE. And I believe it's going to be more towards the end of 2025 that we're going to be able to get there, but still we're working really hard in order to be able to complete that."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "In terms of the asset quality in the US, let me explain you exactly how the trend is, first of all, we still see a strong labor market in the US. And the behavior of the portfolio continues to do very well. What has been happening is that we continue to see the trends in delinquencies above 90 days behave much better than pre-COVID, that remember pre-COVID was about 90%."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "We went all the way down to 59%. Today is more around close to in between mid-60s, and it continues to be like that. So as you can see, our cost of risk in the US has been pretty stable around the same levels, and we expect it to continue to be like that towards the end of the year. We don't see any surprises and the way the portfolio has behaved."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So circa around 2% that's where I see it. And now what we have done also is very much focused on profitability. We've been very strong on capital allocation. And we see that the origination that is coming through is quite good. And also, we are focusing on credit quality and the mix of the portfolio continues to sustain itself in around 40% prime and near prime, okay? So you see the portfolio very stable and in that level."
+  },
+  {
+    "person": "Ignacio Cerezo",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "Thank you."
+  },
+  {
+    "person": "Begoña Morenés",
+    "role": "answerer",
+    "position": "Director, Investor Relations",
+    "text": "Thank you, Héctor. Can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question from Carlos Peixoto from CaixaBank, BPI. Please go ahead."
+  },
+  {
+    "person": "Carlos Peixoto",
+    "role": "questioner",
+    "position": "CaixaBank, BPI",
+    "text": "Yes. Hi. Good morning. So the first question would actually be on the U.S. on the outlook for NII, how do you see it evolving throughout the year? Should we expect pressure to continue? Or could we also see a recovery trend in there?"
+  },
+  {
+    "person": "Carlos Peixoto",
+    "role": "questioner",
+    "position": "CaixaBank, BPI",
+    "text": "And then second question, and sorry if you answered it before because I'm not sure you did. On the cost of risk in the U.K., it remains at quite low levels. Do you see this picking up throughout the year? Or should we -- or should we see the first Q level something recurring throughout the year? Thank you very much."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Sorry. Thank you, Carlos. First of all, on the outlook of NII in the U.S., I see it flattish, okay? Let's see how volumes basically turn out. And as I explained before, since we are very much focused on profitability and also in capital allocation, I see that it's going to be flattish around there, okay? And in terms of cost of risk in the U.K., sorry. The cost of risk in the U.K., as I told you before, when I was explaining Alvaro, I see it very flattish. I mean the guidance is going to be at around 11 basis points to 14 basis points at the most. So below 2% -- sorry, below 20 basis points."
+  },
+  {
+    "person": "José García-Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So if I may add, we -- as I've said, we see no asset quality pressures anywhere. Labor markets are very strong, new employment, new job creation is also very strong everywhere. So we see really no pressure. There's no signs of asset quality deterioration. So we could extrapolate what we've seen in recent quarters in the U.K., we could extrapolate for the rest of the year."
+  },
+  {
+    "person": "Begoña Morenés",
+    "role": "answerer",
+    "position": "Director, Investor Relations",
+    "text": "Thank you. Can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "From Marta Sanchez Romero from Citi. Please go ahead."
+  },
+  {
+    "person": "Marta Sanchez Romero",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Thank you very much. Good morning. My first question is on capital. So the Bank of Spain were to introduce the CCI of 100 bps, that is 25 bps for you, but that would leave your 12% fully loaded core equity Tier 1 ratio, leaving or implying an MBDA buffer of just about 177 basis points, which is pretty low for European standards. So do you think that 12% fully loaded Tier 1 ratio target is still the right one in that event?"
+  },
+  {
+    "person": "Marta Sanchez Romero",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "And the second question is on the U.K. So the bottom line is now 25% smaller than last year. Is the shrinking going to continue? Or do you think you can stabilize earnings at current levels?"
+  },
+  {
+    "person": "Marta Sanchez Romero",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "And just quickly a clarification on a previous question. The revenue growth that you are foreseeing, is that just reported revenues? And is that in constant or current euros? Thank you."
+  },
+  {
+    "person": "José García-Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Let me answer your final question. We are estimating almost or around double-digit revenue growth in constant euros with Argentina in current euros. Obviously, in current euros or in euros with Argentina in constant might be higher than that. But as I explained, we believe this is the best reflection of our underlying performance, eliminating the distortions of hyperinflation in Argentina."
+  },
+  {
+    "person": "Marta Sanchez Romero",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Thank you."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "In terms of capital, what I can tell you is basically that exactly, as I said, I reiterate that we're going to end up the year at around 12 40 to 12 50, okay? And I really do believe -- actually reiterate that we're going to be above 12% after Basel III. I would be -- that would be the main points."
+  },
+  {
+    "person": "José García-Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yes. And again, the countercyclical buffer will be implemented in a year's time. So again, the capital target is being decided by the Board. The Board might review that capital target once the variables that led to that capital target might change, but we are going to be comfortably above 200 basis points MDA with our actual capital buffer."
+  },
+  {
+    "person": "Begoña Morenés",
+    "role": "answerer",
+    "position": "Director, Investor Relations",
+    "text": "Thank you. Can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question from Britta Schmidt from Autonomous. Please go ahead."
+  },
+  {
+    "person": "Britta Schmidt",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "Yes. Hi, there. Thanks for taking my questions. I've got two questions. You sound more optimistic on net interest income in Spain, UK and Brazil. But yes, there's more been no change to the official group targets for 2024. What is the delta here? And what do you think is the biggest delta to consensus? And then secondly, you guided to double-digit customer revenue growth and the group revenue target is mid-single digit. What's the delta here for 2024? Thanks."
+  },
+  {
+    "person": "José García-Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "As we saw in the first quarter, just the monetary adjustment in Argentina, in the first quarter was €600 million. We have €1.2 billion monetary position in Argentina, and inflation was 51% in the first quarter. So just that in the first quarter was €600 million. That's what we are trying to avoid by looking at constant. So there are charges to the P&L that obviously we don't control. So that's the reason why we haven't changed the revenue target for, I mean, the total revenue target for the group, mid-single digits, but we believe that the customer revenue growth can approach can be close to double-digits."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Britta, in terms of the revenue overall, as you were saying in NII, Yes, I sound optimistic because I'm very optimistic of the trends that we have in front of us. And I reiterate that we're going to meet the 16% RoTE that we basically have announced onwards, I believe that is -- it looks good and it looks promising, but I reiterate the guidance that we have gave you."
+  },
+  {
+    "person": "Begoña Morenés",
+    "role": "answerer",
+    "position": "Director, Investor Relations",
+    "text": "Thank you. Can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question from the line of Sofie Peterzens from JPMorgan. Please go ahead."
+  },
+  {
+    "person": "Sofie Peterzens",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Hi, here is Sofie from JPMorgan. Thanks very much for taking my question. So I was just wondering about the net cost guidance for 2024. Does it still hold your costs were up 5% in constant euros, 7% in current euros, so how should we think about that as cost guidance that you previously gave? And then my second question would be on rates sensitivity to 100 basis point change in rates, if you could just remind us what that means for Spain, Brazil, the U.K., U.S., all the core markets? And also, if you have any hedging in place to reduce that rate sensitivity?"
+  },
+  {
+    "person": "Sofie Peterzens",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And then my final question would be on Slide 5, you say that your -- you only got 5 million new customers year-on-year. But at the Investor Day a year ago, you targeted, I think, 75 million new customers. Just like a strategic question, maybe it doesn't make it different if you only have 5 million new customers or does it make it difference? And how do you plan to get the 75 million new customers that you guided for at the Investor Day a year ago? Thank you."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you, Sofie Let me answer you the last question first. I mean, what we've been doing here is basically, we are cleaning up a lot of our customer bases. And even though we are growing quite hard, we've been cleaning up that and basically that's, at the end, what's going to be telling -- I mean, moving up towards the number of customers that we are able to include. We're going to be working on that. And -- but I mean, the growth of customers basically is very strong in all different areas and in all different businesses."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "In terms of the cost, I was basically -- as I explained to you, I mean, this remained fairly stable for the third quarter in a row, okay? As you have seen, that's close 1% quarter-on-quarter."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "If you exclude Argentina, that's minus 3% because Argentina is moving the numbers up and down. That's plus 2% year-on-year in real terms, and that's a cost to income at around 42.6% and this is in track to our 2024 target of below 43% cost to income. And I believe that we're going to be able to get to that."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Cost efficiencies are just coming from operating leverage through simplification of products. If you see the amount of product that we have simplificated, we have 10,000 different products, today, we're down to 7,500 and automation, which is a very important part."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And I was explaining you in the change of model how we're changing the non-commercial FTEs to commercial FTEs. And this is something that, in time, will help us to control costs much better than we've been doing, okay? That's basically the efficiency gains."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "If you look at that simplification gave us 17 basis points year-on-year of savings. Automation is helping us out, 58% of product services are now digitally available, okay? That's 2 percentage points in help versus December 2023."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And if I can tell you an example, the U.S. have captured €10 million in efficiencies just in Q1 alone. And that's €210 million since we started the process in 2022, and that's just in consumer and retail."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, it's very important that we also remember that one transformation is not a really cost-cutting exercise for the creation of the single model and with several other benefits, and this trend will continue on and on helping us out as we change completely the model of the way we operate the bank, okay?"
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, to reiterate is basically to tell you that we're going to be in our target below the 43% cost-to-income for the rest of the year."
+  },
+  {
+    "person": "José Garcia-Cantera",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Now, in terms of rate sensitivity, there hasn't been any change in all countries, in most countries, but Europe, let me -- in euros. Let me explain. So, in the U.S., it's plus/minus €150 million; in Brazil, plus minus €150 million. In the UK, it's plus/minus €200 million; but we have reduced the sensitivity in euros, in Spain, in particular, significantly."
+  },
+  {
+    "person": "José Garcia-Cantera",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Let me make first 1 particular comment about the UK. Our structural hedge in the UK is £113 billion with an average duration of £2.4 billion. It was £106 billion in December. So £113, 2.4 years, average duration. And in Spain, we have been hedging our balance sheet through a combination of different actions, basically originating -- adjusting the origination buying ALCO portfolio."
+  },
+  {
+    "person": "José Garcia-Cantera",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We now have €30 billion ALCO in Spain at an average duration of between six to seven years at 3.25% yield. And we have been also writing some hedges. The result of that is that of the €240 billion risk-weighted assets, €250 billion average earning assets, we have in Spain, 60% is floating, 40% is fixed. That's significantly higher fixed portion than before. So now we have now lower sensitivity to rates in Europe."
+  },
+  {
+    "person": "José Garcia-Cantera",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Sorry, Sophie, just to be more precise, what I was saying is the cost to income is going to be below 43%. That's efficiency that we have said for the year, and we reiterate that. And efficiency this quarter was 42.6%."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Let me -- so let me just finish. The NII sensitivity compared to the average of the major competitors we have in Spain has been reduced to 7.5%, compared to their sensitivity at 5%. And we expect to continue hedging the balance sheet as we in the future. Obviously, the decision to this gradually has proven to be good in the sense that rates, curve rates, interest rate curves have picked up a bit, so that has allowed us to earn higher NII and also more time to hedge the positions. But again, we are gradually hedging our interest rate sensitivity in euros, reducing duration through the combination of all these actions that we've taken."
+  },
+  {
+    "person": "Begoña Morenés",
+    "role": "answerer",
+    "position": "Director, Investor Relations",
+    "text": "Thank you. Can we have the next question please."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question from Andrea Filtri from Mediobanca. Please go ahead."
+  },
+  {
+    "person": "Andrea Filtri",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Thank you for taking my question. The first is on your profitability targets. You're above 16% RoTE guidance for 2024 implies more than €12.4 billion net profit this year with Q1 on track to hit that with tailwinds in H2 that you indicated in Brazil, in the UK reticketing portfolio in consumer with lower rates. Can you be more specific about your profit target for this year and give us an insight on the 2025 RoTE outlook?"
+  },
+  {
+    "person": "Andrea Filtri",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Second question, if you could give us a target for 2024, group costs in absolute million? And where do you see them going in 2025?"
+  },
+  {
+    "person": "Andrea Filtri",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Finally, a quick one on the insurance business, the new banking package improved, the treatment of insurance activities inside banks. Could you consider internalizing this business? Thank you."
+  },
+  {
+    "person": "José García-Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thank you, Andrea. You're right. I mean, we are confident that we are going to reach the 16% target that we set in terms of ROTE for the year. And as we said correctly in our Investor Day, we said 15% to 17% towards 2025. And we are working towards that, and we are working very hard in order to be able to do it. But today, I reiterate to you that we're going to be at the 16% that we have set, okay?"
+  },
+  {
+    "person": "José García-Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "In terms of cost, what we have said is basically around less than 43% in the terms of cost to income. If you see the numbers that we have been, we've been very disciplined in terms of -- and what we have said, I mean, if you said it, is you saw is quarter-on-quarter is around 1% top, and we're going to be very disciplined about it. And if you see the operational leverage that we have on the -- what I presented on retail, you see that the operational leverage is working like that, okay?"
+  },
+  {
+    "person": "José García-Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So our target is basically to maintain cost the way it is. And I believe that the trend would continue like this. So I feel very confident on the way we're managing things. And I believe that we could be able to reach and to be more or less flattish in terms of cost. The question of insurance is quite a good one. We love that business. We believe that we have huge upside mainly in markets such as Spain and in Brazil, I could tell you, Mexico where insurance penetration is quite low. So we see huge opportunities on that, and we continue to better up our systems. For example, we are simplifying products in that sense in a very important way."
+  },
+  {
+    "person": "José García-Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Today, average by market, we have 222 different products per market. The idea is basically to go down to 25 basic products that I believe that would help us in order to be much more concentrated for our teams to be able to sell to the clients exactly what they expect and to continue a really good trend. So that's a huge opportunity, as you say. The other side of the coin is that we have JVs that in place on the long-term basis, mainly in Latin America and Spain and Portugal. And then we will continue to have them over the years because they are long term."
+  },
+  {
+    "person": "José García-Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "I would love to internalize that business, what unfortunately is what it is. We have the JVs and we need to respect what we have there. But as you say, there's a huge opportunity in that sense, not just because of the change and sweets in regulation, but also because of the -- the advantages and that we have given the amount of customers that we have and the low penetration in the different markets."
+  },
+  {
+    "person": "Andrea Filtri",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Thank you."
+  },
+  {
+    "person": "Begoña Morenés",
+    "role": "answerer",
+    "position": "Director, Investor Relations",
+    "text": "Thank you. Can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Benjamin Toms from RBC. Please go ahead."
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Thank you for taking my questions. At the full year results, you noted that you do not expect any material impact from the FCA's review of mode's Finance in the UK. And since then, one of the large banks in the UK has made a significant provision in respect to that issue, do you still expect no material impact here? And are there any numbers you can provide us with to help frame the issue? And then secondly, we've seen consolidation in the space in the UK from banks looking to improve their return profiles, your ROTE in the UK is slightly below that of your major peers despite a favorable asset mix, do you believe you can improve returns in this geography using organic methods? Thank you."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you. I mean, first of all, on the UK motor finance issue, I mean the resolution of such matters, as you know, is not possible to predict. There are some significant uncertainties that remain with regards to the existence, the scope and the timing of any possible outcome there. So as a result, we're not yet in a position to disclose the extent of any potential impact. And I don't believe until basically this, I understand there is an expert basically running through that. So I don't believe that we can give you an idea."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "What I can tell you is that so far, we're doing well in the sense of the settlements that we have. And so far, we've been doing better than we expected. In terms of consolidation in the UK, I don't see that we should play in a consolidation at this point. I don't believe that that's a market that we should invest more at this point. That would be my view in that sense."
+  },
+  {
+    "person": "Begoña Morenés",
+    "role": "answerer",
+    "position": "Director, Investor Relations",
+    "text": "Thank you. Can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question from Chris Hallam from Goldman Sachs. Please go ahead."
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Yes, good morning, everybody. So two for me. So first on Basel IV and then on Argentina. So hope thanks for the color earlier on Basel IV. I mean I suppose it sounds very possible that FRTB gets pushed to align with a revised US time frame, let's say, towards July 1, 2026. And you mentioned the delegated act provision for FRTB here in Europe. So just within your day one and fully loaded guidance, how much is FRTB and how much is all the rest of it, i.e., if we only get parts of Basel IV in January 1, 2025, and then FRTB follows on July 1, 2026, how much would that change the phasing of the capital headwinds you talked about earlier?"
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "And then second, on Argentina. So clearly, it has quite a distortive effect on the group figures. And then there's the associated cost of hedging, and it's below 5% of group earnings. So I just wondered whether you've reassessed your footprint plans in Argentina, I guess, especially in light of the announcement that one of your peers is exiting that market? Or are there any sort of interconnectivity with other parts of the group that would make such an exit on economic?"
+  },
+  {
+    "person": "José García-Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So the answer to your third question. Yes, when -- we've always mentioned Basel III, but when we gave the impacts, we were including FRTB, you're right. So when we said day one impact of Basel III, was Basel III plus FRTB. FRTB isolated is 10 basis points. So if FRTB gets postponed, we will not have this 10 basis point impact on day one that we were accounting for in our estimates. I hope this clarifies the matter."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you. In terms of Argentina, I think that we need to leave our options open given what's going on in Argentina, basically can sustain what's going, and we're trying to be positive about what could happen, I don't believe that we have no downside or upside given the situation. So there are no plans to do anything at this point, and we'll just wait and we will continue operating our business."
+  },
+  {
+    "person": "Héctor Grisi",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Our business is doing well. It's very good structured, is one of the best banks that we have in terms of client penetration, in terms of the transactionality that we have from our clients, fee generation. So we will continue to be there and see what our options are later on"
+  },
+  {
+    "person": "Begoña Morenés",
+    "role": "answerer",
+    "position": "Director, Investor Relations",
+    "text": "Thank you. Can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The last question comes from the line of Andrea Filtri from Mediobanca. Please go ahead."
+  },
+  {
+    "person": "Andrea Filtri",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Yes, thank you. Just having a second go. Asking for absolute numbers on your net profit guidance for 2024, the 16% rate implies over €12.3 billion, can you be more specific about what number you're actually targeting? And then your own cost, the same story. I'm asking for a nominal euro-denominated group cost target for 2024? Thank you."
+  },
+  {
+    "person": "José Garcia-Cantera",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Insufficient numbers and growth rates in the P&L to really estimate what we believe is our most likely figure for net income and cost. So, again, for net income, 13% -- sorry, 16% return on tangible equity gives you a figure in line with what you are saying around 12 -- north of €12 billion, it's what -- it's the conclusion of the 16%, we agree with that."
+  },
+  {
+    "person": "José Garcia-Cantera",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And in terms of costs, we are looking at a cost growth, which is going to be around 2% this year, 2% to 2.5% this year. Going forward, as we've discussed, we are targeting flat costs in absolute terms going forward. That is going to be difficult. Obviously, we are still in a relatively high inflationary environment."
+  },
+  {
+    "person": "José Garcia-Cantera",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We believe that -- well, it is a very ambitious target, but that's the internal target we have. We haven't given any guidance for 2025. But what I'm saying is that long, medium term, our target is to keep costs flat or down in absolute terms."
+  },
+  {
+    "person": "José Garcia-Cantera",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We are not there yet in 2024, close. We think we could be closer there in 2025, but it's too early. We are still in early 2023 -- sorry, 2024. So, we'll give you this guidance in due course. But again, our medium long-term objective is to keep costs flat or down in absolute terms."
+  },
+  {
+    "person": "Begoña Morenés",
+    "role": "answerer",
+    "position": "Director, Investor Relations",
+    "text": "Thank you very much. Thank you, Héctor, and thank you, José. I believe there are no more questions. Thank you all analysts and investors for your attendance. Our Investor Relations team is, as always, at your disposal for any further questions you may have. Good bye."
+  },
+  {
+    "person": "Begoña Morenés",
+    "role": "answerer",
+    "position": "Director, Investor Relations",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

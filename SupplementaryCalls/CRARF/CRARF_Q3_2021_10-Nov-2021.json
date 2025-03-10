@@ -1,0 +1,974 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions]. And the first question comes from the line of Giulia Miotto from Morgan Stanley."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Jerome, thank you for the presentation. My first question is on your medium-term target. So basically, you are well ahead of schedule, and you are hitting most targets. I'm thinking annualized revenues around €22 billion and cost income below 60%, ROTE above 11%. So when can we expect an update of these? So any thoughts on that one?"
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And then my second question would be on IFRS 17. So we have seen quite different communication from different banks this quarter. Any guidance that you can give us on that front, please?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Okay. Thanks for your 2 questions. The first one will be quite simple to answer. It's for sure that we are going to give new targets for the end of 2022. That's for sure. We don't like the idea of updating regularly the target because it seems to shoot on moving targets, which is not really a good way of allowing you to assess our capacity to announce relevant targets and then to try and meet them."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So we have targets for 2022. It's possible that we meet certain of these targets in advance. We will certainly give new targets for probably 2025, which should be a reasonable horizon, and this will be done somewhere in 2022. I don't know exactly when, but you can imagine that we are already working on that."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "When it comes to IFRS 17, again, I would say, delay a little bit at the moment where we are going to give you details. But maybe just to summarize a few thoughts on IFRS 17."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "First, it's mainly and almost essentially about moving across time over time the results realized by the insurance activities and mainly the life insurance activities. It's not changing economically the performance of our businesses. It's mostly reallocating over time the moment where you recognize the profits. And you know that some trade-offs are to be made when you start to initiate the process of migrating to IFRS 17, and we've not fully completely assessed all this arbitrage that we have to make for the first-time application of IFRS 17."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Maybe just one additional comment on that. We try as much as possible to get prepared very well for this transition to IFRS 17. And you may have seen that we have, again, this quarter, complemented further our PPE provision within the accounts of Predica, the life insurance company of the group. This provision is now reaching €13 billion globally, more or less. This level is going to help us accommodate IFRS 17. That's clearly an important point."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "And so this is illustrating that as much as we can, we are preparing everything that is possible to get ready in order to have a transition, which would be as benign as possible. It's not going to be without any effect, but we are trying to do it to make it as benign as possible."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And just to follow up on the first point. So basically, we are looking at new targets in the second half of 2022, I guess?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Somewhere in 2022."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question comes from the line of Lee Delphine from JPMorgan."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Delphine Lee"
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Jerome, just -- I have 2 questions on my side. The first one is to come back on insurance. I know, I mean, profits have been doing well, and they are up meaningfully year-on-year, whether you look at Q3 or 9 months. Just thinking about the top line to understand a little bit how to forecast the volatility that you can have because of capital gains or other issues. I mean, any comments or color you can give us to just get maybe a bit of a better understanding of what's going on there?"
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Then my second question is on capital. Just wanted to double check. Thanks for the update on what's happening in Q4. Just also wanted to have maybe, if possible, any update on Basel IV impact given the tax is out? And also just to confirm that this quarter did not -- you didn't take any remaining TRIM impact? I recall there's still another €6 billion, €7 billion to go in the next 6 quarters, so just wondering when we should expect these impacts?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Okay. Thanks. So on insurance, again, I think it already happened in the past, but it's always a little bit perturbating when you want to assess the figures of the insurance performances within the banking accounting standard. So let me try again to explain a little bit what happened this quarter specifically."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "In the portfolio of assets of Predica, there is a significant asset that was held since a very long time that was completely restructurated and that led to a very significant capital gain. This capital gain has been taxed with a low corporate tax rate because it's a long-term capital gain."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So it means that we have been able to generate the level of profit that we deem reasonable for the quarter without, I would say, recognizing a high level of financial margin, which is accounted for in the top line in the banking accounting standard."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So you have a set of financial revenues. And as you know, within this financial revenues, there is a part that you allocate to the shareholder and the rest is allocated to the policyholders. And within what is recognized and allocated to the policyholders, then there is a second split that you can do, which is made between the provision for the profit sharing rate of the year and the PPE provision, which is allocated to the policyholders, but which is going to be distributed later on."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "And so what we did this quarter, thanks to this low corporate tax on the capital gain, we recognized only a very low level of financial margin allocated to the shareholders. And so a high level of revenue is allocated to the policyholders. And within the revenues allocated to the policyholders, we've continued to accrue the level of the profit sharing rate which has to be paid end of this year on more or less on the basis of what has been paid last year."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "And the rest, which is quite significant this quarter, is put aside in order to continue to boost this PPE provision, which is, first, providing solvency to Crédit Agricole Assurance. And second, which is going, as I said, to help the transition to IFRS 17. So this is technically what we did this quarter, and it already happened some time in the past."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So I understand that it's a little bit tricky for you to forecast, that's for sure. But really, I think that when it comes to the insurance activities, what is important is not necessarily the top line, but most important is probably the capacity of continuing to generate a level of profitability that is in line with the development of the business. And of course, that is significantly contributing to the net profit of CASA. When it comes to -- yes, sure, sure."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Delphine Lee"
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Sorry, can I just follow up on what you just said. Is it fair to assume that you -- I mean, that the growth in insurance could be somewhat capped in the next 2 to 3 years as you build up PPE reserves further in preparation of IFRS 17?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "No. We are not -- first, we are absolutely not capping the development of the business. That's for sure. And we try as much as we can to continue to accelerate in the P&C activities, in the protection activities. And then when it comes to the life insurance activities where it's a more stable business, we continue to try and develop as much as we can the unit-linked sector, the unit-linked products as compared to euro. And you may have seen that this quarter, we now have reached a proportion of UL in the portfolio, which is at the target that we had set for 2022, which is 26%. So clearly, we have absolutely no reservation in the development of the business."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "What we do is, of course, as I said, is to prepare as much as we can for this transition to IFRS 17, which is a regulation that we didn't ask for. It's something that we have to apply. But clearly, it was not a request on our side. You may imagine that. And again, building up further the PPE is part of the preparation to this transition."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Delphine Lee"
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Okay, that's..."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So now going to your question on capital, Basel IV. The way we read the draft proposal of the commission is that the most biting part of Basel IV is going to be the output flow. And second point, the output flow is going to apply at the highest level of consolidation, at least inside one country. And so it means that it's going to be Crédit Agricole Group that is going to have to withstand the hardest part of Basel IV."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So I'm not able to precise exactly what is going to be the impact on CASA itself, but it's going to be much less -- less important than for the group globally. And of course, when we will update the medium-term plan, we will give a more precise calculation on the impact of Basel IV on the capital consumption at CASA and on the capital trajectory that CASA will have to follow."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "When it comes to TRIM, it's absolutely true that we still have around €6 billion to €7 billion of additional RWA to integrate up to the end of 2022. And as seen from now, I would guess that it would take place only in 2022, i.e., I don't expect anything to take place before end of this year."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question comes from the line of Jacques-Henri Gaulard from Kepler Cheuvreux."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Two questions. The first one on the cost/income ratio, you're now firmly managing the group at 60% cost/income ratio or less, actually, 58%, 59%. Would it be tempting for you to attempt at managing it at 55% or that's not simply something you believe is wise for many different reasons, activities, investment or whatever? That's the first question."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "And the second one, it seems that French retail is really changing a lot. If you look at the consolidation bids which are happening, flow [indiscernible] HSBC, ING, in no particular order. The fact that some chairman of retail has complained about the implementation of PSD2, it seems that the overall situation is probably a little bit better than it has been over the last 5 to 6 years. So just a view about how you perceive it going forward over the next 2 years."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Thanks for your questions. Cost/income ratio first. For the time being, the target is to be below 60%. It's the target that applies up to the end of 2022. And as I said, we are not going to change this target or that specific target before we issue a new medium-term plan."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Second point, of course, we believe very much that being as efficient as possible is a key component of the global model of the group. And we have had several opportunities in the past to explain how we do it to improve the cost/income ratio, how we decentralized the responsibility of managing the cost base of the group inside the business lines and so on and so forth. And we are not going to change this very disciplined approach of the management of the cost base."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Nevertheless, I am a little bit doubtful about the idea of permanently pushing forward the target forward, meaning lower and lower, and providing a new target of 55%, which is absolutely not on the table for the time being, doesn't seem very, I would say, grounded on my side."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "What we are going to do when we will prepare the next medium-term plan is that we are going to study carefully all the cost savings that we can do on the, I would say, on the running cost base. All the investments that we have to finance in order to continue to adapt our setup. And then will do the math and we will see where we end up. And if the way -- and if the level where we end up seems reasonable, this is going to become our new target. But we are not going to stop by setting a figure which has the only merit of being rounded for like 55%. Okay?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "French retail now. French retail, it's -- the question is, again, a little bit strange to me because it's not for us, a business, on which we can say we are going to arbitrate and the prospects are better. So we think that we must have a little bit more French retail than before. And in the prospects were to deteriorate, then we would look to how to reduce our exposure to French retail."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "French retail is really the basis of the group. It's the way we -- it's really the [indiscernible] on which we are built. So by definition, it's absolutely important for us to be as efficient as possible, as aggressive as possible, as conqueror as possible on this market and on this type of business."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So of course, we see that after years of really pressure on the margin and pressure on the profitability, we are very happy to see that the prospects seem to be a little bit better globally. But whatsoever, this is the core of the DNA of the group, and there is no discussion possible about the place that we allocate to the French retail in the group."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question comes from the line of Guillaume Tiberghien from Exane."
+  },
+  {
+    "person": "Guillaume Tiberghien",
+    "role": "questioner",
+    "position": "Exane BNP Paribas",
+    "text": "I got 2 questions. The first one, going back to the jaw. Let me phrase the question differently. Do you think that excluding the restructuring charge, there is still room to improve the cost/income ratio? And the second question relates to the net interest income in Italy, ex LTRO and ex changes in the scope of consolidation, so ex CreVal. Because you highlighted that revenues are up 1%, but within that, fees are up 19%. So I suspect NII is down somewhere around 80% year-on-year. And I wanted to understand is that a new normal level? Or is there any incidentals in Q2 -- or in Q3 that could explain such a fall in NII excluding TLTRO and CreVal?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Thank you. When it comes to the jaws effect, we are going to continue to try to improve the cost efficiency of each and every business going forward. I think that at a certain point in time, we must be reasonable and the progression cannot keep permanently the same pace. So again, we -- I'm absolutely certain that here and there in almost every business, we continue to have rooms for further improvement."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "And also, there is a second effect that you need to take into account, which is that the proportion of the different businesses that we have in the group is permanently changing. And so this is leading to possible modification of the weighted average cost/income ratio. Because the higher the proportion of business, like the insurance business or Amundi, the asset management business, which have lower cost-to-income ratios than the average of the group, the better for the average cost/income ratio."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So again, it's difficult to say it so bluntly, but I would say, trust us. We know how to manage the cost base, and we've been quite efficient in doing so. So we are not going to generate -- to do things which wouldn't be reasonable, but we cannot permanently keep the same pace in reducing the cost/income ratio."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "And maybe one last point on this issue. The management of the cost/income ratio is related not only to cost but also to revenues, and it's very important to be able to continue to grow the revenue base. This is also going to help the cost-to-income ratio."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "In terms of NII in Italy, it's true that the NII was down quite significantly this quarter. It's been the case for us. It's been the case for most of the market in Italy with taking a look at the performances of the competitors. And clearly, the margins are still better in Italy than they are in France, but they are under pressure. That's absolutely for sure. And this is why in Italy, as in France, as globally for the group, we try and develop as much as we can the fee-based part of the revenues. And then if at a certain point in time, the yield curve is better, and if this allows us to generate at last, I would say, an improvement of the NII, all the better."
+  },
+  {
+    "person": "Guillaume Tiberghien",
+    "role": "questioner",
+    "position": "Exane BNP Paribas",
+    "text": "Okay. Can I have a clarification, please, on the impact of SoYou on the revenues and on the cost, please?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Certainly, I'm just checking the figures. But for the time being, SoYou hasn't reached the breakeven. It will reach the breakeven, I think, in 2023, if I'm not mistaken. And for the time being -- we don't have the -- Clotilde, the amount of cost and revenues."
+  },
+  {
+    "person": "Clotilde L'Angevin",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Clotilde L'Angevin"
+  },
+  {
+    "person": "Clotilde L'Angevin",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I'll give it..."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Yes."
+  },
+  {
+    "person": "Clotilde L'Angevin",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Clotilde L'Angevin"
+  },
+  {
+    "person": "Clotilde L'Angevin",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. Excluding SoYou, the revenues increased by 2.6%, whereas [indiscernible], 3%, including the consolidation of SoYou, full consolidation..."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Can you repeat it? So it's a difference of 0.4% between the evolution of the top line with and without SoYou. Certainly, we can attach the -- why we present the -- but the difference is of this magnitude. And for time being, again, SoYou hasn't reached its breakeven."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question comes from the line of Jean Neuez from Goldman Sachs."
+  },
+  {
+    "person": "Jean Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "I just wanted to ask you a first question on cost of risk and one on large customers. So the one on cost of risk was we've seen very low provision across the sector for now a number of quarters, and that's not only for Crédit Agricole but for many banks. It's almost like I wanted to ask you as opposed to when it will go back up or when it will normalize again or variance of that, is what would it take for it to not stay where it is now in a sense? Because -- the question is, it seems to be lasting and what would it take, in your opinion, to make it go back up?"
+  },
+  {
+    "person": "Jean Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "And my second question, on large customers, is -- so we have a -- there is some growth in the risk-weighted assets there and also of the revenues pretty much in line or a bit less in the revenues, but for the 9 months. The question is, I would have thought last year with all the growth that there was in particular with guarantees, et cetera, that we would not have had so much growth right now. And I just wanted to understand what in this business is growing? And if you think these are deals which are happening now, as you can see from the logic activity, et cetera? Or do you think that these revenues have some sort of recurring features and they are a good base for going forward?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Let me start with the second question. Really, in the financing activities, the revenue dynamic is spread across all the sub business lines that we have there. It's the case in the structured finance division, it's the case for the commercial banking activities, syndicated loans, trade finance and so on and so forth. So really, it's a very good dynamic, which is completely connected first to the macroeconomic outlook, which is positive globally across the world, not only in France. And second, it's connected also to the fact that at no point in time in the last 24 months had we, I would say, withdrawn from the market. We've been permanently there alongside with our customers, ready to finance them."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "And so it's absolutely certain that we've gained ranking and positioning within the core bankers of our corporate customers. And it means that every time they have an operation to finance, they are requesting our support. So definitely, I think that we've gained some market share, it's difficult to express it or to quantify it. But we've gained some positioning in the field of financing activities across the pandemic and the crisis."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "When it comes to the cost of risk, it's very difficult to tell what would be needed for the situation to not to evolve, if I got your question right. What I can do is that we have a very prudent approach in the cost of risk and in the provisioning. And this is why up to this third quarter of 2021, we've continued to complement our Stage 1 and Stage 2 provisions."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Contrary to some of our peers, U.S. peers, of course, but also European peers that started already 1 or 2 quarters ago to write back a Stage 1 and 2 provisioning, which we could have done, actually, because our macroeconomic scenario that is used to calculate the Stage 1 and Stage 2 provision for the time being continues to bet on the GDP growth for 2021 in France, below 6%, and we perfectly know that it's going to be significantly above 6%. And this is one of the elements that we are going to update in the scenario that we are going to use in the fourth quarter."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So we've been prudent, which means that if the situation were to deteriorate slightly in the coming quarters, we would certainly have some room of maneuver in order to absorb it without a massive deterioration of the P&L or a sharp increase in the provisioning."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "But of course, we are dependent of the global macroeconomic situation. So if the macroeconomic situation were to significantly massively deteriorate going forward, I don't see how we could avoid it. We are better prepared than for our peers, but we couldn't avoid that. We are so big in -- especially in Europe, that I think we represent around 5% of the -- globally, the bank balance sheet in Europe. So if anything severe takes place, it will impact us."
+  },
+  {
+    "person": "Jean Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Okay. Let me rephrase this. Would you be surprised if the cost of risk next year was the same as this year?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Not necessarily. Not necessarily. It's not a forecast, it's not an assumption, it's not a guidance, but it's perfectly possible because, again, I think that the difference between the present crisis and the previous ones is the efficiency and the solidity of the public answers and for the time being, the public answers continue to be accurate."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question comes from Lorraine Quoirez from UBS."
+  },
+  {
+    "person": "Lorraine Quoirez",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "Jerome. So I have perhaps 2 questions, a bit more like a strategic questions. The first one is, when you disclose your 2022 plan, you talked a lot about building partnerships to distribute our products on a European basis. And obviously, since then, there's been quite a lot of consolidation and management changes as well. And you might have found that this strategy has proved risky on some occasions. So I was wondering how you see the development of your project factories in the future and whether we should be thinking about perhaps more concrete international opportunities, perhaps more acquisitions than partnerships in the future. So that's the first question."
+  },
+  {
+    "person": "Lorraine Quoirez",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "The second question is regarding your payment strategy. Maybe I missed something, but I think we haven't had much update since the partnership with Wirecard ended. And I was just wanted to know whether you actually upgraded your customer offering to improve it, in particular, with regards to e-commerce? And what is the plan going forward for payment?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Well, 2 questions which are very connected to each other because it's all about partnership, at the end of the day."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "In terms of partnerships, in order to develop the main product factories that we have, if you take a look back on what we did since 2019, there's a very important series of operations that we undertake. I'm not mentioning acquisitions, acquisition of CreVal or KAS BANK, but there is the partnership with Sabadell in the Asset Management, which is in the middle between an acquisition and a partnership. There is the partnership with Banco Santander in the custody business. There is the creation of Amundi Technology and the development of the customer base of Amundi Technology. There is the Bank of China joint venture. There is ABANCA. There is the expansion of Azqore, which is the platform, the back office and IT platform of the private banking activities in Switzerland with this new very important customer, Societe Generale."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So many, many developments. And we think this is going to continue to be a key driver for the development of our businesses."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Of course, it's much easier when it's fully inside the group where you can equip your own customers with your own product factories, but it's not always possible. And we think that the strategy of trying to take advantage, I would say, of the critical size that we have in most of these business factories in order to be able to provide our products and services to the customers of other banks in a win-win approach is and will continue to be a very important path for the development of our product factory. But again, this is a strategic issues, as you've mentioned, and we'll certainly highlight the trajectory in the next medium-term plan."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "In terms of payment services, well, most of what we've been doing in the last months or quarters was inside internal development, so it's not very visible. It doesn't take the form of public announcements, but we are developing some important features like the acquisition and the integration of Linxo, which is an account aggregator in the different banking offers that we have inside the group. Like the development of biometric card. Like also the participation that we take in the EPI initiative. And so we are working quite hard."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "For the time being, I'm not pretending it's going to happen any time soon, but this might happen because it's an area as the other areas of the dedicated product lines where we can perfectly find relevant to engage into new partnerships. But for the time being, we've been doing lots of things internally I would say, in a discrete manner, but it's working, and we continue to develop the activity. And again, this is going to be a highlight of the next medium-term plan by definition."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question comes from the line of Stefan Stalmann from Autonomous Research."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "I wanted to come back to the cost/income questions, please, and look at it from a slightly different perspective. So you're basically, let's say, you're running 3 percentage points better than your target for '22 that you set up. And I was curious whether you could point to what's different compared to how you would have thought you would be performing at this stage of the plan? And what the underlying drivers are of the differences that have driven the cost/income ratio below where you thought it would be, whether it's mix or volume or competition or productivity? Anything along these lines would be very helpful."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "And the second question relates to leverage. You've given this -- having new disclosure point on your daily leverage ratio. And I guess part one of my question is, is this 3.9% daily leverage ratio on the same basis as the quarter end ratio of 4.6%, so excluding ECB deposits? And assuming that the answer is yes, it's on the same basis, then it seems that you have very, very significant intra quarter changes to your balance sheet. It seems that during the quarter, your balance sheet is almost 20% larger than the period end. And you say it's coming from security financing, reverse repos."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "So you can basically back solve and say that you're running maybe with €300 billion of repos during the quarter on a daily basis as opposed to €120 billion. I would be a bit surprised about these kind of orders of magnitude. Maybe you can talk a little bit about what's happening there, please?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Okay. Let me start with the cost/income ratio. As you've said, we are steering the group for the time being with a level of cost/income ratio, which is 3 percentage points below the target that we had initially set."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Many different elements explaining this difference. The first one is that, of course, when we disclose the target, we try to be a little bit conservative. And when everything goes into the right direction, we may beat the target. This is regularly the case."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Then, of course, as I've said, the cost-to-income ratio is a ratio between the revenues and the cost. And what we acknowledge now is that not only have we been able to manage the cost base in a very efficient manner, but also, we've been able to generate revenues probably above what we had in mind when we had set this 60% cost/income ratio target."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "As far as the cost -- the management of the cost base is concerned, we've been efficient. Because again, we have this method of decentralizing the responsibility of managing the cost base, the different cost bases of the different businesses to the heads of the businesses and it's a very efficient way of making sure that in every business, we try to gain the last, I would say, the last mile of cost cutting in order to be as efficient as possible, and it's far better than applying across the cost-cutting exercises."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "But also, I must admit that the pandemic itself generated some sources of cost cuttings, some of them being temporary, but some of them tending to become a little bit more permanent because it's highly probable that going forward, we are going to travel structurally less than what we did in the past and many other elements like that. So probably, we are locking some additional cost savings as compared to what we had in mind when we published this target of 60%."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "But clearly, bear in mind that in terms of revenue, we are also probably quite significantly above what we had in mind when we published our targets."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "When it comes to the leverage ratio, it's absolutely true that the calculation of the leverage ratio on a daily basis is very similar, and it's completely similar to the basis of the calculation on the end of quarter. And it's also absolutely true that we've been quite, I would say, agile in monitoring the size of the balance sheet inside a quarterly period as compared to the end of the period due to the fact that until recently, the biting constraint was to only the ratio at the end of the period."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "But I must say that globally, the market is like that because globally, when we were requesting our counterparts to reduce the exposures and the volume of activity starting a few days before the end of the quarter and starting to grow again just after the end of the quarter, it was, I would say, a common market practice. And not only a common market practice, but it was also completely transparent to the supervisors. So nothing really, I would say, weird from this point."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Then as far as the -- the precise calculation are made, I'm not in a position to really confirm precisely the figures that you mentioned. But what I confirm is that clearly, we've been monitoring a level of size of balance sheet, which is quite variable between the -- inside a quarter and end of the period."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question comes from the line of Matt Clark from Mediobanca."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "A couple of questions from me, please. So firstly, on the PPE reserve in insurance. I just wanted to get your thoughts about when this will be enough. I mean, you've been adding something like €1 billion or €1.5 billion per annum for the last few years. I mean, once you've adopted IFRS 17, is that now enough for that pace? Can you ease off and we can see some of that reserve build start to go to shareholders instead of policyholders? Or is this really something that you, in practical terms, you need to keep building into perpetuity, and we shouldn't really think of it so much as a cushion as being an essential part of your provisioning? So provisioning against, likely, future outlays rather than potential future outlays."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "And then next question is on the Italian retail banking division. So I guess, firstly, would you say the third quarter revenue base is a reasonable run rate? There weren't any particular positive or negative lumpy items in there. And then secondly, in Italy, could you give some kind of guidance on the outlook for restructuring charges from CreVal? And also, are you able now to talk about synergy potential now that you've signed the agreement with the unions?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Okay. The PPE is, as you said, a reserve, but I want to insist on the point. It is allocated at least at the end of the year, on a quarterly basis. On the interim quarters, it's provisionary, and it can be changed by year-end. But on a yearly basis, once it is booked on yearly accounts, it's fully allocated to the policyholders, and it cannot be transferred back to the shareholders."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So the question is, when is it going to be used to complement the yearly profit sharing rate which is effectively paid to the policyholders. But it cannot be transferred back to the shareholder. It can help the shareholder to get its share of the financial revenues because if it is used to complement the revenue generated on a running basis by the portfolio of assets, then it can let a higher share of this financial revenues of the year to be allocated to the shareholder. But directly, it cannot be transferred back to the shareholder."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Then, the usage of this PPE is, I would say, threefold. The first one, the first benefits that we already get from the existence of the PPE is the fact that it's providing solvency to the life insurance company. So definitely, at the end of the day, it's either helping Crédit Agricole SA to upstream a higher level of dividend or it's enabling Predica to modify a little bit the breakdown of its assets in order to generate more revenues in the future despite it's more costly in terms of solvency or whatever. But it's first a component of the solvency of the life insurance company and it's, in itself, beneficial to the shareholder."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "The second point is that, and it's very specific to the present period of time, is that it's going to help accommodate the transition to IFRS 17. The metrics are not very straightforward, very clear to explain, but definitely, having a higher PPE is going to help in this arbitration that we will have to do between the building of the consumer service margin, the initial service margin that we will have to book and the recognition of results going forward."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "And then the third point, and this is why we haven't been using significantly the PPE up to now, is that it's going to be very useful when the rates are going to increase back. Because clearly, the moment where we will be in a situation where we could lack financial revenues as compared to the expectations of the customers is the moment when long-term rates in the market will be significantly higher than what they are now. And the portfolio of assets is not going to generate enough revenues in order to fulfill the expectations of the policyholders. And the PPEs will be then used in order to complement the yearly revenues and in order to keep as stable as possible, the portfolio of policies. So this is precisely the moment where we can see that having a high PPE is going to be useful. And for the time being -- yes, sure."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "When you get to that point, would you anticipate that you no longer make the same gross contributions into the PPE reserves?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "That's for sure. The moment where we will acknowledge that the yearly revenues of the portfolio of assets is not going to be enough to cover at the same time the remuneration of the shareholder and the expected profit sharing rate of the policyholders, it's going to be very important to be able to complement these revenues by some -- a slice of the PPE. And for the time being, we have a PPE that represents around 6% of the total euro outstanding, which is very, very important, and that gives us significant room of maneuver if and when such a period of time is going to take place."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Italy, there's no specific or very specific elements in the revenues of this quarter. So I don't know if we can qualify that as a run rate, but what I can tell you is that definitely, there's no specificity that could lead me to be either prudent or more aggressive on the capacities of replicating the same level of revenues in the future."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "When it comes to restructuration cost, the idea is that when we will do the finalization of the PPA end of this year in the fourth quarter, we will, of course, cover the necessary restructuring provisions with the usage of the -- and through this PPA. And so the idea is that going forward, we will have -- we will no longer have to bear additional restructuring charges in the P&L -- in the running P&L of Crédit Agricole Italia."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "And when it comes to the synergies, both revenues and cost synergies. So we've provided some elements on the targets that we have in mind. I think that we will be able to update these targets when we will do the merger, the legal merger end of this year. But clearly, we are on track to reaching this above and significantly above 10% of return on investment that we had in mind when we did the acquisition of CreVal."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question comes from the line of Flora Bocahut from Jefferies."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Yes, Jerome. I'd like to start with 2 questions on retail banking. The first is regarding the loan growth in France. Just to ask you, given the good rebound we saw this quarter, what we should expect from here? Whether we should expect, for example, a slowdown in mortgage growth, given the rules have been recently tightened? Also, if you expect that we are going to continue to see the loan growth in consumer credit and corporates in France pick up from here? Or if it remains still very difficult, given the huge amount of savings for households and liquidity for corporates?"
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "And then the second question is regarding the fee performance. Actually, specifically in French retail and then also in Italy, where it's been very strong. Just if you could explain a bit what the drivers have been for this growth and if you expect that they can continue from here?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "In terms of loan growth, it's true that the rules for home loans have been strengthened quite significantly by the [foreign language] recently. But for the time being, we haven't seen any slowdown in the credit demand coming from our customers."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So of course, we are now committed to abiding to these rules. And so we must make sure that we respect the rule of the duration, 25 years maximum, the rule of the effort rate, 35% maximum, and the rule about the proportion of exceptions that we can accommodate, 20% maximum. And so every time we study credit demand coming from -- for a home loan, we have to make sure that we are sticking to these rules."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "But in terms of the production of the latest -- generation of production of new home loans this summer, we were respecting the rules. And nevertheless, we've been able to produce the highest levels of loan production ever."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So for the time being, the market has the capacity to accommodate at the same time a strict respect of the rules and a high level of production of new loans."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Going forward, it's possible that at a certain point in time, the movement is going to slow down. But for the time being, we haven't seen any slowdown in the credit demand."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "When it comes to the other categories of credit demand, so businesses and consumer credit. For consumer credit, I'm very positive because the consumption -- household consumption has been a key driver of the rebound of the economy in the last month and the appetite of the French customers to consume continues to be very solid."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "And in addition to that, we can expect that at a certain point in time, the bottlenecks that are penalizing a little bit the development of certain subcategories of the credit -- the consumer credit demand, i.e., car but also some other equipment goods, are going to be settled, and we are going to see a rebound in the purchase of new cars or new house equipment goods. So really, when it comes to consumer credit, I guess, that the prospects are very positive."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Then as far as businesses are concerned, every poll that we make, every survey that we make amongst our customers or that we see on the market shows that the investment intentions of the corporate and businesses are at their highest. Businesses want to invest, so they are going to engage into financing operations."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Of course, it's going to be very, very connected to their reading of the economic outlook, the economic prospects. But for the time being, they continue to be good. So clearly, I think that also in business loans, there is no slowdown to expect soon."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "If I take a longer horizon, of course, the uncertainty is very high because we are in such an unknown territory in terms of combination of public tools and strength of the rebound and so on and so forth, that it's very uncertain. But when it comes to the coming quarters, I'm very positive."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Fees in the retail banking activities. The composition, the breakdown of the fee revenues in Italy and France is not exactly the same. In Italy, it's completely driven by off-balance sheet management products. And so as long as the flows of new savings of our customers continue to be significant, we will have a good level of fees."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "And what we try to do in Italy is, as much as possible, to modify a little bit the breakdown of the fees and to be less dependent on one-off fees that are correlated to the flow and more driven by management fees, that are driven by the outstandings. But for the time being, I must admit that what is the key driver is the flows."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "In France, the breakdown of the fees and commissions within the retail bank is much more spread across many different areas. So fees in connection with securities and off-balance sheet savings, but also fees linked to insurance policies, be it life insurance or non-life insurance and it's growing quite rapidly. And also fees driven by different services linked to the payment accounts or to the payments or to the site deposit account, site account, current account."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So it's much more spread across different categories, and probably it's more steady and more stable in France than in Italy."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Last point, maybe in Italy. Of course, progressively, we are going to equip several customers with our own product factories with probably better efficiency. And as soon as this quarter, Amundi is now plugged on the customer base of CreVal in order to start to distribute its products, which is going to generate fees."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question comes from the line of Kiri Vijayarajah from HSBC."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Kiri?"
+  },
+  {
+    "person": "Kirishanthan Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Sorry, I think I was on mute. Firstly, coming back to, I guess, indirectly, insurance. Just wanted to get your thoughts on the Banque Postale, CNP deal. Do you see them becoming a stronger, more integrated bancassurance player in the French market going forward? Obviously, not on day 1, but perhaps over time."
+  },
+  {
+    "person": "Kirishanthan Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "And then secondly, on the capital, should we expect any impact on your Pillar 2 requirements once the switch is kind of completely disappeared? So could we see some benefit as and when you receive your next SREP letter on the Pillar 2 side of things?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Your second question is really music to my ears. Kiri. Maybe you should address this question to the ECB. I have no clue on this matter. But definitely, it would be relevant to have that kind of reasoning."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "On La Banque Postale and CNP. For me, what is happening is clearly a kind of normalization. La Banque Postale was initially the only retail bank in France not to have its home life insurance company. Then, they became the mother company of CNP but -- with the CNP that was still listed. Now they are going to be in a position which is the one that we have in all other banking groups in France, which is the in-house life insurance company working with the network. So of course, it's going to be probably marginally more efficient."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "But don't forget 2 things. The first one is that CNP is already, I would say, at par with us, the top player in the life insurance build in France. So it's not going to be a game changer for them. They are already top of the crowd here as we are. And second point, which is important, don't forget. I would say the sociology of the population -- of the customers of La Banque Postale. It's not the wealthiest customer base that we can have in France."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question comes from the line of Pierre Chedeville from CIC."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC Market Solutions",
+    "text": "One question regarding CA mobility project, and it's also a question related to partnership. Do you want to develop this business entirely on your own? Or do you intend to get some partner, notably regarding platforms for maintenance or tire replacement, these kind of things, which are very important for this business? And could you give us some -- or maybe it's premature yet, I don't know, some of your ambitions regarding this project in terms of breakeven or in terms of number of contracts?"
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC Market Solutions",
+    "text": "And my second question is related to the proposal of Crédit Mutuel to suppress the health questionnaire regarding loans..."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Creditor insurance."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC Market Solutions",
+    "text": "Mortgages, mortgages, yes, sorry. I wanted to know what is your view on this proposal and what could be the impact on [indiscernible] or on the group, Crédit Agricole, if you adopt such a measure."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Thank you. Two good questions. On CA mobility, to be very precise, CA mobility is going to be a platform dedicated to individuals and professionals. So it's not exactly the same as big platforms that already exist in Europe and sometimes in France that deal with, I would say, the management of fleet for big clients. So the idea here with CA mobility is to be able to propose to our individual and professional clients within our own networks, the service of providing a car as a service, I would say."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Of course, it's important to get as soon as possible a critical size in order to be able to have an efficient cost management for all the services that we want to provide to the customers, as you've said. So the target that we have set initially is to manage as quickly as possible, maybe in the next 5 years, at least 100,000 cars. So it's not massive if you have in mind that the big players in this business are managing 1.5 million cars across the globe or at least across Europe. But again, keep in mind that it's not exactly the same business because our own business is going to focus on individuals and professionals. So small clients."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC Market Solutions",
+    "text": "But Jerome, if I may, a follow-up question. If I have a contract, I'm a client of LCL, for instance, and I want a long-term vehicle leasing. Will you propone me to take care of the maintenance of my car within this contract or from term leasing, and to take care of my tire when they are used up?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Absolutely."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC Market Solutions",
+    "text": "So my question is, how will you do that with your own platforms of -- are you going to have partnership because it's..."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "The idea at the end of the day..."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC Market Solutions",
+    "text": "It will be my agent in the branch that will change my tire."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Yes, yes, exactly. So the idea is clearly that we will need to have agreements with professionals providing concretely the service because we are not to hire -- we are not going to hire a tens or hundreds of mechanist in order to do the service for our clients. So of course, we'll need to have partners with which we will have agreements that will provide the service, that's for sure."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC Market Solutions",
+    "text": "So you are going to build the platform with specialists who will contact garages, for instance, to take care of the maintenance?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "No. We will have -- I don't know if -- what you call the platform, but we will have agreements with professionals that already exist, branches of certain carmakers and so on and so forth, that will be able to provide the service for our own clients."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "And the role that we want to have is the role of gathering all the services, providing the financing, providing the insurance and then providing to the customer for a simple monthly amount, the usage of a car. That's the case."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "When it comes to the creditor insurance and the announcement of Crédit Mutuel, well, we are still studying a little bit the proposition, which is not a proposition, which is a decision that has been announced in order to fully assess the impact."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "This business of the creditor insurance is a business in which there are 2, I would say, extremes. Either you want to mutualize as much as possible in order to be able to offer the service to all or most of the population, including the part of the population that is in a bad condition, and that is supporting a higher risk of triggering the guarantee, and it is perfectly respectable. And we understand that the proposal of Crédit Mutuel is going into this direction."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "But then the consequence should be to give more stickiness to the portfolio of policies that you have. And up to now, every evolution of the regulation was going into exactly the opposite direction, i.e., giving more and more liberty to the policyholders in order to pick and choose their insurers and to leave their insurer in order to pick a new one. So this is guiding towards exactly the opposite direction in which the individual policyholder is able to get the best adapted offer for its own risk, i.e., then a situation where the pricing can be very, very different between a very good risk and a very bad risk."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So of course, by our DNA, we are close to the preoccupation of the Crédit Mutuel and we would welcome any evolution of the regulation that would narrow a little bit the spread between the best and the worst prices and that will, of course, at the same time, impose to an insurer active on this business to take good risks as well as bad risks. But you cannot have, at the same time, the full liberty for the policyholders, for the borrowers, and then no differentiation between the good risks and the bad risks. So it's a Catch-22."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "We have not, of course, at this stage, made any assumption or any hypothesis on the effect of this decision on our own portfolios, but this is a very important issue on which we are working."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "I think this is the last question."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Yes. The last question comes from the line of Omar Fall from Barclays."
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "I'll be quick. Just a couple of questions. Firstly, on costs in CIB, which are up 5% in the quarter and in the first 9 months, actually. Reading some of the text, it seems as if this is more around investments and headcount build instead of just the kind of bonus, variable compensation trends we've seen elsewhere. Can you give some color there? Because I guess this may be bit surprising that you're building out here at this point in the cycle when talent is maybe quite expensive and your model isn't as aggressive as some others in [the industry]."
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "And then the second question is just on SFS and the kind of medium to longer revenue trends in consumer finance because there's quite a few headwinds now. There's the supply chain shortages and who knows how long those last, structural things around buy now, pay later. And finally, we've got all these retail savings sitting in [indiscernible] and current accounts, which don't really help consumer releveraging. So just some thoughts on that would be helpful."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "On the cost base of the CIB, if you assess the evolution of the cost base on the first 9 months and not only in the quarter, the proportion of the increase that is correlated to the increase in the provision for the payment of future bonuses represents a significant part of the increase. I have the precise portion in mind, but it should be -- it's quite significant. Let me do a rough calculation, but it should be around 1/4 of the increase. So it's quite significant. And again, it's not a commitment to pay those amounts by the end of the year, it will depend on the full results of the year."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "But nevertheless, at the same time, I already insisted in the fact that we've been building up a little bit our franchise on certain CIB activities, be it in the financing activities or also in the fixed income market. And so of course, we've been a little bit complementing our teams, be it with staff or with the IT tools in order to be as efficient as possible and as relevant as possible."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So it's a mix, and it's not only, but it's partly due to the will of strengthening our position, not across the board. The idea is not to say we've seen a very buoyant quarter in equity derivatives and we want to rebuild immediately a franchise that will generate revenues next quarter."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "The idea is to continue to build on our strength steadily, regularly, slowly, but actively in order to be able to continue to generate additional revenues. And then, of course, there is this question of provisioning bonuses, which, for the time being, have not been granted to the beneficiaries, and we are going to wait until January or February to be more precise in that."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Then your question was about consumption, if I got it clearly, and the prospects of further consumption on the French market. Because of all the savings that has been accumulated and all the tools that are, I would say, inducing the consumer to act with this pay now -- pay later, buy now devices and so on and so forth."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Well, I think that clearly, there is an appetite of consumption in the French population. And clearly, part of this appetite of consumption is for the time being, a little bit precluded by these bottlenecks and disruptions in the supply chain. If you want to buy a new car in France now, it's very, very probable that the date of delivery is going to be somewhere middle of 2022. So really, this is penalizing a little bit the development of the consumption itself, but the will of consuming is really here and so the order books are really very, very active."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "There are no more questions at this time. With this, I hand back over to the speaker for final remarks."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Okay. Thanks a lot to every one of you. Thanks for listening to this conference, and I'm looking forward to our next meeting, which is not going to be in 3 months, but I think somewhere in December. Okay. Have a good day, and bye, bye. See you soon."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "That does conclude the conference for today. Thank you for participating. You may all disconnect."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

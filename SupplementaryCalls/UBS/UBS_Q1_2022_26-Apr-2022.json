@@ -1,0 +1,716 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator instructions] The first question is from Kian Abouhossein from JPMorgan. Please go ahead."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Yes, thank you very much for taking my question. And first of all, thank you for all your support, Kirt, and all the best in your future endeavors. So coming to the question. The first question is regarding wealth management. In regarding - in respect to Asia Pacific, can you talk a little bit about the ongoing trends? You mentioned continued slowdown with lockdown, et cetera. Can you talk a little bit about the trends that you're seeing on the revenue line, unwinding net new money flows, transactions, how should we think about that through the year?"
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And in that context, you clearly talk about the offsets to the $1 billion in NII. Can you talk about the deposit beta and how we should think about that progression on a relative basis? You mentioned second half, mainly, but also through the second quarter, if I may."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "The second question relates to more around the issue of cost. I just wanted to see if you could reiterate the guidance on costs ex-variable, if that still stands considering the environment that you operate in terms of inflation? Thanks."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "Okay. Thank you, Kian. I'm sure Kirt is going to fill in on a couple of things. I'll take the first one on cost there as your last question. But it is an important factor that you all feel comfortable around that. So on the cost side, clearly, there is inflation. There is some upward pressure that we see as well coming through more in the U.S., a bit in Asia and across the investment bank, we see cost pressure coming up around salaries."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "But I think the - one of the good things about UBS is that we are globally very well diversified with a large part of our cost base actually here in Switzerland, which for once helps us from that perspective. It's probably not the cheapest place to operate a bank from, but there's certainly a place where inflation is low and is manageable at this moment in time as well, and that's what we expect to continue. So that helps us in terms of managing our costs globally."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "Secondly, as you know, we launched 1.5 years ago, already a cost savings program of $1 billion. We delivered $200 million of it last year. We are planning and on our way to execute to deliver $400 million here as well. So we feel comfortable with still guiding a 2% cost increase, ex litigation, ex foreign exchange and ex variable comp depending on the market, how the markets develop. And we are committed to the cost-to-income ratio of 70% to 73% there. So that's the one on cost."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "On Asia Pacific, on the number side, Kirt can give you more. What we see is actually, a similar sentiment with clients from last quarter. So muted appetite to invest a bit of a wait-and-see pattern in terms of active investments. Positive net new fee-generating assets also this quarter. So basically, UBS as a firm, the stability, the quality of our advice does attract money also with Asian clients. So we still see the inflows."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "We have seen certainly also continuous deleveraging as well, third quarter in a row. So those are kind of the patterns. And clearly, there are so many factors in the world at this moment that make investors sideline some of the ammunition for it to come back quickly into the market. So that I truly think that the moment now China opens up and there's less strict lockdowns that there is going to be more confidence and money of that will come back. Furthermore - for the numbers specific numbers, maybe, Kirt, you can add?"
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes. Thank you, Ralph. So Kian, I would just add apart from the transaction revenue just related to client sentiment. And also just recall that overall Asian markets, of course, have performed poorly relative to other regions. And we started to see, of course, declines, particularly in China equities last year in the third quarter with the launch of common prosperity. So also, we're seeing impacts on recurring revenue. And clearly, that's going to continue depending on movements that we see going forward overall in Asian markets."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Regarding the $1 billion in NII progression in terms of the pattern of beta, wouldn't be surprising to you. What we expect is betas overall, our beta overall will be lower as we see the front end of the increases in interest rates. And as this progresses and we start to get into particularly to 2023, we would expect our beta to rise."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And we've obviously built that into the outlook, the - around the $1 billion that we mentioned that we expect in the upcoming three quarters. I would also highlight since it was part of your Asian question. Clearly, we will see that benefit in Asia Pacific, although as well, that will be partly offset by the fact that we've now seen deleveraging three quarters in a row. So clearly, that impacts our revenue in APAC."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Andrew Coombs from Citi. Please go ahead."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Good morning. Two questions just staying on the same theme, I guess. And also I echo the comments to Kirt as well, best for the future. First question just on Asia deleveraging. I know you talked about Asia Investors still being a bit in wait and see mode, but do you think the bulk of the deleveraging is now done. So from here, would you expect Asia GWM to return - the Asia Park GWM to turn back to loan growth?"
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "And then the second question on interest rate sensitivity. Previously, you gave guidance based on the NII uplift on the forward curve, forward curve obviously continues to steepen. So any additional commentary you can provide there both on 2022 and also 2023 in terms of implication for net interest income? Thank you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "Okay. Maybe on deleveraging. So what we're seeing in deleveraging in Asia is basically actively managing together with our clients, the lending facilities that we have in order to support our investments. So how the market develops with the development of the markets, you may either see maybe more leverage again going forward or less leverage, it's more or less determined by the markets and how we ensure that the loan to values and there are facilities stay managed."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "On top of that, I do think that if you look at our strategy for growth in Asia, one of those initiatives called the Global Family and institutional wealth approach is one that is certainly also a focus on the real higher end of the wealth bank family offices in Asia. So you could expect some more leverage being extended in that segment, but in small steps because clearly, I think we should also make sure that we stay prudent in what we do."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "So leverage is more driven by markets and our prudent risk management together with our clients. And clearly, there is - if the markets go back up, you could see the leverage going back up as well. And on top of that, then the global the Global Family and institutional wealth initiative. But over time, we'll provide - is expected to provide more leverage also into the Asian region. Kirt?"
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes. Thank you. Just one other comment related to lending APAC. I think as you know, that's the region where we have the highest leverage penetration. So our Asian clients do tend to like to use leverage as part of their investment strategy. But also you see actually, therefore, sharper deleveraging when they turn negative, but you also see sharper pickup when they turn positive, and that's the pattern we would expect to see going forward."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Overall, in interest - not sure I got completely your question, but just - we guided last quarter that we expected around 750, 700 actually pertaining to GWM, $50 million to P&C. We indicated now that we're at just around $1 billion. There's another roughly around $100 million in P&C. So you also have seen, of course, an increase in the P&C effects as forward curves that moved on from when we last guided. And also, as we mentioned, this is based on static balance sheet. So any movements you might see in terms of balance sheet inflows or outflows, both on the lending and the deposit side, of course, will have an impact overall on what we expect."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "You mentioned guidance around 2023. We haven't provided any. But I think just if rates hold, obviously, what you would expect is quarter-on-quarter as we get into the first quarter next year in the second quarter, you should see increases just because of the pattern of rates and what we expect to see through the course of this year."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Thank you guys."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Magdalena Stoklosa from Morgan Stanley. Please go ahead."
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Thank you very much and good morning. I think, of course, before the questions, well, Kirt, also from us, thank you very much for our partnership over the years and for bearing with us at times and all the best of luck in whatever the future brings. And the - I've got two questions for you this morning. One is about the net new money because, of course - sorry, sorry, net new fee generating assets."
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "We've got a very strong inflows this quarter. And I just wondered if you could give us a sense of kind of what's driving the inflows. I assume they are kind of much more adviser-led from the perspective of the channel whether they're existing accounts or new accounts. Could you just kind of give us a sense where the - how the '19 kind of $1 billion got generated?"
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And my second question, I suppose, is on the - going back to the NII because you give us - you've given us the one billion guidance and you kind of slightly the topic of the deposit betas and weather by any chance that number? Or what would have to happen for that number to be slightly higher, particularly when we look at your kind of 100 basis points kind of parallel shift disclosure? Thanks very much."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "Thank you, Mag. Yes. So on the net new fee-generating assets, I think that's - actually, it's more or less existing clients, where we do see a further demand for mandates. So you see that a large part of the net new fee-generating assets is moving into the managed business, which is what we advise. So that's good."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "If you look at the more geographic developments, we still saw positive net new fee generating assets in Asia Pacific, but the largest growth is continues to be in the Americas there. And then maybe as to specific products, as we have indicated, the alternative product is a very important product there. There's still demand for sustainability with clients coming through as well. So that's - those are basically the flavors that do quite well at this moment in time."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes, maybe I could add a couple of comments. I think within that, you saw the continued momentum in SMAs. And there, we do believe that we're certainly taking share overall in SMA since we implemented and executed that initiative. And also in terms of some of the patterns like if you look at alternatives, there's been movement into credit as well as real estate. And as you might expect, there's also been movement more movement into fixed income versus equities overall, if you look at the patterns of investment across mandates funds and alternatives."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "While the NII side, I'm not exactly sure, you had mention our 100 basis points math that we put out in our report. I would just highlight, of course, you've seen that number come down, and that will continue to come down as interest rates go up because you do see a compression in the upside as we see higher interest rates. And so that should give you a little bit of an idea of incremental sensitivity if we were to see interest rates increase there, I think there's a couple of effects is the higher the interest rates, the more of the time. Of course, we generally see higher betas, but also, we also see outflows from deposits and movement into money markets and into other opportunities with at least some level of interest."
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Thanks very much for that. Thank you. And can I just follow up on the alternative side. When you see - because, of course, you've also kind of shown almost $8 billion of the commitments. How do you assess your kind of capabilities internal versus partnerships within your broad alternatives business?"
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "Yes, it's a good question. Clearly, we have our own capabilities as well within asset management. We have O'Connor developing specific funds. We have real estate capabilities in asset management as well, multi-asset capabilities as well. But for more private equity-like businesses, we clearly also look at external partners. That's the whole concept of the ecosystem, right?"
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "So reverse is very important that the market sees that we are the largest market for private money globally and that we are very attractive as an ecosystem for also third parties to come to and distribute their product. And therefore, we're open. And we're open to third-party products there as well. So whoever is a player that we can curate on to the platform and have attractive opportunities for us to advise to our clients. We do so. And on the private equity side, there is many steps to be taken there also to join forces with external parties."
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Great. Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Stefan Stalmann from Autonomous Research. Please go ahead."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Good morning. And also from my side, Kirt, thank you very much for the help over the years and all the best going forward. I have two questions, please. The first relates to Russia and Russian clients. I was wondering if you could tell us how much of your invested assets actually relate to Russian clients? I saw what you write on Page four of the Q1 report, the 0.7%, but I'm not sure if that captures all Russian clients are only a subset?"
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "And the second question on the investment bank. So $2.7 billion, almost $2.7 billion of global markets revenue is obviously quite impressive. I was wondering if you can give us some rough sense of how that was distributed months or by month in particular, how much of it has actually come in March? And maybe also whether the month-on-month spread during the first quarter this year was very different from what it would have been typically in a normal first quarter? Thank you very much."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes. So just maybe the Russian client question. And so we did - and you're right, Stefan, I think there's a lot of confusion around scope of Russian clients when people come out with disclosures. And so we wanted to ensure that we were very, very clear on how we drive this is firstly, what we did is we took the total clients that are in scope of the European and the Swiss ordinance regarding maximum overall deposit and outflows and inflows of $100,000. We actually think that, that is a very, very broad scope to start with. And on that basis, we looked at the total invested assets that those clients hold with us, and that led to the 0.7%."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And of course, the conclusion there is well as the largest global wealth manager, naturally, we have a Russian business. But if you think about this in the context of our overall wealth management business, it is not significant at all. It doesn't impact at all our ability to generate growth momentum and also to meet the targets that we've laid out what we see going forward?"
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Then turning to the IB overall in the market's revenue, I would say that this quarter was a bit unusual, usually in a typical first quarter. Seasonality would actually drive January is substantially the best month of the quarter and often one of our best months of the year. And we saw some of that play in, but it was unusual because we - actually more broader geopolitical and market factors were in play as we went throughout the quarter. And I would say we saw a pretty good even distribution throughout the three months in terms of overall generation of markets revenue. And as we've highlighted, certainly, equities, derivatives, in particular, along with rates and FX were what drove the very good quarter that we had."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Great. Could I maybe just follow up on the Russian aspect, please? So if I understand you correctly, you're saying that the EEA and Swiss rules are very all encompassing. So that would also include tax impose by the U.S. and the U.K."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Absolutely, it would include a far greater population than just where sanctions were imposed. In fact, when you look at that population, and we would identify within that there still are certain client segments that might be susceptible to further sanctions, but also there's a large part of that population where we don't believe that there's any likely sanction exposure. So it's a pretty broad definition."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "So it's a small part of our term invested assets, and we've been pretty conservative at applying the definitions here and the EU and the Swiss are the most strict in their approach to this."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And we've also been very proactive in how we've actually looked to reduce our overall business, not just with clients already sanctioned, but also we've looked at populations that have higher risk. We've been proactive with those populations."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Jeremy Sigee from BNP Paribas. Please go ahead."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "Thank you. And best wishes to Kirt from me as well. Two questions, please. One on capital. Thank you for Slide 23, which is very helpful. I just wanted to ask how some of those factors play forward, you've obviously told us that there's more op risk coming. I just wondered if you expect more RWA inflation in sort of the near term from some of the other drivers from market risk or from credit risk modeling. I don't know how your models work, whether there's a lag effect and there's more inflation still to come through."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "And I guess sort of wrapping that up as well, whether you're, I guess, still comfortable with the $370 billion 2024 RWA guidance. So any help on that would be great. And then my second question was really just a very small question just on the timing flows. The net new money flows in the quarter was at a fairly steady pace. And I guess what I'm really asking is kind of the exit rate. Are we in an environment where that kind of flow run rate continues? Or are we in something more subdued given the uncertainties in the world?"
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes. Thank you, Jeremy. In terms of RWA, yes, we already guided on op risk. Also for the remainder of the year for the additional three quarters, we do expect further increases that are known in terms of model changes that have been encouraged by FINMA, shall we say. And we expect those to be around $8 billion for the remainder of the year. Away from that, obviously, it's going to be driven by business volumes."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "If you look at the market risk RWA increase, we saw because of Reagan stress bar, certainly, if that market volatility subsides, we would expect to see a reduction in that $3 billion that I referenced. Now how - I wasn't sure about your 2024 question, but what we did, we updated our guidance in the fourth quarter. So perhaps you're referring to the impact of adopting Basel III finalization of $20 billion, there's no effect there that still would be our estimate at that $20 billion and still what we would expect subject, of course, very importantly to any FINMA discretion."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "The '24 number is a combination of the strategy and the growth we anticipate, that's Basel?"
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "That's Basel. So we would still be in line with the..."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "No change there. There's no change."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "No change there. Yes."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "So the $370 million is fine. That's really what I was asking yes."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes. And then your second question on flows. So actually, the overall net new fee-generating asset flows over the three months where we're pretty well equally distributed. And so we continue to see good positive flows in March."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "Okay, thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Amit Goel from Barclays. Please go ahead."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays Capital",
+    "text": "Thank you. And also to echo my thoughts and thanks for Kirt help you've provided and good luck for the future. So two questions. One, a further follow-up on the Russia, the other on lending. I just wanted to get a sense on the $100 million kind of firm-wide P&L impact, just how to think about that in terms of what drives that? And I guess I noticed it seems like about $5 billion of reclassification of fee-generating assets relating to Russia, but just trying to get a sense of how to think about that going forward?"
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays Capital",
+    "text": "And then secondly, with regards to the lending. I'm also just curious in terms of the lending margins, so what you're seeing there and whether the margins have been stable or steady or whether there has been a little bit of contraction in particular in APAC, with the declining volumes?"
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes, Amit, thank you. So the $100 million there, and this is a little bit of a line which you see with the $0.6 billion and the $0.4 billion, the $100 million overall is mostly related to derivative and settlements that were impacted and interfered with from the sanctions and where we have either taken wind down costs or we've taken provisions in terms of remaining exposure to receivables we might have, for example, with our nostro banks. There's a very small portion of that that was CLE related. And therefore, the vast majority is in the IB."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "I think in terms of the net new fee-generating assets, what we mentioned is our - that $19.4 billion excludes some outflow that we saw with Russian clients as a consequence of the sanctions. So we haven't mentioned what that number is. But you could just to ensure that you're aware that there were some adjustments. And we can't say what that impact might be going forward. It's a bit unknown. It really just depends on of course, the direction of any future new sanctions that we might see."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Now regarding lending margins, our margins overall and our Wealth Management business have held up reasonably well. And I think as you see in Asia Pacific with the deleveraging, there's really not - there's not any pressure on margins just because of the supply-demand dynamics."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Now there is an exception we are seeing pressure on mortgage margins in Switzerland. And particularly from the Cantonal banks, where there's an awful lot of pressure to continue to lend and get exposure, particularly to long-duration interest rates, given the fact that deposits have grown quite a bit. So that is an area that we're monitoring closely. And you've seen us in the past, we will actually give up market share and volume in favor of margin. And so we'll continue to manage that in a responsible way, but that's an area we're watching closely."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "This is the pressure in Switzerland, which is the new production pressure. It is not changing our book, the margin on the books. So from a revenue projection perspective, it is not meaningful."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes, absolutely. And it's in our first - it didn't affect the first quarter."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays Capital",
+    "text": "Got it. Thank you. Just to check, I mean, on the kind of Russia-related outflow. The derivation I did was just the $68 billion AUM change, the $19.4 billion net new money and the $82.3 billion the other reduction which is how I got that is there potentially other changes as well?"
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes. So I think in addition to that, you also have - you have market moves, you have foreign currency translation, which also was adverse during the quarter. And then you had the net new fee generating assets. And away from that, there's also a net new money impact, which you can assume was greater than net new fee generating. So you have to factor that in as well. And then you have the reclass."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays Capital",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Adam Terelak from Mediobanca. Please go ahead."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Good morning, thanks for the questions. And all the best to Kirt. I want to return to NII. On the guidance, the $1 billion, I just want to make sure we've got apples with apples here. Because in the full year guide, I think you were talking about some balance sheet impacts. Clearly, I think FX has reduced the loan book. So are we saying that sensitivity is probably - or the beta on sensitivity to rates is probably slightly higher than the difference between the two numbers given and that the balance sheet is slightly smaller, and we have to adjust for that."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "And then on top of that $1 billion, do we then have to layer through any additional balance sheet growth. So it's static as at Q1 balance sheet. And then on the other side of that on deposits and the cost of deposits, I hear what you're saying on deposit repricing and the pass-through. Is there a threat now - has the threat from turning out and clients moving to term deposits increased given the sudden move we had in rates clearly at one-year dollar rates are up about2%?"
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "I think that's the level when in previous cycles, we saw a bit of turning out holding back NII sensitivity. So could you talk to rather than the pass-through that you can control, whether clients are thinking about shifting to term and whether that can select the NII development, not this quarter but in the next few quarters?"
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes. So maybe just to restate what the $1 billion is, and this is exactly consistent with how we always guide. We basically take the forwards as close to our disclosures is possible. And then we take the balance sheet as of the end of the quarter. And we did the same when we mentioned the $750 million around fourth quarter, and we apply the forwards."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And so - and within that, of course, we determine our view on beta and what we expect, and we apply the math. But you're exactly right. It does not include any effect positive or negative of any flow generation over the remainder of the year. And as I said, that's apples-to-apples to compare the $750 million that we guided at the end of $750 million. And it is for 2Q through 4Q."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So it's for the remainder of the year, naturally, there was some positive impact that we saw in the first quarter. It's roughly around $170 million. And as we said before, we expect, of course, the impact to continue to increase fairly significantly quarter-for-quarter, hence, the 15% guidance quarter-on-quarter in the second quarter, and then you can expect to see a larger impact as we go third and fourth quarter."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Now in terms of deposit repricing, you're exactly right in terms of the dynamics. And as we manage our overall book and, of course, noting that versus a very large consumer franchise, our clients do tend to be more rate sensitive. And so therefore, we manage that accordingly. So we of course have current accounts, but we also have savings accounts. And the savings accounts for us are a stable source of funding."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "We want to make sure that we price that in a way that we manage that funding source. And as well, we will look at clients as I think about terming out and we will think about CD and term deposit programs accordingly. And also as I mentioned, there was some outflows into money markets, and we would expect that to continue as well."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "And in terms of the assumption on terming out, is that similar to previous cycles? Or any kind of comment on the speeds we might see at this time?"
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Well, I would just say as the interest rate increases is steepened, obviously, the - you would expect to see clients more prone to looking to term out. And we would adjust our modeling accordingly."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Anke Reingen from RBC. Please go ahead."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Hi, thank you very much for taking my question. And as well, thank you, Kirt and all the best. Two questions, please. The first is a follow-up question on capital. The 10 bps hit you saw in Q1 for - in the OCI. Should we expect, I mean, corresponding to your NII guidance of further ahead to capital in Q2 based on the current forward curve?"
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "And then secondly, on the fee generating asset margin that hold up quite well and in Q1 versus Q4. And I just wanted to understand ex NII moves, should we expect some more margin pressure given you talk about shifts into more fixed income versus equities? Or do you think that trend underlying sees that pressure given also the strong growth in SMA?"
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes. In terms of the capital impact, so where that's derived from its high-quality liquid assets by and large that we're holding in the U.S. in our banking subsidiary, it's around $9 billion, and it's a mix of treasuries and mortgage-backed securities. And it gets - it impacts capital to the extent that we have life to date to overall losses that flow through CET1. Having said that, if we were to reduce that portfolio or we saw interest rates reverse, we actually would see that impact also reverse. So going forward, we continue to be exposed to interest rate increases."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So if we saw further moves in the curves, this is mostly longer-dated curves, just because of the structure. Our weighted average maturity is around five years. And just to note as well that the average overall rating of those assets are the upper end of AA. So they're very, very high quality."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Now in terms of fee generating assets margins overall, I think, as you observed, you have seen some stability in that margin over the last couple of quarters. But just to note that going forward, that margin is going to continue to be impacted by overall mix of products and investments that we place with our clients as well as the trends that we've talked about before in terms of and any further move into more ultra-mix versus high net worth. And then we have our SMA initiative, which has also had an impact on margin."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "But importantly, we don't manage the business for margin. We manage the business for PBT growth. So for us, what's critical is we continue to see very positive run rate momentum from all the net new fee-generating asset inflows that we see."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Okay, thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Flora Bocahut from Jefferies. Please go ahead."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Thank you, good morning. First of all, all the best, of course, to Kirt for the future from my side as well. Two questions I wanted to ask you. The first is regarding the RWA move that we saw this quarter. So going back to capital here. The slide you provided at the end of the presentation is very useful. I just wanted to get back to the $7.7 billion increase in RWA this quarter from asset side and other movements. This is obviously a lot more than what we normally see. So just wanted to see if you could elaborate on this. What's been the driver? Is it mainly business growth? And how much of this do you think could be reversed in the coming quarters, say, if volatility would reduce in market, for example?"
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "The second question is regarding the client behavior, excluding APAC. So really focusing here on the U.S. and Europe, what you saw in April, whatever you can tell us whether you are seeing also some kind of slowdown in the willingness of your U.S. and European customers to invest, to borrow. But I mean, post Q1, so in the month that just finished, if that's possible? Thank you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "Maybe I can start with the last one, Flora, which is - it's really hard to comment on a month that we're still running, honestly. So let's not get ahead of ourselves because that would only be kind of 2.5 weeks or 3 weeks in a month, which you can't extrapolate anyway. So I don't think there's a lot of value in commenting on what we have seen in the last 2, 3 weeks. I think the most important thing here is what we see and what we can indicate to you is that our most recent checks in terms of investor sentiment globally has not really changed from a quarter ago."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "It's a mix of positivism of coming out of the COVID situation. And combined with the cautiousness around inflation news to see around the war, and that is basically muting the investor demand specifically, but that is not different from the numbers that we saw at the end of the fourth quarter. And that is basically - those are the recent numbers that we have, where we see actually in all regions, including Asia, by the way, similar sentiments around our clients and investors."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "So similar from a quarter ago in terms of the balance between being optimistic or neutral or pessimistic. We haven't seen that only Switzerland is a little bit more pessimistic around the sentiment. But globally, it's the same numbers like a quarter ago."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes. In terms of the RWA question, there's a combination of factors that I already highlighted. It is partly due to increased lending that we were doing during the quarter. Obviously, all of that is positive for us and consistent with our strategy and also consistent with our plan when we referenced where we expect to be by 2024."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "In addition to that, there was also an increase due to derivatives activities. And so when you reflect on our markets revenue and the fact that we were up and a lot of that increase was from our equities derivatives, our FX derivatives and our rates derivatives businesses. All of that resulted in higher overall asset levels that correspond, of course, with the very good performance we saw from the deployment of those assets. Then there's a bit there related to model updates, which we highlighted is $1.6 billion, and we referenced that we expect some more of that going forward."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "As to the increases or the reductions going forward, a lot of that will depend on the business environment and also the continued execution of our strategy."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Okay, very helpful. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Nicolas Payen from Kepler Cheuvreux. Please go ahead."
+  },
+  {
+    "person": "Nicolas Payen",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Yes, good morning. Thanks for taking my question and Kirt, thank you very much and good luck for the future. I have two questions first. The first one, just a follow-up on Russia. And I just wanted to make sure I understood that well that the $100 million impact for the P&L was for Q1? And if it was the case, do you expect further impact for the rest of the year?"
+  },
+  {
+    "person": "Nicolas Payen",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "And the second question would be on the payout and capital distribution. As you said, you reached 100% payout ratio for the quarter. And I wanted to ask if it is something that we should keep in mind for the rest of the year and in parallel to that, could we expect you to increase the share buyback above $5 billion at some point if the capital development is positive or earnings development is positive? Or is it a hard failing? Thank you very much."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "Nicolas, on the first one, nobody knows how the world will develop, but what we can say is that when we manage the situation, in the beginning, and we were pretty early in derisking even before the war actually started. Clearly, the risk costs are generally coming from as Kirt has already indicated, some counterparty risk as well as some failed settlements basically or block settlements or frozen settlements, whatever you want to call it, because counterparties can perform money-wise, but sanctions for bid us to collect the money or to pay the money."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "And that's where we have taken a view as to how to provision for that. And this is basically in a period in which we did a lot of derisking, a lot of derisking. And as you've also seen that the direct risk exposure to Russia has decreased to $400 million, which basically now constitutes of a bit of ASTRO, some counterparty, but a lot of trade exposure which is basically exposure that will self-liquidate with trades being performing."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "Again, nobody knows where the world is going. But I think - and you should expect from us that we are - that we have prudently taken a look at what is the provision or the risk cost that we should take for the quarter on the total."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes. And Nicolas, in terms of payout, so we'll just go back and as you know, we don't guide on payout. So what we've indicated is progressive cash dividend you saw and we highlighted the $400 million in the first quarter. We also indicated we're going to repurchase, we said before up to now we said around $5 billion. And so that is stronger, more confident language. And so when you look at the remainder of the year, you can assume that we're going to stick with the progressive dividend and that we're going to follow through on repurchasing up to $5 billion and then the payout ratio will be what it will be."
+  },
+  {
+    "person": "Nicolas Payen",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Thanks very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Andrew Lim from Societe Generale. Please go ahead."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "Hi, good morning. Thanks for taking my question. So I've got two questions. Firstly, on GWM. If we look regionally, the U.S. split sounds a bit in terms of having strong revenues like some of the other regions, except for Asia. But also for the U.S. more than offset by cost inflation. So I guess we're seeing pretax profit fall. And I'm wondering whether that's symptomatic or structural inflation that we're seeing in the U.S. or whether there's more of a one-off element to that?"
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "And then secondly, on litigation, I know you can't talk about this in too much detail, but I was wondering if you could confirm or not whether U.S. regulators have made inquiries to yourself about your block trading activities? And then finally, best wishes for myself, Kirt, good luck for the future."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes. So in terms of the Americas and GWM, so what happened in the quarter, as you said, we had 6% top line growth. But then also, we highlighted the fact that we also had a litigation, of course, increase year-on-year, plus we had FA comp increase year-on-year. And also, I would note - last year in the first quarter, we had a onetime overall compensation effect that caused for lower levels of variable compensation."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So all of that went into the increase in cost. So it's not something that we would certainly expect going forward, except for obviously FA comp. FA comp will depend on revenue. But having said that, also I would note that - so if you think about increases in NII, in general, a payout ratio on NII is far lower than other revenue sources. And so that should be positive and accretive to pretax margin."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "And then the last question, as you can well understand, we never actually comment on our interactions with authorities or regulators. So also in this case, we won't do that, Andrew."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "Thank you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "Good. Thanks that gets us to the end of the session. As you know, our Investor Relations team is always ready to pick up the phone and answer further questions that you may have, while diving into the numbers. At this moment, I just want to conclude saying that focusing on delivering our strategy, staying close to your clients, managing risk adequately led to a very strong quarter for us. Strong quarter in terms of continuous commercial momentum with clients, strong quarter in terms of P&L also a quarter in which we feel that the share buyback is showing confidence in terms of our capital position as well."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "With that, I would maybe reiterate my thanks to Kirt. Thanks a lot, Kirt, for all you've done, and let's close the call. Thank you."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Ladies and gentlemen, the webcast and Q&A session for analysts and investors is over. You may disconnect your lines. We will now take a short break and continue at 10:45 with media Q&A session."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

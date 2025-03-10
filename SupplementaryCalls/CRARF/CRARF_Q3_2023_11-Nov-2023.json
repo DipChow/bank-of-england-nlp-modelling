@@ -1,0 +1,344 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] The first question comes from Tarik El Mejjad of Bank of America."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Just 2 quick questions, please. The first one is on the macro hedges in the French retail. Could you tell us how sustainable are these? And what has been the contribution per quarter in the last year or so? And secondly, your strategy to grow your product factories has proved very strong and good, and you can see the momentum in growth in revenues in these highly profitable divisions."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Well done. But my question is on the funding to grow these further. You mentioned in the previous quarters that half of it was funded through disposals. I wanted to understand what are the levers you still have to fund this continued growth through bolt-on. What are the areas that you would think are noncore, obviously not specifying any specific entity, but divisions, and also how much you can do more in terms of synthetic securitization and optimization of RWAs?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Tarik, first on the macro hedge, everybody seems to discover the existence of macro hedging in the management of a retail bank in France especially. But it's something which we have used since many, many years. I remember that back in 25 years ago, when I started in banking, this was almost the first thing I had to study and to work on, because this is absolutely key, especially again in the context of French retail banking activities. So when rates are more or less stabilized, hedging is a cost, and we integrate this cost in the management of our P&L. When rates vary significantly, macro hedging is generating a significant contribution to the NII."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "And this is exactly the role it has to play. So we are not going to disclose precisely amongst the NII what is the part coming from the remuneration of the assets, what is the part coming from the cost that we have to bear on the liabilities, and what is the effect of the macro hedging, because it would be too complicated. It would need actually a lot of explanation regarding the strategy of hedging that we have, and so on and so forth. And I think it's not very relevant because it's a matter of conventions most of the time. But it's very important for you to understand that we have a steady approach of macro hedging permanently."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "We don't change because rates are changing, and we try to be as steady and as constant as possible with the goal not of preserving us from any effect from the evolution of rates, it's not possible, but with the goal of smoothing as much as possible the effect of rate evolutions on our P&L. And I think we've managed it quite nicely, because again, this illustration is provided by the evolution of the NII at LCL minus 9% on a quarterly basis between Q1 '22 and Q3 '23.And maybe the last point I can stress is the fact that between Q2 '23 and Q3 '23, it seems that both at LCL and at the level of the regional banks of Credit Agricole, we are now having a certain stabilization of the NII, which means that we are probably with a certain number of assumptions, of course, regarding the future evolution of credit, regarding the competition between banks to attract deposits, and so on and so forth. But with a certain number of assumptions, we can be quite confident that we are not very far from the trough in terms of net interest income. Maybe just 1 additional thing on this, which you must keep in mind, which is a hit that we are going to start to feel in Q4. You have perfectly seen that the ECB has decided to stop remunerating the mandatory reserves."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "This has started to bite on September the 20th. And so it means that for the group globally, this is going to represent a hit of around €100 million a quarter. So all things being equal, our NII is going to be impacted by around €100 million, spread quite evenly between the regional banks and CASA and the different activities in CASA. But you must keep that in mind. Regarding the capacity of continuing to make bolt-on acquisitions and the way we can finance those acquisitions. We've taken a look back on the last -- I think, it was the last 4 years, so since 2019."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "In terms of net results, we've generated around 650 bps of capital. We've distributed 350 bps, both for the dividends and for the AT1 coupons. So this left us around 300 bps of capital that we could use both for the organic growth of the different business lines and for the bolt-on acquisitions that we have mentioned. So, of course, in this period, we've been able to seize opportunities to dispose of businesses that were noncore. But it's not a need to make disposals just to finance those acquisitions, because, again, with a very high level of profitability, as we have, we can perfectly manage at the same time paying the dividend in cash, fueling the organic growth of the business lines, and keeping a certain amount for bolt-on acquisitions, especially if we are now done, and we hope this is the case, with all the regulatory strengthening."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question, sir, is from Flora Bocahut of Jefferies."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Jerome, I just wanted to talk about the 2025 targets. I know you don't want to change them intra-year just to name the 9-month performance compared to what you're guiding to 2025, you're roughly annualizing at a net income of €6 billion right now. You target just over that level in '25. The [indiscernible] you have after 9 months is north of 13%, and that's on a common equity tier 1 that is above the 11% target you have in the plan. So clearly you overearn at the moment versus the '25 target."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "So the questions I have are very simply, would you describe the 2025 targets as conservative? If they are not conservative in your view, where is it that you think that the P&L is going to deteriorate versus the current run rate into '25? And can we expect that you will update the 2025 targets with the full year '23?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Flora, you know that we are structurally conservative. This is part of our DNA. When we published those targets for 2025, it was back a little bit more than 1 year ago, close to 1.5 year ago, and so I think this was the best targets that we could provide, considering all the elements that we had in our possession at that time. Of course, we are absolutely conscious of the fact that we are probably a little bit ahead of the curve in terms of the trajectory from here to 2025. Nevertheless, it's, as of today, way too early to start discussing about that."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "We are presently working on the 2024 budget. These budgets are going to integrate, of course, some ideas regarding 2025 and even 2026. This is the way we do things internally. So when we are going to assess all these elements, of course, we will have a better view of our capacity to reach and why not to beat to a certain extent, those performances that we have posted for 2025. But we are not in, I would say, holding forecast mood. And so we are not going to update permanently quarter-after-quarter our medium-term target because otherwise, we could certainly probably at a certain moment, be obliged to downgrade our targets."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "So less for the time being to do with the targets as they are and trust us to deliver as much as we can even if it's above the targets."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Giulia Aurora Miotto of Morgan Stanley."
+  },
+  {
+    "person": "Giulia Aurora Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Jerome, my first question is with respect to capital distribution. So 11.7% is comfortably above the 11%, and that leaves you room to potentially pursue more bolt-ons, but what about the 50% distribution policy, could you consider perhaps a special or increasing this to 60% perhaps, so that you can keep the dividend flat year-on-year? That's my first question. The second question. And listen, I know Corporate Center is not the best or most strategic division, but costs there are quite volatile. And at the moment, they are basically 0, I mean, minus €2 million. Is that due to stay or like Q4 last year, they should go up."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Thank you, Julia. In terms of capital distribution, again, this is a question that we -- so we have a policy, and then we have a yearly decision on the precise level of dividend that we propose to the General Assembly meeting at the end of the year. So we are only at the end of the third quarter. And this is definitely a question that is not on the table right now. But just keep in mind a certain number of elements. First point, we have announced, and this is a yearly commitment now that in the course of the fourth quarter, we were going to conduct a share buyback in order to offset the effect of the capital increase reserved to the employees that took place in the summer."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "So this is going to represent a hit of 9 -- 8 bps to 9 bps on our CET1 ratio, depending on the price at which we buy those shares. Second point, we have, in the course of the first half of 2024 to finance the acquisition that has been announced of the group [indiscernible]. This could be between 25 bps and 30 bps of capital. The third point, we still have a last layer of TRIM impact that is going to take place probably in '24 that will represent €4 billion of additional RWAs. Then we have the last, very last steps on the phasing in of IFRS 9, which is another 5 bps in '24 and 5 bps in '25. So all these elements are taken into account in the capital trajectory. And what is important for us is not the point that we reached at the end of a specific quarter, but to be able to continue to monitor our trajectory that is consistent over time. So the reflection that we permanently have about this trajectory and the reflection that we have on a yearly basis about the level of dividend are going to, of course, take place with the results end of '23 as every year."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "When it comes to the Corporate Center, it's true that it's a little bit difficult to read across. It's true also that this year, especially, there is a new feature that is impacting both the NBI and the cost base of the Corporate Center, which is the fact that we've decided to put there the effect of a certain provision of IFRS 17, which is the one regarding the internal margin. So this represents on a quarterly basis about €200 million of negative NBI and €200 million of negative costs. It's a little bit tricky. It's a little bit difficult to understand. It's purely accounting."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Net impact is 0, of course. But this is impacting the Corporate Center, and this is not helping -- I concur with you, this is not helping very much the capacity to read fully the evolution of the Corporate Center. Just keep in mind for this Corporate Center that we want to continue to monitor the overall cost of this Corporate Center at a level, which is at or below €750 million of net cost on a yearly basis."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from [Steven Goldman] of Autonomous Research."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Yes, it's not Steven Goldman, Stefan Stalmann. I almost missed it myself, but here I am. At least it's a good association. I wanted to ask, please, on Slide 9, which I thought was very helpful where you provide some financial metrics on the past M&A deals. Could you maybe tell us what kind of return on investment you would generate based on this NBI and on this cost to income guidance if that materializes in 2025?"
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "And also of the €1.9 billion NBI, could you roughly tell us how much of that is already in the 9 months '23 numbers? And the second question relates to Chart 13, also very helpful, some of the NII trajectory in your different businesses. If you look longer-term, once some of the structural differences and product mix and timing differences that result from that have worked themselves out. Is there any reason to believe that LCL's net interest income or net interest margin should not catch up with what we're already seeing in the international businesses."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Two very interesting and difficult question, Stefan. The first one. The first one is actually quite easy. We have a very strict financial discipline in terms of validating bolt-on acquisitions. And definitely, we do not accept any transaction that would not lead to a 10% minimum return on investment after 3 years."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "And what we can tell is definitely that all these acquisitions summarized on Page 9 have generated already or are going to generate when they are going to be fully ramped up, this minimum level of return on investment. And sometimes, it's quite significantly above this level. Every time we announce a specific transaction, we give an idea of the type of return that we are targeting. And definitely, it's in general, quite significantly above 10%. But 10% is the minimum, and it's verified very, very carefully. In terms of which proportion of the €1.9 billion of NBI is already in our books."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "It's a difficult question because this €1.9 billion is a combination of the initial NBI of the acquisition that we are making, plus the organic evolution of these acquisitions, plus also the effect of the revenue synergies that we are targeting. So it's difficult. We’ve provided -- for the last acquisitions, we've provided quite a precise information on what is accounted for in Q2 and Q3 numbers. As an example, for RBC in Q3 numbers, we have €100 million of NBI and actually, for the time being, €100 million of costs, so 0 profitability for this quarter alone, of course. And for Credit Agricole Auto Bank, we've provided with the figures of the last quarter. We've provided some details of the generation of NBI linked to this acquisition."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "So you can probably -- and excuse me, to answer like this, but you can probably do some math in computing the different elements that we've provided. But we are not able and not really willing to say we are at 53% on the way to the €1.9 billion. It would be probably too precise and not very helpful in itself. In terms of NII, of course, what we expect going forward, if we are really at the top of the rate evolution on the market and from the ECB, what we could expect is, as I said, a certain stabilization in the NII and then a progressive pickup for French retail banking activities. And at the same time, it's absolutely natural. A certain peak reached for the NII in non-French retail activities and probably stabilization or even a slight slowdown because the same causes are producing the same effect. But to what extent there is going to be a convergence between the 2 curves, the curves regarding French retail and the curve regarding international retails."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "There is absolutely no reason why it should strictly converge, it's -- you have many, many different elements that play your role in those 2 evolutions. And so, there's no reason why it should completely converge in addition to that, and we've insisted quite a number of times on this aspect. I think that one of the key features of the French retail model with the fixed rate for home loans and for different categories of loans is the fact that over time, it generates a much lower level of cost of risk than other models across Europe. So if we wanted to fully assess, I would say, the convergence, we should take into account also the line of the cost of risk."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] The next question comes from Amit Goel of Barclays."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "So 2 questions. I guess one, just following up. So I appreciate you've given the guidance on the NIM for domestic retail and international retail. Just curious if I put the 2 together in terms of total retail NII, what trajectory should I be modeling going forward? And then secondly, on the Capital Markets NIB performance, just curious to what extent I should be extrapolating that the 9 month performance going forward?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Okay. First answer, it's again difficult to tell because, again, many, many assumptions are going to play a role in the future evolution of the net interest income in the different parameters in the different geographies, what is going to be the actual evolution of rates. We make the assumptions that we are picking, but it is going to be the case. What is going to be also the reaction of the competition? You know that in France, for example, there is a certain competition to attract customer deposits."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "So is it going to lead to further increase in the cost of liabilities or not. What is going to be the behavior of customers in terms of credit demand. For the time being, we have seen, for example, in home loan in France, a significant decrease, less significant for us than the market, but nevertheless, significant because simply number of customers are giving up because of the level of sales. Is it going to remain at this level? Or are we going to see some customers finally deciding that they have seen their income increase with inflation? And they are going to get to a conviction that probably at a certain point in time, the price of homes is not going to decrease further. So they might -- this might generate a higher credit demand."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "So all these elements are going to play, and it's difficult to model that mathematically in a trajectory for the coming quarters. But I think that you have enhanced the most important, I would say, factors that are going to play a role in the future evolution. In terms of CIB capital market activities and especially fixed income, it's true that we've posted a very high level of revenues. And this is not the first quarter that we've been able to beat a little bit the market in terms of fixed income revenue evolution. I think this has to do with the fact that we are mostly and almost exclusively driven by the customer demand and that will to engage into transactions, it's bond issuances, hedging, securitization of operations of this kind. So first, driver is the customer demand, second driver is the fact that vis-à-vis those customers, we are growing regularly our positioning, our ranking."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "And as an example of that, CACIB has been -- in the third quarter has been #2 worldwide for the bond issuance in euros. So of course, if there continues to be a significant volume of activity on debt capital market, CACIB is very well placed to take advantage of that. If there is a slowdown in the volume of debt capital market activities, CACIB is going to go alongside this evolution. But definitely, the improvement in the positioning of CACIB is explaining probably partially, but significantly this overperformance. And this is here to stay."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from Delphine Lee of JPMorgan."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "My first question is going back to net interest income. Thank you for that Slide 13. So just trying to understand on LCL net interest income, the minus 9%, which is clearly an outperformer versus other players in the market. Would you explain that because of hedging? Or is there something else that you could point to in your commercial dynamics in terms of volumes, you seem to have more resilient lending or deposits, anything that can just help us understand a bit more the relative performance? The second question is on the leasing activities within SFS. So other players are highlighting the normalization of used car prices, which is coming. Do you see that as an issue for yourself or less so? And if you could just elaborate a little bit on that topic."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Okay. In terms of evolution of the NII, it's difficult to compare the different French banks to one another because not all banks have exactly the same breakdown of their liabilities between regulated and non-regulated saving products. Not all banks behave the same since the middle of 2022 in granting new loans and for example, the regional banks of Credit Agricole and LCL were significantly more active than the average of French banks on the market in terms of granting new loans. So all these elements play a role. And of course, the precise technique of hedging plays a role. I don't know exactly in which proportion because I don't know exactly how the hedging played a role for our competitors, but it's clearly important for us, the revenue generation coming from hedging is clearly important for us."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "And this is again -- this is exactly the purpose of hedging. It costs when rates are not moving and it generates additional revenue contribution when rates are moving. This is exactly the goal. Going now to leasing activities and this issue of the valuation of used car. It's true that it's a very important risk component of the business. And when you model the level of the monthly rent of a car that you are leasing, it's very important to make relevant and prudent assumptions on the valuation of the used cars at the end of the process."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "It's true at the same time that in the last year this time for different reasons, the value of used cars quite significantly increased, thus generating a booster to the profitability of leasing businesses. When it comes to our business, the biggest part of the business that we are looking is a new business. So for the time being, we do not depend very much on the valuation of used cars and what is called in the business, the remarketing of used cars because simply, the ramp-up of our business is quite recent. So we make sure that we are prudent in the assessment that we've made -- that we are making in the valuation of used cars at the end of the contract. But for the time being, we mostly have a rather recent contract in our portfolio."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Pierre Chedeville of CIC."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Yes. Can you hear me?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Yes, clear."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Yes. My question is about Slide 26 on insurance because I want to..."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Life insurance slide."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Yes, because I want to improve my IFRS 17 understanding. You mentioned 55.2% combined ratio, including discounting and unwinding of reserves. And you mentioned the evolution minus 5 points on a year linked to climate impact, but you don't mention any evolution related to discounting and unwinding. And I was quite surprised because since 1 year, rates have evolved. And so, when we read your slide, we have only the impression that its climate impact, but is playing there."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "And I was a little bit surprised by that because for me, the minus 5 points is also related to discounting and unwinding of reserves. So if you could clarify that for me, it would be interesting. And also -- maybe it's a little bit early to say if there is an impact, but maybe you could tell us if you are exposed more or less severely to the CRM templates for Q4. And my other question on Slide 26 is, you mentioned an impressive increase plus 22% regarding protection, which is quite a significant figure. And I wanted to know what is behind this figure of growth. Is there any consolidation somewhere, but I don't see where. And it cannot be only volumes or price effect. So if you could explain this increase."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Always very technical and precise questions. I don't have the precise answer to your first question, but what I guess is that by definition, the new combined ratio that we are posting is taking into account all the elements that it should take into account, i.e., of course, the decrease in the level of sinistrality. But also all the financial elements has to be taken into account in the new IFRS 17 accounting standard. So I do not doubt that this evolution is taking into account discounting factors in connection with the evolution of it. But I don't have the breakdown of the 2 elements, probably the biggest part is coming from the improvement of the sinistrality. And the smallest part is coming from the discount effect, but I am -- I don't have the precise figure to provide to you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Maybe my colleagues and the IR team will give you some more details. Second element, of course, we are exposed to the new weather events that took place in the last few days. It's absolutely certain. And we are following, I would say, on a daily basis, the number of claims that are reaching back offices. The number of claims is already quite significant. I think the opportunity of that to mention that 20% of those claims are settled directly through the first [indiscernible] in terms of commercial advertisement for the efficiency of our insurance -- P&C insurance activities. But of course, Q4 figures are going to be impacted by the effect of this event -- of these events. That's very, very certain. And then the last point for protection, I don't see any other element than the commercial dynamism to explain this increase in -- by 22% of the revenues in death and disability policies. So no specific events, no acquisition, no integration or whatever, it's simply the development of the business."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Excuse me, did you have any ID, for instance, if you want market share there or something?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "I think it's too early to tell about market shares because they -- first, we have them on a yearly basis, and second, we have them several months after the end of the year. So it's way too early to have indications, but it's clear that we've been active on this front in the last month."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Final questions are from Matt Clark of Mediobanca."
+  },
+  {
+    "person": "Matt Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "So a couple of questions. Firstly, I'm afraid on net interest income again. I'm just reading back your comments last quarter where you were saying that you did not expect to see a significant improvement in French retail net interest income before the second part of 2024. And then obviously, we've seen a 7% sequential increase this quarter. So I was wondering if you could explain what it was that happened that you weren't expecting when you spoke to us last, whether that's in terms of market rate moves or client behavior, why did we get that improvement already this quarter that previously you didn't expect to start coming through for another year or so? And then second question is on the digital euro, perhaps you could comment on how, if at all, you are preparing for this and any impact you expect on Credit Agricole's business in the coming years."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Well, on NII, I absolutely confirm what I've said 3 months ago. But at that time, the first element -- we are not talking about a massive improvement Q3 and Q2. Actually, we should not talk about the stabilization. So for the time being, it's not an improvement between Q2 and Q3. Second point, what we are seeing is probably a better level at LCL of production of new loans that what we could expect 3 months ago because actually, the production of new loans between Q2 and Q3, bearing in mind that Q3 is the month of the summer vacation."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "There is a decrease by only 3% in the production of new loans at LCL between Q2 and Q3.And probably, this is playing a role in the stabilization of the NII between those 2 quarters. And then, of course, there are many, many other moving pieces in -- regarding the cost of the different liabilities, and they have played also a role in this stabilization. But if we want to talk about real improvement, I confirm that it's going to take place in 2024 and not really before. When it comes to the digital euro, you know that we are a little bit, I would say, doubtful about the appetite of customers for the digital euro, and we are not, for the time being, quite certain of the goals that are pursued by the implementation of the digital euro. So of course, we have teams that are working on that. We are trying to guess what could be the use cases for our customers, what could be taken in the digital euro in order to improve their capacity to handle the cash, to use cash, to make small payments and so on and so forth."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "There is also a part of the digital euro that is dealing with large payments on which we are working at the same moment. And for large payments and large amounts, we see much more clearly the advantages in terms of cost efficiency of those payments. But anyway, this is something that is supposed to take place at the soonest in 2027. So we still have a little time to get prepared. And again, we need to have a better view on what are the goals of the digital euros and which is going to be the form of the digital euro for the individual customers with amongst the many, many questions that we are asking, one, which is very important. Is it going to be a token or is it going to be a little bit like a bank account that would be held at the level of the Central Bank."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "So all these questions are very important, but we are working on that. Thank you. Well, I understand this was the last question. So again, thanks a lot all of you for your questions and see you soon. Bye, bye."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

@@ -1,0 +1,848 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] Our first question is coming from [indiscernible] from DBS. You’re now live."
+  },
+  {
+    "person": "Unidentified Analyst",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes. Hi, good morning. Thank you for taking my questions. First one would be on the asset quality guidance in Brazil, if you see any downside risk to that stable cost of risk guidance you have given considering the slow economy and the fast growth of the retail books in recent years. And the second question is around city selling retail operations in Mexico, if you can give us any color around potential interest on the asset. How would you approach the funding? I mean, the 12% CET1 target is a binding constraint, even including potential M&A in Mexico and some of the places. Thank you."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So let me take the second one. I mean, José Antonio can take the second – the first one on Brazil. So, we are very satisfied, and we have a great business in Mexico. We do not need to buy. We’re generating great profits. We believe that’s going to accelerate. We’re gaining market share. I actually commented this morning that we’ve built from scratch an auto finance business that in a couple of years is 10% market share."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So let me be very clear, we do not need to buy to generate very attractive and profitable growth. Having said that, Mexico is one of our core markets. And so, when and – the process is expected to begin and actually it’s months away, we expect to be part of that process. I can assure you we’re generating a lot of capital."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We want to generate more capital and that is one of the goals of all the management team, ensuring that we are putting business on the books that is profitable and reducing the investing in new businesses, as I said, from 30% to 20% of our total RWAs. So, we would do that in a way that is attractive for our shareholders. That’s really all I can say if it ends up happening."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "If you look back the last couple of years, in some cases, we actually went ahead and the transactions in others, in Brazil, was a good example, we did not do the deal that was obviously an end market co-market opportunity. So that is really all I can say at this point. On the asset quality, on Brazil, José Antonio, would you take that, please?"
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. Sure. As you’ve seen in the results presentation that we’re going to grow in Brazil. I should say that these two different speeds in the loan book in Brazil. One is speed from the – I’m referring to 2021, in the consumer side, where we’re growing around 20%. That particularly grew faster in the first part of the year than the second half where we tightened a bit our credit standards, and we grew less in the second part of the year."
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Going forward, on top of this, we were building a significant amount of provisions for the expected loss, taking into account the macro-outlook that, as you mentioned in your question, we expect GDP to grow – barely to grow in 2022, and we are adjusting to this situation. And we already feel that we provide for this scenario already."
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "In 2022, our growth is going to be – what we are seeing right now is a relatively low demand on the corporate sector. And our growth now in the consumer side is going to be at best in line with inflation at best. I should say, inflation is running now at 10%, expected to run to run out at the end of the year in the 6%. Probably you should expect a high single digit, but in line with inflation or below inflation, and probably we’re going to grow less than the market."
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, this makes us comfortable that taking into account our provisioning levels, our origination stand as we’re going to be able to manage the slow down. So, remember that we face a more difficult situation in 2015 and 2016 when the market was extremely negative. And although we are not in a position to reduce cost of risk as we did in 2015 and 2016, we think that we be in a position to – but not to change significantly the cost of risk from what you’ve seen in the last couple of quarters."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. I may just add one fact, which I think is crucial for all of you and the reason that we’re doing so well in Brazil. Of course, we have a great team, and there’s great execution. But please do not forget that for South America and Brazil is 80%, 13% of our loans and 31% of profits. And the reason for that is we have a lot of fees and a lot of diversified different income streams that are growing really well. This is crucial, aside from the actual credit management that José Antonio was explaining."
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I forget to mention that lending to consumers now 52% is secured. In the past was below 40%. Now it’s 52% secured. That means that is payroll-based lending and mortgage. So, this make us more comfortable vis-à-vis with the synergy you mentioned."
+  },
+  {
+    "person": "Unidentified Company Representative",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you. Can we have the next question please."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question is coming from Francisco Riquel from [indiscernible]. You are now live."
+  },
+  {
+    "person": "Unidentified Analyst",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes. Good morning. Thank you for taking my questions. And first one, I wanted to ask about your cost-to-income target for 2022. If you can please comment on what should drive the improvement in the ratio at the group level, in particular, how do you see cost inflation in emerging markets? And Brazil, in particular, if you think that cost to income could improve in these markets or not? And also in developed markets, you admitted the €1 billion cost-cutting target is challenging. You maintain a high level in technology. So, I wonder if you can give more guidance in terms of costs for the business units, UK particularly the restructuring seems a bit slow."
+  },
+  {
+    "person": "Unidentified Analyst",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And second question on capital, you can update on the headwinds expected for 2022 in terms of restructuring charges, given – and then also the regulatory headwind that we might expect? And also related with capital and a follow-up on the previous question if I wonder what is the minimum CET1 that you would be comfortable in leveraging up if you were to embark on M&A, for example, the PagoNxt deal? I see that you are guiding for 12% both in 2022 and in the medium term, which is an increase versus the previous range. So, I wonder if this is also your new threshold in terms of capital also in the event of M&A? Thank you."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you very much. So let me just give you a high-level view on capital again. So, as I said, 2021 has been a pivotal year for Santander from a capital perspective. We gave a range of 11% to 12% back in 2019. I want to stress that from a regulatory perspective from a supervisory perspective, from an economic and prudence perspective, the 11% to 12%, i.e., the 11.5%, gives us ample buffers against some minimums. This is really important. We finished at 12.12% actually fully loaded and 12%, if we take account of the inorganic."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And I really want to stress that the 12% is because we understand investors want the 12%. So, we are going to be at 12% for 2022. Throughout the year, this allows us, as I said, us to be very strong from a balance sheet perspective, it allows us to grow profitably and also to reward our shareholders, increasing as our profits increase."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So again, the buffer is just to give you a number, 365 of our minimums, but also because we have proved and I gave these numbers, not all banks require the same amount of capital. Business models are different. They’re more or less volatile. We have proven to be the most resilient bank in the latest EBA stress test with, I think, it’s 250, a bit more capital depletion in the adverse. That’s 485 on average for the banks. But very importantly, our geographic diversification, retail commercial business, you’ve seen that in the 2008 crisis. You’ve seen that in the global pandemia, year-after-year. This is not just last 10 years. The last 25 years, we have the lowest EPS volatility."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Another evidence, of course, is the fixed income investors, which look at our balance sheet inside and out. We have the – I think the first or second – probably the second lowest credit cost than any of our peers. So again, this is crucial. Having said that, as I said, we are going to be at 12%, and 12% is our target for 2022. And very importantly, and you’ve seen that year-after-year, we’re generating more and more capital organically, increasing our profitability, and that’s still the intention, I just said for the medium term and we’ll give you detail, how we get there. We’ll be at 15% or actually maybe even above that. So, this is really, really important."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "José Antonio, I think I answered that at least on the higher level, which I think is something, which we care about. Again, we’re listening to you. We’re listening to investors. And it’s been a pivotal here. And our aim is that this is not the issue that we need to discuss. We want to focus more on growth and opportunities ahead."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On the cost income, I think we were reluctant to give many more details, but obviously, you’re going to give more. I would stress that we have said that we are committed to the €1 billion. I’m just saying that it’s going to be harder to do because of the inflation. But we’re going to listen. Hopefully, our track record..."
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Your question if I understood you well, it’s more related with emerged markets, where we are facing very high inflation, both in Brazil, Mexico, nothing to say about us. Argentina and let’s show in Chile, what we think – given the efficiency levels we got in these countries, we do not expect – we expect on the – we already elaborate on Brazil’s outlook. We do expect not to grow constant cost top of revenues. Probably there’s not as much room to go lower in the constant cost in Brazil we’re already low 30%. So, we’re going to probably stay at these levels."
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "In Chile, where we are slightly below 40%, 40% continues to be referenced to be. In Argentina, we have room to improve literally. We are still above 50% and medium-term target, and we should make significant progress towards this is to go to the 40% that we deem is the right cost-income ratio for an emerging market like Argentina. So, this is our view. But the main gains again, should come from Europe, yes? So cost in Europe, we have a target. We feel comfortable with our target in Europe, and we’re going to continue to show some gains in costs and costs in Europe in 2020 should go down in nominal terms."
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Now, I mentioned well, in 2022, we expect a significant still in Spain comes going down 7%, 8% in nominal terms. Portugal, probably more so, probably in the region of double digits, minus 10%. And UK probably in the region of close to mid-single digits. So down in Europe. So, this is the big deal on cost in 2022."
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "As Ana mentioned before, we are on track to meet our target, and our target requires us to be negative territory, taking into account inflation. In Poland, we may be around flat. Inflation in Poland is pretty high. Salary increases in Poland are running in the region of 7%, 8% and taking account of this respect to be in line with the flat costs in Poland. So that’s the work we are doing chaining our operating model in Europe. That one Europe means, taking advantage of our scale in the four quarters to increase the productivity on the back of a better operation model."
+  },
+  {
+    "person": "Unidentified Company Representative",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you. Can we have the next question please."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question is coming from Britta Schmidt from Autonomous Research. You’re now live."
+  },
+  {
+    "person": "Britta Schmidt",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes. Good morning. I’ve got three questions, please. Just to confirm on the CET1 ratio. If we included a buyback element for Q4 and the pending deals, would it be right to say it will be at 11.8%? And can you just confirm that the regulatory headwinds are still expected at around 30 basis points?"
+  },
+  {
+    "person": "Britta Schmidt",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "The second question is on Spain. Despite a decrease in the customer spread, NII was up. Can you give a bit more color on that? And maybe also on the reduction in insurance fees."
+  },
+  {
+    "person": "Britta Schmidt",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And the third one is on the U.S. operating model, you commented on some regulatory approvals. Could you tell us a bit more about that? Please. Thanks."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Regulatory approvals. Yes, regulatory approvals in the U.S. We got approval for Santander Consumer buybacks, and we executed that on Monday. We have pending approval for the Amherst Pierpont, which is the other transaction. That's the only one pending."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On the CET1, including everything we know until now, would be very close to 12%. I think it's 11.96%, 11.97%. So, including all the – we were at 12.12% exactly at the close of December, will be very close to 12%, 11.97%, 11.98%, something like that, it's in the 11.96%, including the pending approvals, which will happen in Q1. In terms of – so again, we said we will be at 12%. As I explained, we have a diversified, very predictable business model. We've delivered every single year. And there will be some ups and downs every quarter, but our goal is to be at the end of the year at 12% or above. And I'd say, every quarter also."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Regulatory headwinds, I think maybe José Antonio you can take that one and the Spain insurance. Regulatory headwinds, I think – have you said anything about that? Do you want to expand? Again, we're going to be at 12%. We feel very confident and they should be leveling off and, of course, a lot less than in 2021. That's for sure."
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On the capital, naturally, there is some potential regulatory headwinds coming basically from some colorful morals, difficult to assess at this stage. But we feel that aside from any kind of inorganic that we don't have things that we do not contemplate at this stage. We're going to be running around 12%, maybe a bit higher, a bit lower than that, including the regulatory headwinds and probably, taking into account the look for interest rates, some impacts coming from the ALCO portfolios. So, everything in good basis and our expectation of right now, so this is in CET1."
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Insurance, well, we have – insurance businesses is running – is going very well all across the world including Spain. Spain is growing a lot. What we have had in Spain is some one-off coming from annuities that – well, probably it's not going to – no, for sure, it's not going to repeat it in 2022. But I will be surprised if our insurance fee, insurance generation in Spain does not grow in the region of 15% in 2022. So, I'm fairly optimistic about insurance. And I think Insurance continues to be one of our best opportunities to grow our fee income."
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Finally, the third question, you want to take it, the operating model in the U.S.?"
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Sure. So, we will give more detail at some point in Q2, we are planning to do a special in the U.S. But the operating model in the U.S. has four business lines, as you can see in one of the slides. One is a consumer vertical. We're not aiming to compete as a full-service bank, but rather follow more the digital consumer model in Europe, i.e., consumer, where we have the 10th largest consumer auto lender in the U.S. We are going to manage that as a consumer vertical where we're going to fund with core retail deposits. This is essential to grow our business in consumer into the prime and near prime because of cost of funding."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "In parallel, we're going to streamline our retail operation. We are planning to exit certain businesses that are not scalable, where we're not competitive and focus on where we are competitors. We're working on a new tech stack that we believe will allow us to achieve significant synergies, and that's not just from the management of the business with the consumer, which, by the way, we're not able to do because it was a listed company. And so, you're going to see very much a bank that mirrors U.S. banks, where you have the consumer funded by core deposits, where you have a commercial operation that is based on the connectivity with markets, I explained Mexico and others, and finally, the wealth management and CIB that I referred to in my presentation, so that's really the operating model we are working on."
+  },
+  {
+    "person": "Unidentified Company Representative",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you. Can we have the next question please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question is coming from Alvaro Serrano from Morgan Stanley. You’re now live."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good morning, thanks for taking my question. The first one is kind of on the payout. I mean, you've reached your 12%, which you've described at length, which is where you want to be profits outlook is significantly better than what consensus is saying is according to your guidance. You're expecting only sort of low single-digit RWA growth. Why not 50% payout already in 2022? Is it because – can we expect some reassessment or top up of the buybacks maybe later in the year? Or is there some restructuring charges that we don't know about that might happen? Or are you leaving some room for add-on M&A? Just what it feels like your capital accumulation should be very strong this year and it feels like there's a disconnect there."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And second, on the U.S. strategy. I realize you're going to give more color presumably in Q2 with a special but, have you had any more interactions with Chrysler? I realize they're all in-house financing arm, and your joint venture comes to an end in May next year. Do you have any more color, maybe what part of the revenues you think you can keep and what would be a risk? I mean, in the past, I think José Antonio has explained that the subprime part is probably something you can keep. I don't know if you can quantify that for us and how you're going to be able to offset that? What's the idea? Thank you."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Very much. Excellent question. So, on the payout, as we've said, we intend to increase and we are aiming for increased profitability, which means if that happens, and we are confident it will. We would be increasing dividend per share and buybacks at the moment. The intention is a 50-50 for next year. I also said that we expect to – sorry, we aspire to increase total shareholder return beyond the 40% with around 50% of remuneration through share buybacks. And that is really all we can say at this point. Again, we have profitable growth opportunities. We think it's interesting for you, the investors that we do that in an era of increased competition."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We've been very disciplined about where we put our investments. We are getting returns. I mentioned 50% revenue growth for PagoNxt again next year. And I can tell you also, it's going to be EBITDA positive actually next year. So that is the goal. The other very important change I want to stress is the current management is absolutely bent, and the Board is absolutely supportive, and we all believe it's an excellent opportunity to buy back our shares. We are not going to issue new shares at this price. We are buying back shares. I want to leave that very clear that is something we will not do. It was an exception last year because of our retail investors and ECB guidelines. We want to buy back as many shares as we can within the guidance, we've given you."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "In terms of the U.S., Chrysler has indicated that we will continue to be their preferred provider. We've arrived on a very attractive agreement in Europe with Stellantis as their auto partner. This is a great business. It's a great business in Europe, in the U.S. and in Latin America, and we have a great relationship, which is working for both sides."
+  },
+  {
+    "person": "Unidentified Company Representative",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you. Can we have the next question please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question is coming from Sofie Peterzens from JP Morgan. You’re now live."
+  },
+  {
+    "person": "Sofie Peterzens",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yeah. Hi, It's Sofie from JP Morgan. So just a follow-up question on the previous comments, so you mentioned that you are not going to do any more kind of – you're not going to issue any new shares. Does this also relate to any potential bid for Banamex in Mexico? So, if you could just elaborate on these points. And then also another follow-up question, could you just confirm that the regulatory headwind – capital headwinds in 2022 will be around 30 basis points? And then my final question would be in the U.S., we saw 43 basis points of loan losses in 2021. In the past, I remember you're talking more about 300, 400 basis points was a normalized level. Could you just comment how we should think about the loan losses in the U.S. going forward? And what is that through the cycle normalized level of cost of risk in the U.S.? Thank you."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, I want to be very clear. We are not contemplating in any case to issue new shares for Banamex or whatever. We are buying back shares. We believe it's an excellent opportunity. It would make no sense for us to be buying back shares and then to issue new shares. We're not planning. We're not contemplating issuing new shares for any acquisition at this point at this share price. We believe, again, it's an excellent investment opportunity. You've seen myself buying every time I can. I mean, I bought many, many shares. It's a public number. So that is very clear. We're not contemplating issuing shares."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "In terms of the regulatory, I believe José Antonio mentioned that less than 30%. It’s not 30%, so less than 30%. In terms of the U.S. and maybe you can comment on the cost of risk. But what’s important in the U.S., and of course, we are delivering 24% and 19% this year. We are using 12% as the adjusted RoTE across our markets because U.S. and Mexico, for example, we’re expecting very large dividends this year and some next year. Actually, the U.S. would be managed around 11%, not 12%. And the returns on the U.S., including the cost of risk and everything else, we are aiming 15% medium term through the cycle, which is a very attractive return to our shareholders. On the cost of risk?"
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. I should say, our business – you’re referring to SCUSA, the cost of risk in 2021, as you see in the presentation, was unusually low. We expect some normalization going forward, not coming back to the same levels in 2022. And even looking in the coming years, our business, we continue – we’re going to continue to be a preferred partner for Chrysler for the next couple of years. This is our expectation. And we are generating – originating more on the primary space than in the subprime space."
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Naturally, the cost of risk, the second number will depend on the mix because on one side, across the cycle, we have the subprime space where the cost of risk is in mid- to high single digits. And in the prime space is less than 2%. So naturally, this is what is going to drive this. On the long run, this will come to – this will be maintained across the cycle, not in 2022 where we are – we expect the cost of risk to be still significantly lower than the number you mentioned, the 3% that we had in the previous year. So, it’s not going to be the case in 2022."
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And going forward, the mix is what matters. Probably, we’re going to have more prime and subprime because we are, as Ana mentioned in the presentation, we are booking in the bank more prime launch."
+  },
+  {
+    "person": "Unidentified Company Representative",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you. Can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question is coming from Benjamin Toms from RBC. You are in live."
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good morning. Thanks for taking my questions. Two on the UK, please. Firstly, in terms of customer spread, we saw that fall slightly in the UK quarter-on-quarter. In relation to your sensitivity guidance for a 100 basis point rate rise in the geography, can you just clarify what you’ve assumed or talk a bit more about assumptions for customer spread changes, deposit beaters and margin erosion from competition?"
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then secondly, we saw some data released recently in the UK, which showed that biomortgage demand was very strong over the Christmas holidays. Can you just clarify what you’re assuming for loan growth or mortgage growth in the UK for this year? Thank you."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "José Antonio, maybe you take those?"
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. So, in UK, this two – you mentioned the rate rise, we are taking, in our assumptions, some raising rates not as big, probably. And our assumption is to go from the current 25 basis points to 75 basis points maybe a bit higher. This has two effects. As you rightly said, we expect to make some margin expansion on the liability side."
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On the mortgage – on the asset side, that means more which depends on the competition. The competition drives prices in UK, is a market that is fairly competitive. And as you mentioned, the second part of your question is during Christmas, we have strong demand in mortgages, and we were keeping our market share, we grew along with the market. We expect to grow along the year 3%, 4% [ph] the mortgage book in line – very much in line with the market, not losing or no gaining market share."
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And the big question mark is competitive pressure in the market. We saw 2021 with year – the first half of the year, more competition in the second half. Now it's fairly stable, yes. So that's the situation on the market. And this is what I can comment to you at this moment. Naturally rate prices place in favor of us. So, sensitivity to the balance sheet is toward higher rates."
+  },
+  {
+    "person": "Unidentified Company Representative",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you. Can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question is coming from Ignacio Ulargui from BNP Paribas. You are in live."
+  },
+  {
+    "person": "Ignacio Ulargui",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thanks very much. Thanks for the presentation and taking my questions. I have two questions. One is on ESG commitments. I mean you have given guidelines on what is the support that you are planning in terms of lending on green finance targets. I was wondering whether at what stage the bank is considering to disclose a Scope 3 emissions for the loan book, and to track a bit more on progressing towards that net zero by 2050? And the other question is a bit more linked to the previous one. At the bank level, if you could just run through a bit of what's your interest rate sensitivity on the main units of the bank? Thank you."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you. So let me take both of those. I mean, the interest rate sensitivity, actually, we are positioned for higher rates. So net, it should be positive. Sometimes it takes some time to feed through, but clearly positive. On the ESG commitments, Scope 3. So, we are taking into account Scope 3, as we go through the stress test. We did some of that already last year."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We're doing that this year. We're actually going to be very focused on embedding that bottom up. But obviously, to measure Scope 3, we need consistent numbers. We need our customers to give you numbers that we can rely on."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And we then need to compare that with others in a way that's comparable. And all of that is going to take some time. So, it's really important. And we are working with regulators and supervisors that we take these stress tests, where we are going to measure the Scope 3 as a learning exercise, so we can have common measurements that we can compare much as you do with financial numbers."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We are very involved. I'm personally very involved in the working group, so we can ensure that that happens in a fair way. Again, the countries – we're not in Africa, but of course, we are in Latin America, that are now beginning to develop and to ensure that we can measure those, what is green and what is acceptable, we need some common grounds. But yes, we are measuring that. And we will disclose as soon as we believe we can do that in a way that is comparable across others as soon as possible."
+  },
+  {
+    "person": "Unidentified Company Representative",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you. Can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question is coming from Marta Sanchez Romero from the Bank of America. You are in live."
+  },
+  {
+    "person": "Marta Sanchez Romero",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good morning. Thank you very much. My first question is going back to Banamex. Given the relative discount of Santander Group shares, would you consider rating equity using your listed companies in Mexico or minorities are done? Related to this, have you run preliminary numbers on potential cost synergies in Mexico where you could buy Banamex?"
+  },
+  {
+    "person": "Marta Sanchez Romero",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And my last question is if you can comment on the general outlook on asset quality in Spain? And also more specifically, what are your plans for your real estate subsidiaries Merlin, Metrovacesa and the JV with Blackstone. There's been a lot of headlines recently in the papers. Are there any risk of further impairments in this space? Thank you."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So let me take those. I think what's really important is we are not contemplating in any way, issuing group shares. We want to buy back our group shares. It's really too early to say. We are very happy with our organic growth. As I said before, when the process begins, we do expect to be part of the process, but we are not going to, in any way, contemplate at these prices, group share issuance. In terms of Banamex numbers, for years, we follow our competitors. We know our competitors' numbers."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, we do have an understanding. We're not working on that specifically at the moment. It's really too early. In terms of asset quality, let me just comment on the group and say that normalization through the cycle of cost of credit, we expect to happen in 2023. So, 2022 would still be below the cycle."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And again, José Antonio gave some detail already, I believe on Brazil, which could be one of the areas where there could be some questions. In terms of our real estate subsidiaries, these are not permanent holdings in any way. We're trying to make sure we maximize value in terms of when we have to restructure some assets. The goal there is to stay as long as it makes sense. At some point, obviously, this is not a core business. But for the moment, we don't have any specific plans there to actually do anything. It's – we believe we can generate value for now."
+  },
+  {
+    "person": "Unidentified Company Representative",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you. Can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question is coming from Daragh Quinn from KBW. You are in live."
+  },
+  {
+    "person": "Daragh Quinn",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Hi, good morning. Thank you for the presentation and taking the question. Just a first one on Banamex, if you could give us an idea about how you understand the time line for that process this year? And then a second question just on the UK and NII declining in the quarter. Maybe just remind us of how you see the UK, NII reacting to higher rates and the impact, the current expectations for higher rates could have on loan growth, if any? And then just a final small question."
+  },
+  {
+    "person": "Daragh Quinn",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Just on the 2021 dividend. I mean, traditionally, you've always announced the dividend proposal with the results and I think you said you'd be announcing the dividend in a few weeks' time. Just curious on what kind of change in time line and if you could be more specific on the timing for the announcement of the final 2021 dividends? Thank you very much."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So again, on Banamex, I think the crucial thing for investors is – and I am also a significant shareholder, at least at my level, we're not going to issue shares. And the process, we have no idea, but we believe it's going to be long. We don't think it's going to be for a few months because there's a carve-out involved. They have announced that they need to put in place a new subsidiary where they would be actually putting the assets they want to keep. So, we don't think that's going to happen for months, probably more Q3. But again, we are not in – we're not – we do not know. We have not engaged at this point."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "In terms of net interest income in the U.K., I think José Antonio explained that in sufficient detail. In terms of higher rates in the U.K., would have a positive impact – a significant positive impact in the U.K. That was the previous question. It would be hundreds of millions of a positive impact for 100 basis points parallel rise in the curve. In terms of the dividend, there is no mystery. I mean, we have said what it's going to be effectively without saying. The reason is that buybacks require a different process from cash. And so that is one of the reasons, but mainly it's because we'd like to keep some announcement to our shareholders' meeting."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, I'm a bit surprised at the questions on this. We have said it's going to be 40% of underlying income, 50% cash, 50% shares. So again, I would not like to give the number, but it's a pretty simple mathematical calculation. So, in a few weeks, we'll be saying that, again. We have a shareholders' meeting coming up, and we'll be calling the shareholders' meeting at the end of February. That's when we will be giving that."
+  },
+  {
+    "person": "Unidentified Company Representative",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you. Can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question is coming from Mario Ropero from Bestinver Securities. You are now live."
+  },
+  {
+    "person": "Mario Ropero",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Hi. Good morning. My first question is on revenues in Spain. NII outlook for 2022 is probably hard. So, I just wanted to ask if you think the fee growth will be enough to offset this and perhaps linked to this to give some fee guidance in Spain in 2022? And then the second one is on PagoNxt. Well, basically, an update on when you expect breakeven to be reached? Thank you."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "PagoNxt, EBITDA positive next year. 50% growth in revenues. We'll be giving more detail on that. In April, we're planning to give a restatement and showing you the horizontals in more detail. It's a business that's growing 50% revenues, EBITDA positive in 2022. On Spain?"
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Well, the question of NII in Spain, I should say volumes will be relatively flat, probably grow a bit both in loans and deposits. The main driver is going to be TLTRO. So as the TLTRO expires, it's – the negative will come basically from the TLTRO impact in the NII in Spain."
+  },
+  {
+    "person": "Unidentified Company Representative",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you. Can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question is coming from Andrea Filtri from Mediobanca. You are now live."
+  },
+  {
+    "person": "Andrea Filtri",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thank you. First question on capital. Can you tell us the expected impact from the EBA regulatory changes on the treatment of minorities, please? And just a clarification, I'm following from Britta's question before, the 12% CET1 ratio fully loaded that you've given pro forma for all inorganic operations is not including the second tranche of the buyback against 2021 profits. Including it, it would be 11.8%, if I’m, correct?"
+  },
+  {
+    "person": "Andrea Filtri",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Second question on M&A; if you're not issuing shares is the 12% CET1 target you're giving a firm target, even in case of Banamex acquisition? And finally, you announced you're exiting some businesses in the U.S. If you could detail for us the profits and risk-weighted assets attached to this? Thank you."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, the EBA minimum?"
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Well, it's not yet a regulation, it's suppose to come, that is not yet reregulation. In any case, as it is what we know as of today, maybe in the region of a couple of basis points, maybe five, maybe three, maybe four in this region. So, it's what we know today, okay, because it's not still translated into as far as I know, into a regulation."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Right. On capital, again the pro forma included both acquisitions. One has closed, the other one hasn't. I reiterate that 12% for 2022 for every quarter, as I said before. The target is to be at 12% for 2022, including every quarter in 2022 including Q1, including buybacks and cash. And of course, that gets accrued when you actually do it and the accrual will happen in Q1, most likely. In terms of the U.S., we'll give more details on when we do a special day on the U.S. We're planning to do that in New York, we'll announce that briefly in a few weeks, probably, so we can give you all the details on that. And again, the 12% is a target for this year, and we're not planning to issue new shares in the event that we do something inorganic."
+  },
+  {
+    "person": "Unidentified Company Representative",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you. Can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question is coming from Benjie Creelan-Sandford from Jefferies. You are now live."
+  },
+  {
+    "person": "Benjie Creelan-Sandford",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes. Good morning, everyone. I had a question on the Digital Consumer Bank. Just looking at the RoTE and the cost income guidance for 2022. It sort of implies you expect the cost of risk there to remain still relatively low this year. I was just wondering if you could perhaps discuss the trajectory of the cost of risk in the digital consumer business and what you would see as the normalized level? And also, on the Digital Consumer Bank you've talked before about some of the synergies potentially available between the traditional consumer business and the digital bank. I'm just wondering whether you could confirm whether you're currently able to use deposits raised in the digital bank to fund business out of the consumer bank in Europe and – or whether that's still a potential tailwind for the profitability of that business going forward? Thank you."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So yes, we are running those businesses together and so that deposit funding, which is now at €11 billion is it's able to fund the consumer. We're aiming to grow that in a significant way. We've grown customers actually through Openbank in Germany, Holland, Portugal, outside of Spain around 80% in those markets Germany included, and we believe we can do much more of that. Again, one of the goals by managing these customers in a native cloud-based platform is going to be easier to launch a new market. But very importantly, what we have learnt in Spain with Openbank is we are very effective at cross-selling and actually achieving what I don't believe any other digital bank has achieved, which you have core deposits, customers that use the bank as a primary bank and therefore, much lower cost of deposits than other native digital banks. So that's the opportunity. You haven't seen that yet. And we should expect to see that in 2022, 2023."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Cost of risk, normalized cost of risk?"
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "In 2022, we have early. We're going to be already in line with 2021. So, we do not see a significant risk there. Yes, so the credit quality is very good."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "It's still good. Yes."
+  },
+  {
+    "person": "Unidentified Company Representative",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you. Can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question is coming from Fernando Gil de Santivañes [Barclays]. You are now live."
+  },
+  {
+    "person": "Fernando Gil de Santivañes",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Hi. Good morning. Thank you for taking my questions. Just a quick follow-up question, please on 2022 guidance. First is on ALCO strategy. Is there any big change on the ALCO strategy that you are including in your guidance? I think that the Polish book is still big. This is one question, one part."
+  },
+  {
+    "person": "Fernando Gil de Santivañes",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "The second is on provisions taken on that outlook RoTEs above 13%. Are you contemplating any reuse of the overlay provisions do you still happen then? Thank you very much."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, on the ALCO strategy; we're not anticipating any change there. As I said, we are positioned for higher rates, 100 basis points parallel shift. We have the biggest benefits in the U.K. but even bigger in the Eurozone. Again, if you take both together, over €1 billion if you take Europe, the Eurozone and the U.K. But again, we don't have the..."
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. We are just projecting the portfolios we already having the one initiated at the end of December."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On provisions release for overlay, I don't think we have anything in 2022, right?"
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Well, we still have some overlay in the balance sheet, as you know. And this – well, maybe a reduction, may be offset potential credit losses depending, but we are – as I mentioned in relation with our questions, very well provide to offset potential headwinds on the macro side. While we are working on this, being IFRS in respect to the losses and expected losses naturally depends largely on GDP growth. So, we have synergies for different countries, not that unique, I should say, in line with IMF, yes."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. We use IMF and we use the curve, and again going back to my point early on diversification, there could be some positives, but we believe positives could be offset by the negatives, and at the end of the day, the model is going to continue working. So should be, in principle, no surprises, even though you might get surprises in individual countries, we believe the trends would offset each other."
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you, Kim, the next question, please."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] Our next question is coming from Pamela Zuluaga from Credit Suisse. You are in live"
+  },
+  {
+    "person": "Pamela Zuluaga",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Hello, good morning. Thank you for the presentation for taking my questions. I have two. The first one is regarding the FX denominated mortgages in Poland. How should we think about your exposure to those? We've seen other banks both actively reaching for out-of-court settlements and increasing their coverage levels amid unfavorable court decisions. Do you anticipate increasing charges related to the resolution of these mortgages? And then my second question is basically a follow-up."
+  },
+  {
+    "person": "Pamela Zuluaga",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "You had initially guided for an RoTE ranging from 13% to 15%. Now you're guiding for 13% in 2022. Is this level encompassing any downside risk from the higher-than-anticipated costs amid higher inflation like you are highlighting? Thank you."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "First one, and then José Antonio, on the Swiss francs. So, I believe it's remarkable what the team has achieved. We are achieving close to 13% in 2021 after COVID. So, in 2019, we guided medium term, that's three, four years."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So that's 2022, 2023 to 13% to 15%. We're going to – we're close to 13% now. We are saying above 13% next year. Second very important point, again, that shows we not just delivered but over delivered, when we gave the guidance, we said 11% to 12% CET1."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "The goal there was 11.5%. We're delivering close to 13% after a pandemia with a lot more CET1 than what we guided in 2019. So that shows you the strength of our model, the strength of our strategy and of our execution. We're now saying medium term, we said 15%, but we're still working on what would be our next three to four-year plan, which we'll present to you in 2023."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, I just want to stress that we're not just delivering, we're overdelivering in some aspects, if you consider the extra capital that we have versus what we were planning for in 2019 and of course, the pandemia and so on. So, in terms of the Swiss francs, José Antonio?"
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Well, it's very long. We have an exposure between the consumer bank and the bank of €2 billion round €2 billion FX Swiss franc mortgages. Our provisioning levels now are 22%, 23%. Well, we are doing some settlements with the customers, as everybody is doing the same."
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "The final cost of this largely depends on some rulings for the courts and the success of the settlements we are doing. But – well, this is largely behind us on the back of much better outlook for the Polish business on the back of higher interest rates. You see the margin NII expanding 24% quarter-on-quarter in the Q4, and this is going to give us enough room to offset potential losses that come from there, that are not going to be very large."
+  },
+  {
+    "person": "Unidentified Company Representative",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you. We are running out of time, but I have two questions left. I will ask you to be very brief. So, can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question is coming from Stefan Nedialkov from Citi. You are in live."
+  },
+  {
+    "person": "Stefan Nedialkov",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes. Hi guys. Good morning. I have just a couple of quick ones. On NII at the group level, what's your assumption for the – in the guidance that you're giving us for 2022 mid-single-digit revenues, what's your assumption for the ALCO portfolio? You've decreased the allocation to Spain quite significantly while keeping the overall ALCO portfolio level pretty constant versus 2020."
+  },
+  {
+    "person": "Stefan Nedialkov",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "What should we – how should we think about it going forward? How about tiering, for example, what's your assumption baked into the guidance as well as rate rises in Europe and across your geographical footprint? So that's on NII and if I may, a super quick one. On the DGF and ERF charges from 2024 onwards or even maybe 2023. Are you expecting a significant reduction there?"
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Okay. José Antonio, could you just – if you could be – if I may ask you to be brief. We have one more question, and we have..."
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, NII growth, you're referring specifically to the ALCO portfolio, yes? So, in the second half of the year, we already had in 2021, I mean, less revenues coming from the ALCO portfolio in the back. The ALCO portfolios are basically in Brazil, Chile, Mexico, somehow in Poland and somehow in U.S.; not in Europe, where the portfolios are small on the system and UK is not a system. So higher rates naturally means lower revenues from this, but this is included in our NII guidance and in our guidance for 2022, with the expectations we have for rates, yes? So that is to go up in Mexico, Brazil, U.S., UK not in Europe, but Europe does matter in this regard."
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "That's it. The second question was? Yes. Well, in 2023, if I'm not wrong, we cover the back – the low side of the range established by Bank of Spain. So very likely, this year, they already reduced somehow the contributions by a small amount, €10 million, €15 million, €20 million, no more."
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "But this shows you the path going forward. Well, the resolution – the same may happen, yes? So those are two things that cost us €600 million a year, €700 million, yes. So well, this – and this is something happens; this is the path going forward."
+  },
+  {
+    "person": "Unidentified Company Representative",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you. Can we have the last question, please? Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our last question is coming from Carlos Cobo Catena from Societe Generale. You are in live."
+  },
+  {
+    "person": "Carlos Cobo Catena",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Hi, thank you for the presentation. I'll try to be quick. One is on organic capital formation. You've guided to – sorry, you explained the 42 basis points formation this quarter. But if I deduct the cash payout in dividends and 81, I may get to something more around 20 basis points."
+  },
+  {
+    "person": "Carlos Cobo Catena",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "So, I was wondering what is the difference? And whether that delta is record going forward or not, if that includes any sort of securitizations in the group? And the second question is about Stellantis in Europe, you reinitiated the agreement. And I was wondering if you could give us a little bit more color on what are the expected changes in the business plan going forward, different business lines? Or how that new agreement would affect the business performance? Thank you."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So let me just take the second one. On Stellantis, again, we have a very strong relationship in Europe. We've already agreed a very, I think, interesting agreement for both sides, which would allow us to grow our business together over the next few years, really, that's baked into the numbers that you have. Again, we are making a strong digital transformation as we deliver every year, and we are committed to continue to do that."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And again, Stellantis is a very strong partner of us here and in the U.S. In terms of the – just as a general point, I'd say that we are generating more and more capital organically. In 2021, you've had headwinds, not just on regulation, but also on markets, especially exchange rates and interest rates to some degree. I think José Antonio showed that in his presentation. I don't know what you want to say about the future, but..."
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Securitization naturally is a tool to match capital. The guide there is fairly simple. As long as we can release capital, doing securitization with an implicit cost of equity below the cost of equity, we're going to do that. How much is going to be this? This 2021 was fairly positive because in granular portfolios like the consumer finance ones, we were able to release capital at the levels at 4%, 5%, 6% that are very attractive, and we continue to check the securitization market."
+  },
+  {
+    "person": "José Antonio Álvarez",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "If we offer opportunities, we're going to take it. If they don't offer an opportunity, we will keep more loans in our balance sheet. It's fairly simple, our approach. But naturally, this is a source of flexibility given the very nature of our portfolio, particularly the consumer finance ones."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "So, I think that's it. We will try to answer every question. We very much appreciate your attention. We know this has been a bit long. But we wanted to give you not just the update today, but also a higher strategic vision of the confidence and the optimism actually we have about the business and reiterate again our commitment to continue profitable growth, also increasing shareholder remuneration as we grow profits."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "And we are very, again – our model has once again shown it works. And we are, again, very proud of our teams, the huge work they've done this year, and are confident that they will continue to deliver for you all and for all our stakeholders in the years ahead. Again, thank you very much."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "And if anybody has any other questions, our IR team is at your disposal. Have a great day. Thank you."
+  },
+  {
+    "person": "Ana Botín",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

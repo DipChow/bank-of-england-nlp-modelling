@@ -1,0 +1,500 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "We will now begin the question-and-answer session for analysts and investors. [Operator Instructions] The first question is from Jeremy Sigee from Exane. Please go ahead."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "Exane",
+    "text": "Thank you very much, and good morning. I just wanted to first of all pick up on the last comment you made. You talked about share buybacks, and that's very helpful to know that you're intending 600 million in the third quarter, because I noticed, obviously, you've slowed in the second quarter. And I just wondered if you could talk about your thinking in terms of the pace of buybacks, both the 600 million and the sort of 400 million in 2Q are both slower than 1Q. And your capital ratios are getting very high now, so I just wondered if you could talk about that."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "Exane",
+    "text": "And then the second question is just whether you are seeing any regulatory reactions to the Archegos situation in 1Q, whether in terms of risk limits or risk ratings or anything like that affecting your prime brokerage business? Thank you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Okay, Jeremy, thank you. It's Ralph here, and I'll take the second one, and Kirt will take the first one on the [SEB] [Ph]. So, we haven't announced any capital -- or any regulatory enforcement measure, whether it's on capital or risk-rated assets or limits so whatsoever. Clearly, we have finalized our review and shared it also with all the regulators, as you know, because they're really keen to understand what happened across the different parties here and in the market, so that's what we've done. But we haven't announced anything."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes, and thank you, Jeremy, and because you observed, we repurchased the 300 million in the second quarter, and 1.4 billion year-to-date, and also in confirm the 600 million for the third quarter. And really, there's nothing to read into that. Just that we are currently holding, of course, excess capital, which is a luxury problem, a high class problem or opportunity, I should rather say. Our intention still remains to return all excess capital above the 13% guidance, and that's what we intend to do over the upcoming quarters."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "Exane",
+    "text": "Okay, thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Stefan Stalmann from Autonomous Research. Please go ahead."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Yes, good morning, gentlemen. I wanted to first ask about the broader regulatory and political environment in Switzerland. Some deputies in the National Council have tabled fairly radical ideas for systematically important things on bonus payments and capital requirements. And do you think this could realistically go anywhere, please?"
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "And the second question, and I'm trying to ask this as politely as possible, and I don't expect any numerical answer, but one of your major competitors has clearly been struggling in the last couple of months, and do you think this has helped your business in the second quarter in any material way not necessarily in P&L terms, but also in terms of attracting new clients and hiring staff, and if it has helped, which areas would you highlight, please, in very general terms? Thank you very much."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Thank you, Stefan. Stefan, you're alluding to a discussion in parliament regarding how to go about systemically important banks. On one side, we had the SNB report, which basically showed that the banks in Switzerland are in a very good shape. The right reserves from many different perspectives are well-managed. On the other side, clearly, there was an event that there that also hits the Swiss banks. So that kind of sparked a discussion amongst parliamentarians as to whether further regulations or regulatory changes were necessary. That was a discussion, it's very much one that is -- well, it's more like a partial, like a party-related discussion with some one party that is looking at this. But at this moment, that is not an active discussion. But you never know, so and clearly, we're staying in touch, also showing everything that we have done. Let's be honest, all banks have done really, really well in terms of restructuring, in terms of complying with new regulations, with much higher capital standards, with deferrals and bonus gains et cetera, et cetera, et cetera. So, we feel that the current environment is one that that is well-suited for all of us. That's one."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "On the other question, clearly, if you focus on what you want to do, and we're very focused as to what we want to do. We have come out to say that we want to be the global ecosystem for investing. We've come out to say that we really want to grow, and that we will put our chips from a growth perspective on the U.S. and Asia, that if we grow faster than the market, which is what we do and what we feel we're doing in the current business momentum, that goes to the detriment of our competitors. I can't say whether that is related to a particular competitor or not, it's not like we're going actively after that. We're recruiting in Asia, for example, but there is risk competition all around for good people. But there is no particular kind of area where we have benefited from competitors that may be struggling at this moment. That's not how we go about this either. We know what we want. We know what we focus on, and that's our clients, and relentless execution. And we take market share across the wealth business, but also over the last couple of months, we've also taken a lot of market share or quite some market share in the investment bank."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Great, thank you very much, very helpful."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Kian Abouhossein from JPMorgan. Please go ahead."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Yes, thanks for taking my questions. The first one is on page seven. You clearly outlined your targets against what you have achieved, and clearly you beating your targets across the board, as you indicate. And I'm interested in how we should think about targets. You said you would give an update with the full-year results. But clearly, if I look at the numbers that you're achieving, it's a huge step change. Is this just market related in your view, or should we think about something has really changed in the return profile of UBS going forward? The second question is related to U.S. Wealth, I mean you've done well, so have your competitors in the U.S. If I look at your pretax margin is still much lower than some of your top competitors. So I'm just wondering your market position relative rather than absolute, how do you see it? And how do you see it going forward as competition has been and speeding up from some of the money center banks in the brokerage area?"
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Thank you, Kian. I'll take the first and Kirt will take the second question. So on the first one, it's clear that the first two quarters of this year actually, the last five, six quarters, but certainly also the first two quarters of this year, we're showing momentum, we're showing momentum on the back of a good market development for us, for our model, but also showing up momentum because of our focus on serving our clients. And that's what you actually see coming through now, we have a platform, we really want to use the scalability of that platform to the max, whether that is on the wealth side, or the asset management side, or the investment banking side. And if you look at some of these numbers, in terms of the improvement on the cost income ratio, or the return numbers, it is that we're very disciplined, for example and using our capital allocation, you know that in the investment bank, we're super disciplined in pricing, and the use of capital."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "And that is what you have seen coming through in terms of the return on adjusted equity of more than 20%, just in this quarter. But that same discipline we have in terms of allocation of capital and pricing everywhere. So that is what you see coming through here. Now, the reason why we indicated in the first quarter that we would come back on the back of the fourth quarter with KPIs is because at the same time, when we're doing well and focusing on implementing our strategic initiatives, new parts of the strategy may come available and run ready, we'll certainly inform you. We're planning that to give you a full update on all of these strategic initiatives. So beyond first quarter announcements as to our strategic priorities, some of the updates I gave you today on how we're doing as an ecosystem, but also some more specific plans that we have for regions and some of the activities, we want to run it up in one kind of discussion with you as to new KPIs around financials, and commercial developments. So that's why we'd be looking more towards the fourth quarter for that. Thank you."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "So there will be an Investor Day as I understand."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "There will at least be an update on our financial KPIs. But I'm also keen to see all of you, so at a certain moment, we should also have an Investor Day. But that is not planned as we speak, we really want to make sure that we can do it in a more physical way as well and when the story is complete."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And we'll give a try."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes, Kian and to address your second question, if you look at our U.S. business, just Firstly, of course as Ralph has highlighted again and as we indicated, during the first quarter, the U.S. is a market where we're focused on investing and on growth and we believe that the trajectory for us there is very, very attractive and we have opportunities across all three of our businesses. And indeed, we also believe that we have been consistently improving and generating a very positive momentum and in the U.S, if I just refer to our wealth management business overall, I think firstly, if you look at we'll take second quarter 2017, when our PBT was on a annualized overall trajectory of just over CHF1 billion."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Now, if you contrast that with the second quarter of this year, we delivered our best quarter ever in our wealth management business in the U.S., our trajectory is CHF2 billion. So we doubled overall the annual PBT trajectory of our business over that same period, we improved, we reduced our cost to income ratio from 87% to now below 81% and I think also if you look at the momentum that we're generating in loans during the first quarter CHF5.3 billion of net new loans and that follows a very strong first quarter. In addition to that, if you look at our net fee generating assets in the, at $14 billion for this quarter and $48 billion as highlighted on slide 13 over the last 12 months, for an annualized growth rate at 7%. So we feel very, very comfortable that our trajectory is going to continue to allow us to show positive operating leverage to improve our margins and to generate very attractive returns. And I would maybe just close and reminding you that of course, we do not pay cash taxes on our earnings in the U.S. And so naturally, we're looking to generate as much earning momentum as possible so that we can fully utilize the NOLs and the DTAs to shield all of our taxes in the U.S."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Anke Reingen from RBC. Please go ahead."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC Capital Markets",
+    "text": "Thank you very much. Good morning for taking my question. The first is on the gross margin and wealth management, which declined quite a bit, and again, some indication of the driver. So I just wonder is that an artificially low level and they should recover in the next quarters, everything else being equal, or should we really stay at that level. And then secondly, you highlighted a few times your strengths and sustainability investing and the client interest. I'm just wonder, is this you think just like taking market share in that space, because you have the right client base that interested? Or is it more key benefiting from a general interest. And as of foremost, you can talk a bit about the gross margin of the sustainable products, are they quite similar to other products, similar asset mix or other lower and also on the net margin given, it probably requires a bit more work to find those assets? Thank you very much."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Well, thank you, Anke. So, on the margin, on that -- on a fee generating assets, there is a couple of things here. So you see a quarter-and-quarter this margin going down by four basis points. And that is because of going into some lower margin mandates. For example, we see in the U.S. the inflow in separately managed accounts, which is very popular, which were up to $110 billion as we speak. So, it's a real popular and strong offering to our clients. And the margins are -- this is zero fee-based. Then on the sustainability side, also as part of this, the sustainable mandates that we -- that we have, they don't allocate to hedge funds. So that's also where the margins are a bit lower. Then we also launched professional market access agreements for our top clients. So there is again professional services, which also a bit lower on margin, but the point here is that in all of this, we see that we are gaining market share, specifically also in the higher wealth bands, if you may."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "And with that, we may lose a bit of margin, but we gain a profit before tax. Our focus, as we've also indicated last quarter in the wealth space, and certainly also in the U.S. is that we want to improve our profit before tax. And that's what we're looking at, specifically on the sustainability category. So, some more of your questions there, honestly, I don't know whether we're gaining market share or not. I know for once that we are -- we have a reputation as an institution to uphold, we've always been a first mover on sustainability as an institution. We were also refers moreover as a Wealth Manager in advising our clients to go to the sustainable alternatives solution rather than the normal alternative. And we made that our preferred, investment option six months ago, and that's what you see happening here. So, you see quite some client demand for a good combination of return and impact. And there is more demand than what we can supply at this moment in time. So we see that that's a very well sought after investment opportunity."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Maybe if I could just add to a couple of the points that Ralph made just regarding our gross margin. Firstly, as he highlighted the net new fees and mandates that you see on the inflow side, while they come in at a lower overall margin than our back book. And Ralph mentioned a couple of examples. They're very accretive overall to our revenue growth. In fact, we generated and I highlighted this $400 million of net new revenue through the net fee generating assets inflows over the last 12 years annualized. And then, as Ralph mentioned, the PBT focus. I would just again highlight, what you see clearly in eleven. Our PBT is up 47% invested assets up 25%. And our net margin on our invested assets improved two basis points from 14 to 16."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC Capital Markets",
+    "text": "Okay, thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from Alastair Ryan from Bank of America. Please go ahead."
+  },
+  {
+    "person": "Alastair Ryan",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Thank you. Good morning; great numbers, well done. Quite rare for UBS to have good numbers in the IB without also apply more capital there. And that's probably part of what the market is welcoming today that all the extra capital, you're putting into wealth management, your highest margin business. Can I over attribute that quarter's results into the future periods? Or that's just how things worked out in the quarter? And you're still quite happy to grow the RBA balance sheet? Thank you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "No, I think I'll say, you know how we go about supporting the IB business. Going back to our vision that to build this global ecosystem for investing. And the IB capabilities have a role to play there. We see that more and more clients need top professional services, which we have in terms of capabilities in the investment bank. And that's your way the story of one UBS comes out. And that's also what is next to the market developments, quite some momentum into the investment bank. This quarter per se clearly also had a good result on the banking side, record result on the banking side both on the advisory as well as the capital markets side of it. And it did not necessarily have to come on the back of the use of the balance sheet in lending, for example."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "So, it was a very strong quarter from that perspective. It shows that that what we have been changing over the last couple of quarters and chosen our focus in the banking side in terms of the sector focus and the teams that we really focus on our clients that you don't always need capital in order to get the mandates. We just have a very good team, and we are gaining market share actually in that business. And overall, as you know, our basically our guidance in terms of a cap on the capital usage for the investment bank still stands at one-third."
+  },
+  {
+    "person": "Alastair Ryan",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Nicolas Payen from Kepler Cheuvreux. Please go ahead."
+  },
+  {
+    "person": "Nicolas Payen",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Yes, good morning. Thanks for taking my question. I have two please. The first one would be on the fact that UBS have been said to be among the last one or up for an investment partner and I would have liked to know what will be the strategy irrational beyond this kind of acquisition, especially that you have mentioned Asia and America as being the growth areas. And the second question would be on digital assets. I would like to have you view, Ralph on what it could bring to your clients? What clients are demanding them offering and what UBS could do in that area? Thank you very much."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Nicolas, could you repeat the second question? What kind of assets?"
+  },
+  {
+    "person": "Nicolas Payen",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "These assets -- so tokenization non-tangible tokens, what UBS could offer in this?"
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Okay, thanks. Hey, Nicolas, as you know, we don't comment on rumors. So, in terms of what the markets kind of discuss, what is happening or who is looking at who, we don't comment on that, just to kind of, maybe do framed a picture. If we were to consider inorganic additions, we would look at them from a skill perspective, or from a capability perspective. Specifically if it is about capabilities, the location may not be the point, because if those capabilities we can use globally, then it will still be something to consider, whether that is in the asset management share, in the technologies share or any other share. Now to your second question, we do see an increased demand in virtual assets more particular, crypto. We're very cautious there. And the reason for that being is that we still find it difficult to see the fundamental value of some of these investment opportunities, different we feel that they are more speculative than investment opportunity. And if clients want to kind of allocate a percentage of their portfolio to it, is there a decision, but we are very cautious in it."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Maybe I could just compliment, but mentioned, however, of course in terms of the underlying technology, we do feel that it is compelling, and if you look at block chain, it certainly is an area that we are investing in across our businesses and quoting and of course what could come out of the tokenization of assets and how that could facilitate the efficiency of markets. That's an area we're very focused on."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Absolutely."
+  },
+  {
+    "person": "Nicolas Payen",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Amit Goel from Barclays. Please go ahead."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays Capital",
+    "text": "Hi, thank you. So, I've got one follow-up question, and one of that, so the first question is just I mean following up on the commentary about the capital build, and maybe touches on the last question a little bit. Again, I'm just kind of curious why the group isn't kind of buying back more stock at this stage or accruing for more buy backs. And just wondering, I mean, are we kind of waiting for kind of a more favorable outcome on the French case and does that have any bearing? So just essentially curious on the pace of potential capital return and then also with a bigger capsule cushion, does that also change your thoughts on inorganic kind of activity and potential acquisitions? So that's the first question. The second question is just coming back to your outlook comments with respect to Q3 versus Q2, and investor concerns. At this stage, how significant do you think that is versus just making I guess the outlook a bit more cloudy at this point?"
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Yes. Thank you. I mean on the second one, as Kirt already indicated in his speech, we actually think that the third quarter we will continue the momentum, but the client activity will be a little bit lower in comparison to the last year, but the momentum will continue to be there. And we see our clients. Now I'm talking about the investor side of the clients here that are as optimistic more optimistic than ever actually across the globe. Clearly this is on the back-off economies opening up, lockdowns a little bit behind us, vaccinations going up. Of course, there are certainties, the CD on certainty issues around inflation, which we feel is transitory. There is the uncertainties around the Delta variant that could basically put some delay on economic growth, but the underlying trend is a positive one. And therefore we feel that momentum on the client side may continue."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "On the more specific guidance around, for example, the net interest income in Global Wealth Management and we feel that in terms of the deposits margin pressure that will be tapering off different if we can continue to grow our loans, we actually expect that to improve slightly going forward on the investment banking side, specifically on the banking side, we see a very good pipeline also for the coming quarters, so that in terms of guidance as to what we see in the next quarter, Kirt?"
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes, Amit. In terms of the follow on to your first question, I don't have a lot more to say. I would just note that Amit in the second quarter, we generated $2.5 billion of capital. And so regardless of whether or not we would have repurchased more than the – I guess the 400 within the quarter. We still would have ended up with a larger capital buffer. And then I would just also reemphasize the fact that the current capital buffer that we have affords us flexibility, which we like, flexibility on the strategic side, flexibility on addressing any idiosyncratic events. And then finally our intention is to return capital around the 13% guidance that we've indicated, there's no change."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays Capital",
+    "text": "Okay, thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from Adam Terelak from Mediobanca. Please go ahead."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Yes, good morning. Thanks for the questions. I want us to return back to fees in GWM. I suppose we spoke about the mixed effects on the flows being diluted at the margin on fees, but clearly last year you saw a big step down in the back book fee margin, which has stabilized in the last few quarters. I just wanted to get a bit more color of how that's developing, whether you think that's something we can kind of rely on going forward, and as such a bit more confident on the fee margin on the stock growth on the new flows. And then a point on the new flows, you've mentioned the SMA business being zero rated, but that showing up in asset management revenues. So is there a contra revenue we need to be thinking about embedding into the fee income in GWM, which is then driving up the asset management recurring fees [indiscernible]? And then secondly, just understanding the actual net new fee donating assets, clearly another good quarter, I was wondering if there's any impact embedded in there on kind of U.S. tax seasonality, if you could quantify that. And then just understanding why we've seen the uptick year-to-date, whether that's ongoing sales effort, whether there's an element of clients deploying cash and just how much we can kind of think about that momentum continue into the second-half of the year? Thank you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Yes. So I think we have four questions embedded in two. Well, let me try to pick apart both questions. The sub questions within each of them. In terms of our margin overall as you mentioned our back book is certainly been a much more stable than the front book or the new volume that we generated. And indeed, it's the new volume that we're generating that has led to some of the overall averaging of the erosion, which is why I'm balanced, of course, where we're very pleased with the revenue momentum that we're generating, and that's what we're really focused on. It's fee. The net new volume across via SMAs as we've emphasized or via our advisory products that also have transaction revenue elements, and we would remind you as well that within our clients under contract, we also generate 30% overall of our transaction revenue from that client base and that overall asset base."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "In terms of the dynamics on SMA, the SMA offering what we came out was actually zero overall performance fees on the asset management side. And that's what really allowed us to generate the momentum. However, at the same time, it is a very attractive proposition for our asset management business, because we are generating other related product sales into the overall SMA accounts. And so, what you see is that you actually see positive inflows on both businesses, and you also see some positive revenue generated off of that activity in both businesses. And we highlighted before that we expected the business overall to be net positive from a revenue generation standpoint, when we crossed, and I think roughly we set around $25 billion. So we're well beyond that. And that means actually we're seeing a positive overall revenue momentum across both businesses."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "In terms of the net new fee generating assets, indeed, we did see the seasonal outflow in U.S. taxes, I believe correct me Martin $6 billion of outflows, but still despite that, we generated a strong net new inflows. Now just importantly, the tax payment don't necessarily come from specifically our under contract product. So, some of those tax payments would have come out of deposits as well as potentially a pure brokerage accounts. I don't really have that mix, but it certainly overall, it creates some level of dilutions, and despite that we saw very good in flows."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Now, why are we seeing very strong inflows? I think it's a combination of a number of factors. One it's, market performance is of course been very, very good overall. And in general, when you see market performance, and overall, if there is a positive risk on orientation that tends to result in good flows, but then combined with it, it has been just the quality of our content and all the intellectual property and the focus that we've had on staying close to clients, and also ensuring that we're there and advising them during difficult and challenging market times that in turn is resulting in positive momentum. And of course on the final point is you're seeing that we're innovating in terms of the new products that we're introducing. I mentioned overall that the life fee mandates which have been very popular or what we're doing within sustainability. So it's that part of our offering as well, which is also reinforcing, I think the momentum that we're saying."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Great, thank you for covering all that."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from Magdalena Stoklosa from Morgan Stanley. Please go ahead."
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Thank you very much, and congratulations on the results. Just two quick questions from the page, the first one is on investment banker. I'm just curious, kind of where in the ID from here, are you actually interested in wallet share gains kind of either by business or by geography or kind of or both kind of combined? And my second question is about my way, because of course you've explained to us what it is, but how do you see it developing from here as the kind of example of scale customization and also how big of a scene do you think it's going to be for you kind of going forward. I mean, it's customization seems to be quite huge in the U.S. particularly, not only on the investors, but also kind of tax side. That's how do you see it developing in Europe, and I suppose globally from here? Thank you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Yes, thank you, Magdalena. On the first one, in terms of where we would see the FX bank to go from here. First let's also congratulate them on a very good quarter. It's one that stands out and that they put a little of scrutiny on themselves and we put a lot of scrutiny on their activity as well, and they've always worked very hard to show the model and this border, they're showing it. So, I would want to congratulate my teams there for doing a really good job. Having said that, clearly going forward, I said, you have to look at the investment bank as an integral part of our strategy in terms of how do we deliver the best of UBS to our clients. And we indicate that we want to particularly focus in additional resources for growth in the U.S. and Asia Pacific, then that is not necessarily only a wealth management story that is also the story for asset management and also the story for investment banking. So, in terms of, how we see things developing, we expect that activities will be higher in these two regions, and therefore across the different business deficiencies as we have them, you can expect those to focus on those regions if it comes to fueling extra growth."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Now, on your last question on my way, yes, I think that if you go about our strategy on a page in which we have been very clear as to what we feel our customer promise is and needs to be going forward. The personalized aspect specifically in our business is crucial, but that personal ally's aspect is not necessarily a tailor-made offering, but it's personalized and relevant. And if you do things personalized or relevant, it basically means that you apply quite some artificial intelligence and technology in order to advise your clients for the right solutions vis-à-vis their needs. And that is what we would call – well, customization at scale as you call it. And it's certainly a technique that the technology firms and the platforms I've made them to be so successful, because that's the service that we're all used to. But you can't do that credibly by the way in a personalized and relevant way. It's the execution of it thereafter is not flawless, and therefore, and we have variants to my way as well, is a complete digital dashboard, in which clients, which buying clients can use in changing their mandates, the allocation to the different asset categories, to the different regions, to the different investors themes, if you will, and just see what the effect is on their portfolio and take decisions like that. At this moment, it is certainly a tool that is used by our client advisors to take our clients through. And that what makes us very successful. Our clients really like it. And we want to roll it out to other regions as well."
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from Jernej Omahen from Goldman Sachs. Please go ahead."
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Good morning. Can you hear me well?"
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Yes, we can."
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Wonderful. Okay. Good morning from my side as well. So just I limit myself to two questions as well. So, Archegos, obviously a huge issue in the first quarter, and I recall that the discussion at the time went along the lines of what will the actions specific to each of the institutions be? And then secondly, whether there's going to be a broader regulatory response to the businesses that were affected? And I've just on the second question, I was wondering whether you anticipate any further regulatory broad, industry wide regulatory response from either FINMA or any of your other regulators globally? And the second question I wanted to ask you is on credit risk. So again, extremely benign quarter, a continuation of benign credit quality trends? Is there anything that you see that's on the horizon that worries you that that could change that? Thank you very much."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Yes, thank you, Jerne. Well, first on Archegos. As many other institutions that were involved, the regulators and not only FINMA, but all regulators across the different continents have been looking at our lessons learned. We have shared all of our lessons learned and the information and the outcomes of our reviews with those regulators, in order to show them how we're learning, in order to show them what can be improved. But also to -- in order to show them that, if we don't improve on the regulations around transparency in this field, that there's only so much you can do. And therefore, we do expect that that also the overall transparency of this business should further improve. So that's the -- that is the first point. The second point -- and actually for -- what was the second point again?"
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Credit risk."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Yes, on the credit risk, we're not a big lender in terms of like big industry exposures, make corporate exposures, et cetera, et cetera, et cetera. So, clearly, we play on the leverage finance side as part of larger deals, where we see that the market is still pretty of still has a lot of appetite, let me put it that way. We have our own standards in terms of accepting leverage multiples et cetera, our underwriting standards. We sell down very quickly thereafter. We manage that very strictly. And then specifically in the area of the wealth management side, on the credit risk, if you look at our -- what we would then call front book production, we actually see the expected risk cost there to be lower than the back book. So in terms of the quality of the production, that looks to be better than the back book. It's four to 15 basis points front book versus 36 basis points of the back book. And also as a percentage of total loans, we don't see non-standard loans as we would call them, increasing as a percentage. So in terms of all the different parameters that one can follow in order to ensure that the book does not deteriorate in quality, we feel comfortable."
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "All right, thanks very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Your next question is from Andrew Lim from Societe Generale. Please go ahead."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "Hi, good morning. Thanks for taking my questions. I'd like to drill down a bit deeper following Kian's questioning earlier, just look at the past few years, and comparing what's happened in the past 12 to 18 months, there really still seem to been a step change in your improvement in the operating leverage. Now, just looking at pre-COVID-19, maybe it's a coincidence who knows, but for those years post GFC, AUM increased, revenues increased, but you always seem to pay it away in high costs, maybe regulatory costs, higher remuneration, but your efficiency ratio seems to fluctuate around the mid-70s level. But now you suddenly seem to be pushing that efficiency ratio down to the low 70s and on an adjusted basis, even below that even, I just want to get a sense from you as to why you think this has changed? Is it a lower cost structure that you have to deal with now? Or are you seeing more combinational better revenue growth coming through in your divisions? Just like to get your opinion on that? And then secondly in GWM, can you give us a sense of how your clients there are treating their cash levels, is it still at an elevated level? Or are they putting more money to work and is that contributing towards higher fee income there? Thank you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "I'll take the first question. Kirt will take the second question. So, on the first question, Andrew, I think it's a mix of everything, honestly. It's a focus on technology investments in order to generate scale. It's a focus on technology investments in standardization that has been as it's paying off as we speak. And we're doing that across the firm with our One Wealth Management Platform in Europe, and with our Wealth Management Americas Platform in the U.S., with our asset management platform, as well. So basically, you see that looking for these scale opportunities on the platform side, on the technology side, that has worked. I mean clearly, some investments needed to go into that. And some investors still will have to go into that. But with that, we have scalable platforms technology wise, but still that is technology as an enabler. The next steps here are how do we make the technology as a differentiator. And also for that, we actually feel that if you really put a lot of scrutiny to our technology investments, then we can actually yield much more with the same budget."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "So that's what we have done on one side, what we've done on the other side, is purely focus on growth, and focus on growth in our Wealth Management Americas Platform, our team has been focusing on improving our financial advisors qualities, improving our financial advisors productivity as well. And that's also what we have been doing in Asia, regarding the quality and productivity of our client advisor and on 30, clearly you also need a bit of luck and the markets have been really good for us, as well. So it's a combination of those, and then maybe as the last one. And I think that Kirt has alluded to that as well, the base load of cost and when I started here nine months ago, we really kind of focused on that as well. How do we continue to manage the base load of cost as flat as possible?"
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Clearly, we're growing volumes, clearly we're growing revenues, clearly we're growing clients, but can we one way or the other, manage the base load of cost as fixed as possible. And if you then correct for some of the restructuring charges, the foreign exchange as well as the variable bay elements, you see that we're actually keeping our cost growth at 1% and I think it's and that's a combination of technology investments, strict cost discipline and privatization across divisions that we have just started the last two months, where basically we really look at where can we get the best return for additional investment in dollars."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Just to answer your second question on cash levels, the trend that we saw is that there continues to be, of course, an awful lot of liquidity overall in the market, we actually saw our deposit volumes increase, I think probably for the sixth consecutive quarter. And that's kind of consistent with the high levels of cash that that our clients have. Now, at the same time, we did see inflows into investments. We also saw specifically there were outflows from money markets and that was certainly related to the stack volumes where you saw the creation of stacks in the first quarter resulted in quite a bit of buildup of money market deposits and as the stack volumes tapered off, you actually saw some of the outflows from money markets, but clients continue to maintain a relatively high level of liquidity."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "That's great, thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Your next question is from Patrick Lee from Santander. Please go ahead."
+  },
+  {
+    "person": "Patrick Lee",
+    "role": "questioner",
+    "position": "Santander",
+    "text": "Hi, good morning everyone. Thanks for taking my questions. Just going back to the Global Wealth Management and nothing is related to the previous question. But I just want to ask a few questions on the scalability and compensation for financial advisors. So, clearly a record second quarter and first half in terms of revenues, and in terms of flows, but at the same time, variable compensation to FAs actually went up by 31% in the second quarter, and I think around 20% as a whole in first half, while advisors numbers actually went down at the same time by around 3%. But I don't want to over interpret a few quarterly numbers. And I think it's important that people get paid, et cetera. But is there some growing pressure in terms of sensation in the Wealth Management division, that this division becomes more and more profitable and I guess related to what are the key KPIs for financial advisors in terms of what relative weights would you put on things like income, total income, recurrent income, effective income and inflows? Thanks."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Yes, Patrick, I think as you highlighted, we saw an increase in FA comp. But that pretty much is commensurate with some increase in compensable revenue. So the formula is very straightforward. We pay off the grid, we do that every quarter, we're actually happy to see FA comp go up, because that means revenues going up. But what's most important, if you look at the U.S. business, our overall cost to income ratio came down almost six percentage points year-on-year. So what you're seeing is, yes, there's more compensable revenue, but we're generating leverage off of that. Also, very importantly, we're seeing higher levels of lending in net interest income, which actually pays very little off the grid. And so that has a much higher margin overall. Now, in terms of what we see is critical overall performance indicators for all of our advisors, certainly it's what we've communicated, it's net new fee generating assets mean that that for us is what is most important to ensure that we're generating continued momentum that our clients, our FAs are close to our clients and actually are leveraging the solutions and the content that we have that we can put to work."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Secondly, it's net new lending and continue to see positive net new lending flows is also important for us. We measure our FAs as well on economic profitability, that's critical so that they're mindful of the capital that they're deploying."
+  },
+  {
+    "person": "Patrick Lee",
+    "role": "questioner",
+    "position": "Santander",
+    "text": "Great, thank you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Okay. As far as I know, there are no further questions. So, I'm about to close this call. I'd like to thank you all for being available and going through the material already this morning and coming up with your questions, you know that our team here is always ready to kind of guide you further in terms of some of the details that may still be out there that you need answers to, so please call us. Just in summary, we had a very strong quarter, strong commercial momentum, strong financial performance, and the strong progress on some of these strategic initiatives that we've taken as we've showed through the slides. We'll continue to be relentlessly focused on execution vis-à-vis our clients, but also on the further review of some of the activities and making sure that we are sharpening further our strategy going forward to ensure that these results become more and more sustainable."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "So, thank you very much, and talk to you soon."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Ladies and gentlemen, the webcast and Q&A session for analysts and investors is over. You may disconnect your lines. We will now take a short break, and continue at 10:45 with media Q&A session."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

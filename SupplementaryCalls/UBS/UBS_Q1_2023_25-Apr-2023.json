@@ -1,0 +1,620 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] The first question is from Chris Hallam from Goldman Sachs. Please go ahead."
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Yes, good morning everybody. Firstly, on the future capital requirements, at the time of the announcement, FINMA said that a larger bank would require higher capital buffers. Have you had any further clarity on the size of that increase in capital requirement and particularly to what extent those higher capital requirements may be influenced by the ultimate perimeter of the group? And I suppose any thoughts you have around how those decisions will ultimately feed into the timing of future capital return decisions? That's the first question."
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "And then secondly, in the report this morning, you've outlined that the emergency ordinance provides for the loss sharing agreement with the Swiss Confederation but that the emergency ordinance will expire within 6 months of its issuance date, after which time those measures would need to be codified into law by the Swiss Parliament. Does that mean that the loss-sharing guarantees still are effectively subject to parliamentary approval in 6 months' time? And if so, what are your confidence levels in getting those approvals?"
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Okay. Thank you. On capital requirements, the situation will be clearer once we determine the scope and perimeter of the activities we will run, particularly in respect of non-core activities and also with the businesses that we will exit. This will, of course, have an impact on [op risk] [ph] capital charges and so on. So, I think this is one of the issues that Sarah referred to. When we have more clarity on all those aspects, we will communicate. But I don't expect this to be something substantial that will take away the merits and the value accretion and creation of this transaction."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "In respect of the guarantee, we have little doubt that what we have agreed with the government is enforceable. Of course, there is a process in place to define exactly the details of this guarantee, and we do expect this to be done in the next couple of months, but we are not concerned about the enforceability of the guarantee as part – as an integral part of our agreements over the weekend to step in, in this situation."
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Very clear. Thanks."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Kian Abouhossein from JPMorgan. Please go ahead."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Yes. Thanks for taking my question. The first one is related to the book value per share guidance that you gave of a 74% increase at day one. Just wondering if that still holds, first of all, at this point or has that changed post your further analysis? And in that context, should we assume that the purchase accounting, restructuring, asset [market] [ph], et cetera, should be captured by the reserves that is being built of what we estimate 21 billion?"
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "The second question is in relation to more top-down, how we should think about the impact on clients at this point and also retention of clients, especially in wealth management at this point already, and how we should think about retention of clients post [indiscernible] the clients that have left. How should we think about your position after that?"
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So Sarah, take the first question. I'll take the second."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So when we gave you the 74%, we focused intentionally on [what we viewed as] [ph] economic impact, i.e., what impacts CET1. And if you continue to do it that way, actually, the numbers are very stable. Of course, we're continuing to do the work on the PPA, and we're going to continue to do so. And the PPA was, of course, included in the estimates that we had given you."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And sorry – sorry, if I may. The 74% also includes – but that clearly not includes additional charges to the P&L. And the rest all comes to the P&L, we should assume."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "That's right. The initial PPA comes into the CET1 or the tangible book value per share and anything that is beyond that comes through the P&L."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So, on client retention, I – maybe let me reiterate that if you look at our inflows, in general, we don't have an issue with our current clients. And we do believe that in many areas where we were underweighted on a share-of-wallet basis, we will be able to convince clients that the combined organization is offering a better value. In some areas, of course, we will lose clients because their concentration is going to be too high."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "And last but not least, I do believe that while history doesn't really always repeat itself, we are also convinced that many of the clients that were maybe nervous or concerned about what happened at Credit Suisse in the last few months, but also post the transaction will regain faith and we will be able to get some of these assets back. So, I'm totally convinced that our growth and our ability not only to retain, but to regain clients will be there once we are able to articulate the value proposition that the combined organizations can bring to fruits."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Ryan Alastair from Bank of America. Please go ahead."
+  },
+  {
+    "person": "Alastair Ryan",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Yes. Thank you. Good morning. Welcome back, Sergio. On the comments you made on the Bloomberg TV interview earlier about the importance of centrality of ongoing profitability, which was absolutely borne out in recent months, clearly, the combined group has an exceptionally strong capital position on a pro forma basis, which gives you the opportunity to move quite quickly in two ways, one in sort of actual affecting the merger, so taking financial reserves against that."
+  },
+  {
+    "person": "Alastair Ryan",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "So, should we think about going quickly is essential to your plans because you've got the financial conditions to do it. Clearly, that was something that Credit Suisse did not enjoy. They had some ambitions to restructure they needed to pass through the P&L over time, which constrained their profitability a long way into the future? Thank you."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Thank you, Ryan. It's good to be back to interact with you as well. Look, yes, what we need to do now as we go through the PPA assessment and the marks of the position we find, you can assume that the philosophy of running down noncore assets will be the same you saw in the past based on cost of capital. So, if we are able to dispose, to restructure any transaction that create a loss that is lower than the cost of our capital, we will do so without any doubt, any fears of taking upfront losses."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So, it's precisely – so as you mentioned, that the profitability and the strength we have in our underlying business combined allows us this flexibility to control our destiny. I think it's very important that not to treat those positions as distressed assets, but rather noncore assets. And therefore, an economic – an economic consideration has to be put in place. So, every time we can do a transaction that, in our view, reduces risk, but also frees up capital below our cost of equity, we will do that."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "And I guess this is something that now we – it takes time for us to go deeper into the analysis of what it is, but this is something I'd like to clarify as quickly as possible, what it is. So, you can assume that one of our top priorities to clarify a path for us to take down those – free up this capital going forward and also reduce [indiscernible]."
+  },
+  {
+    "person": "Alastair Ryan",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Flora Bocahut from Jefferies. Please go ahead."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Yes. Good morning. The first question I wanted to ask you is regarding the net new money, so the net new FGA. You gave us some details, including post the 10 business days that followed the announcement of the deal, and thank you for that. I don't think I've seen any comments around the trend in April, so just wanted to ask you what trends you've seen in terms of the customer behavior and especially regarding the NNFGA, as well as customer deposits since the quarter ended about three weeks ago."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "And then I just wanted to come back to the risk, around the concentration risk around clients and the overlap on the client base. You made interesting comments regarding the fact that you are underweight certain client segments versus TS and where you can gain from that transaction, that is other client segments, which could lose. Can you maybe provide us more details? Do you mean in wealth management specifically? Also in P&C? Can you maybe comment on those client segments? Thank you."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So, on the first question in terms of the trend of April, we really haven't seen anything that is particularly abnormal or special. And so as such, it is not our custom to guide and we will stay with that."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Yes. On the client side, I mean, if you look at, for example, in Asia, I think it's clear that UBS has perhaps a stronger franchise in North Asia and Credit Suisse has a stronger franchise, relatively speaking, in Southeast Asia. So, I think that the combination of the two is very complementary. Latin America, I mean, in Latin America, we definitely have a situation in which Credit Suisse brings a significant value to our platform. And that will make us, if not the leader of non-Latin American players, very close to that, so a significant step forward."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "In respect to Switzerland, I would say that usually, SMEs have a relationship with maybe one of the large bank and with a cantonal bank or a regional bank. So, there is a high likelihood that the same SMEs don't really have an equal relationship with the two large banks. For that reason, we believe that many of them can be captured. Same issue for retail and personal clients banking. If people have two relationships, usually they have it with a local bank and with a large bank. So also there."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "And last but not least, I would say that it's fair to say that Credit Suisse has a strong franchise in large corporates in Switzerland, which is also complementary to our own. So, after all, as I say, both in terms of current business mix, but also going back to my remarks, in Switzerland, there are 250 banks, plenty of competition, plenty of cantonal bank, plenty of Raiffeisen banks, and therefore, we believe that we will be able to manage this competitive landscape, which is not easy for us, through service, quality and what we can do differently than others rather than just purely size."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Flora Bocahut"
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Andrew Coombs from Citi. Please go ahead."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Good morning. Two questions. Firstly, just on Slide 10, your revised net interest income outlook. Q1, you've seen a slight increase in NII. So, you're then guiding to a mid-single-digit decrease for Q2. So, it implies Q2 will be slightly below the Q4 run rate. Implicitly, this seems to suggest that Q3, Q4 is roughly then going to be stable based on your full-year guidance. So, I’m interested in your thoughts on the offset between rate hikes and then most important of all deposit migration to money marketed funds in future quarters given that we're closing in on peak rates, it seems to imply you're achieving the deposit migration also slows, but would welcome any commentary on that?"
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "And then my second question is actually on the liquidity coverage ratio. I think there's an active debate as to whether it's calibrated correctly in-light of recent events, particularly the 10% weighting that's applied to less stable retail deposits. So, interested in any conversations you've had on that, either with FINMA or the Basel Committee, and likewise, does that mean you're going to continue to run with an LCR of north of 160% given the potential that that ratio might be recalibrated? Thank you."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So, on the first question, what you've seen is some very significant mix shift throughout the system. The $600 billion of Fed data shows that the whole system had the 3% sequential decrease that we saw. So that is not expected to be that dramatic going forward, but we certainly have planned for the annualization of that in our numbers. And then after that, you see some normal patterns that happen, but we continue to see some shift, as you would expect, but potentially not at the level that was seen at the beginning of the year."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "It's also important to know that, for us, it was really the beginning of the year that was that pattern. So, actually, January, February, where we saw a lot of mix shift. And actually some of the net inflows into the platforms from deposits were in March. In terms of the second quarter guidance, you've noted that we're going to be down, and that is exactly correct, with P&C being slightly up and GWM, which is where those mix shifts are happening, being a bit down. And then as you pointed out, mathematically, that does mean that there is some level of stability over the course of the year thereafter."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "In terms of LCR, we believe that we are calibrated correctly because what you're seeing also is that for us the changes in deposits have actually not done very much in terms of the change of LCR because we very much know what type of deposits are going to be sticky versus not sticky and so we calculate as such. And of course, you've seen us very consistently being at those high levels, and we don't have an intention to drop sharply regardless of the dialogue that could happen around the LCR calculations."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from Adam Terelak from Mediobanca. Please go ahead."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Good morning. I've got two. One is a bit of a follow-up on LCR and on your long-term funding strategy. Clearly, LCR stand-alone is pretty strong. If you look at the business you're acquiring, then it's really propped up by big SMB liquidity line. Their deposits are very, very low, loan-to-deposit is 157%. So, I was just wondering how you're thinking about your long-term funding strategy through the acquisition and how you might deal with, kind of the flight of deposits that they have seen and how you could integrate that into your liquidity model going forward?"
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "And then second, on a slightly different topic, in GWM, you've got flat costs on lower revenues and a favorable revenue mix with NII up and fees down, normally a good mix for your cost base. Could you just discuss a little bit more what's going on in there? What sort of inflation you're seeing, whether there is an increased competition for relationship managers and whether that's changing given the new environment? Thank you."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So, on the LCR, and more generally, the funding plan, as we integrate CS, today, they are a user of the SME facilities, it will be our intention, certainly to manage that down as quickly as possible, recognizing the gap that you're pointing out. And we will indicate that as soon as ready. In terms of the GWM story, what you're seeing is, as noted, a very strong NII performance in asset base is the combination of the market levels, as well as a little bit of the margin compression that has happened over the year, which is just a mix topic that we have discussed."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And then in terms of the transaction activity, not yet very elevated just based on the level of uncertainty that our clients are dealing with. And then what you have seen though is on the expense side, that we have good rigor where the expense ex-FX and litigation is flat. And so, you are offsetting those inflationary pressures by the good rigor that we are seeing and this is while continuing to be on the offense in terms of our FA recruitment and organic growth."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Okay. So the inflationary pressure there sounds quite high to be managed down."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "That's right, it's being managed by the offsets. And we've done some actions, which I've mentioned, which in total are helping us more on the forward quarters than in the current quarter and are also affecting the quarter and are still included in our cost being flat. So, really a good performance."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from Jeremy Sigee from BNP. Please go ahead."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP",
+    "text": "Good morning. Thank you. And welcome back to Sergio from me as well. I just wanted to pick up on a couple of topics that you've touched on already. Firstly, you talked about the Swiss banks' combined market share. I wanted to clarify, is your plan to fully integrate the two networks under a single brand, single product range, single network, back-office, head office? And then secondly, you also touched on the risk shelter. If I read the documents, it seems narrowly defined, so that it won't cover things like litigation, restructuring or indeed the operating cost of noncore, only asset disposal losses. So, it seems relatively unlikely to be drawn. So, I just wanted to ask, is your base case that you will draw on that risk shelter or that you also agree it's unlikely that you will draw on that risk shelter?"
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Thank you, Jeremy. Look, the base plan that we announced on day one, when we announced the transaction was, of course, the full integration. But we reiterated afterwards, and I did it also before, that we are now evaluating what is the best option for the combined businesses going forward. I personally and we believe also that there is no real issue in terms of oversized presence within our market share topics, I mean, for the reason I mentioned before."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "We may have to balance what is the best thing to do from a shareholder standpoint of view with other aspects, we will take in serious consideration what is the best interest of clients, what is the best interest of employees and overall for society. Having said that, what we need to do is also to make those decisions based on facts and not emotions. Right now, the discussion is totally based on emotions, in many cases, totally uninformed. And we need ourselves to understand better those issues before we come to a conclusion. And it's very important not to jump into any conclusion."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Whatever we do has to be sustainable and viable. And therefore, it takes a little bit of time, but it won't take forever. We know that both employees, clients, and in general, you, as well, you want to have and we want to have, as quickly as possible clarity on what to do. So, be patient, in the next few months, we will create more clarity on the matter. In terms of risks, of course, you're right. I mean, first of all, we have to realize that any losses that are coming outside the noncore units are part, you know will be absorbed by UBS."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So, the only item that is subject to the guarantee is the noncore unit. And the first 5 billion of losses coming from that unit is on UBS. So, we have almost, by default, an interest to be prudent in the way we mark this position and sustainable in the way we look at how we dispose those positions. But at the same time, we are also the one that want to preserve value for our shareholders."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So, we will avoid – we will try to avoid at any cost having to tap into the guarantees. But at this stage, it's premature to discuss if we have to do it when we have to do it. This is also a matter that needs to be closed, as quickly as possible in terms of creating clarity. So the next couple of months there will also be very important for us to fully understand the exposures, and I'm convinced that this can be done in the time frame that I just outlined."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP",
+    "text": "Great. Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Your next question is from Anke Reingen from Royal Bank of Canada. Please go ahead."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "Royal Bank of Canada",
+    "text": "Thank you very much for taking my question. The first is just about the mechanics as you pay with the treasury shares, if there's a difference versus your [indiscernible] conceptually and in terms of the impact? And then secondly, just a different question. On your commercial real estate exposure, can you give us a bit more detail on the regional mix, potentially maturity profile, LTV and so on? Thank you very much."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So, on the treasury share, what happened is, we actually repurchased some of the shares, and they are available. They could have been canceled. And what we're doing is, we're using them for the purpose of this acquisition. So, we are not issuing any new shares. In terms of commercial real estate, we have a very conservative portfolio that has an exposure to Switzerland in particular. But – and all of that is according to what you see from us was the high collateralization that you would expect. And when we give you all of our levels of reserves, we certainly reflect on the very high quality of those portfolio."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "Royal Bank of Canada",
+    "text": "Anke Reingen"
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "Royal Bank of Canada",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from Amit Goel from Barclays. Please go ahead."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Hi, thank you and welcome back, Sergio. Two, for me. So, two questions. The first, again, just on the transaction and the announcement on day one. I just wanted to check in terms of the cost savings and the time line for EPS accretion, whether or not your conviction levels have changed based on the information that you've had or seen since then? And then secondly, I was a bit surprised by the amount of, I guess, deposit outflow on a reported basis for GWM in the quarter. Do you mind just going through that in a bit more detail because obviously that's net of the inflows that we've seen towards the end of the quarter. So, I appreciate there was a bit of shift in mix and so forth. But if you could give a bit more color, that would be helpful? Thank you."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Sure. So, in terms of the cost savings and EPS, the assumptions that we gave you stand. And what is important is for the EPS question to remember that we gave you what would be reported numbers. So, we are not excluding noncore, we're not excluding restructuring charge. And given that we're dealing with noncore assets that could have a time line, it could be that some of that comes over time, which is why we gave ourselves until 2027. Certainly, the core EPS accretion in our models was faster than that. And then in terms of the deposit outflows for GWM, it is really very much the client repositioning that you are seeing at the beginning of the year."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And so people came in and even with our advisers, actually really looked at their portfolios, and especially in the U.S., and you've seen that phenomenon, as I mentioned, our deposit sequential decrease is exactly the same one as the Fed data, is the result of people really looking at the difference in particular between what you can have on an after-tax basis between the treasury bonds or money markets versus any savings products."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So, our products are very attractive. But nevertheless, the treasury bonds and money markets end up being more attractive. And therefore, there have been mix shifts that are very, very logical for that type of clientele and this is absolutely the right advice for clients. That is really the majority of the driver, and then it's offset by the inflow that we have gotten since we [indiscernible] in the storm during the period of March after things became a bit more difficult for others."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Okay. And just on the cost savings, is that kind of, I guess, conditional on what the outcome is for the Swiss business or is the conviction still there on the greater than 8 billion?"
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So the $8 billion plus was done based on the base case. And of course, anything beyond that would be done in the context of what Sergio said in value creation."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Amit Goel"
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Your next question is from Benjamin Goy from Deutsche Bank. Please go ahead."
+  },
+  {
+    "person": "Benjamin Goy",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Good morning. Two questions, please. The first, the [reach rate] [ph] 25% of the new group going forward with the investment bank, if I combine UBS and Credit Suisse as of Q1, I'm already at that number before fully transferring [indiscernible] products and so on. So, does it mean you're already happy with the perimeter of the group and potentially happy to diversify your fixed income business via the credit sales and trading or is this number ultimately going lower towards maybe 20% or whatever the number is?"
+  },
+  {
+    "person": "Benjamin Goy",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "And then secondly, wondering about Global Wealth Management, do you re-underwrite the Credit Suisse client from a risk perspective, i.e., is that a new onboarding process or do they just join as of the [deal completely] [ph]? Thank you."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Well, on the 25%, I mean, it depends how you make the calculation. But directionally, what we are saying is that the 25% on a normalized basis will be with the maximum. And from there onwards, we will look into what fits into our risk profile. There are many areas where Credit Suisse will bring new capabilities that are good and enhancing our franchise in Investment Bank."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So, we are not concerned about those activities. And as you know, there is also some kind of correlation with risk-weighted assets being a function of market movements and volatility. So, we can't really right now point as a normalized number that we are happy with other than saying 25% will be the maximum no matter what. So, that's a good starting point. I think that if you look at the combined organization, we will reduce the weighting of going forward, and most importantly, we have a more diversified business."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So, there is also one of these items where we had a little bit of more digging into the business and what is going to stay with us and what is not going to be part of our offering. The onboarding will be done in a pragmatic way. Unless we have red flags, we will onboard clients, and we want to make the journey and the experience of clients as smooth as possible. But of course, the operating model in principle is the one of UBS."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So then, as we then onboard clients, we will then look at the suitability and making sure that they fit into our standards. I don't expect major difference. But here and there, we may have different views on certain client segments or people."
+  },
+  {
+    "person": "Benjamin Goy",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Benjamin Goy"
+  },
+  {
+    "person": "Benjamin Goy",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Your next question is from Tom Hallett from KBW. Please go ahead."
+  },
+  {
+    "person": "Tom Hallett",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Good morning everyone. So, just a couple from me. So, I mean, firstly, how concerned are you around the revenue attrition really taking place at Credit Suisse? I guess where I'm coming from is, based on the current revenue trajectory, the $8 billion of cost reductions might not actually be enough. So, could we be in a situation where a deeper restructuring is required?"
+  },
+  {
+    "person": "Tom Hallett",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "And then maybe secondly around buybacks. I mean, part of the issue there is, people are trying to time it and obviously work out the capital and so forth. I suppose you've got one side of the government guarantees. And then on the other, you've got a very politically sensitive situation. And I suppose, regardless of your capital position, is it fair to assume that buybacks are very much, kind of at the back of mind for now and we're talking 18-plus months away before you can even consider that between the link between, obviously, your strong capital position, expected capital position and the government guarantees? Thanks."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Thank you, Tom. Look, of course, the revenue attrition is a function of what happened in the last couple of months. And also, if you look at the profitability is highly impacted by the cost of funding they had experienced in the last few months. I think that once things are together and normalized, we will also create some tailwinds in respect of lower cost of funding and an ability to reattract clients."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "I'm convinced that a lot of the clients will see the value-added of the combined businesses, and some of those flows will revert. So, of course, we are, at the same time, not complacent. So, if we see that this is not enough, we will need to take actions. And of course, we want to, at the very least, bring back the profitability ambitions that we had as a UBS stand-alone with the one of the combined entities. So, cost focus on the – efficiency on cost and capital returns and value creation is part of the equation, and we will do the necessary steps to do that."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Look, in terms of buyback, it's way too premature to talk about it. Assuming that it takes 18 months to have clarity, it's a guess, that I fully understand your point, but believe me, we don't know yet ourselves, so. But we will give you clarity as soon as we have clarity on this matter. We need to be sensitive to many aspects. But I'm also convinced that it won't take quarters or years to create that clarity."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So, the trajectory of freeing up resources, of creating clarity around the guarantees, creating clarity around the business model and our capacity to combine a dividend policy that sees a constant improvement in the cash we pay out combined with share buyback is an important element of our equity story and we will be very focused on that in our communication."
+  },
+  {
+    "person": "Tom Hallett",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Great. Thanks again."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Nicolas Payen from Kepler Cheuvreux. Please go ahead."
+  },
+  {
+    "person": "Nicolas Payen",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Yes, good morning. Thanks for taking my question. I have two. The first one is for you, Sergio. I would like to know if you had noticed anything, which was radically different at UBS in its processes, organization, or anything between your departure in 2020 and today? And the second question is regarding Americas in GWM. There was quite a significant drop in advisers, and I would like to know if there was any underlying reason for this drop? Thank you."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Thank you, Nicolas. No, to be honest, it felt I never left. So, I think that's I don't see any meaningful change. Of course, some things, like it's normal, they should change. They should have changed. Not everything I left was perfect, so things needed to be addressed and other things are very personal and then very – a question of [time] [ph]. But I mean, the strength of the franchise was only reinforced over the last two years, and this is the reason why we were able to be part of the solution over the weekend, so which is a huge achievement for UBS."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Even if when you go back into where we were during the financial crisis, in my point of view, this was the ultimate payback to Switzerland. The fact that UBS was part of the solution was the ultimate payback on what the government had to do, and we were always very thankful for that. And so, in that sense, nothing has changed. If anything, has been reinforced. And Sarah?"
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "On GWM, you actually have a technicality which is that we put in our FAs both the very high end FA, but also the people that are in the client advice center. And so, it came really mostly from the client advice center. And so, really focusing on the flows and the productivity of the FA is where we are and we are not seeing any issues here. In fact, you have seen the very good flows that we have experienced in the U.S. this quarter."
+  },
+  {
+    "person": "Nicolas Payen",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Andrew Lim from Societe Generale. Please go ahead."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "Hi, good morning and welcome back Sergio from me as well. So, my first question is on NII. I appreciate the more integrated disclosure on the beats and the migration. I was wondering if you could talk more specifically about how that plays out on a geographical basis. Is that the greater pressure on the beta migration, mainly from the U.S. side or are we seeing any changes in Europe and Asia as well? And maybe you can give some color on how your NII should pan out based on forward curves into 2024? And then my next question is on the IB. I appreciate you've yet to outline the premiums of what mean – of what goes into noncore. But at the same time, you've been very specific about your IB DNA for the past few years now. And so, it leaves a question mark over the [indiscernible] business, which [sees a] [ph] lumps with IBD. I guess the question is, how do you see that business within your IB structure?"
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Okay. Thank you, Andrew. I'll take the second question. And I think that, yes, the DNA won't change. What we do is part of the equation. And having a diversified portfolio of businesses does include also having leveraged finance. Of course, we will stay very focused on how we are present in that business. We want to be meaningful to our clients, but also be mindful that this cannot be the driver of the profitability of the Investment Bank with all associated volatility and risks."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So, you can count on us or our clients can count on us being a relevant player. But definitely, we are not – our ambition is not to be at the top of the lead just for – and to make it a central part of our model. So, expect the margins a little bit more, but in a very, very focused way. And we will also look at ways to be creative around that business because there are opportunities for us to also partner with other institutions on how to manage residual risks. So, our ability has to be the bridge in the investment bank between different sources of capital and not necessarily originate [and store] [ph] risks."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "In terms of the NII, so looking at it by region and really by currency is how we think about it. What you have, first of all, as a broad statement, is that for each product category in each region, the realized beta or at or below the model better beta. Then what you have is, you have mix shifts within the deposit products, which are building a high overall basically repricing. And what we are seeing is then based on where we are in the cycle. So, in the U.S., we are those very high rates, where we are at very high incremental beta and that's continuing with the mix shift that I've discussed in the best interest of the clients."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Then you have in Europe, we went from being really at fairly low levels on to are now moving into a place where there is price sensitivity, especially for GWM clients. So, you have seen an increase, which is totally planned, but a little bit of mix shift also there, but a bit less on the mix shift there. And then in Switzerland, you've got a mix where you've got the P&C, especially on personal banking, where you still have a very low level of rates in all of Switzerland."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And we have put in place appropriate levels of pricing actions, but yet are still in that place in the cycle where you're seeing less of a shift or repricing just based on where the currencies are. So, going into the next year, you're continuing to go higher for all of the currencies. And 2024, really, it will depend on the right path."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Okay. It looks like there are no more questions. Thank you for being with us this morning. As I said, despite the very uncertain market conditions, we delivered solid underlying results for the quarter. We have been maintaining our capital and liquidity positions, and we were also able to get very close to resolve a legacy matter that has been with us for 15 years. We discussed also the unique opportunity that the acquisition of Credit Suisse presents not only for our shareholders, but I believe also for all the rest of our stakeholders, employees, clients, society at large. And of course, this is not going to be a straight-line journey."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "It's going to be a challenging one, but – it's a complex one, but I do believe that the benefits outweighed by far all those factors. So, I know that you are looking for more details, we are also looking for more details. And we will really do our best to keep the communication channels open over the next few weeks and months so that we can provide the necessary information to have a better understanding of this great equity story ahead of us. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Ladies and gentlemen, the webcast and Q&A session for analysts and investors is over. You may disconnect your lines. We will now take a short break and continue with the media Q&A session at 10:45 CET. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

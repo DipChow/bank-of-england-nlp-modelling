@@ -1,0 +1,512 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions]. The first question is from Ryan Alastair from Bank of America. Please go ahead."
+  },
+  {
+    "person": "Alastair Ryan",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Thank you. Good morning. Billion dollars beat in the quarter. I never did quite get the hang of this forecasting luck. Just on that non-core, very strong performance. I appreciate the updated run-off profile you gave us on Slide 6. Is there any reason that you're just reverting to natural runoff or can we expect continued sales if markets stay favorable because clearly, there's quite a meaningful driver of the very favorable capital ratio, the interactions of all of those?"
+  },
+  {
+    "person": "Alastair Ryan",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "And then secondly, the project to improve the revenue to risk-weighted assets in Wealth Management. I presume you wouldn't represent the Q1 performance as kind of the payoff of that project. It's too early. But just what's the profile of that project? How long is that repricing sitting on the net new asset generation and how has it started? Thank you."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Sergio Ermotti"
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Alastair, before I pass to Todd, I wanted to -- you were the first to ask the question not by coincidence, since I understand it's your last day at the office."
+  },
+  {
+    "person": "Alastair Ryan",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Yes."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Well, enjoy your time off going forward. So, I'll pass it over to Todd. Thank you."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Todd Tuckner"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Alastair, thanks for the questions. So, on NCL, I mean first, reverting to the natural runoff, we've been consistent in just reflecting the natural runoff profile. What I think the Slide 6 really does indicate is it really narrows that the delta between where we started as you could see where we set our ambition is to reduce to 5%. And the natural runoff profile has really come in. And so now you see that the delta between the natural runoff profile and where we -- our ambition is narrowed. So that should eliminate whatever uncertainty was considered. But I do think that it's appropriate still to reflect it that way."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "In terms of whether we can do more, of course, we're going to continue to do what we can. We'll try to exit positions at or above their book values wherever possible, but it's appropriate to continue to stick with our guidance on NCL in terms of our approach and in terms of our expectations around revenues. On GWM in terms of revenue over the RWA, I mentioned that we're starting to see progress, which, of course, does suggest, you asked as it started, and it has. In fact, it started at the end of last year, and the business is quite active in it. And so, we would expect that we're going to continue to make progress on driving up RWA efficiency with respect to revenues in that respect over the course of the next couple of years."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "You asked how long that will impact, how long will it go? How long will it impact net new assets? We said it's going to take the better part of two years, which is why we guided net new assets of around $200 billion over that two-year time frame, and we think that's the appropriate guidance still."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Chris Hallam from Goldman Sachs. Please go ahead."
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Chris Hallam"
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Yes. So, two for me. By the end of the year, I guess you'll be effectively halfway through the integration process in terms of gross savings. So, as you get through that process, are you starting to get a better picture of what you could expect for the net savings figure in relation to the $13 billion? Thought I think you mentioned the majority earlier. And does that change at all the phasing of the multiyear return on [indiscernible] path you laid out at the full year?"
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "And then second question, Sergio, you referenced earlier that inefficient capital didn't cause the collapse of CS. And I guess in the final instance, what we really saw was a crisis in client confidence that drove that liquidity shortfall. So, when we talk about capital distribution, it's sort of automatic to assume that higher or earlier capital distribution resulted in lower capital ratios, which in turn reduces resilience. But when you talk to clients, how important is that distribution ambition as an indicator and driver of confidence in the business, i.e., could you argue that ultimately aligning our distribution strategy more closely with the distribution policies we see elsewhere in European financials actually increases client confidence in the business and improved resilience? There's a big perception difference basically between a firm that's buying back stock versus a firm that's issuing stock."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yes, Chris, I'll take the first. So, on whether the OpEx progress that we saw sort of informs a better view on the net that we'll get to. Look, I think we're quite pleased with our 1Q operating expense performance. We did highlight that we expect gross saves to be halfway to our $13 billion ambition at the end of the year, which is a bit better than we highlighted in February, in large part because of the 1Q performance that we saw."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "But look, we still -- our ambition is a cost-to-income ratio of less than 70% at the end of 2026. That's what we're really focused on to manage to. And so how we pace any investments, which we'll continue to make in, for example, the resilience of our infrastructure, the organic growth in our core businesses, how we pace that will be a function of the revenue environment. So, it is still -- it is still way too early to change that perspective. But of course, we are pleased with the OpEx performance we saw in 1Q."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "As to how that impacts on the return on CET1 path that you mentioned, I would say that coupled with the updated NCL full-year PBT guidance I gave, would have roughly 100 to slightly above basis point impact on the return on CET1, but I would still say mid-single digits is the right way to think about the full year ROCET1 even with the 1Q performance that we produced."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Yes, Chris, first of all, of course, having a strong capital position and a balance sheet for all seasons, as we call it, having a strict risk management approach and policies, and being very disciplined in the way we consume and manage all our resources is the pillar number one of our strategy. And I think it's almost a prerequisite to create the trust that clients need to have in any bank or any organizations. So, in that sense, I would only add that another very important indicator, which sometimes is in conflict with clients is your funding cost."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Of course, our clients would like to have always a higher return on the deposits and the investment they place with us. But on the other hand, when they see our funding cost being as competitive as we have now, they have the ultimate confirmation of the strength and the solidity of our franchise. So ultimately, at the end of the day, it's always a trade-off between different dynamics by, I would say, emotional and psychological dynamics. But I can only tell you that, of course, last but not least, having a full alignment of client trust and satisfaction, having shareholders being happy and having your employees being happy is the ultimate way to create sustainable value and trust in any bank."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "And this is our philosophy. So of course, having an ability to compete in terms of growth and our global ambitions, but at the same time, being able to deliver attractive returns to shareholders, it's very important to influence the three stakeholders I mentioned."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Kian Abouhossein from JPMorgan. Please go ahead."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Kian Abouhossein"
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Thank you for taking my question. I have a lot of detailed questions, but I wanted to ask two questions actually to Sergio, if I may. The first one is, Sergio, your first comments on the call today were, we were asked do a critical role in Switzerland. And the key here is you were asked to buy a distressed asset, a G-SIB asset and when you buy something, which you were asked to buy, you clearly are in control of the process. And I would assume, just like you do in an M&A transaction, you know that better than me, you have a MAC clause. And in this instance, I would assume after all the financial crisis issues that we had in 2012, '13 with mergers by regulators, there would have been an agreement that there's not over regulation for UBS post the Newco transaction."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And I wanted to see if there is anything like this. So, second question I have is, Sergio, you also commented that the assessment of capital will be based on what the final outcome is, I want to better know the outcome of these regulations. And one option is also to look at your legal entities and maybe close some of the legal entities ex and clearly a lot of [indiscernible] the U.S. they make lower return is by look at U.S. well ex LatAm, as well as the U.S. IB, I assume, makes lower returns. So, one option would be a restructuring or exiting of markets to rather than reducing capital return. I wanted to see if that is also an alternative. Thank you."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Thank you. Very good question. Yes. I think that -- let me put it that way that some of the conditions that were discussed and agreed that over that weekend that were clearly defined and communicated. For example, the -- the one in the respect of the antitrust and the competitive nature in our local markets, that has been very well defined and agreed. Others, I would say, were also discussed and agreed. Let me put it that way. I'm not so sure we can talk about a MAC clause. But as I mentioned in my opening remarks, we are delivering on our commitments. So, I'd probably stop here."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "And in respect of the amount of capital, and I think it's clearly too early to speculate or respond to speculations around the capital. I just want to underline that when we talk about our parent company, UBS had already one of the best-in-class capitalization, the quality of our capital in the parent company was very strong. What I mentioned that is already embedded in our plan. We are absorbing $9 billion of concession granted to Credit Suisse. We are absorbing the progressive buffers that will come in as a consequence of market share and size. And we believe this is feasible and is part of the plan."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So, before we speculate about what we would do to respond to any other changes in regulatory requirements, we need to understand what they are, because, believe me, we have not been consulted. We don't know what. And so, we need to have the full picture before we respond to this kind of situations. But let me just say that having a global franchise, being competitive globally is what makes us a very attractive bank to our clients. Shrinking back to greatness is not a strategy and is not what will serve not only our clients and our shareholders well, but I'm also convinced it's not going to serve well Switzerland and its ambitions to be one of the leading financial center in the world. That's pretty clear to me."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Giulia Miotto from Morgan Stanley from Morgan Stanley. Please go ahead."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Good morning. So, two questions from me as well. The first one, just going back on the capital proposal again. And you said you were not consulted on this document, and you need to see what the final proposal looks like. So, looking forward, what are the next steps? Do we need to wait until June? Or are you now part of the discussion? Do you expect to have more clarity throughout the year? That's the first question."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And then the second question more related to the quarter. There was a strong performance in transaction fees better than I expected in Wealth. I'm wondering, is this just a transitory Q1 theme? Or is this continuing? And what should we expect there? Thank you."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "I'll pick up the first one, and then I'll pass it to Todd for the second. I mean, the -- we are not yet clear if we're going to be formally a part of any consultation or any discussions. Of course, as I mentioned in my remarks, we will make sure that our considerations are heard by the regulatory bodies and policymakers, and so that we can contribute to a fact-based discussion. And of course, we also hope that the report of the investigating commission of the Parliament will highlight some of the reasons why Credit Suisse failed. And that should be a crucial element in contributing to a fact-based discussions on future regulations."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So, June, as you mentioned June, June is not a credible data because the commission is not expected to report before the end of the year. I also think that..."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "June '25 I meant, sorry."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Yes, that one is -- I don't know about June 2025. I think that it's very unlikely that we're going to have more clarity about this matter in terms of what it means before year-end or early -- or even the early part of next year. So, in the meantime, we have to accept some level of uncertainty around this topic."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Giulia, on the second question about TRX in GWM. So yes, very strong 1Q. In terms of how we -- how one should think about it overall and going forward, I'd say a few things. I mean, naturally, the environment needs to be conducive to strong transactional flows in 1Q was, but I would really highlight that it wasn't so much just beta, but actually, it's an environment where you started to see risk come on. You saw some uncertainty, and it's an environment that plays to our strengths, where we were able to advise in particular across our regions in more complex structured products where we saw significant volume up. So, it really played to our strengths."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And it also, I think, structurally reflects a couple of things. In addition, that I would say gives us confidence as we look out forward. One is that the Align product shelf, so across Credit Suisse and UBS coming together and the way we've approached clients from that sense. And on the U.S. side, as I highlighted, just really borrowing from the playbook outside the U.S., inside the U.S. to really approach clients more jointly with the investment bank is also paying off. So, we see there are some structural things that bode well as we look out. Of course, the environment needs to be conducive, but also an environment like the current one is one that plays to our strengths as mentioned and really allows us to drive transactional flows higher."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Jeremy Sigee from BNP Paribas Exane. Please go ahead."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "Jeremy Sigee"
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "Thank you. Good morning. Two questions, please. One is, you talked about the Investment Bank and the core businesses that you've retained from Credit Suisse and the people you've brought over, I just wondered, are they now fully productive in revenue terms? Or is there some lag still to come through as those people ramp up? Are they up to speed already at this point?"
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "And then my second question is sort of again on the capital theme. I saw in the report you reiterate your intention to do the $1 billion of buybacks in the second half of this year. I guess that's a small enough amount that you can do it pretty much regardless of the new capital proposals, but I just wanted to hear your thoughts on that."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Well, let me take the first question is very -- of course, everybody is now up and running and productive. And -- but when you look at banking, as you know, what does it mean being productive? There is a phase of going out and pitching and winning mandates and then it takes time until they get executed. So, in a sense, if you are asking me, if they are productive in pitching and being engaged with clients, they are. Everybody is full speed. The momentum in winning mandates is great. You could see it in the fourth quarter -- in the first quarter, we have executed many of them, and we are very comfortable that the investments and the trajectory of growth that we see going forward, if market conditions stay there to allow the execution of those mandates, are very promising."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "In respect of $1 billion. So, I think that's -- at this stage, the only constraint we have right now is the waiting until the parent bank merger is executed. We expect this to be at the end of May. And if everything goes through successfully pending the regulatory approvals that we need, we intend to restart the share buyback with up to $1 billion for 2024."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "Very helpful. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Andy Coombs from Citigroup. Please go ahead."
+  },
+  {
+    "person": "Andy Coombs",
+    "role": "questioner",
+    "position": "Citigroup",
+    "text": "Andy Coombs"
+  },
+  {
+    "person": "Andy Coombs",
+    "role": "questioner",
+    "position": "Citigroup",
+    "text": "Good morning, two questions, please, and a follow-up. Firstly, on the non-core result. Obviously, a tremendous result both in terms of the RWA rundown, but also the gains that you booked during the quarter. Thank you for the revised guidance for the full year. I just wanted to better understand the source of those gains in Q1. I think you said conduit and corporate loan books and longevity portfolio, but you then don't expect that to repeat going forward. Is that because the low-hanging fruit has already been achieved or because you're now selling a different type of assets or anything you can elaborate there would be helpful?"
+  },
+  {
+    "person": "Andy Coombs",
+    "role": "questioner",
+    "position": "Citigroup",
+    "text": "And then the second question. Thank you for the opening remarks, Sergio, on the parent bank capital. I just wanted to check the $9 billion you referenced. Is that in relation to a 400% risk weight on foreign subsidiaries? Or is it a 300% as it currently is phased? And then more broadly, a question to both of you. In the event that the risk weight on foreign subsidiary does go up, to what extent do you think you can mitigate that through the fungibility of capital dividend, you have capital, so forth?"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Andrew, I'll address the first question. I mean in terms of the source of the gains, I think as you mentioned and as, of course, I highlighted, it came from a number of the sort of sectors within NCL, conduit and corporate loans, longevity, securitized products. We're also seeing strength in credit and equities and macro as well. And the team has been doing a great job in unwinding these complex, longer-dated transactions, and that continues to be what they're going to be focused on doing. So, the source of the gains comes from the ability to add a lot of value to these complex transactions. And to be able to get the transactions closed out at levels that are above book value."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "As I highlighted, that's not an expectation that people should continue to have, not least just given that sometimes we're going to make decisions to get out of positions where we know there's significant cost takeout or there's suboptimal capital at the moment. It's very suboptimal from a capital efficiency perspective and so getting out will release that. So, there are going to be a number of factors that -- which is why we don't see 1Q repeating."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So, if I can add on that one before I touch on the second question. I think that first of all, there is definitely no low-hanging fruit. And if you look at our natural decay profile change, it shows you that we are not really going for easy to sell, but rather complex transaction that also helps in many cases to unwind cost, because priority number one in non-core is to take down cost and not necessarily to take down risk-weighted assets and market or credit risk-weighted assets."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So, in that sense, it's very important that in many cases, we are able, thanks the good work the team is doing in managing these unwinds, to leverage the fact that we are not a forced seller. We are only going to dispose assets when they create value to shareholders. And that is a completely different position to be in because our capital is strong. We can allow some delays or some time to elapse between the two. Now on the $9 billion, there are two factors and the elimination of the filter, of the regulatory filter that Credit Suisse had. The two combined account for $9 billion."
+  },
+  {
+    "person": "Andy Coombs",
+    "role": "questioner",
+    "position": "Citigroup",
+    "text": "And the ability to mitigate any increase in the foreign subsidiaries going forward? I assume it's something you're already working on given the already base increase to what extent you think you could accelerate that?"
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "No, the mitigation -- look, the mitigation I go back to -- I mean, I have to -- it's like a replay, push the button again and replay what I told you -- what I said before. We cannot speculate or respond to speculation or do analysis on things that we don't know. What we know is that we're going to hold as a consequence of the Credit Suisse acquisition, $9 billion plus $10 billion. So almost $20 billion of additional capital in an already very strong capital position UBS has. That's the fact. The rest, I don't know. And we will comment when we know more."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Anke Reingen from RBC. Please go ahead."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Anke Reingen"
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Thank you, very much for taking my question. I'm sorry to follow up, just one thing. I mean, is it fair to say that a result of the uncertainty, you are not really changing any step in your strategy and execution of the merger? And specifically, with Q4 results, you mentioned the potential amortization of additional detail, just confirming this on the current stage, this is going ahead. And then on the net new assets, the $17 billion in Q1, I'd be running below, if I was thinking about $100 billion for this year. Should be rather than $100 billion this year? Is it more like the $200 billion over the year -- two years and more back-end loan loaded towards the 2025 to reach the $200 billion? And has the decline in relationship managers had any impact on the net new asset growth in Q1? In the past, you gave us some numbers about the parting relationship managers and the assets they have taken with them. Is that still the case as being relatively low? Thank you, very much."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "I'll take the first question. I think that's -- Anke, I think this is a very complex integration, and we cannot afford to be distracted in the execution of it. So, we are sticking to our strategy. We are sticking to our plan. We need to do that and at the same time, staying close to our clients. And so that's the reason why engaging in hypothetical change of strategy or methodology we use in assess our -- anything that goes around capital would be absolutely very distracting and not in the best interest of any stakeholders because what we want to have is a successful completion of this integration. And so, we stay focused on the existing strategy and our approach."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yes, on the second question in terms of net new assets in GWM, I would just reiterate that the trajectory that we highlighted over the next two years is, among other things, a function of the financial resource optimization and balance sheet initiatives that the team is hard at work and undertaking. So, $27 billion in the quarter is a strong result. We're on track to deliver on our ambitions, which we said was $200 billion over the course of two years. So, I would continue to think -- continue to think about that in those terms."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "In terms of the RMs who have left, you mentioned that we had given some numbers in the past. Yes, I mean, that has continued just to taper as an impact, just given the number of RMs who have left has become sort of a non-topic at this point in time in terms of any current period. And in terms of the assets that they've taken with them, it is a very small percentage ultimately of given -- especially given the fact that the RM workforce in Credit Suisse is down 40% from the end of 2022 levels. And we've been able to retain the lion's share of the assets. So, we consider that to be sort of a story not terribly worth following. And in the end, we stay focused on our plans and our commitments."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Can I just ask on the DTA, please? Are you reiterating that you expect to convert the $2 billion and the $500 million you talked about with Q4 results?"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yes, there's no change in terms of our approach to DTAs at the current time, Anke."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Benjamin Goy from Deutsche Bank. Please go ahead."
+  },
+  {
+    "person": "Ben Goy",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Ben Goy"
+  },
+  {
+    "person": "Ben Goy",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Good morning. Two questions, please. One on the favorite topic, capital. Just conceptually trying to understand because when in the press it is reported or the Ministry of Finance for capital, we naturally assume it's CET1 capital. But do you think it could also partially include efficiency on capital which might make a bit more manageable for you? And then secondly, on your Wealth Management, the net new loans in the quarter, another decline is very similar to the Q4 decline. Just trying to reconcile that with your risk appetite returning statement, being conscious of the yields are still favorable, but wondering that is also more of a risk alignment still going on in the background, which is why your spending remains negative?"
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Benjamin, the first one is very short. As I said, we don't speculate or respond to speculation in respect of any numbers that has been flagged out there. So, it's not -- we are not in a position to understand where all those numbers are calculated. Therefore, we refrain from doing that."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yes. Benjamin, on the GWM net new lending side, we are seeing continued deleveraging. Some of that is market-driven and some of that, i.e., rates driven and some of that is as a function of the resource optimization work that we're doing. So that's an outcome that we're managing. To the extent it is the latter, we are looking to drive higher revenues. And therefore, I'm looking for the NIM to sort of hold up in that respect because we're improving the revenue over RWA consideration."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "But obviously, in the current rates environment, too, we're seeing either the ends of deleveraging and still yet some reticence to relever in some of our regions. So, I expect that we won't have a lot of momentum on relevering in the current rates environment until we start to see rates come down over the -- assuming they do over the next, say, 12 months to 18 months. So that external factor won't be, to me, a big driver in terms of releverage."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Piers Brown from HSBC. Please go ahead."
+  },
+  {
+    "person": "Piers Brown",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Piers Brown"
+  },
+  {
+    "person": "Piers Brown",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Just two for me. Just coming back on the cost issue and the cost takeout in the quarter in the NCL unit. I mean it's quite impressive. You're down 26% quarter-on-quarter. And the cost takeout seems to be tracking more or less in line with the asset reduction. Just -- I mean, the question is, should we expect that sort of linear relationship to continue? Or was there something in particular in terms of front-loading cost takeout in the first quarter in NCL?"
+  },
+  {
+    "person": "Piers Brown",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "And then the second question is back to regulation. Not on capital, but just wondering if there's anything in any of the remarks, comments, reports published by the Competition Commission that we need to be mindful of just in terms of the domestic market shares of the new group. Thanks."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Piers, in terms of the first question on the NCL cost takeout. There isn't a linear relationship. I would say it could be -- the relationship really doesn't have to flow linearly. And that's because the cost takeout will often come as a result of taking out a portfolio that sits on a given system or supported by a given infrastructure or application that we're able to shut down. But there is, of course, a relationship between the asset takeout and the cost takeout. I wouldn't say it's linear because you can have -- you could be taking out portions of the portfolio that still needs at least a large share of the headcount supporting that, whether it's the front office or mid or back that's still supporting the broader portfolio."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And if you're not really able to decommission the associated technology, you may not get the saves there. So not linear. But for sure, it's something we watch very carefully, and we're pleased to see that it is moving with a reasonably high degree of correlation."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Now on the competitive position, let's forget for a second, that we have a crystal-clear agreement on that topic. Even if you go down to the substance, which is, I think, is relevant for us, for consumers, for clients or everybody to understand. When you look at facts, it's quite clear that we have no dominant position in Switzerland in banking. So, I think that's no matter if you look at deposits, at loans or mortgages, you look at branch, number of branches in any dimension, UBS is not the largest bank in Switzerland in that sense. I think we are the leading bank in Switzerland because of our capabilities, but that should not be confused with market share and size."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So, in that sense, we are fairly comfortable that both the agreements and the facts support our position that our plan is the right one to pursue."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Tom Hallett from KBW. Please go ahead."
+  },
+  {
+    "person": "Tom Hallett",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Tom Hallett"
+  },
+  {
+    "person": "Tom Hallett",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Good morning. So just a quick one on Wealth Management NII. I think you were baking in 3 U.S. rate cuts for this year in your guidance. If that was zero, what was that? Or how would that alter your guidance? And then secondly, on the treatment of software intangibles, I suppose it's fair to say and get a bit more of a benefit relative to your European peers. I mean if you were to align the rules with Europe, what sort of impact would that have on your capital? Thank you."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So, on the second question, as I said before, we are not speculating on any change in our regulatory framework. The only thing I can say is that both in absolute global terms but also vis-a-vis the European peers, we have a pretty strong capital position, not only in absolute terms, but also the quality of our capital base."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Tom, on GWM NII, yes, we modeled in mentioned 3 U.S. dollar rate cuts. If there were fewer than those like Sergio, even commented earlier that there is some upside. But of course, in our NII. But of course, that depends on client behavior. It depends on how the balance sheet behaves. So statically, yes, that would be corrected to be upside. If there were no rate cuts, you probably have some uptick of a point or two on the NII. But of course, we need to consider the dynamic relationship between client behavior and our balance sheet. So, it's difficult to -- difficult to predict. But yes, I would just take away that likely to be some degree of upside, all other things equal."
+  },
+  {
+    "person": "Sarah Mackey",
+    "role": "answerer",
+    "position": "Head, Investor Relations",
+    "text": "Sarah Mackey"
+  },
+  {
+    "person": "Sarah Mackey",
+    "role": "answerer",
+    "position": "Head, Investor Relations",
+    "text": "Thank you. I think there are no further questions. So, with that, we can close the call and thank you, Sergio, and Todd for joining us today. We look forward to speaking with everyone again with our 2Q results."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Ladies and gentlemen, the webcast and Q&A session for analysts and investors is over. You may disconnect your lines. we’ll now take a short break and continue with the media Q&A session at 10:45 CET."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

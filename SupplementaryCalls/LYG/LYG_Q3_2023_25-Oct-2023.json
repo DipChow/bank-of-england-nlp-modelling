@@ -1,0 +1,410 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] Our first caller is Guy Stebbings from Exane BNP."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Exane BNP Paribas",
+    "text": "A couple on deposits and NIM. So for NIM trajectory next year, I appreciate you won't want to guide the number at this stage. But as you sit here today and you weigh out tailwinds from the hedge, the headwind from mortgage spreads and the headwinds presumably still from deposit mix shift; how do you think about those factors in the extent to which they could net off or is it more likely that the NIMs decline sequentially next year? And then a question specifically on deposits. You alluded to expecting deposit mix shift to slow. I appreciate forecasting very challenging on that line. But are you seeing any signs at this stage that it's slowing or are you really talking about 2024 and beyond before we can start to think about things improving there?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Guy, obviously both important questions. If I take each of those in turn. First of all on the NIM trajectory, as you rightly said, we won't be giving guidance for 2024 but just to step back for a moment in respect of what we have given for 2023. As you know, the guidance for 2023 is in excess of 310 basis points for the year as a whole. We're now operating or rather the third quarter was operating at 308 basis points and I mentioned in my comments just now that we expect to see it decline a little again similar sort of level really for Q4 but to stay above the 300 basis points level importantly for that quarter. As we look forward, Guy. I think it's probably safe to say the headwinds in terms of deposit churn and mortgages, pressure from the relatively tight mortgage spreads that we're seeing continue to play themselves out perhaps a little bit further. I expect over time this will gradually slow down."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And alongside of that as we get into 2024, the tailwinds in the form of the structural hedge in particular will most probably strengthen a little bit through the course of the year. So that gives you a bit of insight I hope, Guy, in terms of the picture that we expect to see in specifically 2023 but then in terms of the way in which the headwinds and the tailwinds play themselves out over the course of '24. Now all of that of course will depend upon rates, upon depositer behavior, upon mortgage margins and like; but we'll fill you in more precisely on year-end as to how we expect that to develop. On deposits, Guy, we are seeing deposits move a little bit during the course of the quarter. Most pleasingly, we have seen deposits go up over the course of the third quarter. So while we have PCA outflows of £3.2 billion, those have been more than matched by savings inflows of £3.9 billion in retail for example leading to an increase of £0.7 billion and in Commercial Bank leading to an increase of £0.1 billion."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So we're really pleased to see that deposit performance looking at the deposit book as a whole. Having said that, as you say, there's been some churn within the deposit book and so that has been not surprisingly and very much as we guided I hope through the course of this year; but not surprisingly the interest rate environment, some movement from current accounts into savings and indeed within the savings book from instant access where customers are prepared to give up access in exchange for a higher rate in locking up the money into fixed term deposits. That is in the current rate environment, as we said, likely to continue during the course of Q4. As just said, I think it may play itself out a little bit further during part of 2024 looking forward. At the moment at least, Guy, there are ups and downs in any given quarter. I think it would be premature to call a trend at this point. I think we just have to see how things develop. And as said, what we are focused on is making sure the overall deposit picture remains as strong as it has done during the Q3."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Exane BNP Paribas",
+    "text": "And in terms of experience already in Q4, I know we're very early into the quarter but has it been sort of similar to what you saw in Q3 in terms of those mix in deposits then?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "I think so, Guy. Again I think it's a little -- we don't really want to call a trend based on any particular month during the quarter. But you see some months during a quarter perform better, you see some months during a quarter perhaps because of competitor offers for example be a little weaker. It kind of ebbs and flows during a quarter. I do think over time what are we going to see? We're going to see a combination of fewer bank base rate changes and therefore fewer problems for savers. We're going to see the hot money that is going to move already having moved. We're going to see the forward curve dip down and therefore competitor offers, if you like, probably dip down with it and therefore less incentive to move."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "We're going to see most probably the convergence between instant access rates and those on fixed term deposit rates partly for that reason. And so all of these things, Guy, I think lead us to believe that over time this churn that we're seeing a little bit of right now is likely to slow. Whether it slows in Q4 or whether it slows in 2024, I think it's difficult right now to be overly precise on the point but you can get a sense as to kind of how we expect things to develop. And then to the extent your question is kind of how that influences the margin going forward. As said, I suspect the headwinds have a little bit to play out in the first half of 2024, I suspect the tailwind gathers strength during the second half of 2024 principally off the back of the structural hedge. So those are the kind of ingredients that I look out for that, Guy."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next caller is Jason Napier from UBS."
+  },
+  {
+    "person": "Jason Napier",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "The first one was just on capital generation, the firm's clearly producing in line with plan and looking like it's going to be strongly distributed. I wonder could you just talk please about the ongoing work that you're doing with the PRL hybrid mortgage models and what the sort of standard deviations there are around capital requirements and how that might impact I guess next year's RWAs. And then secondly, other operating income for a long while has been an area of some disappointment and it's looking like it's performing really well. You said you've guided for flat in Q4. Just wondered if there's any color you might add on what sort of natural growth you get into next year from the investments, the acquisitions or maybe some sense as to at what rate the overall market in which you operate is growing at the moment and whether we can bank on reasonable sustained momentum into next year in that line item?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Two questions there, CRD IV and other operating income, Jason. CRD IV, as said, the discussions with the PRA are ongoing in respect of principally the mortgage models and how those develop looking forward. We are doing currently further analysis and indeed model development. As you know, we took £3 billion in CRD IV RWAs in H1. It is likely, as we said in our public document today, that that discussion will develop and therefore off the back of that, I think quite likely that further CRD IV or RWA impacts come to pass over the course of the future periods. It's also likely those would phase over time. And so as a result, Jason, we will aim to manage them. We will also aim to offset them to the extent that we can."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "As you know, we've got excellent guidance out there in respect to 2024 RWA to '25 and I very much hope that we're able to manage CRD IV pressures within that existing timeframe. So we'll update that more fully at year-end as we always do but hopefully that gives you an impression as to where we are with CRD IV dialogs with PRA. The fact that we hope over time to be able to manage those CRD IV RWA pressures in line with our existing guidance. On the topic of OI, Jason, as you say, it's pleasing to see some growth in respect of OI. Couple of points really to make there. One is we are seeing it across all of our different business areas. So for example if you look at retail, you'll see it in the context of current account development, you'll see it in context to cards, you'll see it in the context of transport."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "If you look at the Commercial business, you'll see it in the context of the growth within Corporate and Institutional financing or bond issues and the like along with market trends as well. Then if you look at the insurance business for example, you'll see some developments in terms of not just net new money but also propositions like the workplace proposition there too. So really across the board strength in terms of OI which is good to see. What's driving that? I think it's a combination of organic customer activity which is still rebuilding to an extent at least post pandemic and some of the propositions that we're putting out there we hope are very competitive and that's what's being borne out by the numbers if you like. Alongside of that, Jason, what's driving it is our organic and inorganic investments."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "The organic ones being very much consistent with the strategy that Charlie and I laid out in 2022 and the inorganic ones you're familiar with. Tusker is a good example that we did at the beginning of this year which is performing very well in terms of building that business. As we look forward, Jason, those same trends we believe are going to inform OI growth over the course of not just this year '23 but also going into 2024. And so I don't want to put a number on it clearly for 2024 at the moment but the growth that we've seen of 8% or 9% in 2023, that feels reasonably solid and I would expect to make further progress during the course of 2024 looking forward. Final caveat there, Jason, of course as ever, it's activity dependent. It always is with other operating income but I think the foundations feel pretty solid."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next caller is Jonathan Pierce from Numis."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "I got 2 questions again. The first is on capital position because based on your guidance for generation over the full year less some of the dividend accrual. In the fourth quarter, I think you'll land at about 14.8%, 14.9% on the Tier 1 ratio so we'll see significant access to the target. So wondering where you feel comfortable operating that in the medium term. We came into this year I think pro forma for the buybacks at 14.1% which again is ahead of your target. I'm also thinking about this in the context if your target just 13.5%, the low point if you like is when you announced the buybacks at the start of the year and then for the remaining 12 months, you operate considerably in excess of that target. I suppose the question is how quickly can we expect you to get down to 13.5% that you set at full year results pro forma for the buybacks Could it happen in February 2024?"
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "The second question is on deposit margin and clearly there's a debate at the moment sort of raging on the headwinds and the tailwinds. But if I just step back from it, do you produce -- you did disclose at the interim results the deposit margin including the impact of the hedge cost which is effectively what it is. I think that number at H1 was 1.34%. So setting that quite clearly goes up a bit, goes down a bit over the next 6 to 12 months depending on deposit configuration. In the medium term is it your view that earning 130 basis points on deposits in an environment when base rate is 4% to 5% is too low and that number will go up and is it a core part the ROTE target by the time we get into 2026?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Jonathan, again important questions. The capital guidance first of all. As you commented, the capital guidance that we have out there is 13.5%. That is the target capital ratio for the bank. When we look at the capital ratio today, as you know, 14.6% is coming off of Q3 and as you alluded to, that is likely to lead to a decent capital position at year-end. A couple of points on that. One is we are very committed to capital repatriation. The 2 components of that, as you know Jonathan, are being a progressive and sustainable dividend. We increased it by 15% at the interim. I would be confident in expecting that to continue at the full year and I look forward to continued progressive and sustainable dividend growth thereafter."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Alongside of that at the end of every year, we will consider the excess capital position above and beyond our target capital ratios and taking account of all kind of external and internal factors and it's really to the Board to decide at that point. But you've seen the commitment that we have in the context of buybacks in previous years and not wanting to in the interim pre-empt that debate, I'm sure will have a debate about what to do with excess capital at the end of this year. So that's point one. You asked specifically within capital guidance, how we see if we like coming down closer to our target of 13.5%. I think it's a relevant point. Ensure we've committed to get to 13.5% by the end of 2024. Now at the beginning of this year we were 14%. I think we would aim to deliver a relatively smooth capital trajectory down to 13.5% by the end of 2024 which in turn probably means chipping away a little below 14% by the end of this year."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "We'll see but that would be my broad expectation. And then arriving in a kind of fairly linear fashion at 13.5% by the end of 2024. So hopefully, that gives you some idea as to how we think about it. The deposit margin point, it's an important one. As said, we are seeing the churn in terms of the book over the course of this year. It is entirely consistent with the expectations that we had of this interest rate environment and indeed I hope the guidance that we've given to the market through the course of the year. Likely as said, we see that continue a little bit during the course of Q4 and then I expect over time, it's hard to be too precise on when, that comes to slow down if you like and at some point presumably comes to an end."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Now within that context, as you say, we have the structural hedge refinancing going on and that remains no matter what the deposit churn really does and no matter whether or not there is any modest reductions in the structural hedge, a very strong tailwind for the income profile of the business. You gave a number there in terms of the structural hedge yield as an example of that and how it's strengthening, Jonathan. So what we had within Q3 was a yield on the structural hedge of about 1.35% or thereabouts. What we expect to have for the remainder of this year is the building of that yield into the more like 1.4% to 1.5% territory and then build again during the course of 2024 into kind of above 1.6% territory. I won't be more precise beyond that but it's the kind of 1.6% plus type territory going forward."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "That is off the back of some £40 billion of hedge refinancings that come due during the course of 2024 which, as I said earlier on, provides quite a strong tailwind particularly in the second half of the year for the overall margin of the business. So I'm pretty confident as we sit here today that the strength of that structural hedge refinancing tailwind is likely in due course to outweigh the effects of any headwind that we may get in the meantime from the deposit churn that we're seeing and that's the balance of things. And I think, Jonathan, over time and maybe this is the final point, that is going to deliver the type of income and ultimately operating leverage that allows us to deliver a stronger ROTE and in turn stronger capital return in the period looking forward, particularly looking forward '25, '26 timeframe."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "Okay. That's really helpful. And sorry, just 1 supplement. The hedge maturities for next year, are they reasonably spread across the 4 quarters or is there a lumpy profile again?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "There's a bit of a back-end weighting. Jonathan. It's not terribly acute but I think there's a bit of a skew towards the back end. So that's partly what's informing my comments around the margins to the questions earlier on."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next caller is Ben Toms from RBC."
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "RBC Capital Markets",
+    "text": "Firstly on the structural hedge, you reiterated your modest single-digit reduction in the hedge notion going to half 2 2023. Do you believe that you can hold on to your noninterest-bearing deposit [indiscernible] and therefore should we be modeling better reduction in the Lloyds structural hedge notional going forward relative to our views on the sector as a whole? I guess the buffer you have over the balance sheet notion might also play a role here. And then secondly, in relation to your pension deficit funding reduction that you announced today with nearly a £250 million contribution expected in Q1 2024. Would that have a bearing on your capital generation guidance of 175 basis points for FY '24? Just trying to get a feeling of how baked in this uses the existing financial plan?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Ben, again both important questions. In terms of the structural hedge, maybe I'll just start with 2023. The structural hedge guidance that we gave at the half year is for a modest reduction and that continues to be the case, if you like. I don't think there's any change to the guidance that we gave at the half year in respect of that. You've seen the nominal balance come down about £4 billion during the course of Q3. It might come down by something similar during the course of Q4, let's see but I think something broadly similar would be expected. And indeed, the combination of those 2 I added together, that's what led us to a modest notional reduction that we gave at the half year as guidance. I think looking forward, it won't surprise you now, Ben, we're not going to be specific today at least on guidance for the structural hedge going forward. We certainly will be at the tail end of the year as we always are. But looking forward, what do we expect to see?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "I think if you see a continuation of the churn albeit at some point no doubt a slowing, then off the back of that, that's what drives the structural hedge behavior. And so it would be reasonable to expect I guess some similar type of activity in the context of 2024. But let's see how rates play out, let's see how customer behaviors play out and that in turn will inform how we manage the structural hedge looking forward. You asked about our performance versus others and how we see the stickiness of the deposit base. Obviously I won't comment on a relative basis but I can comment in terms of how we see the deposit base at Lloyds Banking Group develop. Maybe a couple of points to make there. I think one is we have invested heavily in terms of customer contact strategies and so we do work hard to identify where customers might move, how they might move, what it is they're looking for in terms of interest versus access trade-off, that sort of thing."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "A lot of it is digitized and I hope that that allows us to manage the deposit performance as best we can. Nothing is ever very perfect to be clear but nonetheless, I think those types of investments are important. Alongside of that, we have a variety of different products with, if you like, hopefully competitive offers out there. Some of them are structural hedge eligible even though they are savings offers and so not just instant access but we developed other products that are not fixed term if you like, so-called limited withdrawal products that in turn are structural hedge eligible. That gives customers the choice if they want to, if you like, go for a compromise between higher rates, number one; but also some degree of access, number two. That type of product allows them to do it and in turn that also allows us to keep the balances on the structural hedge in the structural hedge as is predictable and so forth."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So that's combined with the customer contact strategy that we have, i.e. offers and products, that we hope allow us to manage the deposit base successfully. I think final point, Ben, is we've got a very broad-based customer profile across the U.K. It's a very broad franchise, very diversified franchise. In that sense, our deposit base and the behavior of the deposit base is driven by that type of characteristic. So maybe there's something in that. Hopefully, that addresses the structural hedge deposit questions. On the capital question, Ben, it's a good question. When we look at the position on capital, we've given very clear guidance in respect of 2023 and indeed in respect of 2024. We're not -- I'm not going to comment today specifically on 2024 beyond what I've just said. But I think on capital guidance as always in all years, we just try to be clear and consistent. We don't typically disclose all the moving pieces of capital. Indeed it's quite a complex picture."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "At the same time, you're aware of the income and the P&L trends that we have given and that we discussed in part again this morning. It's very clear that the pension deficit reduction is a positive for capital certainly for the remainder of this year, certainly for next year and indeed looking forward. At the same time, there are some uncertainties in the context of the capital position and they will play themselves out. So for example, we've made an allotment for CRD IV RWA increases next year but there's some uncertainty about whether the PRA will increase RWAs more than we expect. We don't expect that clearly because our base case we've allowed for but there is some uncertainty there. Likewise, it's impossible capital refinancings that we'll consider over the course of 2024. And then finally, there's some share-based payments where in the past we've been able to issue shares."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Were now coming up against some of the limits for those and those will require purchasing shares on the market in exchange for compensation plans and the like. And so these are examples really of the types of uncertainties that we look into in the capital build and that's why, Ben, when we step back, what we want to do is just to provide something that is clear and predictable from your perspective of 175 basis points for this year and for next. Final point, Ben, that I'll make there is that having said that, let's not forget that is a very strong capital build, right. That allows us to deliver both a progressive and sustainable dividend, 15% up this year. I'll be very, very hopeful, let's say, of a decent increase in the dividend next year. I'll leave that to the Board to decide at that point. And alongside of that, you've seen our performance on buyback. So let's make no mistake about it, 175 basis points, that is a very strong capital performance that allows us to deliver a decent yield to all of our investors."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next caller is Chris Cant from Autonomous."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "Two questions on revenue related issues, please. Just going back to your strategic plan guidance from a couple of years ago and I'm conscious of the comments you were making around the strength of the other income line looking into 2024. At that strategic update, you said there'd be about £0.7 billion of revenues generated incrementally from sort of organic/inorganic initiatives across '22 to '24. How much of that do you think is captured in the run rate that we're seeing today versus how much is still to come into 2024, please? Just interested to get an update on your thinking around that piece and if we are towards the end of that 3-year window."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "And then on the NIM, if I could just come back to that. From what you've said, the 4Q NIM is just going to be a shade above 3% and I guess if we were looking at that NIM ratio given the trend through the second half looking at the December NIM or the end of year NIM, I guess implicitly that's going to be a bit below 3% looking into the first half of '24. And you've indicated then that there sort of maybe some net pressures through the initial portion of '24 potentially offset a little bit towards the back end of '24. So it feels like we should be thinking about a NIM for '24 at least starting below 3%. Is that the right inference to draw at the beginning of the year and then we can sort of make our own mind up as to whether you managed to sort of pull back from that level?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "In respect to OI, as you say, there has been a decent performance in OI. I would say I see quite a strong performance in OI. So £1.299 billion during the course of Q3, so far year-to-date, £3.8 billion. That is an improvement of around 8% year-on year. I think if you scratch beneath the surface and say what are the kind of one-offs and so forth that you see in OI which you sometimes do. For example were there benefits or for that matter were there costs in general insurance as an example. Likewise, some lumpiness that you see from time to time. Actually the underlying is looking pretty similar so the underlying is probably also 8% or 9% year-on year the way that we look at it once you take out any kind of one-off type effects there. So on the whole, we're pretty comfortable with the OI performance. In fact I think we see it as reasonable and quite positive."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "We haven't disclosed exactly what proportion of that OI performance is the strategic initiatives that we have seen. We will clearly give full guidance on that at the delivery point for 2024 or maybe just 2 comments to make along the way there. One is we feel very comfortable with the £0.7 billion that we have committed to deliver for 2024. So that's perhaps worth underlining. We feel comfortable with the guidance we have given and we expect to deliver on it when we get to the year-end 2024 results. Second is it's not particularly linear. That is to say the reason why we're feeling comfortable with it is because we already see signs of decent delivery. But on the other hand, because the investments are relatively early and then those investments bear fruit, if you like, in the period thereafter; it's not strictly linear between where we are now to the end of 2024."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "But again I think the point to take away is that we feel very comfortable about it. We've got significant kind of runs on the board if you like in respect of that £0.7 billion. It won't be exactly halfway, Chris but it won't be terribly far off of that I guess is 1 way to look at it. In respect of NIM, I will probably just repeat the comments that I made earlier on which is to say we're not going to give guidance for 2024 and it's certainly not the kind of quarterly guidance as it were. You've seen our run rate NIM which goes to just above 300 basis points as I said in my script comments for the final quarter of 2024 and then I think the evolution. As said, we'll see the headwinds play themselves out a little bit during the course of the first half. We'll see the tailwinds strengthen a little bit during the course of the second half."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "There's 1 more comment that I might make just to give you some illustration in terms of how those headwinds play themselves out. At the moment, we have refinancing mortgage business at around 175 basis points versus mortgage business that we're putting on around 50 basis points completion. That's a gap with some 120 basis points, 130 basis points for refinancing mortgages. By time we get to the back end of 2024, that mortgage business that is rolling off is rolling off of at more like 80 basis points. And let's say that mortgage spreads remain the same as they are today, the gap therefore is more like 30 basis points than 130 basis points. So that's just 1 example as to how we see the headwinds rather play themselves out a little bit during the course of the latter half of 2024 and in exchange, I'll just make some comments if you like, on the development of the hedge which as said, will play itself in more and more during the course of the year."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next caller is Edward Firth from KBW."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "I just have 2 questions I guess. One would -- I think you mentioned in the script something about funding cost for noninterest income going up and I just wanted to check I understood what that meant. Is that the sort of £70 million, £80 million a quarter sort of excluded from the NIM? Are you saying that we should expect that to increase from here or was it something different or maybe I misheard? That was the first question. The second question was about mortgage refinancing. Talking to some of the mortgage brokers, they are telling me that a huge theme they're seeing at the moment is extension of the term of mortgages. So people are managing to effectively keep their monthly bills under control by terming out their mortgages. So I guess my question is firstly, is that right? Can you give me some sort of idea of what proportion of refinancing are terming out? And then finally, does that come through in forbearance pay or not or do we just see that as a sort of new product and therefore is not really related to the old one?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Couple of questions, the NBII and mortgage refinancing. On the nonbanking interest income. The nonbanking interest income, as said, we saw in Q3 about £76 million or so. I expect that to tick up a little bit during the course of Q4 and indeed likely to tick up a little bit again during the course of 2024, I won't be precise on that. But what's going on there? There's 2 things really going on there. One is around refinancing of existing activity, Ed, so insurance, pensions and Investments for example; transport for example; LDC for example; likewise Commercial Banking. These deals, if you like, are put on financing over a period of term and then when they come up for refinancing, they then reflect the then prevailing interest rates."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So for example we have a mortgage book which has an average life of 3 years. Some of that stuff is coming up for refinancing during the course of this year and looking forward -- sorry, the motor book, forgive me, with an average life of 3 years. So that type of thing is an example of renewal of existing facilities into a higher rate environment. The other part of it and this is circa half of the nonbanking net interest income increase is related to growth within other operating income. So part of it, as said, related to higher rate environment; but also part of it is financing effectively volume growth within other operating income and again that will be across the businesses. That will be across commercial, insurance, retail and the like. So Ed, think about these nonbanking interest income steps, if you like, as 2 things."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "One is refinancing the existing business and the second is about the same proportion refinancing volume growth in other operating income and therefore driving, if you like, benefits within the other operating income line. And I think it's important, if you like, to see that as a part of the picture here. Mortgage refinancing, the extension of term. There's been a little bit of that in the market but for us it's a pretty small -- in fact I will go further actually and say very small part of the overall business, It is not forbearance to be very clear in response to your question. And it is overall from our perspective a very cool part of the refinancing part of the business. I would step back actually and say when we've looked at the mortgage performance in terms of asset quality over the course of Q3, we've scratched significantly beneath the surface, if you like and just sort of really having looked at what is going on within the mortgage business."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And it's that work that allows us to step back and say actually we've seen some really good signs of stability within the mortgage business. The vast bulk of the portfolio was always doing pretty well and continues to do pretty well despite economically slightly more challenging times. The area where we are seeing an uptick in new to arrears which is basically the '06 to '08 originations and within that relatively small pocket of it, that piece has now been stable during the course of Q3. And as I said in my comments, perhaps it's a little early to call a trend but nonetheless we're pleased to see that stability in the context of what overall is a very well performing, very strongly performing mortgage book."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next caller is Rohith Chandra-Rajan from Bank of America."
+  },
+  {
+    "person": "Rohith Chandra-Rajan",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "I just have 2 quick follow-ups on NII if that's okay, please. The first one was just on deposits. So you've done a good job of retaining deposits in what's been a very competitive market. I was just wondering if that's any different in the cost of those deposits than you were anticipating? And then the second one is just on the margin, just to clarify really your previous comments. I think based on what you said so far, you're indicating a similar sort of margin decline in Q4 versus Q3 and also with a similar mix of the drivers, things you show in the NIM prediction on Slide 5. I just want to check if that was the case."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "I think 2 questions there obviously, NII and particularly the relationship with deposits and then Q4 margin performance as a whole. The NII in terms of deposits. When we set out a guidance earlier on this year and then went through the course of Q1 and Q2, I should say, we had certainly anticipated the type of deposit movements that we have seen. I think that concept, if you like, those flows in the context of the rate environment that we saw were themselves not terribly surprising. Your question was are we seeing a difference in the cost of deposits versus our expectations. I'm not so sure we are terribly much, Rohith. What you do see is obviously when a deposit moves from instant access to fixed term for example or for that matter from PCA into savings, that itself causes an increase in the cost of holding that deposit."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So it's less about the price of new offers that you put out to customers, if you like, it's more about the flows within the book that you see and those driving differences in terms of cost of holding deposits. So that piece is going on. But as said. I think the overall flows are more or less in line with our expectations. I would say within any given quarter, as I mentioned earlier on, you're going to see ebbs and flows and they will depend upon competitor offers for example at any given point in time. But overall, if you like, I think the patterns that we're seeing, I think the margin effects of those are more or less in line with our overall guidance at the beginning of the year and expectations in the context of the environment that we're in. Your second question, Rohith, in terms of Q4. The Q4 margin reduction that we see as said by content, we think is likely to be similar. I mean give or take 1 basis point, let's say, to the type of margin reduction that we saw in Q3."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "In terms of the sources of that margin reduction, Rohith, to your question. I think broadly similar would be my expectation. I mean I think if you look at the mortgage yield that we see in Q4 for example for business that is rolling off and let's say spreads remain the same for the moment, that looks pretty similar to me. Likewise, I think the deposit churn, I think it's got a little bit to play out. As I mentioned earlier on, we expect to see a bit of that again suggesting similar pattern. And we've got about £12 billion of hedges for the remainder of this year, Rohith. Those will be at varying different yields but nonetheless we've got about £12 billion of hedges. So again I think a broadly similar pattern we would expect to see driven by basically similar things, Rohith."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next caller is Andrew Coombs from Citi."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "I've got a simple numbers question and then a bigger picture strategic question. The numbers question, you talked about the hedge being at 1.4% rate. But do you believe the position is rolling off next year will be lower than that 1.4%. So perhaps you could just provide some quantification of that. My bigger picture question is you talked about your customer contact strategy, clearly your retention has been very strong in the quarter. You have some of the unique models compared to the others. So if I take your instant access saver, you have an advantage saver which offers up to 4% subject to withdrawal restrictions. Then that then reverts after 1 year onto the standard saver which offers a max of 1.9%. So to some extent, you're more reliant on customer inertia than perhaps some of your peers and I appreciate that these are both on-sale products. But given in the consumer duty reviews, there have been specifically talks about some products having higher rates due to introduction of component rate and then reverting to [indiscernible] and that's specifically flagged back. Do you think that this business model that you have may come under review in the coming year?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Just to take each of those in order. The Q3 yield I mentioned on the structural hedge is about 1.35%. So that gives you an idea as to the Q3 yield. I didn't give a precise number on the 2024 yield for the hedge but I said that it was above 1.6%. So safe to say that it's around the kind of 1.6%, 1.7% type range. That combined with the fact that we've got about £40 billion of hedges rolling off during the course of next year Andrew, hopefully gives you enough to kind of work out the answer to your question albeit I'll leave you to do the math if it were but nonetheless, that should give you some insight. Your question on deposits, I feel very comfortable."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "The 1.6% is the blend across the whole portfolio including the new positions you're putting on now, right?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yes and I would stress above 1.6% Andrew. So I haven't given you a number but I said between 1.6% and 1.7% let's say. And so that is the average yield on the structural hedge portfolio during the year. And then as you will understand, I'm sure it then continues to pick up not just within the year but also then in subsequent years thereafter going back to our earlier conversation. As said Andrew, I'll make 1 more comment about that which I guess you probably expect from me. But that all delivers a very strong tailwind to income from the structural hedge this year clearly, next year clearly and indeed the years beyond that. On the deposit front Andrew, 2 comments to kick off with and I'll give you a bit more detail. One is yes, I feel very comfortable with our deposits model. In fact the proof is in the numbers."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "We've attracted £0.5 billion growth in deposits during the course of Q3 and I think that says as much as anything actually about whether a deposit is going to come to us or not just within the Retail business but also across the Commercial business too. Second Andrew, before going into detail. I'm pleased to hear that you have such a detailed knowledge of our investment accounts and savings offers. I hope that also means you're a customer but I'll leave you to answer that if you wish. The reason why I feel comfortable with our model Andrew, is because we have an incredibly extensive customer contact program. Quite a long way, in fact a very long way from the customer inertia that you suggest there. We've actively contacted over 10 million customers about savings options this year."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "We've increased rates 9x in our accounts this year. We have a 192% increase in savings accounts opened this year versus last year. We had a 375% growth in ICEs opened this year. I could go on Andrew but we have a very proactive customer contact strategy in respect of our customers and delivering them with offers that make sense from their perspective for price for access and for any other considerations that they may have. So far from it being a model that relies on customer inertia to proactive outreach strategy. What it is it's a deposit strategy that we've invested in consistently over time with that customer contact in mind. And it does -- as I say, the deposit performance at the end of the day reflects the strength of the franchise."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "As you know, this call is scheduled for 60 minutes and we are now approaching the end of the allotted time. So this next caller will be the last question we have time for this morning. If you have any further questions, please contact the Lloyds Investor Relations team. Aman Rakkar from Barclays."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays Capital",
+    "text": "I hope you can hear me okay. I have just 2 questions, please. Firstly, on deposits, so thank you very much for the various bits of color. But 1 thing that is missing is if you could tell us your proportion of deposits that are term deposit, please? I know that I have previously tried to ask you this question and you've kind of avoided answering that. I think it's a really, really important input into the analysis going forward and I think it's an important input to kind of really assess how impressive the deposit performance is in the quarter because at face value, it is a very resilient retail deposit print. But I think we need to know the term deposit mix. Indeed actually Lloyds might be the only bank in the U.K. that's not telling us what the mix of term deposits is. So what is your mix of term deposits and please could you let us know if that's changed sequentially is question one?"
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays Capital",
+    "text": "And then second question is on mortgages, mortgage spreads in particular. And I was interested in your view around the near to medium-term outlook for mortgage spreads. I guess this is a system that is repricing deposits quite meaningfully across the system and some competitors are pricing quicker than others. You obviously also have some banks that are looking down the barrel of an increase in funding costs. I would have thought this might be the kind of thing that could nudge asset spread higher from here and asset pricing higher. So given your unique vantage point, I was interested if that is a reasonable assertion and is that something that you'd be looking to kind of do?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Aman, thanks for both for your questions. As you say, we haven't really given the split within our deposit book in the past. It's just not something that we necessarily disclose. Others will do what suits them, we don't necessarily do the same. Having said that, your imploring has slightly got the better of me. So I'll give you some very rough insights, if you like, into the make-up of the book. But then I won't give you anymore and you can kind of make of them what you will. But if you look at the fixed part or the fixed term part of the overall retail savings book, just the retail savings component, knock off the PCAs instant access, you're looking at term deposits there somewhere between 20% to 25% of that savings book. Now when you look at that analysis, Aman and try to work with it, don't forget that we also have a portion of our savings book which is clearly instant access for sure."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "But we also have a portion of our savings book which is so-called limited withdrawal which is the product that I mentioned earlier on. So it may be in contrast to others, I don't know but there are at least 3 components to our savings book that you need to think about when you think about the way in which the book is evolving and then the analysis that you do off the back of that. So I'll give you that, Aman, I don't think I'm going to go any further but hopefully that's helpful. On the mortgage pricing spreads point, I think your point is very interesting one actually. In our view at least, it doesn't necessarily seem to be the case that 50 basis points is the equilibrium state for mortgage pricing. Why do I say that? Because that 50 basis points is driven by market conditions."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "That is to say product transfer is well below 50 basis points, new business is well above 50 basis points. So at any moment in time where you have a pickup in terms of volumes in the mortgage market, it is quite likely that that will drag the spread upwards in terms of the overall completions margins for the mortgage product as a whole. So I think there is that gravitational pull which will depend upon the status of the market. In lean times like now, you've got product transfers exerting a downward pressure on completion spreads. Clearly as the mortgage market picks up and it no doubt will do, that in turn will provide a different impetus. The second point why I don't think 50 basis points is necessarily the equilibrium is there are, just as you said Aman, a lot of things going on not just in the deposit market but also in the macro."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So what is the effect of Q2 going to be over time and how does that drive tightness in terms of liabilities in the banking system and off the back of that, what does that do to mortgage spreads in an environment where if you like the cost of funding is going up reflecting that factor? So I think there are some structural factors there which might drive spreads up over time. But having said that, Aman, being too precise as to exactly when that is likely to take place, I think that's challenging. And that's why in turn for the margin guidance that we've given you for this year of greater than 310 basis points, we continue to plan on a 50 basis point spread or thereabouts, Aman. And going forward when we give you guidance at the year-end, again we'll be cautious about how this develops so that we don't get too far ahead of ourselves."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays Capital",
+    "text": "Thank you so much, William. I really appreciate you engaging me on those question. Is there any chance you could let us just now how that mix that 20% to 25% change eventually? Did that move a lot Q2 versus Q3?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Aman, you've exhausted my generosity I'm afraid."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. This concludes today's call. There will be a replay of the call and webcast available on the Lloyds Banking Group website. Thank you all for participating. You may now disconnect your lines."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

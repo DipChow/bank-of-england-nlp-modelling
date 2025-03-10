@@ -1,0 +1,770 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] The first question is from Tarik El Mejjad from Bank of America."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Jerome, I mean, congratulations for these results. So they're all very clear. So I will have rather 2 questions on your announcement you made this morning. The first one on the [Caisse Nationale] buying another €1 billion stake in CASA. I mean, I heard and I read again your explanation you did earlier this year."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "So maybe you can give us even more color why -- I mean why they would do that? And secondly, from your perspective, how that impact liquidity or the free float of the shares? And I mean, now by the mid next year, they would increase the stake by almost 8 percentage points, which is quite sizable and getting close to 65%. So that's the first question."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Second one is on capital. So you mentioned in the presentation that you do some securitization or technical optimization of your RWA. So how -- what size are we talking here in terms of billions of RWAs? Or maybe ask differently in the previous quarters when we've seen, especially actually in Q1 when we've seen this big increase in capital, what was the kind of actions you took back then?"
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "And maybe I can squeeze in the last one on Petercam Degroof. Can you give us some numbers in terms of benefit from this acquisition because 30 basis points is quite sizable investment."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "Starting with the regional banks and the decision announced by our majority shareholder, it's very difficult for me to comment, of course, because it's a decision of the majority shareholder. The only comment I can make in terms of liquidity, free float or whatever is the fact that the -- only the increase of the share price today is representing more actually than the amount of liquidity in terms of euro that this operation would take out of the market and of the free float. So definitely, there's no worry about a significant free float remaining for the stock."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "Second point in terms of capital, we contemplate a securitization that could represent around €3 billion to €4 billion in the third quarter of this year. And you know that we regularly do that type of operations in order to monitor the capital consumption. So in this second quarter, there was no need to undertake such transactions simply because the capacity of generating results was very significant and was ample enough to cover the RWA consumption by the business lines."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "But you know that in the past, we've been able to be very agile and to be very reactive if needed. So this is what we are already working on for the third quarter. For Degroof Petercam, it's a significant business, sizable business compared to Indosuez Wealth Management, because in terms of global figures, it represents more or less half of Indosuez Wealth Management. In terms of revenues, I would say that Indosuez Wealth Management, it's in the region of €1.2 billion. So this acquisition would be close to half of that, I would say."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "In terms of cost base, it's more or less in line with what we see at Credit Agricole Indosuez with the cost/income ratio in the region of 75%.And in terms of RWA, it's around €3 billion of RWA, so it's not very significant in terms of RWA consumption at the level of the group."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "So this is the transaction to which we expect not only a very high return on investment, far north of the 10% threshold that we have as a minimum criteria. But we also expect a very significant return on equity coming from this transaction because you know that this is a business in which the regulatory capital consumption is low. So we definitely expect this transaction to be very relative for the group globally in terms of improvement of the return on equity."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "So all in all, we will provide, of course, more details at the time of the closing of the transaction. But considering the type of synergies that we have identified ahead of this closing, we definitely think that this transaction is going to be very accretive for -- not only for Credit Agricole Indosuez, but also for Credit Agricole S.A. globally."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "So that would be like ['26] kind of year point synergies will ramp up, right?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "Yes, exactly."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from J-H Gaulard from Kepler Chevreaux."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Chevreaux",
+    "text": "Jerome, two questions from me. The first one is in light of all the restatements with CACF, I have a run rate at pre-tax level for the division of €170 million. Do you more or less agree with that on a quarterly level? And obviously, can we assume that this will grow with the years with the contribution from the joint venture with Stellantis, which is equity accounted growing? That's the first question."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Chevreaux",
+    "text": "And the second question is on business model. And when I look at the acquisitions you've done recently now acquisition or, let's say, agreements to do business with RBC, Degroof Worldline. Obviously, we know because it's in their plan that Amundi is off an acquisition by 2025. Everything hints at businesses which are really at lower capital intensity, which means that you are going to need less capital and Tarik was talking about liquidity, I would like to talk to you about potentially returning a bit more money to shareholders, although more that your shareholders, you mentioned yourself at the beginning is very, very rich. Is it something that you should -- that you could consider with more serenity right now?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "The run rate at CACF in terms of revenues, it's structurally, it's going to be increased by the fact that now we account for the CA Autobank in terms of consolidated figures. So you know that this quarter, CA Autobank represented around €175 million and a net income of around €65 million. So the evolution going forward of these numbers is going to depend on the development of the new business. You know that within CA Autobank, we have a business which is running off, which is the former business of -- the former partnership with FCA, and there is a business that is growing and actually growing very rapidly, which is the development of the new business, be it with other carmakers, albeit with independent car dealers."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "And actually, what we've seen in this quarter, the first quarter of -- functioning of CA Autobank, is that the ramp-up of the new business is growing far faster than the runoff of the old business. So this explains at the same time, the high level of profitability of CA Autobank in a single quarter and also the fact that, of course, globally, the business of CACF has significantly increased its RWA consumption."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "But definitely, it's a business that is going quite fast nowadays. So the other point that has to ramp up going forward is the Leasys joint venture, because for the time being, within this joint venture, we have only the new business generated by the Leasco. There was no capacity of taking on board all the old business because you have to [re-immatriculate] the cars and so on and so forth, will be too complicated. So this equity accounted contribution is supposed to ramp up as the business is going to grow. The new business is going to grow within this joint venture. So all in all, there is ahead of us a further improvement of the run rate at CACF and I -- we'll of course, let you do the math. Your second question was regarding capital."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "It's true that we have been able to make some opportunistic and strategic acquisitions. And it's true also that we do not choose the highest -- the most capital-intensive businesses in order to select those acquisitions. You know that in terms of shareholder remuneration, we stick to decide that, first, we want to be shareholder friendly, and we've proved it in the past. And second, we want to be predictable. And so what is predictable is that we are going to continue to distribute 50% of the revenue -- the net income that we generate."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "And going forward, we think that this will enable us to fuel the organic growth and possibly to fuel also some non-organic growth opportunities, like actually was the case since probably 4, 5, 6 years."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Delphine Lee from JPMorgan."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "So my first one is -- sorry, just to go back to the regional banks. I mean, this is the second operation they are doing. I mean, is the intention to go to 65%? I mean I do think these 2 operations are a bit of a shift compared to the past? And so just wanted to understand a little bit better the rationale for increasing to 65%."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And clearly, the market is extrapolating also potentially above that. So I don't know if you can share any thoughts on that. And then just going back to your comment around capital distribution and the usage of capital, I mean, so when you say you're shareholder friendly, but you're still sticking to 60%, does that mean that we should kind of rule out dividend payout going up from 50% and you're prioritizing a little bit more M&A at this stage?"
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And then little bit related to that, I mean, I guess, Amundi doing acquisition is part of their business model and it's always been the case. But just in private banking that it's a bit less frequent. I mean, are you becoming more acquisitive in private banking? Do you have more ambition to do more of these kind of deals? Just -- if you can just comment on that, that would be great."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "I will not be very long commenting actually the decisions of my majority shareholder. But the only comment I can make is that actually, they stick to the framework that they have explained last year. Last year, they have said that they wanted to make an acquisition for €1 billion of CASA shares. And that they didn't want to go above 65%. They continue to be in this framework, and they reiterated the fact that they do not want to go above 65%."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "So I think that they are happy with the prospect of Credit Agricole S.A. They are happy with the performances that we are posting. They have this capacity of investing an additional €1 billion. And there's nothing more. And actually, if you have additional questions, I think you should ask them to the representatives of [indiscernible].When it comes to capital distribution and capital usage."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "What I'm saying is that we have 2 commitments towards our shareholders. The first one is to distribute 50% and up to now, even when the supervisor was not very helpful from this point of view, we've tried to find ways of distributing all in all, 50% of the accumulated results to our shareholders and we did it. The second point is that we think it's better for our shareholders to have 50% of a growing income base than 60% of a shrinking income base. So what we want to do is to fuel our growth organically first, and this is the most important thing."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "And then when it comes to inorganic growth, we continue to stick to the same principles that we've explained already several times, a very strict financial discipline with a very strict return on investment criteria above 10% whatsoever in the first 3 years of the acquisitions and actually most of the time significantly above 10%. And of course, also a proven capacity of integrating and integrating efficiently the acquisitions that we make."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "So Amundi has a proven track record in terms of acquiring and then integrating and you know that they did it already several times. In the field of wealth management, actually, we did it already in the past 3 or 4 years ago, some bits and pieces in Asia and in Italy. It was, of course, much smaller than the group Petercam. And Degroof Petercam is a significant acquisition. It's not a game changer because in terms of size, it's around half the size of Indosuez, but it's significant."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "And we are having here exactly the same stance, for example, and the stance we have had with Credit Agricole Italia, small acquisitions, always a lead time for digestion and it means that before we are able to contemplate any additional transaction in the field of wealth management, first, of course, we must wait for this transaction to be completed, which is again going to take place in '24. But also, we need to go up to the end of the integration, which is going also to take some time, especially in a business where it's very important not to destabilize the teams, the relationship with the customers and so on and so forth."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "So definitely, it's not tomorrow morning that we are going to see any additional M&A in wealth management."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Guillaume Tiberghien from BNP Paribas."
+  },
+  {
+    "person": "Guillaume Tiberghien",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "Two questions, please. The first one relates to your cost/income ratio target of 58%. I think what you said recently was that the idea was not to try and go too much towards 50% because otherwise, you would feel you might underinvest. Now you're getting very close to 50%. And it doesn't look like your top line is massively over earning."
+  },
+  {
+    "person": "Guillaume Tiberghien",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "So do you need to change your target, point number one? Or do you feel that you underinvest for the time being, and therefore, the cost/income ratio might slip a little bit? The second question relates to the consumer credit business. Due to the change in the agreement with Stellantis, I just wanted to understand how you accounted for all the loans that you acquired, because your RWA for the loans you acquired seem to be extremely low when I look at the RWA in SFS. And on that same subject, the affiliates in SFS, is that correct to assume that they're falling about €50 million now given that for the bank as opposed to equity account for it."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "Let me start with the first question. 58% is a ceiling, of course. It's true that on this quarter, specifically, we were close to 50% and this is why we prefer to talk about the cost/income ratio on the first half of the year, which is at 52.3%. So very, very good, very efficient, but not so close to 50%. We are starting right now the budget process for next year."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "So of course, we are going to scrutinize very precisely the projects of the different business lines in order to see what is financeable with a normal run rate in terms of revenue and what must be postponed because it would be a little bit exceeding the normal run rate investment capacity of the different businesses."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "You know that in terms of managing the cost base, we permanently want to decentralize the management of the cost base with very precise targets that are set by CASA to the different subsidiaries. So we'll see exactly what new investment capacity this can create for 2024. But you know us now a little bit, you know that we don't want to let the cost base slide too fast and too far. Of course, we're continuing to invest. And you can see, for example, that, at CACIB, we've been able to allocate some additional means in order to cover the development of the business."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "At SFS, in the Consumer Finance business division, actually, we've increased quite significantly the level of RWA this quarter. I think it's in the region of €5 billion. So it's an increase that is, of course, linked to the fact we now consolidate Credit Agricole Autobank, which was not the case before that. And within the consolidation of Credit Agricole Consumer Finance, we have accounted this additional number of RWAs. There is a slide here that is showing the figures."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "Where is it? It's on Page 62, and you can see that actually the number has gone up from €60.5 billion to €70 million. So there's a combination between CACF, CALF and other element, but specifically for CACF, it's €5.2 billion of additional RWAs. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Giulia Aurora Miotto from Morgan Stanley."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Jerome, my first question is on net interest income, more precisely on the French Retail division, but then also group level. Can we say that we have seen the trough this quarter? Or do you still expect it to go down and recover for LCL and group level? Do you expect still a tailwind from rates next year because French banks see it later than the average European bank? Or how do you see that evolving?"
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "So that's the first question on NII, maybe it's 2 sub questions. And then on asset quality, I hear you that, overall, the cost of risk remains low, but are you seeing anything that starts to worry you in terms of -- I don't know, any specific pockets of risk, be it leveraged loans or real estate or anything that you're watching more closely?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "Thank you. In terms of NII, it's an area, and we are talking about the NII of French Retail because clearly, NII is completely different if you're talking about Italy, if you're talking about France, if you're talking about CACEIS and so on and so forth. So if we talk French Retail, NII is probably close to the lowest level, but we think that the lowest level will continue for a certain number of quarters. I don't know exactly how many quarters, but I don't see a significant improvement in the NII before the second part of '24."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "It doesn't mean that I expect this to continue to go down significantly and even to go down in the coming quarters. But before completely recovering, it's going to take time simply because you perfectly know the mechanics and the mechanics is that the cost of the liabilities has increased very rapidly when the cost of -- when the yield of assets is increasing only slowly and even more slowly because the production of new loans has significantly decreased."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "You know that -- you've seen that at LCL, for home loans, the decrease is now about 40% as compared to Q2 '22, which was a high point. Fair to say. But nevertheless, the lower the production, the slower the improvement of the overall yield of the asset book. So we are more or less going to be stable in terms of NII in the coming quarters, and we are going to see a recovery probably starting in the second part of '24.Lately, we have had 2 news. One was a good news and one was a bad news."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "The good news was the decision of the French government on the Livret A and other regulated savings accounts because we feel another increase, and actually, it's not taking place, which is good. The bad news is the decision of the ECB on the mandatory reserves, which clearly offsets probably globally the good news of the Livret A, even if it is not spread exactly evenly on the different businesses because the Livret A good news is concentrated on LCL and the regional banks, whereas the bad news regarding the mandatory reserves is spread on all businesses that have a significant balance sheet like CACIB, like CACF, like Credit Agricole Italia and so on and so forth."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "So it's not going to be spread exactly the same way, but more or less in terms of magnitude at the scale of the group, it's globally close. In terms of asset quality, it's clear that, for the time being, we do not see a significant deterioration of the asset quality. There are probably 2 areas in which we are more cautious. The first one is in the consumer credit business, what we call, the short [indiscernible] contrary to the long [indiscernible] and contrary to the car financing businesses, the short [indiscernible] is probably a little bit more touchy for the time being, and this is why we started to pull down the production of new loans in this sector, in this channel."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "And then the second area, which is probably a little bit more touchy is the category of very small businesses or even self-employed professionals that you find in retail banks a little bit at LCL and more significantly within the regional banks. But all in all, this remains quite moderate as compared to the size of the portfolio and especially in the category of large customers, i.e., the customers of CACIB, no significant element and even a very low cost of risk, again, €25 million, I think, in the second quarter of this year, considering the size of the portfolio at CACIB, it's absolutely nothing. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Stefan Stalmann from Autonomous Research."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Jerome, I wanted to explore the Degroof deal in a little bit more detail. It looks like about half of the revenue of Degroof is actually not private banking, but asset management and security services and a bit of investment banking. Are there any plans to transfer these activities to Amundi and CACEIS and maybe CACIB?"
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "The second question on the ROI. I think if you want to generate at least 10% on the purchase price, that means at least €150 million net profit. That's about twice what Degroof currently earns."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "I appreciate it may be a bit early days, but can you give us a rough sense of whether there's a very significant profit uplift would come more from cost synergies or more from revenue benefits? And maybe the third and last part of this question, is there any appetite on your side to use this deal buying Degroof as a catalyst to enter Belgium with other product factories that you have and push maybe harder on consumer finance, insurance and the likes."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "Thanks for the question. Well, Degroof is effectively a business in which you have a business of wealth management, traditional wealth management, a business which is perfectly correlated to this one of asset management, then you have some custody and a little bit of investment banking. In terms of custodian activities, so asset servicing activities, clearly, the idea would be to integrate those activities within CACEIS. In terms of size, it's absolutely certain that CASEIS would be able to manage those activities with a marginal cost. So clearly, here, it's a deal in which the cost synergies will be very significant."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "When it comes to asset management, I think the idea is not to integrate the asset management activities of the group, Petercam, Amundi because it would be, I would say, culturally and structurally too different."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "But you know that Indosuez Wealth Management has already a tiny asset management business, which is called Indosuez Gestion, and probably the synergies that we could find would be between Indosuez Gestion and Degroof Petercam Asset Management. When it comes to investment banking activities, it's not decided yet. It's a smaller part of the value of the Degroof Petercam. In France, we have CACIB. In France, the Degroof Petercam has some teams in investment banking."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "We don't know yet exactly what we could do, but probably there is something to do in between. All in all, what we expect is to grow the top line of the existing Degroof Petercam by probably around 10% because we will be able to improve the product of Degroof Petercam vis-a-vis its own clients. We would be able, for example, to improve the capacity of Degroof Petercam as a private bank to provide credit services to their customers. We would be probably able to decrease the overall cost basis of Degroof Petercam by, let's say, around 15%."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "And this is leading clearly to the type of figures you have in mind in order to generate a return on investment, which would be above 10%, and in my opinion, significantly above 10%. So it's -- of course, it's going to be a little bit complicated because we absolutely need to preserve the identity of Degroof Petercam."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "It's most of its value that lies within this identity, but there is absolutely no doubt that we have the capacity to very significantly generate synergies and so generate this return on investment. Maybe 2 last points. The first point is do we want to expand further in Belgium? Yes, on the customer basis of Degroof Petercam, but not on developing additional activities like selling insurance directly to the Belgian public. It’s not exactly the type of idea that we have in mind. And maybe yes, I think it’s exactly what we have in mind."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Flora Benhakoun from Jefferies."
+  },
+  {
+    "person": "Flora Benhakoun",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Flora Benhakoun"
+  },
+  {
+    "person": "Flora Benhakoun",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Jerome, the first question I had is on the Corporate Center. I know it's nonstrategic, but it's still a non-negligible part of earnings. And obviously, it changed a lot with IFRS 17. If I look at this quarter, it feels to me like on an adjusted basis, and that means if we take out any one-off and also the revaluation of the Banco BPM stake, could you provide us with the kind of underlying gross operating income we can expect there on a quarterly basis? I'm thinking something like €250 million negative, if that makes any sense?"
+  },
+  {
+    "person": "Flora Benhakoun",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "And then the second question is going back to CACF, the answer you provided earlier where you described the runoff on some of the books, but then also the good growth elsewhere."
+  },
+  {
+    "person": "Flora Benhakoun",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "I think if I understand correctly, this is all for the auto part of the business, but then there is a large part that is especially personal loans, and I think specifically in France, in Italy. How should we think about this there? Because the underlying revenues there were declining. I think they declined again sequentially this quarter."
+  },
+  {
+    "person": "Flora Benhakoun",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "So when do you expect the trough? And then also on the cost of risk, with the consolidation now of the auto loans. I think the cost of risk seems to be around 120, 130 bps this quarter. Is that going to be the run rate you expect in the future?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "Let me start with the Corporate Center. It's true that, in the Corporate Center, you have bits and pieces that are moving. You don't have so many one-offs if one-off is something that is not supposed to take place quarter after quarter. But you have some elements that can have a significant volatility in the level of revenue or in the level of cost that they can represent. For example, if I take the valuation of the BPM stake, it's going to be present every quarter."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "It's not going to generate probably €140 million contribution every quarter, but it's going to be present every quarter. So -- and when it comes to IFRS 17 component within the Corporate Center, the net between the revenues and the cost is around 0. So actually, it's representing a significant reduction in the level of revenues and a significant reduction in the level of cost at the Corporate Center, around €200 million of revenues and costs linked to IFRS 17 on a quarterly basis, but it does not represent any significant net income component."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "So all in all, we continue to stick to decided that the Corporate Center should represent a global cost on a yearly basis between €700 million and €800 million. And of course, we'll try to continue to monitor this cost base globally. I remember that -- and I remind you that back 5 or 6 years ago, it was more than the double of that."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "And so it was really an issue in itself. When it comes to CACF, I don't -- I'm not sure I really got correctly your question. What is happening within Credit Agricole Autobank is 2 things. First thing, the portfolio of loans that were granted under the framework of the agreement with Stellantis is supposed to wind down. It's winding down actually more slowly than what we had in mind. And probably, actually, we've continued a little bit to generate new loans for Stellantis customers a little bit longer than expected."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "But definitely, this is a business we are progressively exiting because this business has been granted now to both BNP and Santander. And then within Credit Agricole Autobank, there is a new business that is developing quite rapidly and probably more rapidly than what we had in mind, which is the business of financing car acquisitions, both to smaller carmakers that don't have their own financing captive and also to independent car dealers."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "And then when it comes to margin issues, it's true that globally in the consumer finance business, but also in the car financing business, there has been a certain shrinkage of the net interest margin because the refinancing cost increased more rapidly than the capacity of increasing the customer rate for new loans, but it's improving now. As an example, we've increased the average cost of the new loans that we provided to our customers by around 25 bps in the second quarter of this year. So this is progressively improving. And definitely, I think that we are closed also in this front from the trough."
+  },
+  {
+    "person": "Flora Benhakoun",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Okay. Very clear. Just one clarification also. I forgot to ask you, sorry, in the questions earlier. You previously were guiding for TRIM impact of €4 billion on RWA."
+  },
+  {
+    "person": "Flora Benhakoun",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Does that still stand? Or was that booked in this quarter?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "No, it still stands. And actually, it's -- as the horizon is getting far and far as we advance. So it now seems that it's going to be taken only in '24."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Matt Clark from Mediobanca."
+  },
+  {
+    "person": "Matt Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "So a question on transaction banking activity. Quite of your peers are seeing very strong [sixfold] increase there. I'm just wondering if you are too. And then what about the new segmental reporting that gets booked and any hints or guidance you can give us on the magnitude that that's had year-on-year for you, would be helpful."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "I'm not sure I have precisely in mind the figures regarding the transaction. You're referring to the transaction banking activities within CACIB, is that right?"
+  },
+  {
+    "person": "Matt Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Yes, on the corporate side."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "Yes. On the corporate side, it's a business which is developing well because we've invested a lot in the development of cash management tools at CACIB. And so this business is growing, and it's a business that is getting more profitable as rates increase. But I don't have any precise number to give you in mind. Maybe the team is going to look at what kind of number and what kind of information we are able to provide and will revert to you in the coming, I would say, hours or maybe days, if you allow."
+  },
+  {
+    "person": "Matt Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "And within -- presumably, it's in the financing kind of subdivision and within the commercial banking line there rather than the structured, is that right?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "Yes, exactly. It's within the financing part of CACIB and it's within the commercial banking activities. That's very clear. But I don't know -- I don't have any metric in mind to guide you in the evolution of this precise business category."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Anke Reingen from RBC."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "The first one is just on the costs. I mean, obviously, very good cost control, 3% from Q2 and the 5% year-over-year in the first half. Can you just maybe explain a bit, I mean, it's below inflation, what we should be thinking about, how you can do so well, I guess, considering obviously also investing at the same time? And then secondly, on your flexibility to capital from securitizations, is it fair to assume that there is no real related costs because I guess you keep the securitizations."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "I'm starting with the second point directly because actually, no, when we securitize some loans, it's in order to free some RWA. So we sell it down to the market. And so there is a cost, but actually, it's integrated in the overall cost of each business line. And if we decide to make a securitization in, for example, of consumer loans, it's going to be absorbed by the profitability of CACF. And so definitely, they have certain targets in terms of self-financing their activities, be it in terms of liquidity or in terms of capital usage."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "And if they exceed their budget, they have to finance the ways to get back into the budget. So it's -- they have to absorb the cost. And so it's not going to be a one-off cost that is going to be accounted for, for example, in the Corporate Center. When it comes to the management of the cost base, again, it's very important to bear in mind that we decentralize the responsibility of managing the cost base."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "And this is why, for example, you can see that at LCL, they've been able to decrease quite significantly their cost base again this quarter because LCL is feeling the pressure of the shrinkage of the net interest margin in retail banking activities in France and the reaction of the management of LCL is to try and generate some cost economies in order to absorb as much as possible this pressure on the revenues. And again, this is the best way for me to manage the cost base. If here in my office in Montrouge, I decide that CACIB is going to invest that amount of money and that CACF has to decrease its number of staff by, I don't know how many people, I will probably miss the right decision."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "So it's far better for me to have a permanent discussion with the different heads of businesses in order to see what they have in mind in terms of action plans to moderate their cost base evolution and simply then to trust them for the implementation of those action plans once they are approved. So it's really the way we do that, and it proves to be quite efficient."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "Nevertheless, I just want to maybe precise one point. I think it's in the slides, but it's important to have it in mind. We have had in France on our French staff again like last year to grant a general salary increase that is going to start to apply beginning of H2. And so we will have an increase, all things being equal of the cost base of our activities in France overall by around €10 million to €12 million a quarter. So all things being equal, you have -- you're going to have this increase starting in Q2."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Pierre Chedeville from CIC."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Jerome, two quick questions left from my side. First one is regarding insurance P&C business. I was just wondering if you had a significant impact regarding the discounting of reserves in P&C on your combined ratio because of the new IFRS 17 and the rise in interest rates. I have seen in some of our insurance companies that the new discounting of reserves in P&C could be quite interesting for insurers."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "My second question is regarding your business in auto loans. I was wondering if you had set any target regarding the financing of electric vehicle maybe on production or in outstanding at a certain time. Is there something that you manage on this angle or not?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "Thank you, Pierre. In insurance, it's clear that with IFRS 17, the P&C activity is going to be more volatile, especially because we will not be able, as we could do that in the past, to build some provisions in order to be able to withstand without too important to cost, some major events like climate events. And so in Q2 2022, restated under IFRS 17, we have a very bad result of the P&C activities because Q2 '22 was earmarked with a very severe climate event in France. So IFRS 17 is a little bit new. We are going to learn progressively."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "We hope we are going to be able to do what we like to do, which is to build different categories of cushion and buffers in order to help us accommodate some punctual events. But for the time being, what we must acknowledge is that P&C activities are going to be more volatile. In terms of financing --"
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Sorry, Jerome. My question was more specific on the discounting impact, which is new. I was just talking about the –"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "Okay. [indiscernible] answer in mind. And I will ask Cecile. She knows quite well the insurance activities considering her past, and she will provide you the precise answer. When it comes to [indiscernible] we have presented in December last year, some strategies in order to decrease the CO2 emissions in different sectors of activity."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "One applies to the car sector. And in this sector, what we want to do between 2020 and 2030 is to reduce by half -- around half the amount of CO2 emissions per kilometer for the cars that we finance. So it means that included embedded in this objective. Of course, there is an objective of growing the proportion of electric car that we finance, but it's not directly an objective in terms of numbers of cars that we want to finance."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "It's through this global objective to divide by around 2 the CO2 emissions per kilometer for the car that we finance."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "And this target has not changed with the changing in parameter?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "No."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Amit Goel from Barclays."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "So one follow-up and then another question. So just on the costs, so I appreciate there are a couple of questions already, but I just wanted to understand in terms of that cost income ratio and from what you see today, are you expecting it to trend up back towards that kind of 58% level? Or do you think that we could see it staying at around this level going forward?"
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Second question, just on the Degroof Petercam transaction. I mean, obviously, there are a couple of different interested parties. I'm just curious from your perspective what it is that enabled you to get the deal across the line."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "And maybe just a small follow-up on that or clarification, but the 30 basis points of capital, is that for -- so if you get to 80%? Or is that the kind of 59.5% level of ownership?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "Okay. Let me start with the second question. The 30 bps is for the full acquisition of Degroof because actually, we are providing some liquidity -- puts actually for the remaining shareholders. So we have, of course, to provision all the prudential cost of this possible operations. So definitely, 30 bps is for the 100% of Degroof."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "It's very difficult for me to explain why and what was our edge in order to be the winner of this process. It's, again, very difficult. I don't know exactly who was our competitor and what was the -- which were the elements that push the decision in our direction. So it's difficult for me to comment. Cost income ratio, of course, we are not going to frame the 2024 budget by saying, okay, everybody can go back to 58% of cost income. But we are not going either to ask everybody to keep the level where it is now."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "So it's definitely -- and I appreciate that it's maybe not exactly the answer you were expecting. But definitely, we don't want to go above 58%, and we are not going to grow above 58%, and we are not going to set as a target to get back close to 58%, but there is no ratchet, I would say, saying that everybody has to permanently remain at the best level ever reached. So it's going to be, again, a matter of appreciation, and it's going to be one of the key issues of the budget process. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Sharath Kumar from Deutsche Bank."
+  },
+  {
+    "person": "Sharath Kumar",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Congratulations on a very good result. So I just have one question pending still. On the EBA stress test results, Credit Agricole Group did see a high impact of around 730 basis points on the CET1 under the adverse scenario. So I do know that these stress test results are only conducted at the level of the group. But given it would also be relevant at the level of CASA, if we were to kind of use the same assumptions, what sort of impacts are we looking at for the listed entity? Any color there would be useful."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "No, we are not going to provide any detail on what would be the impact on the listed entity because it was not the perimeter that was tested. But maybe one clue that I can give you is the fact that actually, this exercise was not really framed for French banks because there was a hypothesis within this -- within the methodology that was completely contradictory with the way we do banking in France. This was the hypothesis that we should feed into the cost of our sight deposits, half of the increase in short-term rates, which is absolutely not going to take place whatsoever. And the clue is the fact that most of our sight deposits sit within the regional banks. And this has had a very significant impact on the depletion of the group."
+  },
+  {
+    "person": "Sharath Kumar",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Understood."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Geoff Dawes from SG."
+  },
+  {
+    "person": "Geoff Dawes",
+    "role": "questioner",
+    "position": "SG",
+    "text": "It's Geoff Dawes here from SocGen. A lot of useful stuff there. One quick question on the CIB and capital markets in particular operations. Obviously, quite a good quarter revenue-wise. You mentioned an increase in market RWAs over the period."
+  },
+  {
+    "person": "Geoff Dawes",
+    "role": "questioner",
+    "position": "SG",
+    "text": "First of all, just whether that was a kind of deliberate thing, whether some of the increase in revenues is down to a change in the appetite for risk? And then on a longer-term basis, obviously, there's been a very good post-COVID level of revenues coming through in that division. Market condition is a big part of that. But has there been any geographical change in the breakdown of your revenues over that period as well? Or is it just more activity with the same sectors."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "Thank you for the question. No globally, we're not changing anything in the strategy at CACIB, neither from a geography point of view nor from a risk appetite point of view. So what is happening in this business division is 2 things. The first thing is that definitely an environment where rates are positive, is better for fixed income activities. That's for sure."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "There is more business and more, I would say, generously priced business when rates are positive, and this is benefiting to all CIBs. And the second point is that CACIB is progressively improving its rankings and its positioning towards its different categories of customers. And so it is benefiting from a better share of wallet with each of its customers."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "When it comes to the RWA evolution on this specific quarter, of course, nothing to do with a potential increase in the risk appetite at CACIB. No change in the scope of businesses undertaken within the capital market activities, but simply some technical issues that the RWA consumption or capital consumption in the capital market activities is building up -- it's a building block process in which you have some netting benefits and it happens that this quarter, the netting is not so positive, not so favorable."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "So this is why the RWA consumption has increased, but there is, in my understanding, nothing structural on this point."
+  },
+  {
+    "person": "Geoff Dawes",
+    "role": "questioner",
+    "position": "SG",
+    "text": "Okay. So regulatory and technical. That's very helpful."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The final question is from Chris Hallam from Goldman Sachs."
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "So just one question for me on the sustainability of performance. So if we look at the underlying performance of €1.85 billion in the quarter or 14.7% returns in the first half, then clearly, that's a long way ahead of the targets and ahead of market expectations. So I understand that you don't want to change the medium-term target every time you report. But perhaps you could just remind us of where we should expect to see some kind of normalization in performance over the coming quarters or years, whether it's around things like seasonality, rising deposit betas, peak NII, increasing investments, et cetera, et cetera? And sort of how much more confidence heading into the summer break, how much more confident do you feel about that medium-term returns outlook?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "No, it's a fair question, but I will reiterate that I don't want, as you said, to update every quarter our medium-term target. But bear in mind that a significant component of the profitability of CASA comes from CACIB and at CACIB within CIB activities, the first half of the year always represent more than half of the year in terms of revenues because you know that in the second half, you have the summer in which the level of activity is generally lower. And you have also the second part of December where generally there is absolutely no business."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "So it's possible that in this front, we will have a slowdown of the activity, not compared to last year, but compared to the first half of this year. Then for the other businesses, I see no specific seasonality. So we've been quite clear on the different elements that can be considered as one-off in this quarter."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "And I think that the run rate of each business, of course, has to be assessed by each of you considering their own analysis. But I think the most important business in which there is some seasonality. It's the CIB. Then when it comes to insurance, we've said that, that IFRS 17 is modifying a little bit the pace at which we recognize the revenues and thus the profit. So 2 elements are going to be important going forward for the insurance activities, the evolution of capital markets and also the evolution of [indiscernible] in the P&C activities, and this is something you'll have to monitor in order to assess a little bit our capacity to repeat the performances of the quarter. Maybe one last point I could mention, but this is a point that goes into both directions."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "In terms of impact of the increase in rates on our different businesses, some businesses are negatively impacted. It's the case of LCL. Some businesses are positively impacted. It's the case, for example, of Credit Agricole Italia or CACEIS. And we are feeling that we are reaching a more stabilized level of rates."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO &amp; Head, Steering Division",
+    "text": "So definitely, we are not going to see the repetition of the strong evolutions be the negative or positive in the coming quarters in those businesses. Okay. Well, thanks, everybody. It was a pleasure to comment those results again. Thanks to the team around me and wish you good vacation. Bye-bye."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Ladies and gentlemen, thank you for joining. The conference is now over. You may disconnect your telephones."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

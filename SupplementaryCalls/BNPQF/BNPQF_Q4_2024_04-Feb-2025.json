@@ -1,0 +1,848 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions]"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The first question is from Tariq El Mejjad with Bank of America. Please go ahead."
+  },
+  {
+    "person": "Tariq El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Hi, good morning, everyone. Good afternoon, rather. So, two questions for me. First of all, so usually I like to give longer term guidance and thoughts will probably roll over the guidance you have for ROE an extra year, but you limit the timeframe to 2026. Very focused guidance. So, if we look at beyond '26, you have the 50 bps extra from CPBF and PS. But then if we add the post '26 growth drivers like the full AXA IM synergies volume slightly back, what do you think actually BNP as a bank can deliver in terms of ROE if we see through this kind of growth or transition period?"
+  },
+  {
+    "person": "ZECO",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "And then maybe linked to that, Jean-Laurent, you did an interview in the  [ph] and you mentioned again CMU, so Capital Market Union, and you mentioned that actually today in the call. Again, do you think this is a now or never for the banks in Europe to -- and the politics to get together and put that forward? What do you think is missing? And you kind of start to integrate it in your thinking of the bank and how it will evolve. Do you have any indication that there might be some progress now that actually the forces politically has changed?"
+  },
+  {
+    "person": "ZECO",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "And one quick question on capital. So, you've done some securitization and capital build faster without any visible or noticeable impact on revenues. How much more you can do this to build yourself a bit more of buffer in terms of capital. Thank you."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, thank you so much. If we look beyond '26, maybe moving back page, I don't remember exactly page six. So, if you compute 8 percentage point and 24% of total risk weight is basically 2 percentage points on the total of return on notional equity. That is more than 1 percentage point of return on tangible equity. It's rather 1.2, 1.3. So after '26 you are left with clearly more than half. It's rather 0.7. AXZ IM full speed in '28 will add 0.3. So you're already at 1."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And then we have a plan for Wealth Management, not disclosed yet, but that's going to be, I would say the rollout throughout Europe of a new platform that we will roll out a little bit like what we did in the recent past with CIB in a number of countries. Of course, we'll start with Germany, but there will be other countries that will come. And this will also add something quite significant."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, we have in our hands, not taking into account anything that could be the natural growth of other businesses with only those four dimensions. The commercial bank in France, personal finance, AXA, investment managers and wealth management. We have more than one. So 12 plus one is 13. So, this is the indication."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, we have to go step by step. This is to indicate that 12% is not a kind of maximum, continuously including during that plan while investing for the future beyond the horizon of the plan. This is very important for a company like BNP Paribas."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, at the end of '26, not only we will have all those levers in our hands, but of course, we will have all the other businesses with their natural growth and ability to deliver additional profitability. So, I don't know, in between '21 and '26, in the end we will have delivered 2 percentage points on top of the 10%, moving from 10% to 12% return on tangible equity. Potentially, I don't see any reason why in a mid, long-term plan that could be 26, 30, 31 we cannot deliver 14, I mean, in between 13, so this is the indication."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, in one hand, again, already levels that are being implemented, quite powerful in a number of businesses, wealth management, asset management, commercial banking in France and personal finance. And then natural growth and optimization at any other businesses, including CIB, but also other businesses like insurance, real estate, emergent countries and so on and so on. So the -- I would say, it's an engine. We are gradually moving up in terms of profitability."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "To that, we are keeping the business focused in a number of dimensions to try in any dimension to deliver the best of those businesses. So, we are pushing the model to deliver value-added products, value-added services to grow the franchise the right way and to extract additional profitability instead of looking at the kind of volume type of approach that would, on the contrary, in the end cap the ability of the company to grow in terms of return on tangible equity. So this is the story."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "For Capital Markets Union, clearly, there are a number of initiatives that are coming. Last could comment that maybe the longing fruits that are coming. And on top of that, yes, indeed, we feel - we start to feel the kind of, I would say, political will to unlock that emission. There is not yet a kind of a consensus on how to unlock how far to go, but something is coming. And recently, Mrs. [indiscernible] issued a common paper. It was end of last week, if I remember well. And clearly, Capital Markets Union is part of initiatives that the European level could potentially unlock in the coming years. So some things coming."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "On securitization, maybe Lars, you could complement?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So indeed, Tariq, if you look at the person in charge at the European Commission, she has a mission statement, which is very tangible. So it's not just very fluffy in what they say. So there could be very tangible steps, small steps to come. And that will be indeed an improvement because, as you mentioned. So, we optimize our capital by securitization. And so what we've done in the last quarter is put into the market for the equivalent of 10 basis points. And that is -- why do we do this? And as you mentioned rightly so, without impacting it on the P&L, is because we see that is the debt that is available in the market. So what we can currently do in the environment is we can basically place into the market our current issuance. So whatever we -- as the issuance we do in a year, we can place it into the market, and that is what you have seen on the 10 basis points. So, the pricing of those is right. Placing it into the market is cost efficient, and so a clear gain."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "If indeed, the progress would come step-by-step on the Capital Markets Union, that go even go further. So that would mean that a part of the loans we have, like €200 billion of corporate loans in the balance sheet, part of that could be offloaded as well. So that will be the view, Tariq."
+  },
+  {
+    "person": "Tariq El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from Delphine Lee from JPMorgan. Please go ahead."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Yes. Good afternoon. Thanks for taking my questions. So my first question would be, if you don’t mind, on slide 25. Just trying to understand the revenue sort of guidance for specialized businesses, which looks like it's around revenue growth of around 2% or so. But I think you -- are you still sticking to Arval revenues being down 10% in '25? I'm just trying to reconcile how revenues can grow at 2% if you have this headwind coming from used car sales."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And then on the second question is on Eurozone domestic retail revenues. Just wondering, I mean, given the performance of France and Belgium this year, which has still been difficult, and I understand, yes, the headwinds are now behind. But just trying to understand a little bit your assumptions for volumes and where is the pickup coming from mainly? I mean, do you see some progression for France and Belgium in 25% coming from revenues flattish or down 6% in Belgium? If you could provide some color, that would be helpful. Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Delphine, thank you for your questions. If we start, first of all, with the guidance. So indeed, you remember that in the past quarter, we've guided that for Arval, the resale prices would taper off. And we basically guided that it would be a lowering of 400 million, and so that the contribution of the resale would be basically zero in that. But then at the same time, there are other parts in there that growth. So on one hand, you have seen that personal finance that we have been separating the non-core activities and the core ones are growing. Look at -- the volumes are growing by 4%. And going forward, the top line would grow by 5%. On top of that, at Arval, you also have the organic growth, yes. So the volumes of car going up, so the fees it generates is going up. So that is that dynamic."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And then when you look at the Eurozone domestic, what you see there? You have indeed seen that there was, in '24, there was a pressure on the interest income, in particularly from the headwinds. And those headwinds they basically -- if you look at France, they have tapered off. That's basically what you see in the fourth quarter. And in Belgium, they basically come to an end. So there was a situation where, on one hand, the government came with a competitive product. When it ended, some of the other competitors came with that kind of environment. But that should be behind us. So if you look forward, if you look in '25, the main thing is the deposits, as you can see, they are basically stable. So they were down in '24, and that basically generated that foregone revenue, but that should be behind us. And therefore, the reinvestment of those deposits will trigger the growth. The growth that we've guided will be around 3% in '25 and above that even in '26, in particular, if the yield curve would steepen. So Delphine, that will be the two guidance on clarifying Arval and on clarifying the Eurozone domestic markets."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And just to clarify, France is also -- French revenues are also growing more than 3% and Belgium as well?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yes. So if you look at -- we've guided the overall Eurozone that's saying that the top line would grow, like, say, around 3% or more, that basically applies to France and Belgium, indeed."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Right. Thank you very much."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "You're welcome."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Joseph Dickerson with Jefferies. Please go ahead."
+  },
+  {
+    "person": "Joseph Dickerson",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Hi, good afternoon. Thank you for taking my question. You've given the 11.5% return on tangible guidance for 2025. Clearly, the consensus is about 10.3. I guess when you look at consensus, do you think that -- where do you see the gap? Is it in a combination of not quite enough revenue growth and not enough jaws? I guess if you could opine upon that, I'd be grateful."
+  },
+  {
+    "person": "Joseph Dickerson",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "And then you've embedded in your guidance cuts in the Livret A rate. Is that just what we've seen already in February? Or is this a following Livret A cut forthcoming this summer? Because it looks like the summer cut could be prospectively quite large given the ECB cut and the falling inflation. Thanks."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Well, if I remember well, the consensus one year ago for BNP Paribas was in the range of €10.5 billion and €10.6 billion net result. These are in billions, and we delivered 11.7. So it happens that, I would say, for a number of reasons, there may be businesses that are slightly under, I would say, considered. Probably a global market, if we look at the consensus. There is a certain gap in between the consensus and what we have internally clearly. Probably, I don't know, investors or analysts are not completely factoring in the quality of the platform and this ability to grow efficiently with growing profitability and return through the cycle the way we try to present it today. We will continue that story. So we expect '25 is going to be a year with a lot of volatility for a lot of reasons. So global market and CIB globally will deliver probably much more than the consensus is telling us today."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "We're also having a certain impact coming from external growth, AXA Investment Managers and the Wealth Management coming from HSBC in Germany and other pieces being Neuflize Vie insurance life in France and also BCC Vita in Italy. The number of, I would say, commitments where we said this is a minimum, so there is also some expectation to deliver more. So, well, we described most of the '25-year -- '25-'26 trajectory, probably '26 is going to be on average slightly stronger in terms of growth than '25. But nonetheless, we're quite confident with the 11.5% return on tangible equity for '25 and '26 should deliver 12%."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And again, looking at the Eurozone commercial banks last year, as we said, they suffered a lot for a number of headwinds last year. Away from those headwinds, those banks would have delivered 3%-plus growth. And typically, '25 is a year that is completely clean in terms of headwinds. And the underlying economy in Europe is going to be of the same nature, same kind of growth, same time of expansion. So on the Eurozone, we are also very confident."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So all in all, looking at all the different pieces, looking at the consensus as far as we can understand the consensus, we don't know everything about the consensus, but we have a certain level of detailed information. Probably for the Eurozone banks, for the global market piece as a whole and an external growth, probably these are the reasons why there is a certain gap in between the return on tangible equity you might have in the consensus and the one we are disclosing as a target, being very confident on our ability to reach that target."
+  },
+  {
+    "person": "Joseph Dickerson",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Helpful. Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "On the question of the Livret A, basically, it is -- we assume that the pricing of Livret A comes back to the intrinsic formula. So the negative effects that we saw '24 are behind us. And so within the trajectory that we shared with you, that evolution is embedded."
+  },
+  {
+    "person": "Joseph Dickerson",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Thanks."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Matthew Clark, Mediobanca. Please go ahead."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Good morning. So a few questions from me. Firstly, on the EPS trajectory. You dropped your old 2025 growth guidance and replaced it with this 8% over two years. How should we expect that to play out? Is that going to be very backloaded to 2026, roughly evenly split between the two? Just wondering how much of a hockey stick we should expect there or whether it will be a straight line. Second question is on the model updates impact on CET1 that you've got 30 basis points across 2025 and '26 seems like quite a lot versus your historical levels. So I'm just wondering where that's coming from?"
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "How much of a surprise that is to you and how confident you are that that's the worst case kind of impact? And then final question is on Arval and the used car sales result. So I just wanted to check for you, is there a used car sales result at a normalized level? Or should you be expecting that normalize back to a higher level beyond your forecast horizon? And secondly, I just wanted you to clarify the €400 million headwind to used car sales results, is that a gross headwind for Arval? Or is that a net headwind also considering the volume growth."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "It wasn't quite clear from your earlier comment, last whether the growth headwind is actually greater than that €400 million? Thanks."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Okay. Matthew, thank you for your questions. So if we look at -- so the earnings per share that we're going to lift by 8%. You've seen -- if you -- we've guided on the CAGR, but the one thing that you basically see where we've guided on a yearly basis is on the return on equity. And so there, you basically see that we have 50 basis points every year. So you can assume that, that progress is quite linear. And then when you come to the common equity Tier 1 and the impact of the models. Well, there's two things."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "You know that on one hand, we are a prudent bunch. So we basically take that stance. You also know that when it comes to common equity Tier 1, we are flexible. We mentioned it earlier. When we want, we can get 10 basis points from securitization. There are other elements we can optimize. So from that point of view, that's where we stand."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Then when we look at Arval, you are right, again, in the sense that we are approved on the bunch, we basically said that we assume that the resale value would be zero. It is true that if you go back into the past, it's always been somewhat positive. So it's not impossible that it's going to gravitate to somewhat a tad higher than that zero. And when it comes to your €400 million on leasing and Arval, it's a net impact."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Okay."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Kiri Vijayarajah with HSBC. Please go ahead."
+  },
+  {
+    "person": "Kirishanthan Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Yes. Good afternoon, everyone. A couple of questions from my side. So firstly, coming back to Belgium, and I know you've had a fair amount of market disruption on the deposit side, and I know you've talked a lot about that already. But when I look at the mix shift from Central Bank data, it looks like it's already largely stabilized. So is it right to think maybe 4Q Belgian NII really is the trough there? And the growth that you've just been talking about can kick in as early as the first quarter '25 or is you're thinking more the recoveries kind of second half for Belgium NII?"
+  },
+  {
+    "person": "Kirishanthan Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "So just your thoughts on timing of the return to growth. And then secondly, on Italy, with several of the competitors in that market, a bit inwardly focused on different M&A scenarios. I wonder, is there an opportunity for BNL to ramp things up organically and drive better commercial momentum? Or is it your preference to kind of stick with the kind of conservative risk profile and keep that kind of status quo? I'm really curious just because you don't really talk about Italy as a source of growth in a way that maybe one of some of your peers have done."
+  },
+  {
+    "person": "Kirishanthan Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "So a question on Italy and organic growth momentum there, please. Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "I'll start with Belgium and Jean-Laurent will take over on Italy. So no, you're absolutely right. If you look at the pivot, as you mentioned, it was basically the -- what we've seen impacting the deposits has basically come to an end. So you should indeed start seeing the impact as of the beginning of the year. So that's on Belgium."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So on Italy, I know we are not disclosed numbers from BNL, but to make it very simple, in Italy, all in all, adding up all our businesses and we have many businesses in Italy, to some extent, all the businesses of BNP Paribas are being present in Italy. The top line is slightly more than the double of the BNL and the net result pre-tax is 3x the one of BNL. So for us and cost income is fairly low and cost of risk is more than acceptable, meaning fairly low as well. So for us, the situation is Italy. Of course, there is the BNL at the center being leveraged as a kind of a platform for all businesses."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "But for us is to run all those dimensions, the right way. And we are growing well in Italy. The BNL is not the BNL we used to have -- we used to acquire more than 15 years ago. I mean we totally transformed the corporate bank instead of being a kind of small cap type of operation. We totally transformed the platform and in Italy we're having, I would say, a franchise that is much more kind of mid-cap, allowing us to develop a lot of cross-sell with CIB, for example. We did a push in terms of private banking, wealth management, those 2 dimensions."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "We are not present at the historical BNL. And the historical BNL is something that today is rather, I would say, rather small. I mean the proximity bank is relatively small, like in France to some extent. And we have no intention to try to grow further in that domain for a number of reasons. And we concentrate on the value-added approaches, business, franchises. And anything that is a consolidation in Italy for us is an opportunity because, well, this is one brand that is vanishing in the air. So it gives some pressure for us, especially in Northern Italy."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So this is the situation. And again, and I know that we are only disclosing the numbers, maybe we will have to -- we don't know -- to deliver a deep dive around Italy. But BNL is just a piece of the platform, and the platform is, I would say, is growing quite well over the cycle. And we believe this is the right way for us in Italy. And to some extent, we are moving in Italy, like we are moving in France in terms of value-added franchises, products, services and probably this is the right way for us."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So well, concentration. If we have the right services, the right products, it's always an opportunity to grow organically, knowing we are not going to move in any dimension externally in Italy for those the reasons I explained. We don't want to grow in the retail mass market universe. This is not our trajectory. This is not strategy. And again, Italy for us is twice top line BNL, more than twice, and pre-tax return result is 3x. So it's quite a lot. Cost-income is in the range of, let's say 40% -- 50%, sorry, 50% also but profitable."
+  },
+  {
+    "person": "Kirishanthan Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Kirishanthan Vijayarajah"
+  },
+  {
+    "person": "Kirishanthan Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Right. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from Flora Bocahut with Barclays. Please go ahead."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Yes. Thank you for today’s presentation. So on my side, I'd like to discuss actually the capital trajectory. So if I look at the Slide 34, essentially, you're telling you now that the CET1 ratio will be roughly flat in '25 and '26 at 12.3% before FRTB. That means if FRTB happens, whenever that is and whatever form that is, that you would be potentially at 12% exactly at the end of 2026, which would leave limited room for surprise or for optionality. So I think on the CET1, partly the reason why it's flat is because of your pay-out ratio, which is higher than peers at 60%."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "But I think there's also two other elements on which I'd be interested to get your view. The first is actually the regulatory headwind, because I was looking at the Slide 16, where you show actually that you had, if I accumulate them 55 basis points of regulatory headwinds between the model updates and the other reconsolidation in 2024. Then you're telling us that there is potentially up to 100 bps of additional regulatory headwinds in the next 2 years, if I take Basel IV first time implementation, FRTB and still some model updates."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "So the first question is what can you do there to try and offset some of those regulatory headwinds? Why not use securitization more? And the second thing is, if I compare your level of profitability to other European banks, I think it's revenue per RWA, that tends to be a bit lower. So is it something that you track and on which you're specifically focused when you consider the plan towards the 2028? Thank you."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "We're considering the fact that moving up from 10% to 12% in 4 years' time, 5 years' time, looking at the return on tangible equity, and we -- we're now considering beyond '26 to continue that uplift, I mean, potentially 13% and maybe 14%, this is the trajectory. Clearly, you can deliver that only if all businesses are focused around this idea that any risk weight should produce a certain level of profitability. So it's clearly the -- I would say, the when we're moving."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Why do we in terms of core equity Tier 1, some headwinds coming from the supervision, the regulatory dimension. This is obvious like any bank. The initial target of the Group is 12% core Tier 1 equity. So this is after FRTB."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And today, we are not moving the target in just the long-term target we have set, 12%. This corresponds to our risk profile. If you look at the P2R of the bank, this is one of the lowest, even maybe the lowest for that type of a bank in the Eurozone. So the fact that we are 12% correspond also to the fact that the supervisor itself give us a certain, I would say, give a certain recognition of the value of the business model that is diversified. The risk profile is quite -- the profitability is quite frequent. So this, all in all, correspond to the target of 12%. There is no reason why we should look at something higher, considering the fact that driving that nice position to have a P2R that is, I would say, bested down this is obviously there is no need for us to go at 13% or 12.5% even. So this is -- this is part of the road maps."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "But again, the strategy is to grow the return on tangible equity. We're moving progressively because you can move up in a sustainable way. Only if you grow the right way, certain franchises -- and to grow the right way, certain franchises is very much about growing value-added products and services. And this, all in all, represents a certain level of investment."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Today, in our '25 '26 plan, we have already a certain level of extra investments we're dedicating to the future of the company because we believe that after '26, there is something to come. We were considering that '26 is the maximum with 12%."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Maybe we would not consider those investments. And going that way, maybe the return on tangible equity in '26 might be slightly higher, but the future would be less brilliant. So it's a balancing between mid-short term and long term. So this is how we I would say, we manage the company. Not that far ago, we're at 8%, then 10%. Now we are going to be at 12%, and we are considering more than 12%. So this is a trajectory. And to be very honest, we were not particularly helped by the red scenario. This is a fact. I mean, it's the way it goes."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from Anke Reingen with RBC. Please go ahead."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Thank you very much for the presentation and taking my question. The first one is on AXA. I apologies if I missed it, but can you help us a bit in terms of the contribution by '26? I think you gave us around 1 billion revenue number. But is it fair to say, it's relatively a little at the net of it? And is there any impact on capital in terms of intangibles we should consider? And as I said, say that the 3.3 billion of cost savings, you target that include relatively little for potential savings from the acquisition of AXA?"
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "And then secondly -- sorry, not really secondly, but second half question. Slide 29 about your improvement in the returns. I realize you have two deep dives coming up, but it's really quite a nice step-up in the return. And I just want to make sure it's not that 2025 will be impacted by more material restructuring or disruptions to the business in order to deliver those return up to '26 and then '28? Thank you very much."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "On AXA Investment Managers, we cannot, I would say, couldn't get that far. We cannot give that many details because we have to wait for the closing. And so in due time, we will give all those numbers. What we can say is that the top line is in the range of 3%. If you just add up AXA Investment Manager to BNP Paribas without any synergies, anything. The top line, this is the equivalent of 3%. So 1.5% this year, '25 and 1.5% next year, '26 because we are going to close by mid-year. So this is the top line. Then in terms of synergies, we do not really communicate. We said that roughly speaking, looking at standards, potentially, it's not -- so 15%, if I remember well."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So this is something we already disclosed. So these are standard answer, I would say, numbers. We said also that the return on equity -- the equivalent of the retail tangible equity on that transaction is going to be above 18% after 3 years. So after 3 years is mid-'28. So this is not '26. And probably, yes, the bulk of this acquisition is going to be delivered between '27 and '28. This is why also this transaction is going to play a role beyond '26, and it's going to contribute to the fact that the group globally is going to move from 12 to something that's going to be higher. So this is also part of the -- sorry, we do not particularly count on AXA IM to lift the return on tangible equity from 11% to 2024, up to 12% in 2016. The major effect is the top line. So there is not much on top of that looking at '26 considering that transaction."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from Chris Hallam, Goldman Sachs. Please go ahead."
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Good afternoon, everybody, and thank you for taking my questions. Just on CIB, clearly, strong performance in equities in the quarter and for the year as a whole. I know we've seen a bit of quarterly volatility through 2024. So just how do you expect revenues to trend in that business through 2025? Should we sort of assume steady growth? And then in the banking business, on the one hand, many of your peers are quite upbeat about the outlook for 2025, but then Jean-Laurent, as you mentioned, consensus is sort of penciling in low single-digit growth. I appreciate that the mix differs bank by bank."
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "But how do you see the growth outlook across the CIB businesses in 2025? And then on Wealth Management, I just wanted to dig a bit onto this platform rollout. So what are the specific, perhaps segments of the market you're targeting maybe in terms of average client wealth or AUM being brought on to the platform per client? Is it fair to say that the inorganic growth in wealth is sort of now over and it's sort of full steam ahead on inorganic? Or could we still see some acquisitions in the wealth business as well?"
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Well, on CIB, as you know, we're having a quite well-diversified platform with BP2S or security services, the corporate bank, global market with two dimensions that are fixed income and equities. So a bit early to say, but considering the, I would say the growth we enjoy in '24 for equities, I would assume that equities next year will evolve like CIB on average and we very much count on all the different dimensions of CIB to perform well. And this is very much linked to the fact that the franchise is growing in any dimension, corporates take both ways, and we can service those counterparts in so many different dimensions with CIB."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So to some extent, especially global market, is a volatile environment. But in a year like '25 in the environment we're in, with a certain level of volatility, maybe much more than next -- last year to some extent. Yes, there is room for us to position the right way the platform in front of any kind of counterparts."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And based on that, we will continue to gain market share, especially in the hands of those, I would say, key clients, key customers for which we can deliver value-added transactions, which means higher return type of transactions. So this is the road map for CIB, and we believe the -- I would say, the target to have internally for CIB in '25 is solid."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Looking at the commercial bank, well, the bulk of the Eurozone at BNP Paribas that's been paid by is the French domestic bank and the Belgium domestic bank in terms of size. More than 3% top line is the target. This is the level we would have delivered in '24 away from the headwinds. And if you consider that the Eurozone economy, France, Belgium is going to move roughly like in '25, roughly like in '24. Basically, this is what we delivered in '24 away from the headwinds and you cannot exclude that based on a good commercial approach, we would even deliver more. So it's a fact."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Looking at Wealth Management, well, it's a very simple situation. If you look at the private banking universe, on average, looking at the Eurozone, based on all the different, let's say, domestic private banking operation we have in all those domestic markets, we're probably the number one private bank throughout Europe, throughout the Eurozone by size asset under management and so on and so on."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Now there is a bucket in which our share of market is a bit too short is the, let's say, ultra net worth individuals typically family offices. So for that, you need to grow a different approach. You need to roll out certain platforms that are slightly different from, let's say, the regular type of domestic private banking approach."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "This is what we are building. So we are building a new platform. We will implement the platform in Germany first, and then we will roll out that platform in a number of other countries, including Italy, France, Belgium and some Nordic countries. So this is the game. And that platform will benefit from first, I would say, state-of-the-art approach in terms of technology. And then the platform will be feeded by all products coming from IPS, asset management, in particular, and all products coming from the investment bank."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And those family offices, basically, to some extent, we have already, I would say, the good the good relation because most of those offices to some extent that the result of a certain corporate success. So we have already those counterparts in our portfolios in the corporate bank, especially mid caps, mid large caps."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So Wealth Management throughout the Eurozone is going to become for us, I would say, a new reality because of the technology we are building and we will deliver soon and we will roll out throughout Europe. And then the availability of products we're having within BNP Paribas, both at the investment bank and at IPS. And on top of that, of course, we will continue to grow in Switzerland and in Asia, where we enjoy good strong positions."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So all in all, Wealth Management is going to be part of the new trajectory of IPS. If you look at the IPS today, pretax result, IPS amounts to roughly 14%. Quite soon, we will reach 20%. And you cannot exclude that based on all the initiatives, we can reach 25%. So this is the mid-long-term target for IPS. These are very profitable businesses. These are very low capital consumption type of businesses that are quite stable through the cycle. They are not that dependent upon rates. So I would say, this is typically the type of environment we should consider, we should focus."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So within IPS, not only we will have a continuous push from the insurance business, from asset management based on the project we're having with AXA Investment Managers, but also a strong push coming from Wealth Management. This is a mix of some piece of external growth, but most of it is going to be organic growth."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "To some extent, it's a parallel move or comparable move looking at what happened with CIB over the last five, seven years. This is what we did we build the platforms. We complemented the businesses. We feed the platform with the right services and products, and then we grew organically. And this is typically what we tend to do with Wealth Management."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Wealth Management, the way I'm describing it, this is family offices or ultra and network individuals. This is going to be consolidated in the end of quite limited number of global banks within the Eurozone. And you know the NIMs and we are going to be part of that story. And this is going to be a very strong complement to the fact that we are already the first private bank within the Eurozone because of the domestic private banking platforms that belong to some extent to the domestic banks. A bit too long, but this is the story."
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "No, thank you. That's very comprehensive. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Stefan Stalmann, Autonomous Research. Please go ahead."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Good afternoon. Thanks for taking my question. I actually have only one question left, and that is on credit risk provisions. You have enjoyed two years of net release of Stage 1 and Stage 2 provisions. Do you expect this to end at some point in time or considering that the macro prospects in some European -- in economies are not that great? Thank you very much."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Stefan, thank you for your questions. You know how this goes, right? You have those three stages, and particularly one and two aim to be fronting. So in the sense that when in a certain environment, you have to take more of them so that you can release them in more direct situations. And so as you look at it, we have a lot of S1 S2 as you might have seen. We've even added some in the fourth quarter. And today, our S1 and S2 is more than 1x the S3 of the total year. So from that point of view, I mean, how will we be able to release it? I cannot tell you because it depends a bit on how the economy evolves. But what you do see is that we have a very solid level of S1 S2 provisions, and that is why we remain comfortable with our guidance of 40 basis points over the cycle."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Okay. Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Giulia Aurora Miotto, Morgan Stanley. Please go ahead."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes. Hi. Good morning, thank you for taking my question. I have two connected, actually. So the first one, Jean-Laurent, this is the first time that I can remember, when I hear you mentioning 14% ROTE. And I understand that this is not in the current plan and it's longer term, I get that. But I was wondering, to get there, I think it requires perhaps some more proactive capital allocation. Would you consider perhaps disposing of businesses that are below the cost of equity? Or how are you thinking about the capital allocation angle?"
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then secondly, connected to this. Italy is a consolidating market. And I hear you that for you, Italy is very profitable, much larger than what we see in B&L. But B&L itself remains perhaps below the returns that other divisions make. So given that the market is consolidating, could you consider maybe disposing of this and focusing only on the more value-added part with the consumer credit, CIB, et cetera?"
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Well, any plan we delivered recently is about, I would say, rebalancing and refocusing the businesses towards the products, services that are more profitable, keeping in mind that you need also to grow the franchise. So if you look at CIB, well, it took us some time to refocus then to complement, to upgrade, I would say, the quality, the kind of cutting-edge type of services we would well willing to deliver and maintaining the franchise."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So not everything is -- can be delivered in the very short term. But progressively, we delivered a CIB platform that is now north of '23, '24 return on notional equity even in the new Basel post-completion story, well above 14%. This is a fact and it was well below 10% years ago. This is a fact as well. It takes time."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "If you look at IPS, well, of course, IPS naturally starting at the highest point, but it's small relatively to the size of the group. I mean we were talking recently minutes ago of, let's say, 14% of the total profit pretax. We need to go up to 20 and then 25. This is a way also to rebalance, I would say, the equity and the way we are, I would say, growing the company."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And if you look at any bank within the retail or so-called retail universe, I mean, personal finance, we recently decided to restructure that business because there were a lot geographies for which we were not relevant with return that we're far below, I would say the target. And progressively from a personal finance that went down to, I don't remember exactly 7% return on notional equity in '23. We're going to be up to 17% in '28."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So again, and rebalancing towards the best geographies and within a certain country to the type of service that can deliver a return because even in a certain country, a personal finance, consumer lending type of platform can be good with some counterparts and totally nonprofitable with other counterparts. So we are doing that continuously."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "What we are going to do with the French domestic bank, it's just the same, leveraging the, I would say, the best franchises, the best positioning in corporates. In conjunction with CIB, private banking, wealth management construction with IPS is just the same, I would say. Growing that market, the right way, leveraging the best franchisees with the best return. And then for the rest, the proximity bank, we are going to focus on those counterparts that can deliver certain profitability."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Reengineering, I would say, the business model, meaning going down in terms of cost to serve. So this is typically what we are doing in any geography. Some time, we exit. We -- remember, we exited the first [indiscernible] bank. We bought the bank was personally involved back in '98, the bank was around 25% market share. We exited at 42% because there were no way to go to 50%, and we did get -- we got good bargain at that moment. We exited back of the way just the same way, not enough profitability and no way to reinvest. We exited a number of geographies in other regions and some businesses."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Then coming to BNL, of course, there is this idea of, I would say, critical mass. But BNL, if you look closely, as I said, it's just a part of what we are doing in Italy. This is just a part. At the end of the day, we are counting Italy and we are moving in Italy in a cohesive and collective way. The CEO of BNL is also the head of Italy at BNP Paribas. And again, the top line is more than twice BNL."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "The net result is more than three times BNL. Cost income is around 40% to 50%. And the return is above average BNP Paribas. And BNL is acting as a kind of central platform for that. And we totally reengineered BNL, in terms of franchise, looking at mid-caps, private banking, and it's moving that way. So, the disposal of BNL for all those reasons is just impossible, and it's not part of the journey."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And on the opposite, we are not considering any external growth in Italy because external growth in Italy is very much about consolidating in the mass market universe. This is exactly the situation. This is not the trajectory, not the strategy we are pursuing at BNP Paribas. This is not that type of business we are looking at."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, again, even if it's not very easy to follow from outside every day. We're always rebalancing, I would say, the usage, the way we'll look at equity towards those businesses that can deliver more. And again, more in terms of instant return, but also in terms of ability to help the bank grow the right franchise the right way, which is also something we have to keep in mind in terms of risk profile."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Risk profile is ultimately, I would say, the ultimate goal for a bank. And well, serving the best counterparts with the best products and services is also, I would say, long-term, a certain or shorter cycle, a certain ability to navigate the economy the right way, being a bank, meaning with the best counterparts. So, this is also something we need to explain maybe better, I don't know, but this is also a reality at BNP Paribas. So, we need BNL. BNL is very different from the bank we bought years ago, and we will continue to grow in Italy that way."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "If you add everything, we, of course, well behind [indiscernible] UniCredit, but locally in Italy, the top line has been BNP Paribas, all in all, probably is number three in Italy. This is a fact."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Got it. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from Tom Hallett, KBW. Please go ahead."
+  },
+  {
+    "person": "Thomas Hallett",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Hi, guys, Thanks for taking my questions. So just firstly on the shape of the curve. I know you provided comments on the parallel shift. But if I think about the steepening yield curve, what is the impact on that on your NII and targets?"
+  },
+  {
+    "person": "Thomas Hallett",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "And then the second on the payout ratio, under what conditions would that need -- what conditions would need to take place to lower that back down to 50%? And I mean, particularly curious about bolt-on acquisitions, how that would change that dynamic? Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "I'll take your question, Tom, on the steepening of the curve. So, what we assume, what you basically see is that on the networks, we've guided for '25 that the top line would grow by 3%. And we anticipate that there will be a steepening of the curve coming thereafter, which basically we said that it will lead to a CAGR of 4%. So that basically means that once that happens, the year thereafter, growth will rather be 5%. So that is a bit -- if you want the impact of the steepening. So that's on that."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So, the other question was on the period of 50%. So why would you want us to go to 50%?"
+  },
+  {
+    "person": "Thomas Hallett",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Well, I'm just curious because your obviously, your situation is a bit lighter than I'd say your kind of European peers. I'm just thinking, at what point would you start to feel a little bit stressed or constrained at keeping it at 60% to move it down? And in light of that, let's say, there's a bolt-on acquisition potential or something that you see in the market that you'd like to acquire, I'm just thinking how would your payout ratio work in that dynamic?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Listen, I'll start by answering the ratio that we have, with 60% return to shareholder and 40% for kind of organic bolt-on growth is something that has been working very well. Now if at some point in time, there would be something relevant to do, then we'll see how to structure that at that moment. And it is not by reducing our payout from 60% to 50% that, that would materially change."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So we feel very -- that there is a good balance supporting – the growth organic, inorganic in what we see and what we want to return to shareholders. So that's basically where we stand on."
+  },
+  {
+    "person": "Thomas Hallett",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Pierre Chedeville, CIC. Please go ahead."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Yes. Good afternoon. I have two questions. One question is relating to costs. You mentioned €600 million of additional savings. And I was wondering, is this savings part of the plan that you will present to us in BCF and personal finance or if there are side. And I wanted also to know if you plan to register restructuring cost in face of this savings?"
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "And regarding savings, I was also wondering what type of savings you have in mind? Are there just -- I would say, IT savings, savings due to the Artificial Intelligence, restructuring of the networks, not only in France but maybe elsewhere? Where do you see the most part of this savings in the coming years?"
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "And about -- an anecdotic question, regarding real estate, because I'm interested in this business. I heard this morning, from the CEO of a big asset manager in Europe, that you are seeing a bottom in this activity and a rebound to come in 2025. Do you see the same? And do you think that it could help AXIM to improve the top line in asset management business as soon as 2025? Thank you very much."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thank you, Pierre. I'll start. Basically, on the cost savings, so the €600 million, it basically includes the traditional levers that we have. So it includes optimizing IT, which will include deploying Artificial Intelligence. It means optimizing square meters, it optimizes shoring. So it's basically continuing the levers we have been using before. It includes and basically the adaptations we are considering at BCF. So on our deep dive, you will get some more color. So that's basically what is included in it."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "When you look at real estate, it really -- it depends on what you look at, yes. So many of the levers that you have in real state are rebounding. It's the property development, the one that we think will take a little bit more time. So that's basically the view."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "And regarding restructuring costs?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So on the restructuring costs. So if you look at the run of the mill, we kind of have mentioned that on a normal basis, we have like around 400 million of costs, which are restructuring adaptation, all this kind of stuff. So that is a bit the run of the mill. We continue to have -- I remind you that our intention is to compensate, in the bottom line, those 400 million, to 400 million, let's say, sales, yes? This is what we've done in the last couple of years and also in last year. So the idea is to have like around this 400 million for the run-of-the-mill adaptation to be compensated. It can be, if we have acquisition in a given period, that there will be some more."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Okay. Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Sharath Kumar, Deutsche Bank. Please go ahead."
+  },
+  {
+    "person": "Sharath Kumar",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Thank you for taking my questions. I still have a couple left. Firstly, on Europe-Med, I wanted to decipher the moving elements outside of the noise elements seen from FX and hyperinflation impact. Now excluding all this, what do you think would be a sustainable run rate to be able to model for 2025? Because if I look at consensus, it's about 10% below your 4Q run rate. So any guidance there would be helpful? And on Arval, I hear you when the expectations for organic growth is encouraging, but can you provide some rough guidance, maybe on organic growth and margins, I think that will give some comfort that the higher multiple revenue lines of leasing and service margins are growing? So any guidance there, again, would be helpful?"
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Within Euro-Med, we have basically two major pieces. One is the Polish bank, and the other one is Turkish bank. BNP Paribas is going to deliver the same kind of performance as in '24, with less provisioning when it comes to, I would say, Swiss mortgages. So the bank will stay at a good strong level of profitability, the range of 20% return on notional equity. Then the Turkish bank is very much dependent upon the rate scenario. The trajectory we have is a decrease of the rate. And so far, what we were seeing since December is that decrease taking place regularly. So we are on the trajectory we have anticipated. It is, to some extent, the reverse way we saw in '24."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "I mean, margins were squeezed to some extent, in Turkey for banks, at least for that type of a bank because of the cost of fund and the rate scenario. We're going to be back to '23 probably in terms of profitability, looking at the Turkish bank. It's very difficult to track the Turkish banks through the, I would say, hyperinflation accounting norms. So locally, it's a very profitable bank. So the norm, it's slightly more difficult to see because that norm is not particularly convenient for the banking industry, that one was not designed for the banking industry. That should not be implemented that way for the banking industry, but this is the norm. So we have to stick to it."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So basically, '25 is about -- for Turkey is not about volumes. It's not about -- it's very much about the red scenario. And the way it goes, the way the Central Bank is moving so far is the scenario we have in mind. And we are quite confident the bank will be back in terms of profitability at the right level -- at group level for BNP Paribas after the inflation norm, which is a very different story from the local, I would say, accounting that is totally different. So these are the two major pieces within Euro-Med."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And to put a number on it, particularly in Turkey and the hyperinflations. So indeed, if you look at the intrinsic evolution, they are picking up with the rates coming down. However, there is still a hyperinflation environment. So as an orientation, you could take that there's going to be a 50 million impact in the other line at the bottom, which is reflecting the evolutions that IAS 29 was not seen for a bank. And so that you will have to take into account for the year to come."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And then when you look Arval, our guiding on organic for '25, '26, if you want on two numbers. So fleet, we anticipated to grow by 6%, and the organic top line, we anticipated to grow by 10%. So that basically means it's the fleet, but it's also the services that we step up. So that's how you would have to look at Arval."
+  },
+  {
+    "person": "Sharath Kumar",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Thank you, Lars."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Gentlemen, there are no more questions registered at this time."
+  },
+  {
+    "person": "Jean-Laurent Bonnafe",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So thank you very much and a lot to be seen. Bye-bye."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Ladies and gentlemen, this concludes the call of BNP Paribas fourth quarter 2024 results. Thank you for participating. You may now disconnect."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

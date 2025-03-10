@@ -1,0 +1,980 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions]"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "A - Lars Machenil"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "No, question. Everything much be clear."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The first question comes from Jean-François Neuez from Goldman Sachs. Sir, please go ahead."
+  },
+  {
+    "person": "Jean-François Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Hi, good afternoon. And I just wanted to ask two or three quick questions. The first one is on the cost base. So you have a few divisions, in particular the domestic market where the decline in the cost growth or rather the speed of cost reduction is accelerating and obvious with the branch reduction, et cetera."
+  },
+  {
+    "person": "Jean-François Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "But the speed of search acceleration is also quite high in other divisions where we are not so used to have cost declines. And we are - in general, we have a lot of cost growth, like insurance is generally 4% or 5% cost growth, this quarter I think is 6% decline, personal finance minus 8, security services also a steep decline. So, you get a number of these things or even in the other domestic market, where is generally 5%, 6% growth is now zero."
+  },
+  {
+    "person": "Jean-François Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "And what I'm trying to understand is, whether these new cost base of now is a new base so to speak, or whether you stop some things or accessed furlough schemes or any of these things which may make the base for assessing going forward, for example, 2021 using 2019 a more relevant benchmark for example? So I'm just trying to understand what's the relevance, what’s the new high watermark, if you want for the costs?"
+  },
+  {
+    "person": "Jean-François Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "And my second question on the retail part is, for example, in France on, but also in other countries, you have a very steep contraction of the net interest margins. For example, in France, I think minus 13 net interest income versus plus 9 loan growth. I just wanted you to [indiscernible] took here on this particular domestic market, net interest margin if you - if you can, so that's for the operational side."
+  },
+  {
+    "person": "Jean-François Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Then on the dividend side, we all seen the dividend recommendation by the ECB earlier this week, I just wanted to know whether come 2021 and obviously, if this is re-allowed [ph], you'd be willing to pay for example, two dividends or bigger dividend in the year or how you view your capital return policy from here, whether you need to adapt or change to a capital benchmark or anything that you feel is more relevant, to give visibility to your investor base? Thanks a lot."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Thank you for your questions. We do know that we only have one hour for the answers. So I'll do my best. So if I'll take one at a time, if I take your first question on the cost base, there are several aspects. If you start with domestic markets, so domestic markets we have already in the plan ramping up to this year, we have a review of interacting with customers, using less branches, using more digital and the likes. So that is something which is underway and that we have basically accelerate Jean, so that is why we will see the costs going down because we have accelerated those aspects."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Then the second thing, if you look at some of the aspects more on the International side, in the International Financial Services side, what you see is that several points or part of the costs are related to the point in sale. So on PF or in within insurance, when you have a point in sale, you have a related point in sale cost. And so they're also - if there is no point in sale, those costs are going down."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Nevertheless, also on the International Finance Services, there is an overall reduction effort which was underway, which has been amplified. And this amplification, as we mentioned will be further stepped up. Because if I say “what we have been able to observe during this lockdown period” is that we can take the aspects of digitalization a step further."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "In the past, like for example, saying we have an interaction with a corporate client once a month during two hours in a remote location, which takes overall six hours. Basically, what it has meant during the confinement period is that it was half an hour per week by videoconference, do the math, you see that it is actually very efficient on all fronts. And so, that is something that we will now crystallize also going forward."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So, an acceleration of the cost, some point in sale costs which are reducing and then stepping up materially, therefore it's related to - that we have learned from the digital. So, that's on the cost side."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "If I then take your second question, on the net interest income. So, the net interest income in particularly on our domestic markets has of course been impacted by some of the activities that have been lowered and that have been - that are typically also generating income. So, as I said, the drop in things like credit card, overdrafts and the likes, and those are returning."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Secondly, as you have seen, there are a lot of deposits that occurred and those deposits normally we have to guide our clients into different products and therefore, also improving the yield. And then there is all the lending that has occurred in the second quarter, this lending will have a full quarter effect going forward. So that is basically what we see and then there is the effects of the financing that is happening."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So these are all the reasons why we consider what we have seen in domestic markets in the second quarter has basically been a temporary drop, yeah, because the activities return, the effects of what we have underwritten and what we have attracted will yield and will yield fully and there is the financing effects coming in. So, that is why we feel confident on that front on domestic markets."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "When it comes to dividends. Indeed, the supervisory authorities have extended their recommendation not to pay dividends till the end of the year. And of course, we will comply. And one assumes that when the environment does not further deteriorate, this recommendation will not be extended. At that moment, there is a return to normal, meaning the supervisory rules, as they were applicable pre-COVID will again apply and this implies that solid banks should then be able to return to their planned dividend policy. In this case, BNP Paribas anticipates returning to its concept of the 50% payout ratio. So Jean-François that will be my three answers."
+  },
+  {
+    "person": "Jean-François Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Thank you. But the 50 [ph] of in the past, is this one's gone forever now, the one that might have been paid as especially in the fourth quarter that was discussed in the first quarter."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Listen, the recommendation by the supervisory authorities is that it is extended till this end of this year. So the end of this year, nothing will happen. After that, one has to assume that we will fall back to this kind of rhythm that we saw in the past, but let's wait until the situation crystallizes, and we'll take it from there."
+  },
+  {
+    "person": "Jean-François Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Okay, thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question comes from Jacques-Henri Gaulard from Kepler Cheuvreux. Sir, please go ahead."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Yes, good afternoon. So many questions, but I limit myself to three and we'll make it quick. First of all, Lars I'm surprised if I look at your CET1 which is 12.4, which is really good. It seems to me if I understand the footnote properly, that you've included the transitional arrangement from IFRS 9, which is strange, because you're in a really good shape, and it doesn't seem to have represented that much, anyway, so how much was it within the 20 basis points of temporary arrangement? And why did you decided to include it? That would be the first question."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "The second, you have good information on moratoria, on slide 41 I think, if I look at your annual reports or your half year report that you give at the same time, it seems you know, making a back of the envelope calculation that the amount of moratoria is about 35 billion in volumes. Is it okay? Is it the appropriate number? And if it was possible to have separately what the government guaranteed loans in total in volumes have been that would be super helpful. That's the second question. And the third one TLTRO will take up in June, just to have an idea of how much you took, if you took any? Thank you very much."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Jacques-Henri, thank you. On your question on the common equity Tier 1, so on the common equity Tier 1, there is, of course, the evolution which is stemming from our or result generation. And as I said, the result generation, we put aside 50% for dividend. And so it's the remaining part that contributes to the common equity Tier 1."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And then as there has been several efforts that have been done by the supervisor to basically address a bit elements which are not necessarily supportive on the European side, like SME supporting factors and the likes, of course, we have applied those. And the French, as there has been an effort and there is an orientation of Europe to say we support the environment to help the economy, we basically apply them all."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And so also on the IFRS, because let's be fair, the fact that you do not - that you have an impact in the P&L and in the capital is a little bit pushing the concepts we built, so therefore, we also took that phasing and that's the - on your question, it's around 5 basis points of it."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And on your question on with respect to what we have on the moratoria, what we have is 54 billion, that is the amount. And when it comes to the - yeah, and let's not forget that the moratoria, the big chunk of it two thirds, is basically corporate clients and one third is individual."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And on the TLTRO, we, it's you know, there are so many, we optimize our overall liquidity. And so we look at and so we consider TLTRO as part of the options in trending. And as always, we don't go to the TLTRO because there is no other option. We don't go to the TLTRO because we want to do carry trade. We consider it just as an overall way of optimizing or liquidity cost. So I'll leave it to that."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Sorry, last one more thing, just on the 54 billion margin [ph] is that clear, are you communicating on government guarantees in volume?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Government guarantees, no, we're not covering those volumes."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question comes from Delphine Lee from JPMorgan. Madam, please go ahead."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Good afternoon, and thanks for taking my question. So, three on my side, if I may. The first one is to come back on capital. Just wondering, in terms of the trends for the second half of this year, what should we expect? I mean, is there still a lag effect from state guarantee loans, which haven't had - have benefited from the zero percent risk weights that, you know, could reduce the bit RWAs or no, or do you expect any ratings migration or any other impacts we should be aware of? Also, if you could just add, you know, just clarify again - just remind us of the software benefits."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "The second question on provisions. I mean, if we look at your first half cost of risk, which is around 65, 66 basis points, would you expect now that you've taken most of the IFRS 9 impact in terms of macro updates, macro assumptions? Or should we expect the second half to be lower? Or is there going to be an increase towards year end? And related to that? I mean, would you have any guidance for next year in terms of cost of risk, whether you would expect similar type of levels this year or lower?"
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And my third question is on fixed income, if I can ask on, you know, sort of the run rate we should expect really for the second half, because I guess, the 2 billion-ish is not sustainable. If you could, you know, maybe give us some qualitative comments on how July has been going? Thanks a lot."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Sure, Delphine Thank you for your questions. So if I'll take the first one on capital. So, yes, so, we are at 12.4%. So, what do we see bit the livers rolling in the second half of the year. So, there are several effects related to the regulatory environment that are basically still to come."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And so, there is this thing, where you have in France, is so called PGE, which for the first two months basically weigh on your risk-weighted assets, which are included and so, those at that period will be behind us, that will lead to an improvement of the common equity Tier 1."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Secondly, there is a software, so the software which has - the concept has been voted that it is applicable as soon as the EBA has crystallized what it means. So, that is also something to come. And then the last one is there is the contribution of the bottom line with the 50% dividend, but nevertheless. So, these are the three levers that will lead to the further improvement, and that will more than offset whatever kind of evolution one could see on the risk-weighted side. So that's on capital."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "The second question is on your provisioning. So the thing is, how does it work? If you look at the provisions in the first half, so yes, they have been stepped up compared to a year ago. But if you break it down, under IFRS 9, you basically take the cost of risk which is incurred, so a company that went broke or that has been for born whatever, you really take those costs, in an effect."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "The second thing is you have to take a forward looking view, so you have a forward looking view. So you look at a scenario and in that scenario, you run the numbers and you see what your cost of risk would be, and you take it upfront. And so when we published the Q1 results, which we basically closed the books during April, in April, and when we also aligned a bit what the European entity said, we expected ending of the lockdown basically by the end of April. So that is what we took into account."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "What we saw when we closed the books in Q2, is that actually the lockdown didn't end in April, but it ended in May. So it basically extended this somewhat. And so we had to add another step up in that cost of risk."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So if, let's assume now, and I don't have the crystal ball, but let's assume that there is the situation is like it is, so there is not a step up then Normally, you would expect that there would be no further kind of forward looking kind of cost of risk. So in that situation, your cost of risk in the second half would be below that one of the first half year, but that is a situation. Nevertheless, so it could be that there is still a bit of a pick up. But as you can see, given our diversified approach, given the strength and the rebound of the revenue side, overall, that doesn't impact our overall outlook for the 2020 period."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Then, on your third question with respect to fixed income. So indeed, the revenue that was generated in the second quarter is basically, of course, on the back of the platform that we have, the platform that is able to serve all of the needs of all of the customers. And of course, there was a pickup, a strong pickup in volume and pickup in volume because, given the crisis, the outlook on the crisis, people wanted to position themselves and the likes. So it is, indeed, likely that the volumes will taper off a bit in the second half of the year. Nevertheless, there is still this uncertainty. So I would say taper off of a bit."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Secondly, as I said, given the fact that the platform has shown that it is able to be very close to the customers with all the services needed, our market share has stepped up, and that is what we anticipate to remain. So Delphine that would be my three answers."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Just on cost of risk, any guidance for ‘21?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "’21. Again, if we stay in a situation that we are now then normally the cost of risk should be below the cost of risk of this year."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Great. Thanks so much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question comes from Lorraine Quoirez from UBS. Madam, please go ahead."
+  },
+  {
+    "person": "Lorraine Quoirez",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "Hi. Good afternoon, Lars. Thank you for taking my question. I have a few actually. So the first one is regarding Corporate Financing. I'd like to understand what is the share of the income you have this quarter and so that would be helpful."
+  },
+  {
+    "person": "Lorraine Quoirez",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "Another question will be on the equity business. Could you perhaps quantify for us the impact coming from additional dividend cancellation in Q2 and you're like one-off the impacts. And also just to understand a little bit, you know, you're hedging strategy within H2, is it fair to say that you would want to, you know, remain where the hedge into the second half of this year?"
+  },
+  {
+    "person": "Lorraine Quoirez",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "And last question on the Brexit, the slide you have on Brexit, so I just wanted to, you know, understand the reason why you have this slide, do you expect further market share gains - or is it just for us to understand that you are ready for whatever scenario comes up? Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Thank you, Lorraine. On Corporate Finance, I will have to dig up. And we will reach back to you. On the question of the impact on Equity and Prime services in the second quarter. So as I said, there's two things to that, on the Prime side, basically, the demand at the beginning of the quarter overall was a bit subdued, and it ramped up to normal levels. So that is something where you would expect going forward to be at a normal run rate for the rest of the year."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And then when we look at equity derivatives, so there was - the market was a bit shaken by the late decision in March with respect to the dividend restriction. And so that had still a bit of uncertainty at the beginning of April, because then there were some decisions taken and then some other corporations also evolved on that."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And that - given that uncertainty, we manage that position in a very conservative way. And so that is - that degree of certainty ramped up towards the end of the quarter, and towards the end of the quarter, let’s say we are back to a normal run rate. So if you take those two elements and look into the rest of the year, we anticipate that the run rate will be back to the normal run rate that you would have seen."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And on the on the Brexit. The Brexit is that we wanted to clarify - we wanted to provide some comfort, as there is uncertainty about what would happen. While we wanted to say that for us, BNP Paribas, the concern is that if there would be a Brexit, that some activities, services cannot be provided from outside Europe, outside continental Europe. And so it basically means that is the 400 kind of positions that we talked about. And so for us to continue servicing, we will have to repatriate those 400 functions."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And so that is what we are doing. We are basically halfway there. And so we have to deal with the half by the end of the year. So we just wanted to clarify that for us as we are a diversified bank serving our clients from within continental Europe, and there was this concern limited to this kind of 400 positions, and so that it is very manageable and it will be managed before Brexit takes form."
+  },
+  {
+    "person": "Lorraine Quoirez",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question comes from Jean-Pierre Lamber from KBW. Sir, please go ahead."
+  },
+  {
+    "person": "Jean-Pierre Lamber",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Yes. Good afternoon, Lars. Three questions. The first one, if I look, it's regarding provisions, if I look at the first half the cost of risk was dominated by stage three, which accounted for 75% of the cost of risk. Now, the costs were in lockdown, as other activity, so can we expect the stage three to increase in the second half of the year, as more bankruptcies come to reality?"
+  },
+  {
+    "person": "Jean-Pierre Lamber",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Second question is regarding the credit risk with debt [ph], which declined quarter-on-quarter and the total loans declined by 7.4%. If we add that financial instruments at fair value in loans and advances to customers, does this imply a 7% risk with asset inflation due to credit migration?"
+  },
+  {
+    "person": "Jean-Pierre Lamber",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "And then the third question is the ex-ante provisions BancWest accounts for close to 40% of the exempted provisions. Does this imply that the GDP adjustments were more material for the US? Thank you very much."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yes. On cost of risk, and the thing is, if I had a crystal ball to tell you how the stage three would go, I would be probably playing on the lottery and not be here. So, I have no clue. What you actually do know is that we have the - when we are - as we are in the metropolitan areas, so we have the opportunity to focus on to good counterparties. On top of that, as we are risk averse bank, we focus massively on collateral. So we don't do credit cards, but we basically do car financing or home improvement and the likes."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So, from that point of view, if you look at the overall stance and if the evolutions are a bit as we anticipate or return to back to normal, the overall cost of risk as I said should be below what we have seen in the first half. But to have explicitly what it means on S3 and therefore if there is a pickup in S3, how is it going back from sue [ph] honestly I have no clue. But this is the overall elements why I feel confident of the cost of risk remaining well in that control."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "When we look at the cost of risk and when you look at the volumes evolution, if you look at it on the risk-weighted assets, if you look at the pure evolution, so, the credit side on the risk-weighted assets is going down and it is somewhat compensated by two effects, there is the ForEx effect which basically upset. And then secondly, there is also the market risk which upsets them and the market risk upset why, because you look at the Arval [ph] and the Arval is looking at the historic trailing. So the Arval that we use into Q1 was not reflecting entirely because it was only one month out of the quarter, the pickup in the environment, which we now have for three months. So that's a bit on the risk-weighted assets."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And on your question of the ex-ante, I'm not sure, fully can you repeat your third questions, just to make sure I understood it correctly?"
+  },
+  {
+    "person": "Jean-Pierre Lamber",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Sure. If you look at the BancWest ex-ante provisions, they account for 40% of the total ex-ante provisions, so quite a large share. And I was wondering if that was due to higher GDP adjustments for the US than for the geographical regions?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yes. If you look at the sensitivity of the models that we have in Europe, and that we have in the US, in the US, they are more sensitive, in particularly to the unemployment. And so that is a bit why there is this step up in the anticipation. But again, these elements can evolve."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "If you look at, for example, personal finance, in personal finance in the first quarter, we had a step up in the ex-ante provisioning because we were uncertain about how repayments would start, for example, on the moratoria and what we saw is that those payments basically step up very well. Therefore the cost of risk in that anticipation goes down. Here at BancWest, we basically took the impact of the models foresee, we'll have to wait, how the post-summer evolves."
+  },
+  {
+    "person": "Jean-Pierre Lamber",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Right. Thank you very much, Lars."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question comes from Tarik El Mejjad from Bank of America. Sir, please go ahead."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Hi [indiscernible] everyone. Just a couple of quick questions, please. First on the ECB comments on consolidation that we had this week. Why do you think ECB is now focusing on this topic again, and the timing of it, and from BNP perspective, how you see your role playing within that?"
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "And secondly, is on the CAB [ph] and maybe on the corporate banking side, Can you discuss please, a bit in terms of pipelines, in terms of deals and volumes and what's being you’ve seen as delay to second half, that didn't happen in first half in terms of business? Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Thanks, Tarik. Thank you for your questions. And when it comes to the ECB, so what we have seen, and which is a bit frequent situation that when the situations get dire, Europe basically steps up things that it does. And so they stepped up in like, for example, the 750 billion funding, and also the ECB stepped up by clarifying some of the rules. It's not that they invented new things, but they clarified rules."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So they clarified some elements if there would be banks grooming together, what would it mean, so at least it clarified this. But intrinsically, it doesn't change. So for us, our stance remains that the current consolidation rules, they are basically applicable and support in country consolidation. However, the cross-border consolidation at this stage is still hampered by Canada liquidity flow around are the contracts comparable and the likes."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And so, for us, it remains at the point that at this stage, we remain growing in the way we do. So we have a presence in the countries, in many countries in Europe, and we basically continue to build on that platform and on that franchise to grow. And we do that by investing in the digital and that's the way for us to grow. And so that's basically on that aspect."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "This could trust as a mark, this could eventually evolve if at some point in time there is the deposit guarantee scheme which takes form, which can at least support liquidity to be flowing around. So that's on the consolidation question."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "On the corporate side. So the corporate side, there is no specific things going on, there has been a solid demand. And if you look in June, which has been continuing, and that's basically it, there was no event that things caught like locked up or got like postponed. So the rhythm remains good, and that rhythm should continue. So Tarik, that would be my answers."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question comes from Giulia Miotto from Morgan Stanley. Madam, please go ahead."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Thank you. Can you hear me?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yes, I can hear you, loud and clear."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Okay, fantastic. Okay, so, and thank you for the call. A couple of questions from me. So I want to go back to the loan moratorium, these 54 billion as of the end of June. So how has that evolved since June, I assume they have come down by how much, if you can share that? And what sort of provisions have you taken here? So, this will be my first question."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Then on cost. Can I ask you, so, I hear that you want to you know, build on what you learned on digitalization, enhanced some efficiencies that have been proven possible by colleague, but - and in the previous quarter you pointed to 300 million to 500 million of cost saves, does this still hold or how should we think about the cost line from here?"
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And then a third one on cost of risk. You mentioned that you factored in the measures that have been taken by authorities in your estimate. So, can you help us think this through, so for example, how do you factor in the guarantee from the French or other states, do assume multiple of sense of losses that you would normally see or how you think about that? Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yes. So thank you for your questions. When we look at the loans and moratoria, so on general, the duration is there is basically let's say 70% of that is very short maturity. And so that basically means we start to see the first parts of it, let's say like 10% or so which is coming due recently. And what we see is basically that those returned to payment. So from that point of view, that confirms that we have selected the moratoria, the extensions based on our criteria. And so we see that evolving positively. So that's one of the moratoria."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "On the digitalization. Yes. So we announced that on the back of our 2020 plan, which is basically culminating this year, we would have a reduction of 1 billion in cost. And we basically said that what we are learning from the confinement period that would go up like to 1.3 billion. And so we confirm that. And that's based on what - that's on elements that we have learned, where we see that the interactions, that some interactions, why for example, clients, in the end, they wanted to come to a branch, and that people still want to come to an office, we basically see that this can now be done differently. So we can have a different way of transacting, which means less travel and entertainment kind of costs."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "It can also be instead of one group meeting, it can be several kind of phase meetings, which means the interactions can be much closer to the concerns at hand. And so that's basically what we see. That is a step and that is what we're crystallizing. That's why we basically said you know, we typically make multi year planning and we end one plan and we start another multi year one. And this one, we basically said, we're going to take a break, to ensure that we can crystallize, takeaway, and crystallize all the learnings that we saw."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Those learnings, which will already lead to 1.3 billion costs this year, that will become the full year effect with another wave the year thereafter. So that's really, let's say, all the aspects that we had in things like reduction of branches and operating differently, to some extent got the boost in acceleration in that confinement period. And so that is why we feel confident to confirm the cost reduction and also look at it a bit for the base going forward."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And then your last question, can you rephrase your last question on the guarantees?"
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Yes, well, we have been working on your possibles [ph] coming from the guarantee, the positive impact from the guarantee?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yes. The thing is, as I said earlier, and it's a bit like what we see on the loan, the loan moratoria, is that we take that, we have our clients, which were when we extended the moratorium, we wanted to make sure that they are in good shape. And so this basically means that they were impacted, if they are impacted, they are impacted by the COVID period. And so that is basically what we said we can give that guarantee."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And that is basically the stance that we take. And yes, as always, some sectors might be getting into some kind of headwinds, others will have some tailwinds. And so that's basically the elements that in our modeling we have included that and it's not like just the effects of the guarantees, it is much more looking at some sectors, so some sectors will be impacted and other sectors will actually be doing better. And that's the elements. And that's more the kind of the sectorial kind of approach, more than in, particularly the guarantees. And that is included in our cost of risk outlook."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question comes from Pierre Chedeville from CIC. Sir, please go ahead."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Hi, good afternoon, Lars. One question regarding Arval, I was quite surprised by the fact that the fleet management was increasing by more than 7%. And in this context, it's quite, it's quite strange, I would say. And I wanted to know if there has been any extraordinary contract, or if there was a specific geography for instance, where these business works? And I also wanted to know what was the impact of used car valuation in your revenues in this business, if you can give us some color on that?"
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Regarding the insurance business, which you said that you were not exposed to business interruption, but you also mentioned that your combined ratio has suffered. So I wanted to know if that degradation comes from credit insurance, creditor insurance products or any of other product, because for car for instance, motor insurance for Italy combined ratio as improved during the consignment."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "And my next question is regarding BNP real estate. I wanted to know if - I would say from a structural point of view, you were worried concerning the evolution of company organization, specifically regarding remote work, that could lead to less transactions in this business? What is your view regarding the future of BNP Paribas real estate according to this to this topic? Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Pierre, thank you for your questions. And if we take them one by one, if we look at Arval, first, So indeed, I mean, Arval or that business or car business in general, it went to a roller coaster in the second quarter, right? So it is a thing that basically slow down, grounded to a halt in April and then recuperated in the end very fast. And that is what you see in the volumes, yeah, so it's not that there is like one specific contract, it is really a pickup in volume."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And when we look at the second hand car, so as a reminder, the second car sales price is part of the valuation of what you see in the top line at Arval,. And also here, given that the production also of new cars is like somewhat limited, given all the impacts of the pandemic, that if you look at the second hand car price, they are finally holding a very well. So if you look at the price in April, it's of course a different thing. But if you look at and it's basically fair value, if you look in June, the second hand cars have been doing well. So that's Arval."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "When we look at insurance, in insurance, and as a reminder and Pierre, you know, but just as a quick one. If you look at the top line, the top line of insurance is in our revenue line. So if you have the claims, for example, that are falling, they are into that line. And indeed, if you look at the top line of insurance, it's of course rebounding due to the fact that the markets rebounded, as you remember, there's a part of the assets that we have in insurance that are in mark to market because they contain very mild structuring options and the likes. And so that one has partially rebounded in the second quarter, which is lifting the top line."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "But then at the same time, as you always have, as I said, claims are reflected in the net banking income and they have slightly migrated up. And that is in some of the things, some of the elements which are in there, yes, it's not motor insurance in France. But as you know, in insurance we are active, we have a global kind of reach. And so it's not in all areas where the cars were blocked, and therefore there is no claims falling from that. And it's a bit a myriad of activities outside of France, basically, which is happening. So there is limited impact in France. But it's a bit - the outer networks that are having that impact."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And then when it comes to real estate, which is a bit of switching forward in the strategy. If we take a picture, of course, real estate those activities it ground to a halt in April, but it is ramping back up. And then on your question on saying, hey, where are you guys going to operate differently and well, not humid, but everyone's going to operate differently."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And so this basically means that the real estate, there is a need for it, but it might be in a different form and shape. And so that is the kind of things if you look at what - how real estate is organized, that they should be able to fully play a role in the promotion and the changes that are going on. So from that point of view, the accidents [ph] that are put on the strategy might evolve, but our real estate is well positioned to handle that. So Pierre, that would be my three answers."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question comes from Flora Bocahut [ph] from Jefferies. Madam, please go ahead."
+  },
+  {
+    "person": "Unidentified Analyst",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes, thank you. Good afternoon. I have three questions of royalty. The first is on the dividend. I'd like to please come back to this question that was raised earlier, just to make sure that your comments don't get misinterpreted. Should we simply forget about the full year ‘19 dividend? So we assume it will remain zero. And you're going to apply a 50% payout from the full year ‘20 EPS [indiscernible] get the approval from the ECB, or is it possible that we see at some point in ’21, provided you know, there's a new crisis, provided ECB approved that and does not need to ban? Would you then consider being a special to try and offset the lease payments for the full year ‘19? So that's the first question."
+  },
+  {
+    "person": "Unidentified Analyst",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "The second question is on the capital ratio. Just can you please clarify the target common equity Tier 1 ratio, whether you still target to be at 12% or if you're thinking whether in terms of MDA buffer, booked new 9.2%."
+  },
+  {
+    "person": "Unidentified Analyst",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And the last question is regarding personal finance and more specifically the cost of huge scale. Obviously, this is a business that tends to be more at risk in a crisis, from a provision point of view, you've provided in the slide back some details on the product mix, to geographic mix, can we say that you feel more comfortable on the cost of risk on that business? Because the mix is now more geared towards auto loan? And less towards personal loans and credit card. And could you just elaborate on why if I'm not mistaken, there were some write-backs in France in that business? Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Thank you, Flora. So on the dividend, the one thing, so it's all very - we have to see. So first of all, the ban has to be lifted and which basically means one can return to normal and so the normal means that you can return to your dividend policy because a dividend policy applying a dividend policy is typically reviewed in what is called the supervisory review process."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So as a bank, we are supervised by authorities, which have a process, it's called in our lingo or their lingo, it's called disrupt the supervisory review process, in which they basically look at the overall outlook of the bank, and what the dividend payments in that sector matter. And so typically, in the normal run of the mill, everything being good, that's for us, for example, the 50% payout is part of that."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And so, the thing is, when we said that there will be no further deterioration of the environment, it will all depend on that and if it - that there is no environment that deteriorates, is the one that improves, so just to see what the outlook would be, therefore, what the impact will be on this rep and therefore, what kind of would make sense has a payout ratio, so that's basically all I can say at this time. And as you have seen, we continue to satisfy the 50% on the 2020 results. So we'll have to follow it up. But that's basically what we read."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Then your second question is on the capital ratios. So don't get me wrong, because we are 12.4%. This is not the new normal. Yeah. So we said that under Basel III, we basically had the 12% ratio. That's basically what our objective is, and not the 12.4%. But a 12.4% puts us in a position to be comfortable, even if there would be events that we can fully continue to serve the economy. So that's basically where we stand. So don't see this that we are hanging on to this, we go for 12th, and that's it."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And then when we look at the cost of risk of personal finance, and what we - the way it works, indeed, we have been focusing ourselves in the past on the collateralized kind of products, yes, so no card business, but cars that people typically need for their jobs or their home improvement that they need for their home. That's the kind of things that we do. So it is collateralized and collateral that basically matters to those persons. So that's basically what to do."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "But then again, of course, the question is, what will indeed be the tendency of the customers to protect that kind of collateral? What I mean by that. is in the first quarter in personal finance, we took a stance of all of the elements where the customer would run into Dire Straits, what will be the fraction that he would see and that we would end and write down on the auto loans."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And what we basically saw come May and June, is that the amounts were better than what we had anticipated. And that is why we updated our modeling and our anticipation and that's basically why we reviewed slightly the cost of risk in that area. So Flora, that would be my three answers."
+  },
+  {
+    "person": "Unidentified Analyst",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question comes from Omar Fall from Barclays. Sir, please go ahead."
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Hi, sorry, can you can you hear me?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yeah, there is a little bit of wind, but I can hear you."
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Oh, brilliant. Okay. So three questions for me. So just as we just coming back to the moratoria, please. And on the 54 billion, exactly how much of that meets the criteria defined by the EPA that it should automatically transfer to stage two? Is it basically all of it? And then I didn't hear the answers on whether that number was higher off to the quarter, and also how much provision there is against that. I know you highlighted what you had in the slides about the short term duration, but if you could press on those two points, that would be helpful."
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Secondly, then on the rebound in activity at the end of the quarter in retail and consumer credit, some banks are saying that things like the jumping activities, more of a catch up on transactions that would have happen were not for the lockdown, and that underlying activity, you know, is still lower than pre-lockdown effectively. That doesn't seem to be what you're guiding. So for retail businesses specifically, are you saying that volumes, volume growth should return to pre-lockdown levels as early as next quarter, is that what you're saying?"
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "And then the third question, maybe just slightly longer term one, but the [indiscernible] this report highlighted a key risk being the leveraging indebtedness in the SME sector in France, relative to European peers, both going into the crisis and how that's increased because of this crisis, clearly given your provisioning, you don't seem to share that as being as much of a key risk. So maybe qualitatively, could you address your thoughts on the health of the smaller corporate sector in France? Is it just as simple as you know, interest rates low, so the leverage doesn't really matter? Thanks."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Thank you for your question. First of all, if we - to make it simple. On the moratorium on the 54 billion that we done, we don't want to have a gazillion amounts of ways of presenting things. So this is the EBA kind of format that we have. And then if you see the effect that is what we mentioned, it's basically tapering off right, its duration is short. And so that's basically what we see happening. If you take the two thirds is like three months, you can assume that part of that is already tapering off. So that's basically what we said."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "When it comes to the rebound. Yeah, so what we see is that intrinsically, we see elements of the activities, rebounding. And as I said, on average, this rebound stems from some activities rebounding quite strong, stronger than before. And so motors will flow. And it can be even in a sector, if you take the clothing sector, kids clothing are just much above what we saw before, men's clothing is not. So that's the kind of trend that we see on."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "What we said is that we expect it to be at the 100% rate that we saw before, as that - in a given month would be, let’s say by a year end, we put it in our modeling by year end. And so we see that that is a trend that is evolving. And as I said, the overall GDP level we would see that by mid 2020. So whatever we see in the tapering up, we see that totally coherent with those assumptions. So that's on the rebound."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And when it comes to leverage, as you know, there is - if you look at the leverage that is also being taken by the states for example. So, it is indeed somewhat stepping up. We see that some companies took it and are now basically restructuring themselves around it. There is a bit and as I said, there is a bit of the step up that you see for example in the countries and indeed in this current low rate environment, intrinsically, that should be addressed at some point in time. But that is what we have ahead of us. So, Omar that would be my three answers."
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Thank you. Just sense a very cheeky follow up, just on the dividend. Could you just make clear that the mechanically you could still pay the 2019 dividend as long as you're allowed, you know some time in the first half of 2021."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "As I said, so for the moment there is this recommendation, when if - as I said, assume that at some point in time that recommendation will not be conducted. And that basically means that you fall back to the normal territory, and in the normal territory this is if you talk to the supervisor, they say normal territory doesn't mean you can do whatever you want. Yeah, you can do something which is in line with your overall trajectory. That is a conservative stance."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And so therefore, that kind of what you can do will depend on how the environment looks, and depending on that. So that's all I can say, guys. You should talk to the regulator if you want to have more. The only thing I said - what I understand is that if it's lifted, it is back to normal. Normal means you can pay the dividend payout ratio, which is in line with your overall risk profile."
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Got it. Perfect, thanks a lot Lars."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question comes from Stefan Stalmann from Autonomous Research. Sir, please go ahead."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Good afternoon, Lars. I wanted to ask on two things, please. The first one on your highest price nine scenarios that you use for estimating expected credit losses. Thanks for the granularity on that. And it looks a bit surprising that you actually assign a higher weight to the favorable outcome then to the adverse outcome. And that actually has become even more likely since the end of 2019. So I was wondering if you could talk a little bit about the rationale there."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "And also relate to this, you provide this very helpful sensitivity, which says that there would only be 100 million provision difference from moving from your current mix of adverse versus favorable to 25, 25, equally weighted position, I'm surprised that the difference is so small. Maybe you could add a bit of color on why that is."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "And the second question goes back to liquidity. You have more than 100 billion extra liquidity reserves build up year-to-date. What would you say has been the cost of holding this extra liquidity in the first half of the year if any? Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Stefan, thank you for your question. And when we look at IFRS 9, the scenarios and the scenario weight. So indeed, under IFRS 9 you have to take into account a central scenario and then an adverse and a positive scenario. And the reason why they do this is because if you only have to take a very adverse scenario, at some point in time when you are in a downturn, you will become a downturn from doom. Yeah, which will become very, very low."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And so that is why, as long as you believe that the economy works in cycles, if you are at the low point of the cycle, it is more likely that you will turn into a positive scenario than in a further negative scenario. And so that is basically what we do. So we have our central scenario has a weighting of 50%. And then the adverse or the positive one depends on where you are in the cycle."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So if you would be on the positive side of the cycle, your adverse scenario would weigh more because it would be more realistic that the cycle would turn. And here it's a bit the same thing, as you are at the bottom, you assume that there is more chance that it will improve, then it will deteriorate and so that's a bit the concept."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "The concept of IFRS 9 is not to have a scenario of doom, but to have a scenario which is as realistic as possible, and therefore the weighing of the other scenarios, as I just as said. So that’s a bit the way that it is being done. And yes, for information we provided, if it was the two, but then I said there is the effect, and it's not that the weighting [ph] is so much different, right? It's a couple of percentage points. And so that is what the impact does."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And when it comes to your question on liquidity, indeed, the liquidity buffer stepped up in the second quarter, because the deposits have outgrown the credits, as you might have seen in our balance sheet. And so the question indeed is, so the cost, let's say in the second quarter, given the fact that that is coming on average in the quarter is relatively limited, the question is going forward. And so going forward, what are the ways to mitigate that cost."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So, one way is to redistribute this liquidity and credits Yeah. So, there will be demand for credit. So, there will be redeployment of the liquidity. The second, the second part is that to some extent, the TLTRO 3 will also overall make the overall funding costs on older instruments cheaper and that would also come in, in the second half of the year."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So, that is why when I look at the interest income in particularly in our domestic markets, I have a positive stance because as I said, there will be loan growth that will be generating and using that liquidity and then there is also the TLTRO which will optimize those liquidity cost. So that is a bit how we see to handle and not have a negative impact on it."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "All right. Thank you very much, Lars."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question comes from Kiri Vijayarajah from HSBC. Please go ahead."
+  },
+  {
+    "person": "Kiri Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Yes. Good afternoon, Lars. A couple of questions from my side. So firstly on Prime services, you mentioned weaker volumes, but then a rebound coming through at the end of the quarter. But more just sort of taking a step back, I'm just wondering how you think about the earlier ambitions, you know, before the virus when you first, you know, contemplated the Deutsche Bank, Prime services acquisition, you know, a lot of those market share ambitions and the budgets and revenue targets you had in mind, are they still applicable given the, you know, the more challenging environment we've seen since that deal was first contemplated. So really just your thoughts and update and progress there on Prime services?"
+  },
+  {
+    "person": "Kiri Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "And then on IFS, and particularly some of those areas where you're seeing a recovery in the June, July origination volumes? Do you think the loan book stops shrinking in the second half of the year for IFRS and in particular, I'm wondering where your, you know, your risk appetite and where you're lending criteria fit into that discussion, particularly in areas like personal finance. And would that be a potential sort of headwind for volume, stabilization or volume recovery in the second half of this year in specific do with IFRS, sorry IFS? Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Thank you for your question. No on Prime services. So as a quick reminder, Prime services, we’re very pleased to onboard these activities because as we said earlier, our equity derivatives department is really focused at this stage on equity derivatives. And so we want to have the wider set of services for the institutional clients and Prime services are really an important part of that."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So that is basically going well. Of course, as I said earlier, in the second quarter, in particularly, at the start, the demand for Prime services, the volumes was a tad lower, but again, this is something that structurally should return. So we remain very pleased with this activity as part of our overall diversified platform."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And then when it comes to IFS, and if you look at the loan book, as I said earlier, and if you look at personal finance, there was of course, the impact in April with the lockdown of the points of sale. And so that one is returning - is basically there, but at the same time, we remain, as you know, we are a boring prudent bank. So we basically look at making sure that when we extend lending, that the counterparty is well reviewed and is in line with it. So we have and as you know, we are boring and conservative. So we'll have to see Kiri. I don't know what it will be, but it's we will stick to IFS in a very conservative stance."
+  },
+  {
+    "person": "Kiri Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Right. Thank you, Lars."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The last question comes from Azzurra Guelfi from Citi Group. Please go ahead."
+  },
+  {
+    "person": "Azzurra Guelfi",
+    "role": "questioner",
+    "position": "Citi Group",
+    "text": "Hi, good afternoon. Couple of questions on French Retail, I hear you on your optimistic stance on the NII, would you expect also fee to rebound supported by the high amount of deposit that you had in addition of a lot – return to activities. And when you look at costs, given the exercise that you have done and the speed that you are showing in focusing on cost, would you expect to be in 2021 the efficiency of the division to improve compared to what was pre-COVID already in 2021."
+  },
+  {
+    "person": "Azzurra Guelfi",
+    "role": "questioner",
+    "position": "Citi Group",
+    "text": "And lastly on dividend, I'm not going to ask you about how much, but I'm going to ask you about how, you always talk about payout and cash dividend. Could you consider a buyback given where the shares are trading? If this would feel the chaser when you will be allowed to pay dividend? Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Sure. Thank you. On the fees, and on the outlook. So as I said the second quarter in domestic markets has been impacted on one hand by the lockdown and on the other hand by the elements that I mentioned before. So on the interest income, there are the elements that should make it return to normal that I mentioned. So the deposits being deployed and the growth to take place and the TLTRO to optimize pricing."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And when you look at fees, and part of the fees that have dropped, they are basically dropped because there were less transactions happening and there were less related activities. And so there were less transactions that are being asked. So, that is also something that could come back in domestic markets to the levels that we saw. So that is on that part. So that is, when I when I say one can assume that in the second half domestic markets returns that's basically on all elements."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Then when we look at the cost, indeed the cost that we are having as a reduction now, it will come into play full year effect next year. And as I said, it will be extended because we will draw the lessons from what the impacts are. So don't ask me what the cost income is. Yeah. The cost, yes, the effect will be full next year. And there will be another wave of learnings that we will put in place. So the cost, where we were in very focused on it, and we will continue to optimize it. And as I said, the confinement has been a lesson for that."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "On the dividend. Listen, the thing is, it's basically you hear when we listen to you, right? I mean, we have investors that basically say, I'm interested in this. And then we have a set of investors that are basically interested on dividends. And so by paying dividends in cash, all options are available. So that's basically where we stand. So we listen to you, shout if you have a preference."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "All right, that will be my answers. Operator, I think we're at the end of the call."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Ladies and gentlemen, this concludes the call of BNP Paribas second quarter 2020 results. Thank you all for your participation. You may now disconnect."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Thank you all."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

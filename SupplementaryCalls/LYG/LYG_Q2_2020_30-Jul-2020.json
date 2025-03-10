@@ -1,0 +1,860 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. [Operator Instructions] Your first question comes from the line of Raul Sinha; please go ahead, from JPMorgan. Your live in the call."
+  },
+  {
+    "person": "Raul Sinha",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Hi. Good morning António. Good morning William. I've got a couple both on NII if you don't mind. I just wanted to explore the reasoning of the drivers behind the step down in the NIM guidance and NII versus Q1. And within that I was wondering if you could expand in two things in particular. One why do you assume the unsecured balances would be going flat given the cards book was down 9% in the second quarter?"
+  },
+  {
+    "person": "Raul Sinha",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And then secondly if I look at divisional trends and this is hard to judge on a quarterly basis, but on a half yearly basis it looks to me that commercial NII is down 16% year-over-year with retail NII are going down 7%. So if you could shed some light on what's driving those two trends would be helpful?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Sure. Thanks Raul for the question. You have to let me know whether I miss anything in answering your question, but I'll do my best. The H2 margin guidance that we've given, first of all, I think it's just important to say that our Q2 margin guidance came out pretty much exactly as expected when we gave you the guidance at Q1."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "At that point we wanted to give you guidance for how the business would operate in a challenging economic period through lockdown but we did not want to give you guidance for a period beyond that until we are quite deliberate in that."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "What we're giving you today is the guidance for the margin in Q2 which is predicated upon the macroeconomic outlook that we've got and the balanced development across the business in response to that."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "So, if I just spend a bit of time on that the margin guidance as mentioned in one or two comments in the presentation just given, for H2, it's driven really by four factors, two positive, two negative and they more or less offset off the back of the Q2 margin of 2.40 that we've seen."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "The two positive factors are the evolution beyond interest-free overdraft which is obviously helpful from an unsecured perspective. And indeed the tailwinds for deposit repricing which we expect to see across Q3 and to a degree into Q4."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "The headwind to the margin around rates and structural hedge. We expect about €15 billion of the structural hedge to roll off in H2. And then secondly, mix contributions which in turn are coming from cards, from loans, to agree from overdraft. These are all in higher-margin products which we expect to have sustainably lower balances going into H2."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Now, when we look at that it's important to make the comment that that is very much tied to our view of activity in H2. And so if you look at our macro assumptions, we think they're relatively prudent in the H2 context. They're felt out as you know in the presentation itself and also quarter-by-quarter in the RNS statement."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "But they're relatively -- we think relatively prudent macroeconomic assumptions which then lead to the development of the balance sheet that underlies it. When we look at that balance sheet we're looking at around 5% to 10% down from June levels for the development of the unsecured assets so cards loans motor on average 5% to 10% down by virtue of new business being further pickup and repayments continuing pretty much as they were before."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Now, one can take varying different views on that. That's our view. If one takes a more benign view of economic activity then you would expect that to feed through into balances which in turn you would expect to feed through into margin."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "We're trying to put everything together in a consistent manner and give you what we believe is a reasonable picture, but also a prudent picture of things as they develop over the course of H2."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "A similar picture on OI. When we look at OI there's a couple of points that are worth drawing out. We have one item within the H1 numbers as I mentioned in the commentary which is the liquidity premium methodology change. That's about £90 million in the OI number. That isn't going to repeat in H2."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "We also have an asset management market review charge which I won't put a number on but it's somewhere between £50 million to £100 million depending on how it works out. And again that's a headwind going to OI in H2."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "There's probably overall relatively subdued activity again in line with our overall macro forecasts which then leads the OI picture being probably off a little bit as we go forward into H2 although we're not giving explicit guidance on that because again it is so activity dependent."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "I hope that answers the first kind of couple of your questions there Raul. You also mentioned a question around commercial NII versus retail. There's nothing special really to call out there. It's just the margin development off the back of the different products written."
+  },
+  {
+    "person": "Raul Sinha",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Is there no impact sorry from the guaranteed schemes on the NIM in commercial? Or is that not material?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Well, there is an impact from guaranteed schemes or the covenant-sponsored lending activities within commercial. And it comes through in CBILs and it comes through BBLs in particular. But I think the overall impact of that on commercial margin in H1 is pretty modest on the whole. So, I wouldn't want to belabor at that point."
+  },
+  {
+    "person": "Raul Sinha",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Got it. Thanks so much."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Thanks Raul."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Next question comes from Aman Rakkar, Barclays. Please go ahead, you're live in the call."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Good morning gents. I just had a couple of questions. Just on the NIM. So, I note your comments around mortgage margins it does look like they've widened pretty handsome there. Thanks to that data point on the 170 basis points. Does any of your NIM guidance basically factor in better asset margins? I mean are you basically assuming that it's not sustainable? Or is there any way of us to think about that potentially being a source of support the NIM if these levels can sustain themselves?"
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "And if so could you -- I don't know if the current dynamic prevails, so 170 basis points? Could you quantify what that benefit could be perhaps on a full year basis, if the current levels sustain themselves?"
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Just a second question on other income, it's basically pointing to something like £1 billion run rate in each of Q3 and Q4. So it'd be great to clarify that. And just get a view on, what is the underlying run rate for other income now? I mean, it seems like that's quite a noisy line. And I appreciate its activity based. But based on your view of a recovery in 2021, what might be a kind of normalized, underlying run rate for other income that we should think about kind of modeling next year? Sorry just a final one on, capital."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Yeah."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "I mean, there's quite a big gap between fully loaded and transitional. It sounds like, you're going to basically, close about half of that gap towards year-end, given stage migration. But I guess in the context of potential distributions, is that you may or may not be able to take in Q3 you typically tie that to your CET1 ratio. I mean should we be thinking about your capital, when you think about how much capital you have? Should we be thinking about the fully loaded CET1 ratio? Or versus what might be 40, 50 basis points higher, including the transitional release? Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Thanks, Aman. Yeah, there's a few questions there. So again, I'll hopefully address all of them, but let me know if I don't. First, the question was on the mortgage new business margin. As you say, that has been pretty favorable over the course of the last few months and that continues today."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "I think over recent quarters, I would say that the mortgage margin has been around 160 to 170 basis points. It's a blend of new business. But also product transfers i.e. retention and it is greater than the maturing front book which is an important point, because essentially what it's saying is that the, price at which we are putting on new incentive-based business our two-year, three-year, five-year fix whatever it might be, is better than the same incentive business is dropping off the book from previously written years."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "So that overall mortgage margin is evolving in a positive way. The extent to which would impact on the overall group margin, will very much depend upon volumes. Volumes have been positive, certainly over the course of the last few weeks. We don't know to be fair whether that is pent-up demand or whether that is an ongoing sustainable flow. We very much hope the latter, but its early days to make that call."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "To the extent that it is a sustainable flow that goes on into H2, then again, off the back of better activity, one would expect that to feed through into the business. The other point in the mortgage margin that's maybe worth making is that the SVR attrition has come down a little bit. And that obviously helps as well."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "We've seen SVR attrition in previous years as you know, circa 15% or so. That's coming down to levels of around 11%, 12%, depending on a particular time. But it's coming down, I suspect as a function, again of lower levels of activity. But that seems to be settling in, over the course of the first half of this year."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Moving on to OI, I'm not going to give kind of trend lines, if you like for OI. Because again, as we've discussed before it is, very activity based. And we do see OI trend very much according to the macroeconomics, that we put forward."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "The other OI point that I would call out again, maybe other points to Raul's question is, when you look at the first half in particular, you have to knock out the ILP methodology change. That will bring us down from about 1.25 to about 1.15 or 1.16 or thereabouts."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "We'll get a one-off headwind from an AMR charge, most likely in H2 probably within Q3, we'll see. And then I think, beyond that, we'll have to see how markets develop. At the moment, for example, in the commercial space we're seeing very strong market activity just like most banks. We would hope in Q2 that we'll see some return of transactional banking activity, in line with economic activity, as a general matter."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "At the moment, we're not banking on it, but we hope that that may be a positive development in that context. In retail, it very much depends on payments flows. You've seen as António mentioned some positive developments, in payment flows lately. But credit card is still a little bit behind debit card. And it's really the format that would be helpful in terms of our overall payment streams."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "And then finally in insurance, we're seeing relatively subdued core product markets. There are some comparison points there, as I mentioned in my speech with H1, but we're seeing low interest rates for example are putting a bit of a dampener on annuity markets, albeit our single -- our individual annuity market is actually doing very well."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Our bulk annuity markets on the other hand like most aspects of that business across the sector are relatively slow, and that's kind of echoing into way across."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "So again I'm not going to put trend lines on the OI number. But I think, we'll see a bit of a slowdown in the course of H2 versus what we've seen in the course of H1, but I wouldn't want to overplay it too much."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "CET1, third of your questions. CET1 we have a fully loaded ratio of 13.4. We have a ratio including transitionals of 14.6. That's 120 basis point difference, which as you say is bigger than we've seen it for some time, obviously, because of the change in transitional regime in the first half of this year. You said close half of it. It's not going to close that much. We're looking around 40 basis points in the second half of transitionals running off."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "So in my earlier comments, the piece that runs off if you like is roughly half of the increase in transitionals that we've seen in H1. The increase in transitionals is 80 basis points. We expect about 40 of that to run off in the course of H2."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Now importantly that depends upon the evolution of assets through Stage 1 and 2 and into Stage 3, which is the point, at which they drop transitional relief as you know. So based on our macroeconomic forecast, the 40 basis points gives you an indication of how that will play out. If developments are slower than we expect, so the transitional runoff will also be slow."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "The final part of your question, Aman was do we look at fully loaded, or do we look at transitional? We look at transitional ratios when we look at the CET1 ratio and discuss it as to where we stand. But to be fair, we also look at the economic outlook and we also look at the pattern and pace of regulatory change, expected regulatory change."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "So in some sense at least we're looking at both numbers in terms of how they move. The headline number that we look at is a transitional ratio. But we are also conscious of the economic outlook that we go into and also conscious of regulatory change in both directions positive and negative as it plays out over the course of the coming period."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Perfect. Thank you very much."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Thanks, Aman."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Next question comes from the line of Andrew Coombs, Citi. Please go ahead. You're live in the call."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "One clarification on slides and then a second question capital return. On the slide, thank you very much for the coverage ratios that you provided. And in particular thank you for your adjusted coverage ratio on credit cards adjusting for the charge-off policy."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "I think you said that Stage 3 will go from 44% to 67% after adjusting for that. Can you just clarify the 21% on Stage 2, what would that equivalent number be, if you adjusted the charge-off policy? So the -- four months to 12 months, it's beautiful for us for comp analysis?"
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Second question on capital return. I appreciate early days, but I wanted your opinion on two trains of thought. The first, of which is historically you've always had quite a large dividend and then you've supplemented that with a smaller buyback. Going forward, would you consider doing the other way around? A bigger buyback and a smaller dividend is both given where your share price is trading at a discount book but also the flexibility that would give you? And then a second attached question to that would be, how do you think about your payout policy overall? Is it a function of earnings? Or is it a function of the excess cap of above the MDA? Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Yeah. Thanks Andrew. Just to address each of those. The Stage 2 as you know is not in default. So as a result we don't adjust it and we don't provide the kind of pro forma number that you have seen on Stage 3. In Stage 3 as you pointed out in your question that's really all about taking account of assets that actually have defaulted and saying well if they were still on our balance sheet 100% covered, because they have defaulted and we have written them off then what would our stage three look like? So that kind of pro forma comparison really only made sense to Stage 3 where we've effectively written it off, therefore, taking 100% coverage and we adjust it back into the numbers for a comparison purpose."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "The second point, capital return, it's an important point. The capital strength of the business is clear for all to see really today. We've got 14.6% transitional. We've got 13.4% fully loaded if you like. Doesn't matter, which way you look at it. It's a very strong capital ratio relative to our internal targets and relative to our regulatory requirements."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "When we -- as we look forward, the capital policy for now as we stand here in late July remains the same as it was. It will be for the Board to consider what the capital and indeed the distribution policy should be at the end of the year. And I'm sure that one of the factors they'll take into account there is where do we stand both upon the expected developments that we thought we would see in H2 and what we might see in 2021 looking forward. I'm sure they will also take into account dividends and buybacks as alternatives as you say, but really that is a matter for the Board at the end of the year. And today, our capital policy remains kind of as it was if you like. Now, Andrew, I didn't quite catch the tail end of your final question which if you could repeat it, I'd be happy to try to address."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Yes. So the capital return question was the split A, the split between buyback and dividend; and B, how do you think about the capital return? Is there a function of the excess capital above MDA? Or is it as a function of a payout ratio of earnings?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "I see. Yes okay. It's that last part then maybe I'll cover. As said, I think it was all in the context of what are today and what we frankly expect to continue to be very solid capital ratios going forward. But the matter of distribution again is really for the Board at the end of the year. They'll look at a variety of different parameters. We look at capital metrics including the MDA and the buffer above MDA that we choose to have is certainly one of them. We look at one or two other metrics as well including external and our internal stress tests."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "The other ingredient to all of this is not surprisingly the outlook that we see. And so as we progress towards the end of this year again we'll take into account both what we've seen based upon what we believe are relatively prudent economic assumptions and also what we expect to see going forward in 2021. And then I think the Board will be positioned to decide on capital distribution at that point."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Thank you. And I guess just coming back to the first question on cards in that case. I appreciate your point on Stage two and Stage three and Stage three as well taking a charge-off through. I guess the issue is, when we look at your Stage three coverage, it does look comparable to peers as stage two coverage looks at all like. So any thoughts on why your Stage two coverage should be a little lower than some of your peer groups?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Yes, happy to answer that Andrew. It's worth bearing in mind that the cards portfolio that we have is a prime portfolio and frankly has been increasingly prime over the years. It is lower risk versus others and we show you some delinquency data in the presentation that we think lend testimony to that. There are different charge-off policies in that fair enough. But nonetheless even after you adjust for those we think the delinquency point stands."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "We're also based on external data externally available data CSL is having lower balances and higher credit scores versus others. And again that's based off of external data rather than our own internal observations. And then, we have that charge-off policy. But as you rightly say that's a stage three point as mentioned earlier on. So, I think the overall portfolio strength that we see combined with some of the deleveraging that we've seen in the first half of this year including amongst high risk customers who have been around 5% deleveraging on that cards portfolio. Makes us feel very comfortable in terms of A, our prudent macroeconomic assumptions; and B, our coverage levels within that."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Thank you. Thanks a lot for taking the questions."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Thanks, Andrew."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question comes from the line of Robert Noble at Deutsche Bank. Please go ahead. You are live in the call."
+  },
+  {
+    "person": "Robert Noble",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Good morning all. Thanks for taking the question. Just clarification on NIM. If I look out to 2021, is 240 the level that we should be thinking of going forward? Or do you expect for that to improve in forward years? And then secondly, if you look at the kind of returns or normalized impairments that you're getting given the lower margins and lower activity okay so things should rebound a little bit but it's going to be much lower, what are you going to do about it in the long run to kind of get your returns to sustainable premium to cost of equity? And is it worth looking at collapsing the multi-brand strategy now given the high demand?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Thanks for the question, Robert. Just for my own clarity the second part of your question was on returns on the business as a whole. Was it?"
+  },
+  {
+    "person": "Robert Noble",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Yes"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Yes okay. Thank you. Again thanks for the question. On the interest margin point, as you know, we're not giving 2021 guidance today. So, I want to kind of steer off of that. It is fair to say without giving that guidance, it is fair to say that we're going to have an interplay in 2021 on the net interest margin line between what the levels of activity and how fast are those return what are the product margins? How does the structural hedge play out in the course of that year? So all of those things as you can imagine are going to be played into the margin."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "I do think that it is worth calling out here a very unusual dependency right now between activity levels and the margin. And that is simply because, it's activity levels that are driving relatively subdued levels in H2 of unsecured in particular as those activity levels start to get back to normality, so it tilts balances and tilts the margin. So that dependency is particularly acute right now. And you'll hopefully see that play out in a more benign way during the course of 2021."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Same is true as we turn earlier on of other income. And so, if you see the activity levels to turn if you see a stronger macro, we're geared into it. So the guidance that we have given is and remains for 2020. We're comfortable with that within the given macro context that we are describing there."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Now moving on to your second question returns on the business. Again the -- I don't want to give guidance on anything beyond 2020 at this stage. And as I said the strategic review work that we're doing very much carries on its business as usual in that respect and we'll be launching a strategic review in the course of 2021 in line with the new CEO."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "The point that I would make though is that historically this business has yield -- has yielded returns on equity that are systematically in excess of the cost of equity, I don't over the long term expect that to change. As we look at our own internal dynamics for the business, we look at the business model, we look at our outlook even in a flat rate environment and with stable margins and with the initiatives that we have across the business then we see ourselves being back to ROE in excess of cost of equity within two to three years recognizing that '21 is likely to be a transitional year. So without giving to further detail, I mean that gives you hopefully a bit of a shape to answer your question. António is there anything you would like to add?"
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "António Horta-Osório"
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "Yes. And Robert to add and build on what William just told you. I think you -- there are two important points to add on your question. The first one is, our multi-brand is a core part of our positioning and our strategy in the U.K. If you look at Halifax brand which we position as a brand across the whole of the U.K., while Lloyds and Bank of Scotland are basically the high street brands in both Scotland and England and Wales, Halifax scaled across the whole of the nation and has a completely different customer base."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "So Halifax when you look at segmentation by attitudes and by what customers want, they are very different from the Lloyds and Bank of Scotland customers which are similar in terms of attitudes and segmentation although geographically separate. And we -- as a result we have a very low overlap of the two brands. And one of the key points which I thought enabled us to have a much lower cost-to-income than others is this capacity of segmenting through the brands."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "And at the same time, we have centralized everything that the customers did not see. So a single finance function, a single HR function, a single risk function and that in my opinion although, we have slightly higher costs given that the brands are different and have different offerings, we have as a whole better segmentation so higher income and a much lower cost to income. So that is a key part of our proposition."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "And relating -- the second point I would like to make relating to your question is that the reason why William and I are very confident that this business has all the capacity to pay and to have a return on equity above the cost of equity is, exactly as well because of the cost-to-income because we have a very significant advantage in cost-to-income versus the average of the sector and any of the other peers."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "As mentioned before and on my presentation that this is a fundamental competitive advantage when you think that it enables us to create capacity to invest more in the business which through automation and other mechanisms lowest costs continuously and through a better customer experience improves NPS scores and therefore revenues over time, that makes the cost-to-income over time also go down and creates a virtuous circle as I mentioned which also enabled us to pay overtime superior returns to investors."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "When you look at the cost-to-income in the current pandemic environment, you see an additional advantage of this cost to income which is that it enables us to extend much higher and expected shops in terms of provisions given that a low cost-to-income means a much higher pre-provision profit as a percentage of revenues."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "So I think this is a really important thing. And in the end as you know cost discipline is key in several dimensions and it is really the only lever which is totally within management control. And our track record I think is clear in this area."
+  },
+  {
+    "person": "Robert Noble",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Great. Thanks very much."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Thank you, Robert."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question comes from Martin Leitgeb, Goldman Sachs. Please go ahead. You are live in the call."
+  },
+  {
+    "person": "Martin Leitgeb",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Yes. Good morning. I just wanted to follow-up on earlier comments in terms of how to think about margins. And I was just wondering looking at your base scenario of a roughly 6% decline in house price index. What kind of offsetting factor could that be from the SCR book? Could there be a scenario where the attrition in the outlook could slow down significantly or even come to a whole, if house prices were to fall according to 3-year scenario? And just given the sheer quantum of contraction in card debt year-to-date, I was wondering this seems to be a very unusual recession in terms of the speed of the economic impact. Could there be a scenario that we could see an equally fast speed in terms of recovery and was that build up in terms of credit card book again from 2021?"
+  },
+  {
+    "person": "Martin Leitgeb",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "And the next question, I was just wondering what you hoped with regards to the discussion around negative rates in the U.K. is just number one is the bank prepared for it? And maybe if you can help us with a sensitivity in terms of how much of an impact in terms of revenue headwind would be the introduction of negative rates in the U.K.?"
+  },
+  {
+    "person": "Martin Leitgeb",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "And finally on Brexit, I was just wondering I mean given where discussions are going in terms of the future agreement with the European Union, what potential impact do you see for your business going forward in terms of activity levels and so forth? Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Yes. Thank you, Martin. I think there's four questions there which I'll work our way through. The -- first of all on the NIM and the SVR position in particular there. As you know, on the net interest margin for the second half of this year, we called out four factors two positive and two negative. I would rehearse those again. But in addition to those four factors, there are as you rightly point out, one or two other pieces going on the higher mortgage rates we discussed earlier on. The SVR churn is a further one of those. Built into our modeling is a sort of very kind of historic path dependent view on the SVR attrition, which isn't all different to what we've seen over the course of the last year or so. But it does not take into account the SVR tradition -- sorry the SVR attrition at levels as low as we have recently seen them. And I think the SVR attrition recently has come down partly because activity is lower in the mortgage market. And I suspect that if we see that play out and maybe augmented as you say by HPI folds one would naturally expect that to have some relationship with SVR attrition i.e. if HPI does fall you would expect SVR attrition to perhaps be a little bit slower off the back of that."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "We saw that a little bit in the course of the last cycle. So we might see it in the course of this one albeit in the last cycle as you know the HPI hit was not particularly significant. So there could be a relationship there. We're not banking on it. It's not built into our expectations. But it is possible. Second point cards debt could we see a recovery fast? In the sense this point goes the other way. I think the answer to your question is, yes. One could see a very fast recovery. And we saw some of the early call-outs from the United States in particular, when some of that recovery was evident, so that may be backing up a little bit recently in the U.S. But nonetheless, it does illustrate the point that actually this is something that could turn around relatively quickly."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "I hesitate to be kind of too anecdotal about it, but you look at the holiday experience over the course of the summer. If that ever gets going in earnest, then you would expect payments volumes and in particular credit card payments volumes to accelerate off the back of that. And those transactional revenues are important to the business."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Likewise, you would expect expenditure on consumer durables for which credit cards are normally used to start to increase. And so, we could see a relatively fast recovery in the card book. As I said, we've seen that in debit. We haven't seen it in credit. Our economic assumptions are what they are and are set out in the presentation materials. They are not banking on that recovery. To the extent that it occurs, it could be fast. And if it does, one would expect that to reflect itself in the business."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "Yes. And William just to add a point on what you just said which might be helpful to Martin in terms of the overall picture in unsecured because you're right Martin that could happen something that would go into the direction of your question. Because if you look at consumers' behavior so far during the pandemic as both William and I mentioned, the consumers are absolutely doing the right thing in the sense that they are decreasing leverage and they are increasing savings. So from a risk point of view they are taking the time of the furlough scheme to adjust their behavior in a prudent way. And if you look more broadly macroeconomically, you can see that the total unsecured debt as a percentage of disposable income is now more than a third lower than pre-crisis levels. So when you go to 2006 unsecured lending as a whole was around 22% of disposable income and the latest numbers are only 14%."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "And I should remind you that 14% includes 2% of guarantees through the PCP contracts. So it is more than a third down. And in that sense consumers would have room if the economy is quicker as you say than expected to put on more consumer debt given they have deleveraged very significantly and rightly so. And they are using as I said, the support measures from governments in order to continue to deleverage which puts them in a more prudent and stronger position."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "The third of your questions Martin negative rates. Negative rates is a difficult call actually. There are many different forms of negative rates introduction as you know. I mean, first of all the debate is not there yet. It seems that the bank is committed Bank of England that is committed to trying out other forms of stimulation including in particular QE before we get into negative rates territory. And that stance is one that I think has been pretty clear."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "If it gets into a negative rate of discussion then I think there are very different forms in which negative rates can play themselves out or be introduced into the economy. There are also a number of different offsets that the government could put in place or the Bank of England rather could put in place to offset against the effect of negative rates as it plays out in the banking sector."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "And so TFS SME is one example of that or TFS more generally is one example of that. And whether or not there will be any compensating negative funding benefits for the bank to draw upon from the Bank of England would obviously be a question in terms of the negative rates impact on the overall business."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "And then further all pricing strategies. We note the pricing strategies that have been adopted in Europe, particularly for commercial and large corporate accounts for charging for balances. We have not taken any view on what our pricing strategies would be in a negative rate environment. But the point is it is noted if you like that there are pricing strategies that could offset against the impact of negative rates depending upon how they're introduced."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "I think there's no doubt overall, negative rates are for the banking sector as a whole, not especially good news. They haven't been particularly in Europe they haven't been particularly in Japan. But I think there are a number of questions and indeed offset to the negative rate debate, which in turn would considerably soften the impact if it ever got there."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "But I think my concluding point on that would be to say we're not there today. And there's nothing that we're hearing at least that suggests that we're going to be there tomorrow but it is a risk as you're right to point out. It's a risk that's out there."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "And then finally Brexit, the multiple economic scenarios that we have taken as you know encompass a range of different outcomes. We've taken a base, a downside and a severe downside and actually an upside, which if you look at it closely is not terribly different to a base and therefore we think relatively conservative."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "But the severe is really as the name suggests quite a severe downside, for which we take a 10% weighting. That includes things like HPI, down 30% over the forecast period. It includes things like 12.5% peak unemployment. It includes things in 2020 actually 17% GDP and thereafter a relatively slow improvement in the succeeding years. So severe is deliberately and self-consciously quite a severe downside."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Now I don't know what Brexit will throw at us but I would very much hope that our severe downside encompasses more than what Brexit would trade us. And so again we don't have a Brexit overlay. We don't have a Brexit output. But we do have a set of MES assumptions that we think are pretty prudent and we believe should encompass some, if not all of what Brexit would throw at us."
+  },
+  {
+    "person": "Martin Leitgeb",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Next question comes from the line of Guy Stebbings, Exane. Please go ahead. You’re live in the call Guy."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Exane",
+    "text": "Good morning and thanks for taking the question. Firstly just wanted to talk about RWA growth and your guidance there so the flat to modestly up. Given some of the comments you made around assumptions on unsecured shrinkage and growth coming from lower risk-weight dense assets. Should we assume that that is building quite a reasonable amount of negative credit migration? Or is there anything else going on that you point to."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Exane",
+    "text": "And then secondly, I just wanted to ask on the insurance business and the solvency position which dropped 140% if you could talk us through your risk appetite there in this environment? Any actions you might take or indications for future insurance dividends would be helpful. Thanks."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Yes. Thanks very much, Guy. Dealing with the first of those two questions so far. The RWA growth point. So far it is worth saying credit migration has been negligible in the overall business. I mean if you look at the developments during the course of H1, the contribution of credit migration in that -- in the RWA development has so far been very, very limited. Coming to both corporate and retail. In fact retail to the extent there has been an increase in RWAs it's actually because of countercyclical models off the back of benign arrears development in Q1 of this year, not because of a worsening of the situation. Commercial has been more traditional credit migration. But in H1 of this year it's been less than £1 billion. And so I think so far we've seen very little. As we go forward, the RWA picture we described as you know is flat to modestly up. And we've deliberately left ourselves a little bit of room there just to reflect certain degree of uncertainties and perhaps a little bit of temporal volatility around RWAs. As I say you might see a few ups and downs on the RWA picture."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Now within that what do we see? We see obviously some linkage to volumes. So to the extent that we see unsecured coming off there's some benefit in -- some impact or benefit from that in terms of the higher RWAs associated with it. It's not huge, but it's there. There's also a question around regulatory forbearance and how that will play out? To the extent that interest-free overdraft for example have continued which we don't have any particular reason to believe they will be but if they are then it will be contingent upon us asking a customer if they need that overdraft. If they do need that overdraft and that in turn would have a RWA impact upon us as it will be treated as forbearance. It also depends on default development. We've obviously got a view in our base case of how defaults will develop over the course of H2. That in turn drives RWA impact."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "And then we're carrying on with our optimization activity in the commercial book through which we expect that we will offset a lot of the RWA development that might otherwise take place. And then somewhat deliberately last on the list the credit migration. Credit migration is obviously quite uncertain. We don't anticipate it to be huge. We do anticipate it to be offset by optimization of setting commercial over the course of H2. But we are deliberately leaving ourselves just a little bit of willing [ph] ability if you like in the RWA numbers by saying flat to modestly up. And that is simply because of those uncertainties that I've just described. A good outcome for us would be flat. I think an outcome that would be slightly less than we would hope for would be modestly up and that's the kind of range guidance that we're trying to give."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Insurance, Guy. Second of your three questions. The insurance solvency level as you rightly point out is 140%. That is pretty much in line with what we would ideally seek to run the business by. Occasionally, we'll have a little bit of a cushion above that. Occasionally we'll have a little bit of a drawdown below that. But 140% is not far off what we'd like to see the insurance business run itself on in a kind of an ongoing basis. As we look at that going forward there's kind of a number of points there. I mean obviously there's the ongoing business which will build up the solvency through earnings contributions if you like over time."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Secondly, there are kind of risks in terms of the development of the economy and potential downgrade risks going to the second half and those are getting the other way. So the contribution to that insurance solvency ratio goes both ways. I think overall when we look at the portfolio of credit exposures within the insurance business, we see them as being generally a very high-quality self-portfolio. If you look at the annuity backing portfolio for example £17 billion. 40% of that is AAA or AA rated. If you include single A it's 75% and it's only 1% percent investment grade."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "In the half year-to-date, we've seen 87 downgrades so really very modest round rate at the back of that portfolio. And again, we look at it as a high-quality portfolio going forward. So when we look at the insurance company as said 140% solvency feels about right. As to your question as to dividends out of that business, again, we'll have to take a view as to what the economic outlook is like how the business is performing. And there will be no payment insurance Board and for the group Board at the back end of the year."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Exane",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. We have time for two more questions. Your next question comes from the line of Fahed Kunwar, Redburn. Please go ahead. You’re live in the call."
+  },
+  {
+    "person": "Fahed Kunwar",
+    "role": "questioner",
+    "position": "Redburn",
+    "text": "Hi. More than thanks for taking my questions. I just had a couple of questions all on margins I'm afraid. One of your peers talked about the deposit cuts coming in at the back end of the quarter in the U.K. and then potentially have more cuts coming through this quarter. And are there any deposit cuts that happens and how much headroom, do you have on the liability side of the balance sheet?"
+  },
+  {
+    "person": "Fahed Kunwar",
+    "role": "questioner",
+    "position": "Redburn",
+    "text": "The other question, I had was just on back book from the mortgage. I appreciate you said the SPR cushion is slowing. But can you give us numbers on what the back book versus the comp is on your mortgage portfolio? And my third question kind of ties it together. I appreciate there are kind of pluses and minuses on margins. I understand right now your hedge is annualizing at £1.2 billion net that's 25 bps that is going to just pay on the yield curve steepen."
+  },
+  {
+    "person": "Fahed Kunwar",
+    "role": "questioner",
+    "position": "Redburn",
+    "text": "I'm assuming your back book comp is negative as well. So there's quite a lot of just mechanical pressure on your margin probably kind of in the region of 89 bps per annum just before even think about activity levels. So am I right in thinking too quite a lot of positive things to fix the margin does it keep deteriorating from here? Or am I getting something wrong on that? Thanks."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Yeah. Thanks for the question. I may repeat a little bit of what I've said here, but I'll do my best to be a bit more specific on the question, probably without going quite as far as you might likely to. When we look at the margin, as I said we've got a number of factors going on in it. You asked specifically about the deposit re-pricing so far and the headroom left for liability re-pricing looking forward. There's been a little bit a modest bit of deposit re-pricing so far in the business and we've seen a bit of that in the course of Q2. But as I said earlier on, there's more of that play out in the course of Q3 and Q4 particularly in the commercial business, which in turn will feed its way through into the numbers."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "I won't put a precise number on either what's been taken or what is to come, but just safe to say, there's been some -- there have been a little taken there is more to come in the course of Q3, Q4. That's all absorbed in our overall margin guidance for the remainder of H2."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "In terms of headroom left on the retail and the commercial liability portfolio the answer is there's not terribly much. We are close to flooring out on the liability margin. That probably doesn't surprise you very much in terms of where bases are and where as you know most of the products that are -- there is some --I mean, you can probably point to individual products which I won't list by name but there's probably some in certain product areas. It's within retail and commercial that you could draw from if you chose to. But at the same time, we'd be conscious of the longer-term picture in doing so and the desire to maintain the strength of the franchise in doing so. So, a little bit more to play for that, but frankly not awful long."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "In terms of the mortgage portfolio, I mean, I think it's an interesting development, because there's a lot of dynamics going on there. As we mentioned earlier on, we've seen recent quarters between 160 to 170 basis points on front end mortgage margins. That is better than the product that they're replacing on an incentive-based structure. So the blend of new business and product transfers i.e. retention is a better picture versus what is retained. That is supportive to the margin not negative to the margin."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "And I would suspect, just as we saw in the last crisis, when people's capital bases start to get hit, as they are doing in this crisis, and many of your competitors tend to withdraw products from the market. And that withdrawal of products in turn tends to be supportive of margins, not just in mortgages, frankly, but across the board. And so, that's what we saw in the last crisis."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "It may be that that's what we see in this crisis. It may already be feeding through into some of the mortgage comments that I just made. But I think one should be very careful before drawing the conclusion that we're on a kind of relentless downward path on margins. Actually, the experience of most banking crises is that when capital gets hit, margins actually tend to go up on compensation for that. And let's see whether that happens here. But I think that is -- that wouldn't necessarily be an unreasonable outlook to have."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "If I can just add two points on what William said, which might be helpful. I mean the first one on mortgages is that you have to bear in mind as well that given that the market has been shut for two or three months activity now is booming. And the customers are now doing transactions again."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "There could be more time than usually in terms of new business application margins translating into completions margins, because of this as of the coronavirus. So, normally you have 90 days between applications converting into completions. And this could take a bit longer. And so go into next year to the points William was saying and has mentioned in a question before."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "And the second point is about the mix. I mean we are forecasting a recovery next year. So GDP could go down on base case 10% this year, but up 6% next year. That should bring activity up and that should bring the mix again into the normal direction. And through mix with the credit cards, for example, recovering, motor has already recovered. You also will have an impact back on margin through mix as we now have credits negatively in the second quarter, as William was explaining this to revert next year."
+  },
+  {
+    "person": "Fahed Kunwar",
+    "role": "questioner",
+    "position": "Redburn",
+    "text": "Perfect. Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Thanks very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Given the time the final question comes from the line of Jonathan Pierce, Numis. Please go ahead."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "Yeah. Good morning, both. Quick questions please. Just to check my math on the structural hedge. All in yield 1.4%, I think the five-year swap today is about 50 basis points. You've mentioned, William, straight-line roll off over the next few years. So, are we looking from that component within margin a sort of 10 basis points headwind in year 2021, 2022? That would be the first question."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "The second question on capital on, obviously, the capital number is looking good at the moment. There are some headwinds building. The one I wanted to ask about though was pensions. Now you may just say, look, we're not telling you yet. But be interested in how those discussions are going given the fairly sizable contributions currently planned for the next few years there? Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Okay. Thanks Jonathan. On the structural hedge just to take the first of those two questions. The roll off, as I mentioned in the comment earlier on, is pretty much in a straight line. The weighted average life is now 2.5 years. The hedge itself has a life of about five years, so pretty much straight line within that five-year profile."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "I would be a little bit careful before necessarily directly correlating that to the income streams in a very precise way, because there are different maturities that have different yields attached to them. So, it might be a little bit bumpy. But I think in the absence of us giving you more precise guidance, I think just take that as an assumption but just be aware of that there may be a few bumps on the road."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "I do think that when we look at the structural hedge as you know we take a view that around protecting shareholder value and we take a view that is around protecting the consistency of earnings. And when we look to the structural hedges we seek to deploy over the coming years, obviously, we'll be subject to whatever it is the rates environment throws at us, but we'll also be judicious about what we do with the structural hedge and win to ensure that we both achieve income consistency and also shareholder returns."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "So the profile of it will depend upon how we reinvest the structural hedge over what time. And in that context what opportunities the rates market may give us and what the trends in the rates market may be."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "The capital price as you said and I would endorse, the capital position remains and will remain very strong. The contribution of pensions to that, it's worth just noting that our Pillar 2a has come down by 30 basis points in the second quarter and that is because we accelerated our 2020 pension contributions by around £600 million, which in turn led to RWA come down off the back of that and leads to our regulatory capital requirements if you like coming down at the back of that. So that's helpful."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "As we look forward and as you pointed out, we are also in negotiation with the trustees, which takes place as of the balance sheet drawn at the end 2019. That balance sheet is drawn into 2019. That's kind of close of play for negotiations if you like. We are in the process of discussing with the trustees about how we make contributions to the scheme going forward, taking into account all of their objectives but also taking into account our objectives. I'm sure that we will end up at a reasonable spot if you like that considers each of those two in a way that's mutually satisfactory. But I'm not going to go beyond that Jonathan just because it's the middle or even the start really of a negotiation."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "Yeah. Understood. It's interesting that the Pillar 2a has come down almost -- well it has come down in the same half year as those accelerated its contributions. Is that what you would expect going forward in almost instant decline in the Pillar 2a as these contributions are made?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "There's a couple of capital points worth pointing out as we go forward. We talked about transitional effect. And yeah we'll see exactly the timing of how that plays out. But the other couple of capital points are worth making are we have the developments are in the countercyclical buffer and we'll see how those play out during the course of the year. But at the moment it looks like there may be a 25 basis points equity release if you like in the context of the countercyclical buffer. There are discussions exactly how that will play out particularly in the context of its reintroduction in the year subsequently and that's up in the air clearly."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "The other point is intangibles. Intangibles would get around a 25 basis point benefit from if that comes through in the form that is being discussed for the end of this year. So it does not amount to 8.2 precisely Jonathan, but hopefully that gives you some guidance."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "Okay, brilliant. Thanks a lot."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "I'm sorry but we've run out of time. So I just want to thank everybody for dialing in. We'll contact all of those who are unable to ask questions and make sure that anybody who asked questions are able to do so to the IR team. So throughout after this call and during the course of today and tomorrow, we'll make sure that any questions that we answered do indeed get picked up."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "But I hope it's been a useful call. We've been going for now over 1.5 hours, which hopefully has given everybody an opportunity to both hear the speeches and to address some questions. Thank you very much indeed for dialing in."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "Thank you everyone."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Ladies and gentlemen, this concludes the Lloyds Banking Group 2020 half year results event. For those of you wishing to review this event, information for the replay is available on the Lloyds Banking group website. Thank you for listening."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

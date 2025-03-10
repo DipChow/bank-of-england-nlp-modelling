@@ -1,0 +1,1268 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] And our first question comes from the line of Giulia Miotto from Morgan Stanley. Please ask your question. Your line is on."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Giulia Miotto"
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Yes. Hi. Good morning. Can you hear me?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Yes. Perfectly."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Giulia Miotto"
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Okay. Fantastic. And so, let’s go back to the €0.80 dividend if possible. Could you just clarify the – sorry the timeline of this statute. So, the share buyback, if I understand it correctly is what it have been in Q4. And then, secondly, the 20 basis point off capital leaning to impart by the ECB. How that was big announcement speaking to that."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "That’s my first question. And then the second question, we have seen some changes in the competitive landscape in France and I was wondering if that has any implication for, the Group is considering any senior movement? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Okay. On the dividend, to be precise, the share buyback is going to be done in two steps. The first step can be done before the ending of the present recommendation of the ECB because it’s part of the dividend policy that we have announced to the ECB. Let me try to explain it this way. The ECB has granted us the authorization to pay this dividend with the idea that the majority shareholder is going to take the scrip dividend option as well as the mutual fund of the employees."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So, let’s say 60% of the dividend is going to be paid under the form of shares. And the conservative assumption, which is procurement with the 20 BPS CET1 impact at Group level is that the rest of the dividend is going to be paid in cash."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So the rest of the dividend is 40%. If a certain proportion of the minority shareholders choose the scrip option rather than the cash, it’s going to create additional shares and additional capital in excess of, I would say, as a conservative assumption that is made by us with the ECB and all these shares created in excess of this conservative assumption can be bought back and destroyed before the ending of the recommendation."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So, I don’t know exactly what will be the magnitude of this first layer of the buyback, because by definition, I don’t know what is going to be the pickup of the minority shareholder. It’s probably not going to be – that’s for sure and historically, it’s always been in the region of conserved. But I don’t know exactly what it will be this time and the only thing I know is that all these shares can be bought back before end of September."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Then, we will conduct a severance buyback operation, which has to wait until the ending of the recommendation of the ECB which will require a specific authorization from the ECB. So it’s not going to take place any time before the end of September whatsoever. And this second operation will be dimensioned in order to offset – to completely offset the last element of dilution that could remain after the unwinding of the switch and after the first layer of buyback."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So this is why it’s very difficult for us to exactly calibrate the amount of the buyback. So we’ve said that it can go up to a maximum of 5% of the capital that it fully depends first on the price of the share that we will issue in May. And second, on the take up of the minority shareholders. So, I don’t know if I am completely clear."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "I hope so. But I think that I have also answered your second question regarding the dividend which is that, the assumption of zero take up by the minority shareholders and so the assumption that 14% of the dividend is going to be paid in cash is the indicator that is coherent with this 20 BPS impact of CET1 ratio at Group level."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "As far as the competitive landscape in France is concerned, well, we’ve always been in a very competitive market in France, that’s for sure. And we’ve proven the regional banks of Credit Agricole on the one hand and LCL on the other hand, but also CACEIS for the wholesale banking activities that we know how to evolve in the competitive landscape and we know how to try and gain market share and gain customers."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So, we haven’t seen any significant changes in the competitive landscape in France especially in 2020. We’ve been focused on first adapting our set up to the environment and to the COVID crisis and second, try and continue to develop activities. But clearly, the landscape was competitive, remains competitive and we don’t expect it to be less competitive going forward."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Giulia Miotto"
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Our next question comes from the line of Jacques-Henri Gaulard from Kepler Cheuvreux. Please ask your question. Your line is open."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Jacques-Henri Gaulard"
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Yes. Good afternoon gentlemen. I have two questions coming back on the €0.80. The question is two-fold. First, I want to make sure that all that set up is really specific to 2020 obviously distribution. And then, if that’s the case, is there – are you going to update a little bit how you are going to break down the excess capital between acquisitions, capital returns, minimum fees requirement, is that changing on the back – from your 2022 plan on the back of what you have announced."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "That’s the first series of question. And the second one, it’s amazing how this set up is really showing how you are relying mode of interest within the Group between mutually between clients, between shareholders have really come to – which is big efficiency here. Is it’s something you could have done five, six years ago?"
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Or do you get the feeling that it’s only now in the way the Group is organized that there is something that could effectively be done. Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Thank you for your questions, Jacques-Henri. I think that I will wrap up my answer to all the aspects of your question in one, because actually, what we are doing this year is specific. We are in a specific situation which is a situation created by the constraints of the ECB."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "We are in a specific situation because we have this remaining 50% in the switch mechanism that wise to use one at a certain point in time and we have now the opportunity and we are certainly in a specific situation that is going to last because it’s part of our DNA, which is that we have this majority shareholders."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So indeed, we are taking specific measures to address the specific situation of this year taking advantage of the specific organization of the Group. But we are not going to repeat going forward this specific set up of elements, because don’t want to – what we are aiming at is, as Credit Agricole SA wants its shareholders is to behave like an investor-friendly vehicle."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So we find it relevant this year to address the specific situation by this specific set up of measures. But going forward, we will go back to normal cash dividend payout hoping that these constraints is not going to be in the future. So, what are we going to do to catch up with the rest of the dividend that it has not been paid in 2019, we will see."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "The idea is that clearly, we’ve seen that we will end up after all these operations with an excess of capital that will continue to be significant. Again, it depends on the price at which the new share is issued and so the number of new shares, probably after all these operations we will end up close to 12% in terms of solvency."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So which is far above our 11% target. So, we will have some when, but probably when the situation is clear, as to reassess and update our capital trajectory and this is something we will probably do in the course of this year."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Jacques-Henri Gaulard"
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Fantastic. Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Our next question comes from the line of Jean Neuez from Goldman Sachs Group. Please ask your question. Your line is open."
+  },
+  {
+    "person": "Jean Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs Group",
+    "text": "Jean Neuez"
+  },
+  {
+    "person": "Jean Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs Group",
+    "text": "Yes. Good afternoon. So, I will have to continue a little bit on the dividend. So the question I am asking very simply, will the €0.80 as far as I look in the past, it’s a bigger number than the dividends of the regular – of when it was supposed to paid. And I just wondered whether, so you just alluded that you could perhaps the next after 2020 because you have so many shifts from 2019 remaining."
+  },
+  {
+    "person": "Jean Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs Group",
+    "text": "But I just wanted to understand whether in your opinion and that you have said this €0.80 so to speak our precedence whether you think it’s from here acceptable if you have to go down again, you see a lot of companies don’t like to – the dividend go back down and as they call it a special dividend."
+  },
+  {
+    "person": "Jean Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs Group",
+    "text": "So I just wanted to understand your thinking for the slightly more forward-looking part of the DPS which is important for income funds."
+  },
+  {
+    "person": "Jean Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs Group",
+    "text": "And the second thing I wanted to ask is, on asset gathering and your strategy of plugging your product factory into networks. So for example now, you are doing this also, potentially the acquisition of Creval. But for example, we saw that the renewal of the agreements with certain banks has led them to choose open architecture which to an extent weakens, you could argue the competitive position or the exclusivity of some of your product factory."
+  },
+  {
+    "person": "Jean Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs Group",
+    "text": "I wanted to understand what you think is going forward in particular if the European banking landscape consolidates, whether you are thinking to grow faster in acquiring networks or bolting them on or whether you think you have more opportunities to strike new partnerships to offset the ones where maybe they weaken slightly going forward? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Thank you, Jean Neuez for your questions. Let me go back on your first question. What, it’s way too early to tell what we are going to do after 2021. It’s clear that in our mind we are going to pay €0.80 of dividend on the basis of total intended dividend I would say that was €0.70 for 2019 and probably around €0.60 for 2020. That means that we will have paid around €0.80 out of €1.2 of dividend that could be accrued on the basis of our 2019 and 2020 results."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So we think that we have the capacity to continue in the coming two to three years to somehow complement our normal traditional dividend policy for our shareholders. But having said that, I am not in a position to tell anything precise on what level, how it’s going to be spread, how it’s going to translate in terms of commitment and so on and so forth. It’s way too early."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "I give you a – I make you hypothetic in your assumptions. It’s just that if you take a look back, the mass of the ones that have just explained with we would have paid after all these operations, €0.80 out of €1.2."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "In terms of asset gathering activities and how we can continue to develop our capacity to distribute going forward, I think that you have seen that – we’ve been doing that in 2020 despite the difficulties of the year."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "The idea is clearly to continue to conclude partnerships and sometimes we are going to conclude partnerships with banks that are going to change their mind or be part of the merger of a merger that puts an end to the cooperation with us."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "But the idea is that we have the capacity regularly to conclude new partnerships, because our business lines are specialized business lines in the asset management, in the insurance business, but also in consumer credit and so and so forth are strong. They are attractive and they can provide our partners the capacity to enhance their offer towards their customers."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So, if some of our partner decides to put an end to the partnership or to enter into an open architecture, well, so we – again, we have the capacity and we have proven it again in 2020 to continue to pilot new partnerships in order to continue to develop the distribution capacity of all our business lines."
+  },
+  {
+    "person": "Jean Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs Group",
+    "text": "Jean Neuez"
+  },
+  {
+    "person": "Jean Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs Group",
+    "text": "Okay. So it doesn’t make buying banks more attractive when compared to the past? I know that’s…"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "No. No. No, clearly, the operation that we have launched on Creval is very specific and it’s directly linked to the fact that we are already a retail bank in Italy. So, we have the capacity to generate cost synergies, revenue synergies, funding cost synergies, by merging Creval and Credit Agricole Italia."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "But we don’t have the need to grab the control on additional distribution capacity. We still think that for banks that are successful in their banking business, in their core business, but need to enhance their quality and the variety of their product offer is attractive for them to enter into partnerships with our business lines."
+  },
+  {
+    "person": "Jean Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs Group",
+    "text": "Jean Neuez"
+  },
+  {
+    "person": "Jean Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs Group",
+    "text": "Okay. Thanks. Super clear."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Our next question comes from the line of Omar Fall from Barclays Bank. Please ask your question. Your line is open."
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Barclays Bank",
+    "text": "Omar Fall"
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Barclays Bank",
+    "text": "Good afternoon. Could you – can you hear me?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Yes, Omar."
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Barclays Bank",
+    "text": "Omar Fall"
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Barclays Bank",
+    "text": "So, just a couple of questions from me. So if I would assess the 800 million or so of stage one and two provisions, you are basically hitting your 11% ROCE target under the MTP without really doing anything else and bearing in mind you are carrying more capital than you target. Are you still happy with that 11% target?"
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Barclays Bank",
+    "text": "Because I guess for most banks this is a struggle to make a double-digit? So, I mean, assuming the macro environment continues as expected, what other headwinds should we think about for you not to hit that number? Is it just normalization of capital markets revenue? I don’t expect you to tell me that you are going to be target on none of them, just trying to think what are the potential headwinds?"
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Barclays Bank",
+    "text": "And then, just a higher level question, looking from your presentation, I do what’s mentioned of the topic of potential transformation of all the excess retail deposits from individuals because of the pandemic, the potential to shift these into linked products, mutual funds, I would have thought this trend would be a key one for you – for all the banks. Is that because you don’t see solvency with yet, or do you think these extra savings are just going to sit in, say deposits and indeed they are? Thanks."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Well, on your first question, it’s true that we have reached close to 11% return on tangible equity back in 2019. This year, we have had this additional stage one and stage two provisioning and this is part of – explain that we are down back to 9.3%, yes it is, 9.3% for this year. It’s a very good and very performing level. We continue to target to be at 11%."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "We see what will be the positive and negative elements that are going to help us and to preclude us from reaching this level. I am sure that there are still lot of uncertainties going forward. And so, I am sure that we will have to struggle to reach again this 11% level. And I am not in a position to tell that, of course, we are going to raise this target because we have been close to reaching this year if you restate the figures from again from S1 and S2 provisioning."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So, there can be headwinds. There can be tailwinds going forward. I think that our idea and our commitment is to try and reach the target with almost any time of combination of headwinds and tailwinds. The transformational side deposition into longer term savings products may, going forward it may represent an additional source of business for our insurance activities and for our asset management activities."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "We haven’t seen in 2020 a very strong trend throughout that type of move by our customers and what we have seen on the contrary is the permanently growing level of side deposits and they are impaired and whatever. Because there has been some, I would say, - from our customers and I think this is not going to change before the sanitary situation is – will be settled which we expect to take place probably middle of this year and not before."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So, of course, we are ready Amundi is ready, Credit Agricole SA is ready to make offers to the customers that would want to invest longer these amounts as soon as they have more clarity on their own future. But for the time being it’s not really what we see, but we are ready to of course, to be clear if and when the customers will want to make longer term decisions with their savings."
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Barclays Bank",
+    "text": "Omar Fall"
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Barclays Bank",
+    "text": "Great. And just a cheeky follow-up. But just the NII and LCL, very briefly, there is a big jump there that you mentioned driven by favorable refi conditions. Sorry, if I missed that. Is that TLTRO I thought you did in most of the acquisitions?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "I think it’s a combination of elements at LCL. The NII increases by around €30 million Q3 to Q4 and close to €50 million if I remember correctly, Q4-on-Q4. The improvement is due to a volume effect by definition loans outstanding are growing and it’s helping."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "It’s also due to the refinancing conditions and the TLC carry part of this and there is also we’ve mentioned that LCL and again it’s a benefit of the global group in which we are as that has sold down a portfolio of loans to Credit Agricole Europe, Credit Agricole Europe is looking for assets that are at the same time safe and more rewarding than bonds and LCL is keen to not to consume too much liquidity."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "And so, as they have sold a home loan portfolio for around €400 million of loans to creditor in the last quarter and it managed to lock a small but significant at the scale of the evolution of the NII capital gain on this sale. So this is part of the improvement of the NII in this quarter."
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Barclays Bank",
+    "text": "Omar Fall"
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Barclays Bank",
+    "text": "Thank you, Jerome."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Thanks."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Our next question comes from the line of Guillaume Tiberghien from Exane. Please ask your question. Your line is open."
+  },
+  {
+    "person": "Guillaume Tiberghien",
+    "role": "questioner",
+    "position": "Exane BNP Paribas",
+    "text": "Guillaume Tiberghien"
+  },
+  {
+    "person": "Guillaume Tiberghien",
+    "role": "questioner",
+    "position": "Exane BNP Paribas",
+    "text": "Yes. Good afternoon. The first question relates to Basel 4. Can you update us about the impact and if possible to give a bit of details on the timing and the array of where that will impact? The second question relates to partnership in consumer credit excluding the 89 million dispute on FCA Bank is only 50 million, we were used to 70 million or 80 million per quarter and so from the 51 of Q4, what would be sort of a new normal in Q1?"
+  },
+  {
+    "person": "Guillaume Tiberghien",
+    "role": "questioner",
+    "position": "Exane BNP Paribas",
+    "text": "And then the final one if I may, your current liquidity targets was announced pre- 5, article 104. So, are you going to reduce it? And so, if you can give a story of the next strategic plan of the story in one year? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Basel 4 seems to be the never ending story. It’s been postponed. So now the timetable is that, it’s due to enter into force in 2023 and we are still waiting for the draft proposal of the directive from the European Commission. And it’s going to placing positively up to probably 2027 or 2028 will be the full ramp up of the output through our mechanism."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So it’s definitely a long shot. And we don’t have full clarity as of now of the fine tuning of the different elements. We’ll be able to assess more precisely the impacts when we’ll have the draft proposal of the European Commission. But I remind you that, when you publish the medium-term plan, we said that this would represent a 60 bps impact on this CET1 of CASA when entering into force."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So, for the time being we keep this order of magnitude in mind, but we will fine tune better this and better assess this impact when we will have the draft directive of the commission, which is expected probably for this spring."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Nevertheless, I think that and this is also relating to your last question, I said earlier that we were going to update our capital planning going forward. We will be able to do that with integrating the Basel 4 impact and which also getting full account of this article 104, a. that has a positive impact that should lead to the – on the CET1 requirement considering the fact that part of the PR2 requirement can be covered with subordinated debt. So, clearly, this may lead to the conclusion that you have in mind."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "The different changes in the car financing business and in the consumer credit and car financing business, well I think that the reduction in the level of contribution this quarter is mainly due to the fact that besides the one off - positive one off effect on the FCA disputes, all these NPTs has booked like it gets directly at TACS additional provision in the last two or three quarters."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So this has – a slight decrease in the equity accounted contribution, but production of the car financing entities has been very good in the last period of the year, both in China and in Europe. And the other entities accounted for on this line are starting to recover also. So, I expect that this level you are mentioning is a little bit low point that we are going to be able to recover going forward."
+  },
+  {
+    "person": "Guillaume Tiberghien",
+    "role": "questioner",
+    "position": "Exane BNP Paribas",
+    "text": "Guillaume Tiberghien"
+  },
+  {
+    "person": "Guillaume Tiberghien",
+    "role": "questioner",
+    "position": "Exane BNP Paribas",
+    "text": "Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Thank you, Guillaume."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Our next question comes from the line of Tarik El Mejjad from Bank of America. Please ask your question. Your line is open."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America Merrill Lynch",
+    "text": "Tarik El Mejjad"
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America Merrill Lynch",
+    "text": "Hi. Good afternoon. Just a couple of questions please. First come back on the dividend. I mean, that needed some engineering, but that’s welcome. I was just wondering why you didn’t just stay the limits you have to be on ECB until the end of September and then do a big amount – big payments after that."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America Merrill Lynch",
+    "text": "Because, I mean, correct me if I am wrong, but so the way you will do which is that the ownership from the – to actually elaborate you will raise a bit, because even if you have the buyback, would that offset completely the share issues? If you can just correct me."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America Merrill Lynch",
+    "text": "And secondly, on the – on the capital, so the switch to repayments. Do you think that’s a trigger any lower below to your guidance on script or there was no concern from the ECB or any adds on in regards to that?"
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America Merrill Lynch",
+    "text": "And last on the cost of risk, I know we ask you all the time, but could you give us some indication of 2021 level of cost of risk, how it will be versus towards the slightly cost of risk guidance of 40 basis points. Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Thank you, Tarik for your questions. First question, why didn’t we simply wait for September and then pay an additional amount in the last quarter. Well, to be frank, this is what we have in mind for last year. We have in mind last year that we will wait for Q4 and in Q4, we will be able to pay something. And actually what happened is that for some reasons that we can understand it was not been made possible."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So, clearly, this year, we’ve decided that as we had the capacity with some engineering to immediately offer the optionality to our shareholders, we thought it was better and more assured for our minority shareholders to offer this optionality."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "One off directly in May as in a normal year and then, it’s our task to make sure that at a certain point in time we are able to do this share buyback that we have in mind in order to fully offset the valuation. So, this is why we thought this was relevant to put in place this engineering that you are referring to."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "This will or this may indeed lead to a certain dilution of the accessibility in the capital of CASA, that’s true. But it’s going to be minor, nevertheless and keep in mind that regularly year-after-year with this capital increases that are reserved to the reviews the size is limited somehow. So, all in all there are movements and accessibility has always been and is always be – is going to be in this region of 55% plus up to 57%, 58% whatever."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "That changed a lot. That’s contra of the capital of the Group and it was not a big grow back considering all the advantages that we are offering to our minority shareholder with this security and this optionality that we are proposing to them directly."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Is the switch dismantlement going to lead to a modification in the guidance? I don’t know. I am absolutely not in a position to tell and we see going forward once it will be performed and completed. How the ECB is going to react to that. It’s not being part of our reasoning. That’s perfectly fits. It’s a very difficult question."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "If we are right, i.e., if our analysis of this crisis is right, if our analysis of the fact that the public policies put in place to react to the crisis are right and up to now they have been right, then the pandemic is going to be monitored and kept to the controls somewhere in the middle of this year and if the different public support are not lifted too rapidly, we think that the improvement of the economic backdrop, it may be very sharp and even sharper than what most observers think."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "And so, clearly, we think that this should lead to a situation where the cost of risk in 2021 is going to be below the one that we had in 2020. But again, the main word in this environment is uncertainty and especially uncertainty on the timetable."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "There is, in my opinion the certainty on the fact that at a certain point in time the pandemic is going to be put under control and it’s going to be over. There is an uncertainty about the timetable, the precise timetable and that’s important to have in mind."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America Merrill Lynch",
+    "text": "Tarik El Mejjad"
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America Merrill Lynch",
+    "text": "Thank you very much."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Our next question comes from the line of Azzurra Guelfi from Citi. Please ask your question. Your line is open."
+  },
+  {
+    "person": "Azzurra Guelfi",
+    "role": "questioner",
+    "position": "Citigroup",
+    "text": "Azzurra Guelfi"
+  },
+  {
+    "person": "Azzurra Guelfi",
+    "role": "questioner",
+    "position": "Citigroup",
+    "text": "Hi, good afternoon. Two questions for me. One is on volume and the demand in the coming months, because there it seems some restrictions still in place and how would this affect the demand, especially, if we look at the corporate demand has been, if you want more stable in the fourth quarter in a sustained template and any color that you can give us on the state guaranteed loans there?"
+  },
+  {
+    "person": "Azzurra Guelfi",
+    "role": "questioner",
+    "position": "Citigroup",
+    "text": "The other question is on the large corporate and the revenue. It has been a bit soft compared to your usual – then also compared to PS and can you explain us if you are seeing any – do you guys got any plan to take care the currency consideration?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Sure, Azzurra. Let me start with your last question, because it’s quite – priority. It’s true that in some areas the SIC activities has performed well in Q4. But it happened in those areas we are not very present and which are those areas is the commodities markets and we are not active in the commodities markets. It’s the hedge fund segment of customers and we are not active towards hedge funds and it’s the – especially, it’s the U.S. based activities and we are smaller in the U.S. than most of our competitors – direct competitors."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So this explains why it can seem that we’ve been a little bit underperforming this quarter. But really it should drill down a little bit in the different activities that performed well as compared to the ones that were subdued not only for us, but globally on the market you will note that actually what happened in Q4 is perfectly natural and doesn’t show any kind of dysfunctioning of our activities."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So, I am very confident. On the contrary that we’ve improved globally our positioning in the field of CIB in 2020 and that this is going to be consolidated going forward."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Let me go now to your question about credit demand volumes and so on and so forth. It’s difficult to tell of course, what I can tell you is that we continue to be active and our networks continue to be active and we continue to have a certain demand for new state guaranteed loans. You know that the mechanism has been extended in France considering the fact that the business restrictions continue to be applied and we continue to see a certain level of credit demand and know that with this extension of the TLTRO benefits that we may claim from June 21 to June 22, we have now to follow the evolution of eligible loans between the beginning of October 20, up to December 21. This is the new reference to be eligible to the extension of the premium. And up to now, I can tell you that volumes since this date of beginning of October continue to be up on this perimeter in France. Okay?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "And the next question comes from the line of Pierre Chedeville from CIC. Please ask your question. Your line is open."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Pierre Chedeville"
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Yes. You can hear me?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Yes, Pierre, perfectly."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Pierre Chedeville"
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Okay. First question is regarding insurance and more specifically, I wanted to know if you are – you have mentioned a lot the partnership you want to develop to grow generally, but I wanted to focus on insurance and I wanted to know if except Italy, you had any expansion project in other countries and I was thinking for instance to develop a creditor insurance who your significant presence in consumer credit or other types of insurance products internationally, because in France, you are number one. And in Italy, you are already number 6. First question."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Second question, as most of us, we are trying to understand the magic between behind the very good figures in LCL and I was wondering where you are regarding as a private bank activity inside LCL, because we don’t see a lot of figures regarding this aspect of the question inside LCL and we know what, your main competitors are focusing a lot on private bank in their retail network."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "And my last question is regarding the TLTRO, one of your competitor explained us what he did and take any beneficiation in this account regarding the TLTRO because as you probably know, you have some holdings regarding the way we account for the TLTRO as long as we don’t use it. And it is that you have a more aggressive stance on this accounting point and I wanted to know why? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Thanks for your questions. First, regarding insurance activities, it’s not exactly true that we stick only to Italy in the development of our partnerships because you may know that we have concluded the partnership in Spain in order to develop a business of P&C insurance and we have also increased and actually pushed it up to 100% of stake in the capital of NOVO BANCO Insurance in Portugal."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So, definitely, we are not sticking only to Italy and we deem reasonable and possible to expand our footprint in insurance in other European countries."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "In addition to that, I want to mention that actually our creditor insurance business is accompanying our consumer credit business across Europe. And actually, we have been a creditor insurance company that is based in Dublin in Ireland that is proposing its products all across Europe with the European passports alongside with our consumer credit activities."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "And so, actually we are active in creditor insurance and we give a lot of the sales of creditor insurance products across Europe simply by accompanying our consumer credit business."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "At LCL, well, I think that is performing well globally. LCL has been choices in terms of focusing its development in certain areas in terms of being very customer-centric and customer-oriented. If I take the figures of the assets managed by LCL, the figure was €46 billion at the end of 2018 and it’s now €54 billion."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So it’s a strong increase actually in two years time at the same time, the - wealth management, so the dedicated private banking entity that we have. Assets under management, which are higher in terms of volumes where a little bit decreased because of the refocusing of the business that we’ve undertaken."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So, clearly, the development of the private banking at LCL is quite dynamic and this translates into the increase in the fees that LCL gets from this activity. So this is another element of explanation of the good performance of LCL."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Pierre Chedeville"
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "And regarding the TLTRO?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "And regarding, excuse me, regarding the TLTRO, excuse me, we have directly accounted and accrued the benefit of the first premium, the one that is going from June 20 to June 21. We accrue it as time passes by on the basis of this period of one year, simply because we have already reached the condition that is – that has to be satisfied to get the premiums."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So we didn’t see why we should accrue this premium over two years, when the condition was already met. And what we have seen when studying the publication of all our competitors is that, we were not the only one to do so. We seem that another competitor is accruing it over three years. I don’t know exactly why, but for us it’s very clear that considering the fact that the condition was met, the accrual of a one year was the only reasonable accounting treatment and actually it’s been perfectly validated by our auditors."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Pierre Chedeville"
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "So, no problem. Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Our next question comes from the line of Jon Peace from Crédit Suisse. Please ask your question. Your line is open."
+  },
+  {
+    "person": "Jon Peace",
+    "role": "questioner",
+    "position": "Crédit Suisse",
+    "text": "Thank you. Hi, Jerome."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Hi, Jon."
+  },
+  {
+    "person": "Jon Peace",
+    "role": "questioner",
+    "position": "Crédit Suisse",
+    "text": "Can I ask Tarik’s question on cost of risk in a slightly different way which is that a couple of your Benelux peers have now suggested that the cost of risk will only be a little bit above through the cycle rate in 2021. And if the economic conditions were suitable that they can actually deliver on that, given your strong coverage, your superior coverage, would you expect it to be any different in trends to those peers?"
+  },
+  {
+    "person": "Jon Peace",
+    "role": "questioner",
+    "position": "Crédit Suisse",
+    "text": "And then, my second question is just on the switch. How quickly do you intend to retire the other 60% after we go past the first quarter 2021? Should it be linear or back-end loaded with retained earnings? And given you’ve made the decision to retire the switch, could we read into that that you don’t anticipate any bigger M&A over two years, just bolt-on deals? Thanks."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Well, good questions again. First on the part of risk. It’s true that we have higher coverage ratio than most of our peers. But it’s clearly part of our DNA. So it doesn’t mean that we are here just to reduce this coverage ratio if the risk raises, and so, we are going to navigate over time with structurally high coverage ratio, because it’s clearly part of our DNA and we are going to accompany the evolution of the economic landscape and we are going to book the provision that are necessary going forward."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "And so, I don’t know exactly what the cost of risk is going to be. I say that, it should be, if our assumptions are right, in 2021 below what it has been in 2020. Over a cycle or across the cycle, the assumptions that we had made where that’s at the level of CASA it should be around 40 BPS and that’s the level of the - it should be around 25 BPS."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "We were respectively at 62 and 38 last year. So there is a certain space between those two figures. And again, our business is more to realize our performances rather than to focus them, so we are going to continue to focus on delivering rather than on fine tuning our forecast if you allow us."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "On the switch, I don’t know now exactly what’s the timetable will be. Of course, we are in again a quite uncertain environment. So, we thought the most, I would say the switch test way to express our commitment was to say, we were committed to underlying the 50% of the mechanism by end 2022. We modify simply the level of the commitment we say, we are going to unwind 100% by 2022."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So, with that slide to give you clues on which date and so on, I don’t know. We’ll see. This is – all this is quite recent activity of course since December 15, which is the date at which the ECB issued its recommendations we have a discussion with the ECB in order to make sure that our set up of dividend was acceptable for it."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "And we have had a lot of time to fine tune the timetable of the unwinding of the switch mechanism. So we’ll see, but the commitment is to have completed it before year end 2022."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "And your last question, Jon was on, excuse me?"
+  },
+  {
+    "person": "Jon Peace",
+    "role": "questioner",
+    "position": "Crédit Suisse",
+    "text": "Yes."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Well, the idea for us is not to pile up excess of capital in order to be ready for M&A. So, we want to navigate with a level of capital that is compliant with all our constraints that is as close as possible to the target that we have set. We are far about at this level. It’s not because we are making reasons for M&A, it’s because of all the constraints that you have noted in the last 18 months or 12 months."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "And so, it happened that we have a higher level of solvency. And it’s not designed in order to built to reserve for M&A. So there is two different things. The monitoring of the evolution of our solvencies in the normal course of business and then if there is an M&A that is attractive enough to justify the fact that we can raise equity to finance it, then of course, we will have to make the proof that it’s worth the case and we’ll do so. And it is clearly not to keep excess of capital just in case there is a good M&A opportunity. Okay?"
+  },
+  {
+    "person": "Jon Peace",
+    "role": "questioner",
+    "position": "Crédit Suisse",
+    "text": "Yes. Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Our next question comes from the line of Delphine Lee from JPMorgan. Please ask your question. Your line is open."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan Chase &amp; Co.",
+    "text": "Delphine Lee"
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan Chase &amp; Co.",
+    "text": "Good afternoon. Thanks for taking my questions. I just have two very quick ones on capital if I may. The first one is just to go back on buybacks. Historically, I think as a group you’ve tended have a preference for dividends over buybacks and clearly this one that you are starting for 2020 has a purpose of compensating for the dilution of the scrip."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan Chase &amp; Co.",
+    "text": "But I was just wondering going forward in terms of kind of excess capital, you still have a preference, own preference with dividends or buybacks is going to become a bit of – a bigger component of capital distribution and are you concerned about level free float or you don’t mind because that doesn’t really affect your decision-making process, just checking?"
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan Chase &amp; Co.",
+    "text": "Second question is on the capital headwinds that we feel should expect. So, you mentioned Basel 4 and trim just checking that beyond the 20 basis points for trim, you’ve taken in Q4, how much is there still coming, if any in 2021? And maybe as longer term, I think one of your peers have started estimating a bit the impact of IFRS 17. So just wondering if you have any indication to give us at this point? Thank you very much."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Okay. First, share buyback, as I said, we have put in place an exceptional answer to exceptional circumstances. So, these share buyback operation that we intend to conduct in the course of this year is really an exceptional answer to exceptional circumstances. And so, it’s not something we intend to continue going forward."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "The free float is of course, that is not a concern, of course it’s an element that we keep in mind. We think that free float of more than between 40% and 45% on the capital of CASA considering the magnitude of the market gap is really ample. But of course, we wouldn’t enter into a process of progressive and permanent induction of the free float."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "It wouldn’t make sense actually. We are very careful about the interest of the minority shareholder and the free float is one of their interests. Another element of interest for them is there is pressure of the capital of their company and we clearly seeing that in the global combination that we are proposing to them. The complete unwinding of the switch, i.e. the normalization of the capital structure of - is a very positive element."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Going forward, the headwinds regarding the capital into trim, we’ve still several billion euros of additional RWAs to take probably around 8 billion of additional RWA between 10/21 and 22. So the precise timetable is not completely certain because of the fact that we need to wait for the clear inspections to be completed."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "The letter is to be received. The answers to be discussed and so and so forth. But this is our best guess. Of course, it’s going to be concentrated on the CIB clearly. This is what we have in mind. This is what we have in mind."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "IFRS 17, of course it’s an issue on which we are working. It’s a very complex issue technically. We are working with that – on that with our colleagues from the insurance activities. I think it’s too early to give precise indication of what could be the impact, because there are still many, many moving pieces including our priorities in terms of monitoring the transition to IFRS 17."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "As you know that we have several options to take and we haven’t made up our mind regarding these options. So, too early, but at a certain point in time, we have to discuss about it."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan Chase &amp; Co.",
+    "text": "Delphine Lee"
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan Chase &amp; Co.",
+    "text": "Okay. Thank you very much."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Our next question comes from the line of Kirishanthan Vijayarajah from HSBC. Please ask your question. Your line is open."
+  },
+  {
+    "person": "Kirishanthan Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Kirishanthan Vijayarajah"
+  },
+  {
+    "person": "Kirishanthan Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Yes. Good afternoon, Jerome. A couple of questions on capital again. And the first one is really just a clarification. I know there is lots of moving parts, but really one for scrip and then the buybacks were complete. Are you saying that the share count should be flat on where it is today leaving aside the usual employee shares?"
+  },
+  {
+    "person": "Kirishanthan Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "I think you made that commitment for us on the share count. I mean, just the reason I kind of ask is, is this such a clever over-engineered way of distributing cash to your shareholders, where actually you know what in 12 months time, we don’t know what your share count is necessarily going to be given all the different moving parts there."
+  },
+  {
+    "person": "Kirishanthan Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "And then, just secondly, very quickly, in terms of the RWA decline you show under the business line contribution, just wondering if there are any special levers you’ve activated there or is it mainly just a bit of positive ratings migration then a bit of seasonality taking driving that favorable RWA movements in the fourth quarter? Thanks."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Okay. As far as the share count is concerned, I am not able to give you precise commitment on the future number of shares. What I can give you is, a commitment, first, on the fact that in terms of earnings per share dilution, the combination of the switch unwinding plus the buyback is going to more than offset the EPS dilution."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So, and of course, our operations, the earnings per share all things being equal are to be higher than what they would have been without all these operations. And actually, the dimension of the buyback is going to target also the correction of the tangible book value per share dilution that needs to be [Indiscernible] The precise amount is going to depend again on the price at which the new shares will be issued and on the price at which the shares can be bought back."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So that’s the moving pieces, but really the commitment is to more than offset the earnings per share dilution with a combination of the switch and the buyback and to correct the tangible book value per share dilution."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "In terms of RWA evolution on the business lines, there is nothing very special. It’s the combination of all the optimization efforts that we currently do plus the movement on the underlying portfolios migration and so on and so forth. Plus, also some flight effect, of course and after that, of course there is part of the trim impact that we had recently this quarter. But this is specifically mentioned. So for the rest, it’s migration plus regular optimization plus Forex."
+  },
+  {
+    "person": "Kirishanthan Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Kirishanthan Vijayarajah"
+  },
+  {
+    "person": "Kirishanthan Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Great. Thanks, Jerome. That’s helpful."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Our last question comes from the line of Stefan Stalmann from Autonomous Research. Please ask your question. Your line is open."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Yes. Stefan."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Stefan Stalmann"
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Yes. Good afternoon, Jerome. Thanks for taking my questions. I have two please. The first one goes back to TLTRO. Could you maybe remind us, if we have given this guidance before, roughly how much of the €133 billion group balance is attributable to CASA? And also, whether you actually have more firepower to ramp up the TLTRO and outstandings this year?"
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "And then the second question goes, also back to the payout strategy for this year. I think if head up the cash that will be paid to the CASA minorities, and the cash that will be paid to the Amundi minorities, that combined is roughly worth 20 basis points of Group risk-weighted assets. So, that’s basically the SSM guardrail I guess. Does it mean that there is no room left for the regional banks to make their pay outs? Or will that not be captured? Thank you very much."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Okay. I’ll start with your last question, because of course it’s very important. As far as the regional banks’ payments are concerned, they are included in the calculation that we’ve discussed with you. Of course we have provided room in our global assumptions for the regional banks to pay to their external shareholders, i.e. the CCA and CCA holders. For the rest, they pay to their local banks which are part of them. Also this is considered as internal payments."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "When it comes to CASA’s subsidiaries having minority shareholders, actually the cash that is paid outside is not part of the calculation, because the minority interest, the capital minority interest of those subsidiaries are capped we calculate the solvency ratios at CASA and at the Group level."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So it means that, the cash outs that Amundi is going to pay to Credit Agricole Italia is going to face with minority shareholders too, is not having any impact on the CET1 ratio of CASA and of the Group. So it’s not discounted in the overall assessment of our compliance with the ECB’s recommendation. And again, this has been made very clear with the ECB. So there is no ambiguity on that."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "TLTRO, TLTRO, we haven’t disclosed precisely the spread between what is inside CASA and what goes to the regional banks. Just to give you some rough indication, of course, we are not very far from the origination of the loans that allow us to draw at the TLTRO. You know this by definition, it means that the regional banks are having a significant part of the total because, they have originated the significant part of the loans and they have also a significant part of the collateral that is needed to access to this we know."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Do we have more firepower? Actually, the additional firepower that we have as any bank is the fact that the ceiling is go up to from 50% to 55% of the capacity of the eligible loans. So this is the additional firepower that we have."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Stefan Stalmann"
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Great. Thank you very much guys."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. And our final question comes from the line of Matthew Clark from Mediobanca. Please ask your question. Your line is open."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Matthew Clark"
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "A couple of questions please. So, firstly with respect to the TLTRO again, is this offered in the retail banking divisions or is there any particular allocation ideology that you pursue like maybe booking the bonus effect in the corporate segment or something like that? So, any guidance there would be helpful."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Second question is just to verify the switch repayment, it doesn’t need ECB approval, I guess. Is that the right way to think about things might go into the channel? And then, final question, just coming back to the trim risk-weighted assets, you mentioned, could you be a bit more specific about what those portfolios are and maybe what those portfolios that led to the fourth quarter trim impact were, just so we can reconcile those. Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Well, when it comes to the trim impact, it’s the combination of many, many different elements, small elements, some of them are being impact as low as €100 million or €200 million is the probability of default uncertain portfolio plus the not given default uncertain other portfolios, plus whatever and so on and so forth. So, it’s really a combination of many, many small elements."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "There is nothing big actually in this series. It’s a very, I think we have ten or 15 different lines that account for what we have to book in the fourth quarter of this year and when we assess what is going to happen in 2021 and 2022, more or less 8 billion RWAs that we forecast. It’s also a combination of probably 12 to 15 different items."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So it’s clearly nothing massive, but a series of elements that all go into the same direction of course. Switch, it’s clear that as any element that is going to impact the solvency of CASA, even the switch dismantling has no effect at the Group level. We will have to get the authorization of the ECB. But clearly, I don’t expect any difficulty in this regard."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "So, once we will think that it’s the right time for us to proceed to the unwinding, we will of course do whatever we have to do with the ECB in terms of paper work. But clearly, I don’t expect any difficulty on this front."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "And TLTRO, I cannot add more than what I said to Stefan in my previous answer. The allocation of the trim drawings made internally inside the Group taking into account several elements, as I mentioned, and we are not going to disclose more precisely these elements."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Matthew Clark"
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Okay. Thank you very much."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. We have no further question at this time. Please go ahead."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy General Manager, Chief Financial Officer",
+    "text": "Thanks very much. Thanks for your questions. Always very stimulating and thanks for attending this conference. And I am looking forward to talking to you next time. Bye-bye."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Ladies and gentlemen, that does conclude your conference for today. Thank you for participating. You may now all disconnect. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

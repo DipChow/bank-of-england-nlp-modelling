@@ -1,0 +1,518 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] So first question is from Madam Lorraine Quoirez from UBS. Madam, please go ahead."
+  },
+  {
+    "person": "Lorraine Quoirez",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "Hi, hello. Hi, Lars. Thank you for taking my question. Just a quick one for me. Obviously, you quote underlying Group parity of 10.4%. But looking at market valuation, it seems to me that investors believe that the profitability in CIB may not be sustainable. So I'd like to understand how you can change this market perceptions, and if you have some arguments against perception at present. And also one would be regarding your membership to the Net-Zero Banking Alliance earlier, I'd like to understand how this will impact your lending practices in the coming years and whether you see competition stepping up in sustainable finance at present. Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Lorraine, thank you for your questions. If I start indeed, if you look at the numbers, if you look at the capitalization of 13% and the ROTE above 10%. And so there is the concern that you mentioned that some have about the sustainability of CIB. And what for us, and there is a reason we call CIB, we don't call it investment bank. What I mean, so we call it corporate and institutional bank. So it's focused on serving corporate and institutional clients in the flow of business that they have. So they have a recurring flow. And so it's not that there can be a specific demand one quarter or another, there is a recurring flow."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Maybe in one quarter, it can be more lending, another quarter, it can be more equities and other quarter it can be done. And that it depends, but if you look on average over a given year, you'll see this recurring demand. And off that recurring demand and particularly to the flow business, we are organizing ourselves to ensure that we have the platforms and that we have all the services. So that basically we can provide that service to our customers and therefore, we step up our market share. So there is a recurring flow of our businesses."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "We are having all of those services available, and we are stepping up our market share into it. And then if you look at it, there are several ways you can see that. There is a chart that we have on Page 33, where you basically see the yearly average CIB revenues, and you clearly see that year-after-year they are up. And of course, there is some volatility within a quarter, but if you look at the overall demand in a given year, and given the fact that we step up our market share, the yearly average goes up year-after-year and that is what we've done now 3 years in a row and that is something that we will continue to do. So that is basically what we do."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So we capture into that and that is why we are so pleased to be able to have now the equity products as part of one entity. So we have being or we are able -- we have consolidated Exane. So it's part of that and we are finalizing the onboarding of the prime brokerage. So that basically makes also their one entire service offering. So that's basically what we do. We go for the flow, which is a recurring basis on a year. We step up our market share, and so we have proven year-after-year that it is recurring, and that we step up the revenues. So that, Lorraine, would be the rational why for us CIB is not we don't label it an investment bank. It's really corporate and institutional and we have the recurring flow."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And then on your other question of the Net-Zero Banking, it is what you see and it will be even be further strengthened in all the climate stress [ph] that are ongoing. So there is, we at BNP Paribas, we really have embarked already since years the fact that one has to evolve. And of course, you have to be sure that you yourself as a bank are carbon neutral, but you have to accompany the clients for this to happen. And this is something that you really have to work out. And that's one of the reasons why we believe we can make also a difference is in that low carbon platform that we just launched where we basically take 250 dedicated people."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So bankers who have that knowledge, but also specialists, who are very well aware how and what options exist when it comes to transportation, when it comes to energy, when it comes to building and the likes. And that's basically what we keep on providing and stepping up and guiding and providing counseling and service. And therefore also that can then lead to project finds that goes -- comes with it, that we do to make a difference. So, yes, we started that early and we continue to be on the vanguard of things by setting objectives, but also making sure that we have an organization that is fully there to provide additional services on this front to our clients. So Lorraine, that would be my two answers."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, madam. Next question is from Mr. Jean-François Neuez from Goldman Sachs. Sir, go ahead."
+  },
+  {
+    "person": "Jean-François Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Hi, afternoon, and thanks for the presentation. I just would like to ask very quickly, on -- so you mentioned that the cost of risk is below your 45. Sorry, yes, 45 to 55 long-term range bps, which is great. Then the question is, the reference to that range was based on your historical loss -- loan loss experience. And obviously, the mix for over the time period has changed quite a lot in the domestic market. There are many, many more mortgages compared to corporate loans. In the corporate loans, there is a few more state guaranteed ones quite a bit. And obviously they can last up until a very long time. Also, in CIB, you've gone out of some of the maybe more high octane, so to speak, energy loans, overtime, et cetera, et cetera. And I just wanted to understand how relevant you think that long-term rate is [indiscernible] or whether your mix has changed so that this range is probably now either too conservative or not."
+  },
+  {
+    "person": "Jean-François Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Then the second question I had was on the insurance run rate. So you say this quarter it has benefited from less capital gains in the revenue side. The question is, what's the right level as a base for that business? Is the base where you have a bit more capital gains because it's part of the business? Or was the run rate of before maybe a bit too elevated? And lastly, I just tried to understand, could you please let us know what you think the contribution from the Deutsche business was also this quarter? Because you given Exane, I think, I haven't been able to back out the Deutsche Bank contribution. Just trying to understand your kind of organic growth in equities. Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Thank you, Jean-François. On the first question on cost of risk, you are right. And you know, we are a bit of a bank that works on medium term horizon. So the horizon of the average cost of risk over the cycle, which we oriented in the previous plan by 45 to 55, was basically the horizon we had at the start of the plan. But the plan indeed led to several businesses to be positioned a bit differently. And so the examples are indeed BNL, where we stepped out of some activities, or also personal finance, where personal finance, we shifted much more into collateralized businesses. So that that's basically what we see. And so that implies that, yes, over the cycle, cost of risk will probably go down. I invite you to come back on February 8, where we will crystallize that. But it is not unlikely that in the current evolutions that is done in the plan, the average rate would rather be 40 to 45. So even beyond that, compared to that one, we are at the low level."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And then I don't want to jump ahead, but then that 40 to 45 is then what we have as a picture today, yes. That could then still further evolve with whatever kind of evolutions that we would embark on. But that's it. But so at 32, we are well below, let's say, the historical average. And even if you look at this kind of new average that we will clarify for the next plan. We are below that as well."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Then when we look at insurance, yes, I understand your question. Sometimes in insurance in a bank insure is not always easy to read in the sense that if you look at the top line, the top line includes contribution of investment books, but also for example, contains claims. It is as if the cost of risk of a bank would be deducted from the top line, so that makes it a bit. Moreover, often our insurance is active through partners distributing in order channels, and that basically means that you see the contribution to that coming through the equity line. So the line by line isn't that complicated. And then you have those evolutions within the quarter."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So if you would look at the impact of the top line, you -- if you take the run rate, you really have to look at it on a yearly basis. And that -- that's a bit it. So the run rate that you see on the investments is a tad low given the low interest rates and given the impact on the portfolios. And then on the other hand, if you look at the bottom line, you have some participations that sometimes you have impact. There can be, flubs, there can be whatever, not that impacts, but that is a rather one-off kind of element. So, yes, that's a bit [ph] of a thing. So I -- what else can I say then, having you look at insurance on a run rate, on a yearly basis, rather than on a quarterly basis."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Then on your question on the prime brokerage. So, yes, the prime brokerage, as you know, we have to -- they have a wonderful system. We have to transfer that system in our environment. And we have to make sure that it is totally connected also with our system, because that's what we want to do, right? We want to serve customers, and also serve them on the other services. And so that means we have to integrate this the prime broker service with our services, and then we have to migrate the customers to that, and the other product. And so that is a bit what we are doing now. So this is ramping up. And so we are doing this by the year-end. And so you can imagine that the rather more -- how would I say, more intricate, more interaction, more different businesses impacting activities will be routed towards the end. So the impact in the third quarter is rather marginal on CIB as it stands. So it's rather in the tens of millions. So, Jean-François, that would be my three answers."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, sir. Next question is from madam Delphine Lee from JP Morgan. Madam, please go ahead."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JP Morgan",
+    "text": "Yes, good afternoon, Lars. So I'd like to ask my first question on the buyback amount of €900 million. Would you mind just elaborating a little bit the rationale for that amount. I mean, do you see it more as a way to achieve something above or closer or above 60% payout, this include the 50% dividend. Just trying to get a feel of sort of how you came up with that number. And related to capital as well, [indiscernible] finalize a couple of days ago. So just wondering if you could provide any updates on the impact and how you're thinking about what level of capital you're going to run at, that would be helpful."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JP Morgan",
+    "text": "And then just a numbers question, if I may. If you don't mind sharing with us just like the one-off -- quantifying the one-off negatives that you had in revenues in personal finance and the one-off positives that you had in Belgium. Thank you very much."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Thank you, Delphine. Yes, if we look at the €900 billion, so the idea with the things that we undertake, we want to have a continuation and things. Yes, so we just don't want to have a one-time activity that we then cannot continue. So our aim is when we start up return to shareholders that we can do it in a recurring way, so not one-time, and they're not. So it becomes a new basis. Initially, what we typically do is we do that in our plan. So every time we have a plan, we look at the environment, what capital can we free up and therefore redistribute. And so we ended to one-off 2020 with a 50%, which by the way, we paid in September of this year. And then normally we would review that in the plan going forward. And then 2021 was a -- is a bit the year in between."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Remember, at the beginning of the year, there was still a lot of uncertainty with the vaccination and the like. And so we said this is probably an interim year before we start in the new plan. And then we looked at and basically in the past, we did we had in the previous plan a 50% payout ratio because we basically said, listen, of the 100% earnings, there is like 30% that we need to cover the growth, the balance sheet growth. So we need to retain some capital. There is 50% that we pay out in dividend and then there's 20% that we keep for uncertainty. There was uncertainty, it's true. What is trim? Is it going to be grim? What is the stress has gone to do, what is the finalization of Basel going to do?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And so, what we have seen now is that, that in 2021, we are performing very well. We are building on all the strength of all the market share that we keep on grabbing on all the platforms. So, we have a very solid performance in this year 2021. And that we see that is translated in return on tangible equity above 10, and a common equity Tier 1 of 13%. So that basically says that we are really ready in a year that was a bit uncertain. Well, basically, BNP Paribas does very well in this year. And so that is why we thought like, maybe we can step up as there is now less uncertainty. I come back to your other question on Basel 4. The trim is behind us. And for us, BNP Paribas, it was not grim. The same is true for the stress test, and within Basel, the inflation that we anticipate without acting on anything, so I'll come back to that, it basically is fine."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So we're in good shape. And therefore we thought, like, we can take a step up, and therefore we say we can roughly go to something like 60%, what have you not. So we calibrated this at €900 million to basically launch it now. So that -- that's a bit. It's in the continuity of things, we are in very good shape. And, well, as we are going to review it in the next plan, as this 2021 is a year in between. But as we are shooting all stars out, I thought we can already step it up. And so that's basically it. So, yes, well, we can step it up, we will step it up, we have the approval, and it's basically going to launch on Monday."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So on your question of the finalization of Basel. So, yes -- so it is now -- if you look at the text and yet this text still has to be discussed, trilateral and all of these things, but at the text of the basis, if you look at it for us, and so if we don't do anything, we just apply it, it would lead to an inflation of 8%. So that's basically very fine for us to cater with. And again, as I said, we have to see what the final number is. And then we'll have to see if that would mean that there are still some products on which we have to take a different stance or what have you not, or that the market will take a different stance on. But intrinsically for us, listen, that's why in 2019, all those regulatory uncertainties, the trends this stress test is basically behind us. We're very well-positioned. We focus on the business, we have the platforms, we're going to grow. And basically, we should grow at a very solid way."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And then on your question of the one-offs here. So what are those one-offs? We typically have every quarter, some small one-offs left, right and center, sometimes positive, sometimes negative. So what are these things. Sometimes these are nonoperational things. These are, for example, if you take in credit, it can be a customer that, well, nonperforming and the restructuring, basically, we help the customer to restructure and we take on an equity stake in the company that is in Chapter 11 and that is being restructured. That's what we have. And then from time to time, very often, actually, these companies get back out of Chapter 11 in good shape. And then we basically sell those entities and those entities therefore crystallize again. So these are the things, but you understand that we're not saying it's company XYZ, we don't do these kinds of things. But, of course, let's be fair, this is not a massive amount. If it would be a massive amount, we would list it explicitly in our exceptional elements. So that's basically the answers, Delphine."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, madam. Next question is from Mr. Stefan Stalmann from Autonomous Research. Sir, go ahead."
+  },
+  {
+    "person": "Stefan-Michael Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research LLP",
+    "text": "Yes, good afternoon, Lars. Two questions from my side, starting with your evolution of credit risk weighted assets in the quarter. You had about €8 billion more during the quarter, but you had only €10 billion additional loans. And so it seems that maybe there was quite a bit of credit risk weighted that's inflation outside of lending, possibly counterparty credit risk. I was wondering if maybe this reflects the initial transfers of Deutsche Bank prime positions, or are there any other drivers for credit risk weighted inflation this quarter? And the second question relates to TLTRO. I was wondering if you have actually started to book the bonus rate, the second bonus rate already in the third quarter, or whether it's only still to come. Thank you very much."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Stefan, thank you for your questions. On the risk weighted assets, so on the -- in our slides presentation on Page 86, you have the evolution. So if you, if you look at what is driving the increase, the main one is the increase in credit risk there. So you've seen that our credits are going up. So the credit risk is going up. The other elements just to put a number, so we have more than €700 billion of Basel 3 risk weighted assets. There's €1 billion increase in operational risk, €1 billion in market risk. And so there's €1 billion in decrease stemming from -- we do the securitization of the banking book. And so the main driver of the pickup of the €8 billion is the credit risk. So there is nothing particular on that. Yes, it is the growth of the balance sheet that we accompany."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "On the TLTRO. So the TLTRO for us, the impact is spread over time. So that's basically and as you know the impact for us in TLTRO as a general or the liquidity, for us, it is part of our overall liquidity. So we attract liquidity by ourselves. We attracted from customers, but we also attracted in the market. And let's not forget that TLTRO is securitized lending that we do. And so if BNP Paribas, as you know as well, we have a good reputation in the market. If we go to the market, we basically do that at, and if we do that in a securitized way, we also get very good pricing. So from that point of view, yes, we basically have it at all the other elements, it spread in time, and it's part of overall funding approach, funding cost. So Stefan, that would be my answers."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, sir. Next question is from …"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "If I may, I get reminded that on Delphine, I didn't answer her question on one-off on personal finance. So of the one-off on personal finance without specifying everything else, but it's basically a one-off litigation effect that we have. And on the one-off in Belgium, it's real estate related. So that’s basically it. So, operator, back to you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Next question is from Mr. Omar Fall from Barclays. Please go ahead."
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Hi, there. Could you give some color on the strong Belgium top line, especially when it comes to fees. One of your peers is raising their banking daily package fees. I just wondered, if that's something you've done to explain the growth there because it's kind of plus 18%, which is more than the growth in savings and payments. And then similarly, on personal finance, or conversely rather, the top line performance was a bit weak. I know that there's this negative one-off that we don't know exactly how much that is, but even looking at loan growth, that was -- that fell sequentially on consolidated outstandings, which seems a bit surprising at this stage. Are there issues around supply chain disruption and lower auto transactions impacting volumes or something along that? And then lastly, just on BancWest, sorry to take three questions. If you could, again, give a bit more color on the performance there, which does seem a bit weaker than expected. Thanks."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Omar, thank you for your questions. Well, if I take them one by one, if you look at Belgium, in retail, it's a tribute to a bit the generic thing, right. I mean, in an environment of rates in Europe, we focus on providing our customers with services, which are then also fee generating. So that can mean that we provide them on investment products with service. It also can mean that we have pricing in our packages that change to cater for that. So that is the kind of things that we continue to do. Fees are a main focus of what we do. We have the services and the products to basically do so. And that is what we continue to do, you see it in Belgium, you see it in France, and we will continue."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Then on personal finance, yes, personal finance actually, if you look at the business, that's fine. But personal finance, it's a bit what I mentioned earlier also on insurance. It is a tad more difficult to read the P&L. Why? Because on one hand, you have the production, so the production is up, that's fine. But the P&L is impacted basically by the production that happened a couple of quarters before. And so the production in the quarters before given there was the confinement has been lower. So that is why you see the production is basically back to a pre-pandemic rhythm. But it will take a couple of quarters to basically replace the lower volumes that we have in the previous quarters. So that's basically this."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And on the cars. [Indiscernible], maybe there is some lower amount of new cars, but people need cars. So what people do is they basically take secondhand cars, and if it's a new car or a secondhand car, they need financing. And who provides financing? So that's basically the read on [indiscernible]. So things are fine. There is just a backlog of the confinement of the last couple of quarters that's in there. And again, you focus on the top line, and you see maybe something that triggers a concern, but you could also go down in the bottom line. And you could see something that triggers a good sign, which is that basically there is a tremendous focus on the delinquencies and under recuperation, and you basically look at the bottom line, the bottom line is very fine. Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And then on BancWest. Well, it's a bit the other way around here. In BancWest, things are -- I don't know if you've been well, no, I was going to say if you've been to U.S., but not yet, you can probably in a week or so. But the activities have been solidly rebounding and that is what we see. Again, there has been from time-to-time you have a portfolio that you can crystallize. And that's what happened at Bank of the West a year ago. And so if you look through that, you'll see that the revenues are evolving positively. And the same thing, if you go down to the lines, you can clearly see that the other elements like the cost of risk, are showing that things are going very well. So Omar, that would be my three answers."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, sir. Next question is from madam Giulia Aurora Miotto from Morgan Stanley. Madam, go ahead."
+  },
+  {
+    "person": "Giulia Aurora Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Yes. Hi. Good afternoon, Lars. So my first question, a bit technical on across the risk and COVID overlays. How much do you have left? And given that, the situation looks rosier, could we see them return back this year already? Or is that 2022 business? And then, secondly, a clarification on the payout distribution. So for the Investor Day, or full year results, you have already signaled that you intend to increase the overall payout. And I guess part of these will be in buybacks. But [indiscernible] correctly, that you are like the 50% in cash is probably here to stay and then whatever comes on top is on buy backs, or perhaps could you also reconsider a lower cash component given where the shares trade, pretty discounted versus book value. And then last, technical one, IFRS 17, any comments there? Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Thank you, Giulia, for your questions. If you look at the cost of risk, indeed to the COVID overlay, so to speak, let's quickly remind here. In the U.S., you have CECL, which is a different approach to what we have in Europe, which is IFRS 9. And so IFRS 9 basically ask you to look at a scenario which is a dire scenario and see what impact it made. And so in 2020, the dire scenario was a continuation of the pandemic and of COVID and the likes. And that basically what we saw. So, in that scenario, at BNP Paribas, we took like roughly €1.4 billion in provisioning on performing loans. So that's basically that."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Now, what you see that, that took into account a scenario. Scenario where one says, in Q3, that was back in 2020. A scenario, you say, in the third quarter of 2021, there will still be an impact of COVID, and in the fourth quarter, and in the first quarter 2021, and so forth. So as time comes by, when you arrive in the third quarter, you basically see, well, things are good. Yes, look at our results, things are very good. And so that basically means that, that part, you write it back. So you shouldn't anticipate that there is a full ride back of that amount. But as time goes by and that time becomes and demonstrates that everything is fine, you will have that right back So for us out of the €1.4 billion that we provisioned, it's only a small part that we written back like it's a few 100 and that's basically it. And so that will continue over time."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "On your second question on the payout. Yes, well, I invite you on what the amount will be and what the part cash and share buyback will be. I invite you on February 8, it's a point I hear you, if I talk to fixed income investors, if I talk to pure equity investors, they might have a different thing. So we have both investors. So I asked you to just bide with me and come back on February 8, hopefully, physically, to get some clarification on what it will be. But of course, you see what we have done now and so you it gives you an orientation of what we want to do."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And then if we talk about IFRS 17, all of those wonderful numbers. So IFRS 17, if I was young, I would have suppose it replaces IFRS 16, right. No, it doesn't. It replaces IFRS 4, yes. And these are -- and it's normal that the numbers are different, because these are totally different animals, describing how to handle insurance. And IFRS 4 was -- more something which was introducing the local regulation, because the insurance we are operating before that on a local regulation, and it was kind of providing an umbrella for that local regulation. And those local regulations could be quite different. So if you look at us, it's in France GAAP, if you look at other parties, it will -- it's in local GAAPs and that can be quite different."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And so therefore, if you look at what we stand at, the IFRS 17, and in the end would be relatively close to what we have in France GAAP. And so, over the horizon, let's say the plans, the contribution, be it 17, or be it 4, will be very similar. And so that is why in order not to lead to confusion of new modeling, we will basically we keep under IFRS 4 in our plan in February, Giulia. If you come, we will see that we keep on having that outlook on IFRS 4, because that's in the continuation of what you have. And as I mentioned, if you look over the cycle, and the cycle is short for us, it's basically fine. And again, it's different. I don't know, Giulia, where you are physically based, but for example, in the U.K., the GAAPs used are quite different than the ones that we have in the French GAAP. So that's a bit the situation. So for us over that horizon, not really different. So, we will give the plan under IFRS 4 and then later there will be the first time adoption that we will clarify. So, Giulia, that would be my three answers."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, madam. Next question is from Mr. Matthew Clark from Mediobanca. Please go ahead."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Good afternoon. So just a quick question on cost inflation. Some of your competitors have flagged increasing global wage and inflation depression on the cost line, both at present and looking out. Have you got any comments on that? Are you seeing that as well? Or is this -- is the kind of flattish costs you guided for this year on a constant scope basis, still your kind of expectation and can be sustainable going forward? Thanks."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Sure. Well, if you look at the cost, what I mentioned, if you look at the overall cost, as the revenues are up not to inflation, because they are really up. Some of them come with cost related to the cars that we provide or the cost of the people and so forth. So but that is linked to that, that is one thing. I think your inflation is rather on the aspects of saying do we see the increase in rates therefore also leading to inflation and salaries and/or the fact that there are difficulties to attract people. Now, if you look in particularly in Europe, where with all the planning that is being done by the -- by Europe and by the countries, which is phased over time. You have some countries like if you look at U.S., where at some point in time, there will be massive checks going out in a very limited time. Whereas in Europe, it is phased much more over years, which basically means that people can redeploy from one activity to another and so they should not be massive shortage of people. And when it comes to the shortage that you have in production leading to pricing. if you look at it, if you listen to what also the ECB said yesterday after having done the tour with the majority of European corporates is that one believes that this is relatively limited in time. So that's basically where we stand. So for us, with the view we have along the lines, as I just mentioned, that is not something that would be of a material impact on the profit going forward. Back to you, madam."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, sir. Next question is from Mr. Pierre Chedeville from CIC."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Yes, thank you. Good afternoon, Lars. Thank you for taking my question. First question is regarding the discussion between ILD and [indiscernible]. I was wondering if you could give us some update regarding your partnership with Element in Canada? How does it work? And do you think that it would be possible to reinforce this partnership, for instance, with a capitalistic agreement going forward? A follow-up question regarding insurance. You mentioned with Jean-François the volatility of your revenues in the insurance due to capital gains. But you also mentioned ongoing impact of claims. I wanted to know what do you mean by that?"
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "And my last question is related to Allfunds. Could you give us a clarification regarding your strategy, with this participation with the stake in this company, because as far as I understand what is the business where there are Allfunds. I can see that there are some I would say industrial synergies with your asset management business, or complementarities, call them like you want. And I don't understand why you are leaving this company. To be honest, do you want to sell the stake and enstore [ph] partnership with it? So how do you see your future with Allfunds? Thank you very much, Lars."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yes, thank you for your questions. When it comes to the car leasing, as you know, we are very happy campers. We have a good platform, we are focused on Europe and that's basically it. When you mentioned Element, don't get me wrong, but across Atlantic merger it's not something that is of or that is of interest. So for us, we're very happy. And if in some areas, we can bolt on some stuff, that's fine. But there's nothing more to say we're happy campers in the growth that we can have in the platform that we have. So that’s basically that."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "On insurance, yes, the claims that I mentioned, is that from time to time in the non-life part here. I'm not talking about the life part. In the non-life part you can have occasionally, a major incident. I'm thinking about the water incidents to the flooding that we had, if you think of Belgium, the Netherlands, Germany. And so if you have a non-life activity, you are exposed to these kinds of things. That -- that's what you can have and that that's basically the reference to that."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "On Allfunds, yes, we are very happy. We had an activity -- regional activity. And we saw that it was useful to basically combine that with others and make that the basis of a larger platform. And that's what Allfunds have become. And but Allfunds, we're not alone. We're there with partners. And so we basically want to stay at that same level with that partner. So if that partner basically floats a part of it, then we will do that same thing and we stay a bit at the same level with that partnership. So that's why we stand here."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, sir. Next question is from madam Anke Reingen from RBC. Madam, please go ahead."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC Capital Markets",
+    "text": "Thank you very much for taking my question. I just have some follow-up questions, please. Firstly, on the [indiscernible] for the 8% in [indiscernible] asset inflation, is that the term 2025 impact or is that the full impact over the whole implementation period? And then secondly, on costs. In Q3, there was a bit of a step up and you mentioned investments and obviously is good business environment. But, I mean, looking into Q4, we have a bit more seasonality on the revenue side. Should we still think Q4 could be positive jaws or I mean, should the focus will be on the full year trend? And then the third one on the buyback. So why did you think you need to announce this now? I mean, obviously the positive news, but usually expect this sort of like with full year results. I just wondered why now. Thank you very much."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Thank you, Anke. When it comes to the 8%, yes, for the moment we've calculated it on 2025. Thereafter, there is phasing a lot of stuff. So it's probably going to be roughly the same, but technically, the number we've done is we've calculated it on 2025. But it shouldn't be that materially different. It might be a tad better over time. But that's basically it. And I remind you, this is the 8% applying the numbers, right, that excludes any actions or optimizations repricing that the sector or ourselves would do."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "When it comes to your cost evolution, yes, well, the thing is, it's a bit on the cost, it's a bit like insurance, right. You have to look at it on a yearly basis. You have some volatility coming in a given quarter. So you should look at it over the full year, and look at the evolutions that we have on a specific quarter. It is a bit -- don't get me wrong. And if by accident, people of CIB are listening, I excuse myself. But basically on CIB, the whole corporate and institutional environment takes 2 weeks of holidays. I'm joking, but the volumes that one sees in December is like half of what you normally have, and then everybody is back in January, and that 50% comes back. So that's the kind of thing that you which is a bit of peculiarity of what you have in Q4. So that's basically that."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "When you come -- when you talk about the buyback, so the buyback you basically want us to do it later. Is that what you say? No, it's just -- it's in line with what you do, right. We see that the year is progressing very well. And then there will be -- and it's to indicate that what will come will be also a recurring event, yes. And so that is why we do it in 2021 over '21 And then what we will announce will be going forward so that we will do it in '22 for '22 and '23, '24, '25. So we thought it was useful to engrain that it is basically a recurring process that we do in the year. But again, Anke, if you tell me that I should stop the share buyback, tell me now, I might still have an option to do so. Joking, right -- joking, sorry for that. Operator, back to you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Next question is from Mr. Kiri Vijayarajah from HSBC. Please go ahead."
+  },
+  {
+    "person": "Kiri Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Yes, good afternoon, Lars. Thanks for taking my questions. A couple of questions on CIB, if I may. So firstly, on the cost base in CIB, looking into 2022. I’m wondering what's the natural kind of mechanical cost inflation we should expect when things like travel budgets restart hopefully, and normalize next year. Plus, you're going have the full year effect of Exane coming into the cost equation. So really some guidance on CIB costs would be helpful for next year? Or if not, then what kind of jaws would you be targeting in CIB?"
+  },
+  {
+    "person": "Kiri Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "And then a similar question really on RWAs and capital allocated to CIB. With the outlook there kind of steady state from here, are you expecting the kind of strong demand to keep growing RWAs and CIB at the current pace? And I'm thinking particularly on the financing side, when I looked at the last few quarters. So some color on sort of costs in RWAs and CIB? Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Sure. Listen, if you look at that CIB cost base 2022. Now, intrinsically, we always want to operate with positive jaws, yes. If you want to see what are the things that we will have, I would like to invite you on February 8 to have that. But intrinsically, that's basically what we want to do. Now, there is indeed the Exane cost base. So if you take it that on a yearly basis, that will be like around €200 million, yes. But that is just -- it's not additional cost. It's the consolidation effort. So that's basically how the base will change."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And for the rest, we continue to have the operating jaws as the element. So that means that there can be some cost because the revenues come, right. That's the things I just said. So that's that. And S1O that's therefore also the answer to the jaws. So we keep focused on that. We are not going to do ridiculous things, but there are some costs that will be accompanying that. So that's the cost. And so that means you, Kiri, you basically on the scarce resources, if I may. So on the cost, as I said, we basically, we've shown we have them under control. We keep them under control. But of course we accompany the growth in its form, but we keep them under control with positive jaws."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And then on the other one, on the capital. Yes, on capital, you mentioned global banking. I would like to draw your attention. I don't have the exact number. But if you go into the appendices where you have the global banking evolution, you will see that the revenues of global banking advanced to a higher speed than the capital requirements. And so why is that? Because what global banking is doing is more than just shelving out loans, yes. What they are doing is operating within capital markets. And they are working on generating fee business activities. And so that is what we will continue to do."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So what I mentioned earlier, that fee business is an important part when it comes to retail. Well, it's basically also an important part when it comes to CIB because of the interaction with what we do. So when global market interacts, or the needs of clients with global markets, through what we then call capital markets, that is basically an activity where we leverage the relationship that the global banker has with the product and the knowledge of global markets and that is basically generating fees. And that's basically what you see. So that is why the revenues at global banking or corporate banking as we branded goes faster than the capital requirements. So that that's basically the answers, Kiri, on the scarce resources for CIB."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, sir. Next question is from Mr. Andrew Stimpson from KBW. Sir, please go ahead."
+  },
+  {
+    "person": "Andrew Stimpson",
+    "role": "questioner",
+    "position": "Keefe, Bruyette &amp; Woods Limited",
+    "text": "Afternoon. Thanks for taking my questions. Two questions for me. One on ESG, please, and then the next one on leverage, please. On the first one, on ESG. I think the commitments that you've been giving on funding to coal and oil and gas are all amongst the better ones in the sector, which is great. And it's clear that you're on top of this topic, which is all good. But then when I look at Slide 17, I suppose I'm wondering why you're not being more ambitious on your financing volumes. It shows that the bottom of that slide, you're wanting to deliver €2.2 billion extra lending to renewables over the next 3 years, which to my mind it just seems like a small number, a small ambition for a bank of your size. So wondering why that is? Is that just no demand for bank loans on those assets [indiscernible] or is there in fact, quite a good amount of upside to on this theme, and on those volumes."
+  },
+  {
+    "person": "Andrew Stimpson",
+    "role": "questioner",
+    "position": "Keefe, Bruyette &amp; Woods Limited",
+    "text": "And then secondly, on leverage. Your CET1 ratio look healthy enough and grew in the quarter, which is good and the buybacks are very welcome. But the leverage went down very slightly. I'm just wondering how much the leverage ratio is factoring into your mind when you're considering what the real constraints are for you when you're managing the business. I suspect part of the reason the leverage is more of a constraint is because of the excess liquidity position, which is also welcome. And you've got an LCR of 136%. So wondering, two parts. So that one, I suppose, how are you thinking about the leverage ratio? Is that really the true constraint on your business now? And then secondly, to what degree could you improve that by reducing the LCR? What level would you feel comfortable at? Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Andrew, thank you for your questions. Yes, so on ESG, we're always -- on one hand ambitious, but also very prudent. And so probably, we can do more. But the main thing is that we don't necessarily go for the easy wins here, because if you remember, if you want to accompany ESG with our clients, there's basically three buckets. Yes, of course, there are easy things, stop using plastic and what have you not, and that's something you can do, and you can fund. But then you have the mid-term kind of things. These are things that are not carbon neutral at all today. But where there are routes ahead, which are clear, but take time. For example, with cars. Cars, that they should go into other things, they should go into hydrogen, or they should go into batteries and the likes. And if that is what you want to accompany, there's a lot of project finance going on here and that is longer term. So you need your manufacturers to adapt, then you need the outlets to get or hydrogen or electricity, what have you not. So these are all the kinds of things that you have to do."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And then you have the longer term ones where there are things like in construction, I don't know if you are in a concrete building, but imagine you are, concrete is really generating a lot of airways. Absolutely not carbon neutral, because already -- one, because of the products; and then secondly, because of the heat that you need in order to make it. And so that basically means there are a lot of levers to work on. And yes, you can go for the easy ones. But you have to make sure that you can accompany the other ones. So, yes, we are very ambitious on this and we can probably step it up, but we want to have the accompanying of all the sectors and that's why we have introduced this new task force of zero carbon bankers. So that is indeed very ambitious and we will keep on being ambitious."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "On the leverage, if I may, the thing is there are so many regulatory requirements that, honestly, it becomes so complex that I cannot give one to our banker because it wouldn't make sense. So we basically take one. The one that basically, if we comply with it, with some structural elements is basically fine. So for us by saying, listen, we have a 12% common equity Tier 1. We have 1/3 domestic markets, 1/3 IFS, 1/3 CIB, basically makes us coherent in all the other elements. It makes us coherent in the TLAC, makes us coherent in the leverage. And so these metrics are also rather stable. The balance sheet that is being used in the leverage is not fluctuating that rapidly. So from our point of view, that's how we work."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So we basically say, if we look at the metric of the common equity Tier 1 with the distribution that we have, that is it. And then from time-to-time, you have to look at changes in business. If you on board the prime brokerage, prime brokerage consumes a bit more of leverage. And that is where we have to look at how can that be contained and reduced? So it is one element. Intrinsically, we pilot the business through the common equity Tier 1 and the other ratios that we have."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "By that, basically, that means that the other metrics like TLAC and the likes are manageable, given the issuance that we have. I give the example right on leverage. It is the Tier 1 capital. So that means that next to the balance sheet, you also have the Tier 1, you have many other levers to basically contain it. So that's what we do. I'm not saying we are not looking into it, they are there. But they are not the primary one on which we pilot the business. So, Andrew, that would be my two answers."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, sir. Next question is from Mr. Jacques-Henri Gaulard from Kepler Cheuvreux."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Yes, good afternoon. Two questions. First, I think there is €149 million of goodwill impairment in the result this quarter. Any topic in particular, in particular, where you impaired the goodwill in terms of break down would be great. And I guess, I'm sorry, I have to ask you, because believe me, I'm as tired than you are, but I have to ask you about BancWest, whether it is core, noncore, or none of the above. Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "All right. I like your options. So I should get a buzzer, that I can push the option. Now, as far as on the goodwill, listen, this is just -- these are things that have been acquired a long time ago. So when you have goodwill, it basically means you shelved out money for an intangible. And then from time to time you review and you see that given some uncertainty in some areas with COVID, what have you not that we say, well, listen, it's now a decade ago and with this uncertainty around us in that area, we basically say listen, we impair that goodwill, yes. So that doesn't mean anything. It just means that probably 10 years ago, some cash has been paid for that. So that’s that. Listen, I will leave it to that as core. So there is not really a concern. It is something that has been bought well before the new banking environment where the yields given the regulatory changes and so forth. The yields are not the same as the yield that we paid at that time. So that's basically the impairment."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And on BancWest, listen, BancWest, as you know, the U.S economy, and particularly California is doing well. We have a good positioning, we have a lady who's in charge who's hitting all cylinders. So from that point of view, we are happy campers. But as you know, there are things happening. And so, yes, we keep our eyes open. So there is nothing new, I can say. So those will be my two answers."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, sir. We have one last question for Mr. Tarik El Mejjad from Bank of America. Please go ahead."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America Merrill Lynch",
+    "text": "Hi, good afternoon. Just quick question on cost, please. If we assume the cost inflation we have now is, stays longer than we think now. I mean, next plan, which we understand will be missed focusing on growth and contrary to previous plans, less so on identifying cost savings and so on. One, are you surprised by this inflation? And now I'm thinking on the next plan, are you incorporating elements of cost savings to preserve the jaws that’s for -- who are willing to present to us to justify double-digit ROE? Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Tarik, thank you for your question. Listen, at this stage, we don't see that cost inflation to last year. We see that there is a temporary pickup due to all the reasons that I mentioned before. So at this stage, or central scenario remains that it will be under control and therefore we stay focused on capturing the growth. I mean, we are really kicking on all cylinders. We have the platforms. Clients come to us, we take market share, we're going to remain focused on that."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "If at some point in time, I will be mistaken and there will be inflation, and I don't know what, then basically, we will adapt. Tarik, you've been following us for a while. You know that we are very agile in adapting what it is. The thing that is ahead of us now is we are very well-positioned to capture and accompany that grow. That is what we will do. If there will be another phase kicking in or whatever, we will adapt at that time, yes. But I'm not going to break things and not capture the things that are really tangibly ahead of us because of some things that could happen. If these things will happen, we'll adapt as we have always done."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "We are an agile bank. We are very responsive. Look at us. Where were you? I know where you were a year-ago in 2020. There was the COVID hitting, everybody got scared, many banks retracted. We didn't. Look at us. What happened because basically we stay to our clients, we stay to serve them, we stay to strengthen our platforms. So that's what we'll do and that's what we will continue to do. Operator, back to you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, sir. We have no other questions. Back to you for the conclusion."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So, first of all -- well, not first of all, last of all, thank you all for having spent the time with us. You have seen that we had a very solid result that as a bank. We are very well-positioned to capture the growth that is ahead of us. We are firing on basically all cylinders. So I look forward to see you again in early February to give you an update going forward. Thank you very much. Have a very good weekend. Bye, bye."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Ladies and gentlemen, this concludes the call of BNP Paribas third quarter 2021 results. Thank you for your participation. You may now disconnect."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

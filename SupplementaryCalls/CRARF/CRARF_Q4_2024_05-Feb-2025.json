@@ -1,0 +1,542 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, sir. This is the conference operator. We will now begin the question-and-answer session. [Operator Instructions] The first question comes from Giulia Aurora Miotto of Morgan Stanley."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Tarik El Mejjad of Bank of America."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Congrats on excellent results, really great quality. So I want to ask you again, as I usually do, on are you reviewing your guidance up. I think we'll have all to wait for another few months. But still related to that. I mean, you've been delivering record high ROTE of 14% for the full year '24, and it seems that you are not yet firing on all cylinders. So, do you think bank has structurally shifted to materially higher ROTE versus previous plans? If I remember, the last few plans, you basically increased your ROE by 50 to 100 basis points ROTE plan after plan. Now we are way above the previous plan target. So, is this a structural shift? Or there are some elements that flatter a bit your ROE? For example, I'm thinking of the CET1 ratio of 11%, but you seem to be adamant this is the right level for you?"
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "And then related to that still, on the Capital Markets Union, you wrote a very detailed article a few weeks ago on the securitization, the benefits of its Europe linkage report. Should we expect in your new plan after eyes on that? Maybe there's a new plan where you are more trying to leverage on the European working together and securitization within the CMU? One of your competitors yesterday start to embed the CMU even within the medium-term outlook for their profitability. Are you in the same situation?"
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "And then the last question, I mean, I have to ask it. Let's see how much you can say on that. But on Italy, I know the situation remains very fluid. But I wanted to see what is your position in here. You often presented more as defending your interest. There was a few headlines this morning again. But I think it's quite the opposite. I think you have a big opportunity here to leverage on your stake. So can you maybe update us on where you sit there and what’s kind of time line we should watch?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Lot of questions, Tarik. Nevertheless, I'll try to answer as quickly as possible those questions. First one, guidance, it's clear. There is a new CEO that is going to be in charge mid-May. He has started indeed to work on the future medium-term plan. But of course, it will take a little time. So do not expect the new medium-term plan before probably the fourth quarter of this year. And we will update the targets and will give new targets for probably 2028. So nevertheless, 2025 has to go its way."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "And what I can tell you regarding 2025 is, first, we do not forget the initial targets of the last medium-term plan. So, we continue to target a return on tangible equity for 2025 that should be above the 12% threshold of the previous medium-term plan. We continue, of course to target a cost/income ratio, which should be below 58% and possibly significantly below. And in terms of net profit, you know that in 2025, we are going to face tailwinds and headwinds as some of our competitors are stating."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "But all in all, what we feel is that we have the capacity to repeat the same, more or less the same type of performance as the one we've been able to publish regarding 2024, I would say, on a structural basis. So definitely, we all understand that you would prefer to have an update of our targets as soon as now. But we are in a transition period, which is not a brutal transition. It's going to be very fluid, and we need a little bit time before we are able to post new targets."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "In terms of return on tangible equity, this will be part of this new medium-term plan. Of course, we are taking into account the modification of the breakdown of our businesses, the fact that we have embedded in our scope of businesses some low levels of capital requirement. There is also the necessity to fully take into account the impact of Basel 4 which are not for the time being completely taken into account in the latest figures we've published because it continues to be deployed. So, it's clear that we are well positioned regarding the return on tangible equity. We do not want to abandon this good position. But again, this will be part of the new medium-term plan."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Securitization, it's clear that it's an important possible development of the activities of the group in several areas. It certainly is the case for CACIB. But CACIB is already using these tools in order to monitor and to fine-tune its capital consumption. So, CACIB is and will continue to use this securitization operation with different categories of investors in order again to monitor its capital consumption. It's also, of course a possible target for Amundi to develop activities regarding all these credit funds. So, it's definitely something that we are going to look at closely in the course of the next medium-term plan."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "And then Italy, what we're seeing is that the evolution of the situation in Italy is not going to be decided by Crédit Agricole itself. Crédit Agricole has an important setup in Italy. We behave as much as possible as a good Italian citizen when we operate in Italy, and we think that we have a good image in this country. But what we are seeing is that at the end of the day, the reshaping of the banking landscape in Italy is not going to be decided by us. And what we want to be is to be in a position where we have the capacity to defend our interest, again to use this expression, which doesn't mean that we are passive, but we are actively defending our interest."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question -- excuse me, sir?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "No, no, I was asking if we were going back to Giulia."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Yes, we are. The next question is from Giulia Aurora Miotto of Morgan Stanley."
+  },
+  {
+    "person": "Giulia Aurora Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "So two questions from me as well. Slide 22 shows how you created value via bolt-ons. I think it's a nice slide. You are currently ahead the 11% CET1 target, and here of course, there is Basel coming. But what are you most focused on with your excess capital at the moment? CMU On the margin, what sort of business or geographies are you looking to deploy that? And would this be mostly a bolt-on or could it be a larger deal? That's the first question."
+  },
+  {
+    "person": "Giulia Aurora Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And then second question, in terms of you mentioned risk migration on RWAs. Is there something that we should start to worry about, perhaps with respect to France in terms of asset quality deterioration or not really? What are you seeing there? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Let me start directly with the second question. No, it's technical. And even in the case where an asset is upgraded from a default to sensitive, it happens that there is an increase in the level of RWAs. So really, it's the consequence of all the migrations that we've seen. But what is the most important is that in terms of actual cost of risk, there is no sign of deterioration. So, always the same areas that are sensitive. It's the case for many, many small businesses that are, for example connected to the car-making business."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "It's also the case for all the SMEs in the building contracting sector. We all -- and we see those sectors as being sensitive since now many quarters, but there is no overall sign of deterioration and no worry on our side. But simply, we have to acknowledge that all the regulation is sometimes having some volatility effect on the capital consumption because of the models that we have and all these elements. This is what happened with very moderate magnitude definitely on the fourth quarter of this year."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "The second point is regarding the usage of the excess of capital. We do not decide in advance where we are going to be able to make acquisitions because an acquisition is a matter of availability of opportunity, and so we cannot decide in advance. What we know for sure is that we continue to look at bolt-on acquisitions much more than transformational acquisitions because I think the success of the past acquisitions was clearly linked to the fact that this was easy to integrate operations."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "And I think it's very important, if we want to make sure that we take advantage of those operations, and that we -- that it's a good usage of the capital that we're able to generate. We must make sure that the integration is going to go smoothly, and the best way to see a smooth integration is to make the acquisition of entities that are coherent with what we are doing now and that are easy to integrate."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Delphine Lee of JPMorgan."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Just two. I mean, maybe just to follow up a little bit more sort of on strategy in general in Italy. So, I get your point on that you don't decide on the landscape in Italy. But sort of what is the -- what will be the best scenario for you and for Amundi in general? What's on your wishlist?"
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And then a second question also on M&A. I mean, you've been very successful in bolt-ons, and completely agree that it's easier to integrate. But if you were to look at opportunities that are slightly bigger, what countries would you focus on first in your view?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Okay. These are quite difficult questions, but let me start with the wishlist. The wishlist is actually quite simple to design because the wishlist would be clearly to be able to develop all the partnerships that we have presently, to conclude new partnerships, and at the same line to develop the network of the retail bank that we have in Italy. So, that's very simple. We want to develop. So, we have two ways of developing our activities directly through our own network and indirectly through partnerships. So, the wishlist would be to be able to develop at the same time in those two directions and with the same, I would say, magnitude."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "M&A, which country? Again, I think that the starting point would be because if we want to integrate what we are acquiring, it means that we need to acquire entities, to acquire objects that are in connection with activities we already have. So, it means that by definition, either we make acquisitions in business lines that we already have, and possibly this could lead us to complement the geographical footprint of some businesses."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "It's been the case, for example, when CACEIS made the acquisition of Kas Bank in the Netherlands. This gave CACEIS an improvement of its footprint in the Netherlands. Or when CACEIS made the acquisition of Santander Security Services in Spain, it was a complement to the setup of CACEIS in this country where CACEIS was not really present. So that's first, geographical approach. And of course, from pure retail banking point of view, where we can make acquisitions, the countries where we have already some activities because setting a new franchise of retail bank in a new country, I'm not ruling completely out such a strategy. But it's not really what we have in mind nowadays. And what we know best to do is clearly to integrate some additional setups where we have already some activities."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Kiri Vijayarajah of HSBC."
+  },
+  {
+    "person": "Kirishanthan Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "A couple of questions from my side. So firstly, on the interim dividend or rather the lack of it, I have to say I'm a bit surprised because I know when we talked in the past, you've sounded quite amenable to the idea. And I know you mentioned your big shareholder would probably be in favor of it as well. So, what's the rationale for not following what your peer announced yesterday with regards to the interim dividend?"
+  },
+  {
+    "person": "Kirishanthan Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "And then just more of a technical question on the exchange rate effects in CIB on Slide 14, the EUR2.7 billion of RWAs. Presumably, that's from a stronger U.S. dollar. So, I guess I'm a bit surprised you're not better hedged. But is it fair to assume that there's more of that to come through in Q1 given what's been happening with the euro-dollar exchange rate year-to-date? So just, yes, guidance on the noneuro-denominated RWAs, please."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Let me start with the second point because it's quite straightforward. Actually, we are not hedging the RWAs. What we're trying to hedge is the impact of rate evolution on the solvency ratio. So, it means that we try as much as possible to have the same proportion of dollar-denominated, for example capital components as the proportion of dollar-denominated asset proportion in order to immunize as much possible the solvency ratio. but there is no specific hedging of the assets. We prefer to hedge the asset and liability elements alongside in order to again immunize the ratio as much as possible."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "When it comes to the interim dividend, well, we are swift. We are able to react rapidly, but asking us to react today to something that was announced by one of our competitors yesterday is maybe a little bit, little too quick. So, I have no, I would say religion regarding this interim dividend issue because, in itself paying the dividend twice a year or once a year is not creating any euro of additional value. It's a technicality. So, I have no in-principle opposition and I have no in-principle, I would say inclination to do so."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "We are going to see what the competitors do. I think you note that one of the big French banking competitors has stated that it was going to do so. We'll see what we can do. We want to do.Wwe deem reasonable to do. And we'll act accordingly, but again, this is not creating a single euro of additional value in itself."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Flora Bocahut of Barclays."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "So two questions from me as well. I'd like to go back to dividend, but more to discuss the payout here because obviously you have excess capital. There are moving parts in Italy. There is bolt-on M&A that you do here and there. I know there is Basel 4 also coming. But yes, what's your appetite here to potentially look into the payout again? Or is that absolutely no will from our side to change the 50% payout?"
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "And then the second question is actually regarding the announcement today from the regional banks that are going to buy up to EUR500 million of Crédit Agricole S.A. shares and that they have no intention to go beyond 65% ownership. I know I should ask them rather than you, but you're also part of the group more generally. So, I'd be interested in your view on a few things there."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "First, why that 65% limit? If you could explain, that would be helpful. And then obviously, they continue to pile up excess capital in the regional banks. So, what is the view once they're at 65%? Are you considering within the group changes to the capital structure? Or there is absolutely no discussion there? You think it's optimal as it is."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Let me start with the second question again. 65% is not a magical figure. It simply was the figure they stated when they issued their first operation of share reduction, capital reduction in the capital of Crédit Agricole S.A. And I think, but againyou had it right. They are better placed than myself to comment. I think that they want to stick to what they've said back two years ago, and it seems reasonable."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Is there any change to foresee in the capital structure of the group? There's absolutely no discussion regarding that presently within the group that I can tell you. And I see from my point of view no specific reason why we should want to change this capital structure, which proves to be efficient, which provides the group a vehicle that is very, very capital efficient and that is delivering high return on tangible equities. Where at the same time, you have the regional banks that do not look that much to their own return on equity, they look to their level of profit, which is very important, of course. But when it comes to profitability in terms of return, it's not so important for them, and they want to continue to accumulate capital in order to continue to develop their activities locally and also to contribute to the most efficient coverage of all the capital structure requirements that we have at group level."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Because again, their very high level of solvency allows us to cover our different ratios, be it TLAC or MREL, for example, with the most efficient set of elements, subordinated debt and Tier 1 and Tier 2 debt at CASA, but mostly CET1 capital as per, able of the regional banks, thus leading to a very robust and very cost-efficient capital structure for the group. So, no reason to change anything from this point of view."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "And when it comes to the dividend and payout policy, of course, this is an element we are going to reassess in the medium-term plan, as every time. But between you and me, I doubt very much that we are going to change our stance. It's -- again it's proven to be efficient in the last medium-term plan. Efficient, meaning that we've been able to deliver a very good shareholder return, and at the same time, we've been able to seize opportunities to accelerate our growth. So, we think even if it's not very scientific, that this 50/50 breakdown between dividend and capital that we retain for the development is relevant."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Pierre Chedeville of CIC."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "One question regarding insurance. I remember that when you launched the previous plan, Philippe Brassac was very optimistic regarding the development with SMEs customers. And I remember at that time, I was a little bit skeptical considering the fact that these types of clients were very targeted by AXA, for instance, or a pure player in insurance."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "And when I look at your beautiful Slide 21, I can see that your P&C business in terms of market share is quite stable. And I wanted to have a view maybe on the development on SMEs. Was it as good as Philippe thought at that time? First question."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "My second question relates to Asia. We have seen yesterday that Amundi is performing very well in Asia, and not only in the JVs with more than EUR400 billion of assets under management ex JVs in Asia. And I wanted to know if you can link this development with other parts of your business, especially CACIB. And if you have seen this last day or this last year during the plan a significant increase of your revenues in Asia, and do you see a link between Amundi and other parts of your business in Asia?"
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "And last question is regarding LCL. Could you come back a little bit on the impact of macro hedging this quarter? I did not really understand why this quarter, your margin is decreasing. And could you confirm that in 2025 regarding the evolution of rates, this margin should increase."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Okay. Insurance and the development of P&C insurance for SME clients. We are patient, and it takes time to really install the development of a new business line alongside between the insurance entities and the CACIB, regional, or LCL. And so it has started indeed with some regional banks, which are quite active. It's not at this stage very massive in terms of global figures, but this is not so much our worry because we perfectly know that even when we started the life insurance business or the P&C insurance business for the household and the individuals, it took a little time before it was completely, I would say, a part of the DNA and part of the day-to-day behavior of all our commercial staff on the territory."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "So we, I don't have any precise figure to give you right away on this business. It's developing correctly compared to what we had in mind, and it's going to continue to be an area of future development for Crédit Agricole Insurance and for the group. Asia is clearly a very important area, geographical area for Amundi. You've stated it well because Amundi has decided to focus on Europe, Middle East, and Asia, and we will close in the coming weeks or months the deal with Victory Capital in the U.S., through which Amundi is going to change its setup in the U.S. gaining 26% of the capital of Victory Capital in exchange for the contribution of its own U.S. setup."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "So, it means that on a purely autonomous basis, Amundi is really focusing on Europe, Middle East and Asia. And it's, of course, developing well in Asia. And it's developing also in terms of cooperation between all the entities that are present in Asia, I can give you an example because I remember back some years ago now when I was heading the insurance activities, we have a small life and protection insurance business in Japan. And the development of this business was only made possible by the support of CACIB, on the one hand and Amundi on the other hand."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "So, it's clearly a policy that we have in every country in which we have several subsidiaries or branches of our large global business lines. It's key that we organize things in such a way that they work together and that they try to help each other to develop their activities locally. So it's the case in Asia between Amundi and CACIB definitely."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "And have you seen the revenues progress during the plan?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "For CACIB, I don't have the breakdown of the revenue -- geographical breakdown of the revenues at CACIB. We can give you maybe some more precise numbers later on. But it's always difficult in CIB activities, you perfectly know that to tell exactly where the revenues come from because you can allocate the revenues either in the country of the clients, in the country of the commercial team, in the country in which you book the asset. So, you have different possibilities, and it's a little bit complicated to allocate and to break down completely the top line of CACIB between the different countries."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "But CACIB is developing in Asia. That's clear. That was the target of the previous medium-term plan. And I can guess that it's going to be a target for the next medium-term plan for CACIB. And again, for the same reason, which is that the largest players are U.S., they are based in the U.S. And so the U.S. market is very difficult for European banks, be it in CIB activities or be it in asset management activities, and it's clearly why we try to develop as much as possible in other regions where the domestic players are not so dominant."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Then LCL macro hedging, why this decrease in the NII in the fourth quarter and what do we expect for 2025. You know that the macro hedging globally is a series of swap in which we pay the long fixed rate and we get the short-term rate. And what happened in 2024 and what continues to happen in 2025 is that the short rates are decreasing rapidly alongside with the decision of the ECB. So, this is what happened in the fourth quarter and it's absolutely not unexpected."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "But what we foresee in 2025 is that thanks to the continuation of the decrease of the weighted average cost of the customer liabilities,. thanks to the reduction of the cost of the market refinancing that we need to provide to LCL, and thanks to the progressive repricing of the loan book with the acceleration hopefully of the production of new home loans. And even if the macro hedging will continue to see its contribution reducing, we will see the stabilization and the increase of the net interest margin at LCL and also at the level of the regional banks in 2025."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "But not an increase, a significant increase? Not a significant increase."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "We foresee a slight increase to be frank."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from Alberto Artoni of Intesa Sanpaolo."
+  },
+  {
+    "person": "Alberto Artoni",
+    "role": "questioner",
+    "position": "Intesa Sanpaolo",
+    "text": "I have two questions on the asset gathering business. The first is do you expect a lower rate to continue to support good business momentum, particularly life insurance, asset management, wealth management?"
+  },
+  {
+    "person": "Alberto Artoni",
+    "role": "questioner",
+    "position": "Intesa Sanpaolo",
+    "text": "And the second question is more general. There has been a debate around the active fixed income funds and products. And some people say that going forward, we should expect the same level of competition that we've seen in active equities. Other people say that given the difference between fixed income and equity markets, the competition will not be as tough, and active fixed income product, a much wider future compared to the active traditional products. So, what's your take on that debate?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "On your second question, you were talking about asset management or CA --"
+  },
+  {
+    "person": "Alberto Artoni",
+    "role": "questioner",
+    "position": "Intesa Sanpaolo",
+    "text": "Yes, asset management but that also fits into life insurance product and directly, wealth management indirectly also."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Okay. So well, lower rates have an effect on the valuation of outstanding, especially if you have a large fixed income business in asset management activities as well as in insurance activities. And you know that in the insurance portfolio of assets, you have a large proportion of fixed-income assets. So, it's a mix because at the same time, a decrease in rates is generating a positive valuation effect. But at the same time, going forward the new assets that you can buy are yielding less."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "So, it's a mix. And I think that at the end of the day, what is important is to be able to adapt to any type of rate context. And we've proven that it was the case for us both for life insurance activities and also for asset management activities. So, what is important is the commercial demand in terms of savings products and savings support. But as long as our clients want to invest their savings into different categories of savings products, we have the full range of products and we are able to serve them."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Then when it comes to competition, it's fierce. It's getting fiercer and fiercer in all categories of businesses, be it equities, be it fixed income products. And what is important is to be, as much as possible a low-cost user, and size of course, if you manage in a clever manner, your size. Size is a good advantage if you want to be a low-cost producer. And we have the size and we have this habit of being a low-cost producer. It's the case for Amundi, where they have an average cost on the assets under management, which is probably one of the lowest in the market. and it's also very much the case at Crédit Agricole Assurance."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] The next question is from Matthew Rosso of RBC."
+  },
+  {
+    "person": "Unidentified Analyst",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Just a couple on finance. And so, based on the just what your assumptions on the provisions you've taken, do you make an assumption on the Supreme Court really coming up in the UK? And then secondly, related to that, are there anywhere else any other things in Europe, any other parts of business where you'd expect some of the actions to be taken by European regulators in terms of discretionary commissions?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Well, in the UK, it's clear that it's a very preliminary stage of the case because what we've seen is that the number of claims that we've actually received is very limited for the time being. The second point is that we've seen that the UK Minister of Finance is now putting some pressure on the regulator in order to be moderate in terms of setting the framework of potential indemnification, especially of course taking into consideration the potential impact on UK banks, but also willing to frame a scheme in which there would be no windfall profit for some of the customers, so which we deem perfectly reasonable."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "So, all in all, it's a preliminary provision. We do not know exactly if and when we are going to need to book additional provisions. But what I can tell you is that, first point, we will continue to have provisions according to our respective size on the market which is very limited, again, 1% to 2% of market share. So, it's a very, very limited proportion of what is going to be grouped by UK players."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Second point, most of these activities were performed at a time where Crédit Agricole Auto Bank was FCA Bank and was a JV between FCA and ourselves, which means that at the end of the day, there is a loss sharing scheme with Stellantis. And then the third point is that, to the best of our knowledge, every time there has been in the last 10 years a provision given by the authorities on the way this activity must be developed, those new provisions were directly implemented by our set up, our operations there. So, what we think is that we've been behaving as accurately as possible in this market in the U.K. So, all in all, this is leading us to be a very confident that this is not going to be a major issue for us. But of course, we have to monitor the situation closely."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "And then for the last aspect of your question, do we foresee other areas of such difficulties, such disputes? We do not see any other area of such a case being opened. And of course, we disclose all the risk elements regarding our set of businesses in the risk part of the presentations. And so, there's some pages in the appendix. And of course, in the registration document, we update regularly also on our risk factors."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question from Sharath Kumar of Deutsche Bank."
+  },
+  {
+    "person": "Sharath Kumar",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "I still have a couple. So firstly, coming back to French retail, again expanding a bit on Pierre's question. So I would say it was encouraging to see mortgage loan production pickup. Where do you think is the current appetite for a further improvement in the current political climate? I know that the ECB lending survey suggested some softness in the first quarter versus the prior quarter. So any comments there would be appreciated."
+  },
+  {
+    "person": "Sharath Kumar",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Second one is on personal finance. Again, encouraging to see a good sequential recovery, although I note some one-off elements. But nevertheless, the underlying growth is still encouraging. So, where do you see the development of margins and volumes in the wake of lower interest rates in 2025?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Excuse me, your second question was relying to which business precisely?"
+  },
+  {
+    "person": "Sharath Kumar",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Personal finance or consumer --"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Personal finance, okay. So, French retail, an appetite of the customers to engage into home loans. I think the appetite of our clients to buy their homes has never weakened. What has weakened is their effective capacity to borrow in the context of the sharp increase in interest rates that we've seen in '22, '23, up to beginning of '24. So, definitely the willingness of French consumers to be able to become homeowners hasn't changed. What is changing and improving is their effective capacity to borrow and to buy their homes. And to this extent, the political uncertainties in France do not have any impact."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Because whether there's going to be a budget or not is not really having an impact on your willingness to buy your house, to buy your home. So definitely, it doesn't change a lot, at least for the vast majority of the population. Of course, for the higher end of the population, the person who invest in real estate and who buy properties to rent them, then of course, they are going to hesitate a little bit and to see whether there is going to be an additional tax burden on this business. But for the vast majority of the home loans, that we grant it, for people that want to borrow their home, and so there's no impact of the political uncertainties."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "So, what is going to be important is to see how the rate evolution is going to continue. In my opinion, considering the level of customer rates as of today and considering the cost of refinancing, we should see a stabilization of the customer rate, which is coherent with the market rate and which is coherent also with the capacity of our clients to borrow. So, we expect to see a further development of the home loan market in France and in our network, both LCL and the Regional Banks."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "And then in consumer credit, the good news that we've seen in the fourth quarter of this year was the fact that the progressive improvement in margins at inception of new loans started to translate into an improvement of the overall margin on the outstandings, which was again the good news because we had seen a very sharp decrease of the margins with the increase of refinancing rates back 2 and 2.5 years ago, and we were expecting this moment where the price effect was going to start to invest. It's now the case. So, we expect a lot from 2025 going forward on this business."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The final question is from Matthew Clark of Mediobanca."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Two questions, please. One, going back to the macro hedging in LCL. Sorry if I missed it. I just wanted to confirm, is this macro hedging on the mortgage portfolio? And then second -- and if not, what is the macro hedging on specifically in terms of products? And then second question is just on the tax rate. Can you give us a guide for the year ahead, please?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "The macro hedging is not specifically on one part or the other of the balance sheet. What we do when we define and implement the macro hedging policy is that we start by assessing all the elements coming from the customer in the balance sheet. So, we have on the asset side the fixed rate loans, especially home loans. We have on the liability side different categories of customer deposits. We have a site deposit, which is considered as a fixed rate liability with a zero rate cost."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "We have also all the regulated savings account in which there is a component in the rate which is connected to market rates and there is another component, which is linked to inflation. And then we have also the term deposits in which there is a rate that is set, and that depends on the duration of the deposit. And then what we do is that we aggregate all these position regarding their rate component."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "And then there is a gap between the assets and the liabilities and we cover the gap. And generally the gap is, in a sense, has a sign in which we need to complement and to book some swaps in which we pay the fixed rate. So, it means that we complement the liabilities bearing a fixed rate, the customer liabilities by these swaps in order to match as much as possible the level of rates that we receive, the level of risk that we have to pay and in order to leave only a marginal gap between both of them."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "So, this is a macro hedging as opposed to what would be a micro hedging, in which we would hedge every element of the balance sheet individually. And so this is this situation in which we have a significant portfolio of swaps in which, in aggregate, we pay a fixed rate which is known, and we received the short-term rate which is varying every quarter or even every day."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Okay? And when it comes to the tax rate and this additional tax, so it seems now that we have the final answer only this afternoon, but the government is not going to receive a nonconfidence vote in France. So,it means that the finance bill is going to be passed. And in this finance bill, there is an additional corporate tax surcharge that has that will have to be paid by large French corporates as we are in 2025."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "So, it's clear that the level of corporate tax that we pay is going to increase in 2025. And we do not see exactly where this is going to lead us in terms of amount, but what we can tell is that more or less it looks a little bit like the one we already had to pay back in 2017 with the same type of mechanism, which is leading to a charge that would be, that could be possibly, for the group, between let's say EUR200 million and EUR300 million."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "And then there is repartition of this burden between CASA, the listed entity and the regional banks, which is not completely set because we are in the same tax integration group. So, it's way too early to tell exactly what it's going to present. It's clear that we will have in 2025 an additional corporate tax surcharge, and that hopefully is going to be a one-off."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "I understand it was the last question. So again, thank you for attending the call, and looking forward to discuss with you soon. Bye-bye, everyone."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

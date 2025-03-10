@@ -1,0 +1,914 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] Our first question comes from Raul Sinha, JPMorgan."
+  },
+  {
+    "person": "Raul Sinha",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Raul Sinha"
+  },
+  {
+    "person": "Raul Sinha",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Can I have two, please? The first one, just on the deposit margin, which is up very nicely, 6 basis points in the quarter and I guess the overall deposit performance of the franchise. I was wondering if you could perhaps unpick that for us a little bit and talk about how much of that might be sustainable as we head into the second half, where there might be a little bit more rate volatility? That's the first one."
+  },
+  {
+    "person": "Raul Sinha",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "The second one is on capital management, which I thought was a nice positive surprise today, GBP3.9 billion through RWA management. That's pretty good outcome again. And within that, I guess you have had some benefit from SRTs. Could you talk a little bit about how you manage that? How we should expect further scope for this going forward? And I guess related to that, does that play -- does that have any bearing on how the government might think about exiting the stake eventually as you do have a much bigger buyback authorization for next year? Does that have any bearing in terms of how the government also phases its exits?"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "There's a few in there. Katie, I'll start with kind of deposit piece, and then maybe you can follow up on some of the margin specifics. And then maybe it makes sense for you to talk about the RWAs and the SRTs."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So Raul, on deposits, as you say, it's a strong quarter and a strong half year. You'll probably recall I spoke last October around managing deposits for income and liquidity value. So it's pleasing, this quarter, to see the deposits up by just over GBP5 billion. And when you dig down into the details, I'm sure you've done, you can see that we've got growth in all of our three customer businesses. So GBP1.5 billion in retail, GBP2 billion in C&I and GBP1.7 billion in private. So good broad balanced growth from the three businesses."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I guess, the other part of your question really was around the outlook there. Obviously, we don't give specific guidance on deposits, but pleased with the positive growth in half 1 and probably encourage you to think about it that we'd expect our deposit balances to trend pretty much in line with the sector. And you can also see that the term deposits have stabilized at 17%. We indicated, we thought that would be the customer behavior as we came through the half of this year. But quarter-on-quarter, we're stable at 17%. So that's a nice mix effect, which has obviously supported the performance. And obviously, we're working hard to retain those deposits, but in a way that manages the liquidity value and income."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So Katie, do you want to talk specifically about that?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I'll add a little bit on margins, okay? Raul, the way I would think about the deposit margin in H2 is clearly there's going to be an ongoing benefit from the hedge, which we expect to continue to offset deposit mix changes, which as Paul says, are slowing. Then you need to consider the base rate cuts, one in Q3 and one in Q4, which will slow the pace of growth that we saw in Q2. But overall, I would say both of these things are factored into our full year '24 income guidance of around the GBP14 billion."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then, if I just go on to SRTs, it's something we've talked about over time, and it's good to see them coming through. So GBP3.9 billion in the quarter, GBP4.3 billion in the half. There's probably three different things I would highlight there. I mean, Raul, you probably haven't got to Page 11 or Pillar 3 this morning. If you have, I'd be terribly impressed. But what you can see within there that when we look at that RWA management, of that GBP4.3 billion, GBP1.2 billion of it is SRT transactions. We then have a portion, which is in relation to credit issuance. And then we have probably a bit more or less about half of the balance, which is actually RWA kind of management actions."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Now there's a raft of different things. I'm not going to go into huge detail as to how they all might work. But we've done a little bit of debt sales. We do quite a lot of credit limit management. And all of those things together for this half have brought us to GBP4.3 billion."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We did talk about an area we were particularly focusing on, so it's good to see them kind of coming onto the ticket. I wouldn't take that GBP4.3 billion as a kind of half rate run rate. They will continue to move as we do different transactions and different management actions. But what it does do is it supports our capital generation, particularly so in this quarter, and obviously, our distribution capacity over time."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And I would say you asked about the government, there's no direct link of that at all to the government sell down. This is really about managing the capital to make sure we're getting the best return for our shareholders."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Alvaro Serrano from Morgan Stanley."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Alvaro Serrano"
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Hopefully, I've unmuted correctly, and you can hear me?"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We can."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Alvaro Serrano"
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Just on the hedge, I had a quick question on the hedge and then on the guidance. On the hedge, the redemption yield, I think it's lower than in the year that Katie flagged in previous results. So I just want to understand what's driving that and if we could see any changes going forward, so what should we look out for?"
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And then on the guidance, I think I've understood, Katie, that -- on your comments just now to Raul's question that NII should be sort of growing in Q3, Q4 albeit the cuts will mitigate that growth. But if we do think about our growth, the GBP14 billion does look reasonably conservative after pretty strong beat. So I wonder if I'm missing something on your comment, misunderstood on non-interest banking and non-interest income, or there's anything else to bear in mind. And related to this, is the 2016 sort of guidance, is it not the time to update that? Or do you still think it's current?"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I'll deal with the 2026 guidance targets. And then Katie, you pick up the -- you can dive into the detail on the hedge."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On 2026, pretty simple, Alvaro. We only shared those targets in February, still a fairly long way off. What I would say is, I mean, we are increasingly confident about the outlook for '26. So it's a very conscious reaffirming of our return target for '26 today. And I would remind you that it's always been and continues to be greater than 13%, but it feels very early to be changing that. So that's where we are on '26."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Katie, on the hedge?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, absolutely. So if I take the hedge first in terms of the specific point on the redemption yield. So overall, we operate a very mechanistic approach, and we take to the managing of that product hedge. And what that does result in the execution of pay fixed swaps, which reduces the nominal of the hedge, while maintaining the average duration of 2.5 years. So that has the impact of reducing the net income and the applicable redemption periods, and hence, they respect the yield when expressed as a percentage of the normal hedge goes out selling."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So we always talked about 80 basis points previously. What we've seen is we've been reducing that hedge down to the 175 at the end. At the moment that, that takes you to 40, the impact of it into 2025. It takes the 50 we historically talked about down to 0 and then in 2026, which clearly, there's been a lot less feathering happening at this stage in 2026 as much further out. At the moment, that's still sitting up at 40. So hopefully, that helps. But I think these are good redemption yields to use for your modeling at this stage."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "If I then look at the GBP14 billion of income, so H1, GBP7 billion strong start, really supported by customer activity on both sides of the balance sheet. And obviously, the absence of rate cuts as well. We were pleased to see the margin expansion across the three businesses. When I think about the income outlook into H2, it does imply a broadly stable versus H1."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And there's four things that are probably in my mind as I look at it. The first one, base rate cuts, we've got two base rate cuts of 25 basis points, one in Q3 and one in Q4. So you know that, that will bring some pressure in those quarters, particularly in the period as we're waiting to kind of pass that cut through."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I think the second thing is customer behavior. Volumes have been positive in H1. But I think we still don't quite know how customers might react as you see those rates fall and importantly, how the market might react. So that's something to think about in the second quarter."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "There's always some seasonality in C&I. I think we've been very pleased with the performance of our markets business in this first half, but we do expect some seasonality there."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And I guess, the last thing to kind of end on a bit more positive is that we have seen the mortgage book and margin stabilization. The book is now around 70 basis points. We're writing at around 70 basis points. So that drag has kind of gone. But overall, I think strong guidance as we go into the second half, really reflecting the strong activity of our customers."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Andrew Coombs of Citi."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Andrew Coombs"
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "I guess a couple of questions. Just firstly, if you could discuss standard variable rate mortgages, what you're seeing there in terms of repayment trends and how you develop going forward as we've seen a stabilization, [indiscernible] decline in base rate cuts -- or base rate."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "And then secondly, just coming back to capital management. I mean, I know you said not to necessarily extrapolate the capital management that's been done on the RWAs this quarter, but you are still reiterating the RWA guidance for end of '25, and that's even with the Metro Bank and Sainsbury's Bank portfolio acquisitions. So I guess my question would be, when you're thinking about capital return or capital usage going forward, you haven't announced another ordinary buyback today despite the stronger core Tier 1 ratio, but you have got these two portfolio acquisitions. So how are you thinking about the inorganic growth potential versus the ordinary buyback and directed buyback potential?"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I'll take the capital one. Katie, maybe you follow up on the SVR mortgage piece, if that works for you?"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So you're right, Andrew, whilst we're very pleased with the kind of active capital management activity and the benefits that we've seen from that in the half year, but particularly the second quarter, we're continuing to guide around GBP200 billion by the end of 2025. As you alluded to, we've announced the two inorganic transactions, which we expect to add around GBP3 billion of RWA. So we remain comfortable with that existing guidance, so unchanged from that perspective."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "There's a number of things that we're weighing up. Obviously, we await the final PRA publication of the Basel 3.1 rules and also the clarity around the implementation, and on CRD IV, we're still -- we've still got some model changes to come through, and that would give us some -- we expect some inflation in half 2. The timing of that, the quantum of that, we're still uncertain."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On the broader question linked to that, which I think is around how are we thinking about distributions. No change in our approach, I would say, Andrew. We prioritize the ordinary dividend. We want to pay out around 40% of profits. We're very pleased to announce the 6p interim dividend today, up 9% on prior year. Then we'll prioritize the directed buyback we executed obviously this year in May. We've just completed literally this week, the existing GBP300 million on market buyback. And we'll take a look at the end of the year in conjunction with the Board in terms of future distributions."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Katie, SVR?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, sure, absolutely. So we -- Andrew, SVR is not a significant part of our book. It's around 3%, and it stayed at around that 3%. I mean, you can see a little bit more detail on Slide 33 in some of the appendix slides, which gives you a bit more -- sorry, but we don't -- we typically don't have long-term SVR customers. It's something we've worked really hard on over a number of years. So it's really not an issue for us as we move forward from here. And the -- there's nothing particularly to mention on SVR per se. Thanks, Andrew."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Jason Napier of UBS."
+  },
+  {
+    "person": "Jason Napier",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "Jason Napier"
+  },
+  {
+    "person": "Jason Napier",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "I guess, a really simple one on the hedge. And then Paul, perhaps a question around strategy just -- actually, the decline in redemption yields on the hedge is obviously welcome, and it suggests a really good tailwind into next year, albeit some of that will probably be offset by the 5 rate cuts, the accumulated consequence of that. But I wonder whether you could just talk in general terms about the size of the tailwind sort of this year, next year and the year after, just give a sense as to how that accumulates or doesn't?"
+  },
+  {
+    "person": "Jason Napier",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "And then Paul, I think the capital beat today has gone down really well in the market and the sort of acquired growth through Metro and, to a lesser extent, Sainsbury's. It's also expected to be good for EPS and RoTE. It doesn't change, however, the mix of revenues between NII and RoTE. NII is going great at the moment, but I wonder whether you talk a little bit about whether the mix is where you'd like it to be. And if it isn't, what it is that the bank needs to do to get it to where you'd like it to be on a through the cycle basis? Because clearly buying loan books is very accretive, but it doesn't exchange the mix of profits for the firm, and some of those assets are probably in runoff anyway. So if you could just talk strategically about the kind of revenue mix that you think is ideal for a bank like NatWest, that would be helpful."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Katie, do you want to go with the hedge?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, sure. I'll go with the hedge first of all. So I mean, Slide 14, what we've tried to do here is to set out for you is, how much of the hedge is already locked in, and then you can see obviously '24, 90%, 70% and then 50% in 2026. I've talked previously already on the call about what happens to that redemption yield and why it's moving and you would expect as we manage the size of it. So we're expecting the hedge today is 175. We're expecting it to get to 170. We have talked about things that deposit levels kind of stabilizing. So that would make you say, well actually relatively stable as we go forward. It's a kind of 5-year hedge. So it matures kind of every year as we move forward from here."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, I think the way that I think about it as you model it, if you're looking into '25 and '26, obviously, you get full year benefits of the previous year and then the averaging effect, but when I look at '24 and '25, I would think that it will enhance my income over where we end the end of this year by about GBP800 million, and then it will continue to grow from there into 2026. So clearly, a strong growth coming through from the hedge piece, and we're very comfortable with the levels that we've got locked into that as well. Thanks, Jason. Hopefully, that answers your question."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I'll hand back to Paul."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "That's great. Thanks, Katie. On the -- it's a broad question, Jason, on the strategy piece, but let me take you through, I guess, some of my -- how I think about it. So speaking up on, I guess, on the order of the points you raised. So yes, we're pleased with the two acquisitions. As you say, they're both EPS and RoTE accretive in year 1. So they feel like attractive things to do, both to build scale but returns immediately for shareholders."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "In terms of the kind of financial North Star, I'm very much managing the business and running the business for RoTE, as I hope you would expect. And then once you get beyond that, obviously, we do think about NII and non-NII. It's probably worth remembering that given the size and position of our commercial bank and the deposit base, that's very helpful for income and returns but those inherently mean we're more weighted to net interest income than maybe some of our comparators."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "However, notwithstanding that, you can see that we have grown our non-NII in the quarter. It's up -- I mean, you'll see the number is 9%, but the underlying is closer to 4.5%. 5%, we're pleased with that. You can see growth in payments, in our lending fees, in our FX and our assets under management. So strategically, I definitely want to continue to grow our fee income. That's an important area of focus for us. The areas I touched on that are growing this year are the areas where we see strategic opportunity."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "What I am also very clear on is that, if we're to grow in that area, I think we have to do it organically, which we're doing. But if we're to look at inorganic opportunities in that area, I've said it before, they're relatively expensive. So from a shareholder value perspective, I'm very clear eyed. They need -- if we're going to do something around fee income, it needs to work strategically but also from a shareholder perspective."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So as it stands at the moment and the relative valuations, we're very focused on growing that line through organic activity, and I'm pleased with the momentum we've got quarter-on-quarter. So if you could take a big step back, if we're doing acquisitions, they need to be obviously EPS and RoTE accretive. RoTE's the North Star. We're focused on NII but not at the expense of value. Thanks, Jason."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Aman Rakkar of Barclays."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Aman Rakkar"
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Yes, I've got two questions, please. I guess one -- I think, one thing that's missing from a lot of your forward-looking guidance and statements to the market is any real view on the kind of organic growth that we can expect in your business. And I am a little bit frustrated because it is naturally embedded in your GBP200 billion RWA guidance that you've given us for a while now, but it's difficult for us to kind of unpick what's regulation, I guess, we can work out, the kind of inorganic that you've already signaled."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "But that you clearly do have a medium-term view of the kind of underlying organic growth, be it loan growth, be it deposit growth in your business. So can you kind of tell us perhaps what you think we might expect low single-digit growth in average interest-earning assets over the coming years and where that might be coming from? Because I think it's an important point, if the market will want to kind of take NatWest beyond simply just the sugar rush of rate hike. So anything you can kind of give us around what volume growth to expect and what you're assuming out to 2025, that would be really, really helpful."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "And then, I got a second question on the structural hedge. So I think your updated disclosure is excellent. Thank you so much for that. And clearly, the reinvestment pickup on that is amazing. There's just one thing I didn't quite get on Slide 14 then. So in terms of the hedges that are already written, you've locked in GBP2.9 billion of income from the structural hedge across the 3-year period, which is surprising to me, given I would have thought that, that would be falling by virtue of this being an amortizing structural hedge."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "So I wonder if it's because of the offsetting swaps that you put in place, but could you help us just understand the support to the structural hedge income that's coming from hedges already written, which -- the reason I'm asking is presumably we're adding quite meaningfully on top of that, right, by virtue of these hedges that are maturing from here. So kind of anything you can help around out that picture on the hedge would be really helpful."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Can I start with the hedge? Perfect. Great. Thanks very much. So if we look at it, GBP2.9 billion in each year. I would say don't be distracted by the fact that it's all rounding to the same number. If you looked at it on decimal places, you'd see that it was kind of rounding. What you've got happening is although that the hedge itself has shrunk in size, the differential in yield where we've put the rates on is basically making up for that. So what you see kind of coming through is as we talk about 1/5 of it maturing every year, obviously, we shrunk a little bit in the last couple of years. We think it's stabilizing."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So what we've done in the last couple of years is basically put that -- those numbers back on at the prevailing 5-year rate at that time. When we spoke in February, Aman, I talked about expecting the average to be 3.1 in terms of where we put that rate on. Today, it's -- I'm giving you -- we're expecting probably 3.7 for the year. But if I was putting on today, which some of the team will be doing, it will be 3.9 sort of thing."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So you've had this huge kind of pickup where actually the roll-off will be so small. But although the absolute size of the hedge has shrunk, the differential in yield more than makes up for that. And that really is what's happening. It's not -- I mean, the Fed rate makes little difference in the year, but that's not what's impacting with the GBP2.9 billion out in 2026. That's 2 years away, it's just the flow-through of the hedge kind of coming through in the strength of the mechanistic approach that we have coming through on that."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So we've got locked in already GBP2.9 billion for this year. Clearly, we'll add a little bit more as we go through the rest of the year. We're only halfway through or to that number. And then I said earlier, you'd expect our year-end result this year to be growing year-on-year by about 800 and then growing further year-on-year as we go into 2026. So it really does benefit from the very mechanistic approach we've taken on over a number of years now."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then Aman, to come back to your first question on organic growth. I don't want you to be frustrated, so I'll try and answer to that. I think, first of all, we don't guide on the individual lines. You know that obviously. But what I would say is I've been very clear since February. We set out three priorities. The first priority was growth but disciplined growth. You can see in the results for the half year where that growth is coming from -- it's broad based on the deposit side. Our market shares are relatively stable to up. So across the three businesses, you can see where it's coming from."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On the lending side, again, I said we'll be disciplined and manage for returns. You can see the growth of GBP1.8 billion in our commercial mid-market business. We're very pleased with that. You can see the growth in our unsecured especially our cards business, we moved kind of whole of market in the latter part of last year. We're very happy with the kind of risk-reward terms and the credit quality there. Obviously, growth will also come from the acquisitions. You touched on that, the addition of the Metro mortgage portfolio. We'll increase our kind of unsecured borrowing on the back of the Sainsbury's acquisition by around 19% and about over 1.5% on a pro forma market share basis."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So that's where it's going to come from. What I would say is, when you think about the bank we are and the business mix that we are on the deposit side, I think it's reasonable to expect us to grow in line with market. But we are a bank or lending side that's proven that we can grow ahead of market. So that's probably a good way for you to think about how we think about growth, but it will be in a disciplined way, and we'll be allocating capital dynamically to different products and different asset classes to make sure we get the returns that we're comfortable for so that we can deliver the RoTE and the capital generation for everybody. Thanks, Aman."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Benjamin Toms of RBC."
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Benjamin Toms"
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "One of your peers spoke yesterday about some mortgage spread compression for the rest of this year. Does it sound like you're expecting to see the same dynamic? Is that a correct way to thinking about the half 2?"
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "And then secondly, we saw some news for yesterday around that the government is now looking at the institutional sale of shares rather than a retail sale. Just from your perspective, are you relatively agnostic to those two different approaches? Presumably, the only difference is you don't incur costs in relation to an institutional sale."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I think, we can knock them both off pretty quickly. On the mortgage one, it's very simple. The book margin will kind of hit at and around the inflection point. The book margin, 70 basis points on new business flow is around 70 basis points. So we feel very good about that. And obviously, it's something that we trailed last quarter."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On the, I guess, government shareholding, we're very pleased with the momentum so far in '24. You know it's come down from 38% to just above 19%. So we're pleased with the momentum. Ultimately, any further sales or decisions for the government, as you say, we're relatively agnostic. What I'm clear about is returning the bank to private ownership is in the interest of all stakeholders. So we're very focused on that. But ultimately, it's a decision for them, which the timing of that, the mechanic of it and the structure. Cheers, Ben."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Chris Cant of Autonomous."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Chris, can you hear us?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Chris, please unmute and go ahead."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "Chris Cant"
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "Can you hear me? Sorry, the unmute option seem to lag in the Zoom app. Could I come back, please, on the GBP14 billion? And then I also have a question on your hedge slide. So the GBP14 billion implies sort of a leveling off of total income into the second half. And I guess if I think about what you're telling us on NII dynamics, particularly the last comment about the mortgage book reaching an inflection point in terms of that source of asset spread pressure and the fact that you're expecting to roll, I guess, a bit more of your structural hedge implicitly in the second half given GBP170 billion sort of year-end expectation. What else is going on within the revenue dynamic to sort of offset the upwards trend that you're otherwise seeing? Is it literally just the rate cuts and you're expecting big negative pricing lags around the impact of those in terms of that GBP14 billion?"
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "I mean, I have had one investor comment this morning that your guidance looks stale even though you've already given it. So just to give you some context on how people are thinking about that. That will be the first question, please."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "And the second one is on that hedge slide. Am I interpreting it correctly that when you say GBP2.9 billion in full year '26, it's 50% of income? Does that mean we just doubled GBP2.9 billion to get to the correct answer for the hedge income? Are you expecting GBP5.8 billion of gross hedge income in 2026, up from something like GBP3 billion in 2024, and so it's about GBP2.8 billion headwind? Is that the right way to interpret what you're presenting to us there? I mean, I know that your reinvestment yields for '25 and '26 still look quite low relative to forward swaps. But in terms of your assumptions, is that what you're trying to tell us?"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Katie, do you want to take -- yes, okay."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Sure, absolutely. Thanks. Thanks, Paul. So I'll go with the hedge, first of all, I think it's a little bit simplistic a way just to do double it. When we've talked about the 50%, if you think of our hedge, it's got a 5-year life. We try to have it averages as a 2.5-year kind of rollover in terms of that piece. So 2026 is about 2.5 years away, sort of things in terms of that, so about 50% of it is written at the moment. So obviously, we'll have the maturities this year, next year and in 2026 will be there. So I wouldn't just simply double it or think of those maturities and the timing of the reinvestment and averaging in the '26 is important because people often forget to do them when they do that math."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "What I did say in terms of trying to help out a little bit on the guidance was to say we've got a little bit more to come in this year. Obviously, it's a little bit higher than the GBP2.9 million. We'll be about GBP800 million higher next year, and then it will be stronger again into 2026. But I think if you doubled it, you'd be a little bit disappointed in how we came out at the other end. So I wouldn't go quite as far as that. But still [indiscernible] strong growth coming through."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "Chris Cant"
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "So when you say percentage of income already written, should we interpret that more as the percentage of the total portfolio of swaps, which is written today, what the churn by then? Is that the better -- because it's just the fact that you said percentage of income, which..."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "That's the best way to think about it, Chris, yes."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, I think that could be a good end our slide, Chris. Thank you for the build on that real time. So very, very happy on that piece. Thank you."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So then if I go back to kind of income, we're talking about income of around GBP14 billion. We're comfortable with that number. We build off a strong start. I guess, it really is story, we've got two base rates coming. We know that will bring a little bit of pressure into it. We do have a lag effect as we price those base rates through. It's a bit shorter in retail. But in some of them, we have in commercial, we have a 60-day contractual notice period for most of our commercial savings accounts. So that does have an impact as the rate kind of comes through. So that's kind of what we're considering within there."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then obviously, I talked about customer behavior already and seasonality in C&I mortgage book, I think we spoke about a lot on the call already. But overall, that around GBP14 billion, I would say, it's a really good guidance to use from here, and we're very comfortable and confident around that number. Thanks, Chris. Thanks for the edits as well."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Guy Stebbings from BNP Paribas."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "Guy Stebbings"
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "I had one on the hedge again and then one on costs. So on the hedge, yes, thanks again, actually for the disclosure. It's incredibly useful. There's a lot of detail there. I guess a lot of the detail is specific to the product hedge, which makes sense given it's the lion's share of it. But I just want to check, when we think about the equity hedge component, sort of maturing rates there and reinvestment rates, could that move the needle much? Or should you really just focus on the product hedge? Just any color really on the hedge would be very helpful, too."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "And then on costs, really just in the context of a revenue trajectory, which is incredibly encouraging. I mean, GBP14 billion this year is clearly a lot stronger than you were originally anticipating. I understand you're not providing news on revising targets just yet, but the base is strong. You're talking to some very supportive factor we look forward. I just wondered does that change at all how you think about investment -- capacity to invest in the business, perhaps more than you previously envisaged. I guess I'm really just trying to work through whether the better top line flows down the P&L or if it provides you additional capacity to invest beyond the inorganic actions you've already talked to?"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thanks, Guy. Katie, do you want to take the equity hedge?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, sure, absolutely. So I think, Guy, probably the best place to look is we've given you our sensitivity on Page 28 in the pack. So it is important. It's now increasing in yield. It's at 195 in H1 versus 187 for the full year 2023. The size is not as large, obviously, but it's definitely a contributor to that income tailwind. And I guess we talk more of the product hedge because that is the one that is more impactful as we go through from here. But it's definitely one you shouldn't ignore as part of the income tailwind."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then on the cost piece, Guy, so the guidance for '24 is unchanged on costs, but broadly stable, excluding the one-offs. You'll probably remember, I spoke in, I think, in March of the quarter 1 about we're front-loaded, some of the kind of property cost, branch closures, severance, et cetera, into half 1. And the philosophy is I'd like to fill that restructuring from the kind of the core cost base. So that's how we're thinking about it. I'm very keen to create capacity for investment, but to do that from the existing cost base. So that's the philosophy that we're working to. Thanks, Guy."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Edward Firth of KBW."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Edward Firth"
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "I think, most of my questions have been answered actually. But can I just check some of the math? And I'm sorry to talk about the hedge, but I guess your disclosure is quite interesting. You mentioned GBP800 million a year of tailwind from the hedge, I think."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "But if I look at your chart on Slide 14, I'm just misunderstanding something. The math is quite simple is now. I mean you've got about a bit of the hedge rolling off, which is GBP35 billion, and you're rolling off of 0, putting on at GBP3.1 billion, which is like GBP1.1 billion of tailwinds. So am I missing something in that? Or is that oversimplifying? I guess that's the first question."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "And then the second question is, can you just -- is it possible, I don't know where it is, but is it possible it's some way to quantify the sort of short-term impact of a rate cut? Because I remember when rates went up, we had this sort of boost to margin. And then it tailed off as a sort of deposit pricing catch that quarter. And I guess you have the same on the way down. So in that GBP125 million years 1 impact, in the first 2 months, is there a sense as to how much of that will be sort of front-loaded before you can reprice the deposits? Any sort of sense of sort of volatility, I guess, that we might get into Q3 or Q4?"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Actually, I think we can -- quite simply. Katie, go for it."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, we can, indeed. So just on the hedge, so it's a little bit more complicated than you think. It needs to be considered timing because, obviously, it doesn't all mature on day 1 in a year. So it's not simple to go GBP35 billion of differential. What I was trying to help you with this is the difference in income from our end position in 2024 will be an increase in income of about GBP800 million into 2025 to try to help you a little bit on the maths."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "If I look at the kind of difference in the -- what happens when -- as we do the repricing, I've given you in the structural hedge, it sort of talks about a 25 basis point reduction with a 60% pass-through, would have GBP125 million impact on our income for a whole year. So therefore, if you look at it now, whether you've got August or September, that's going to be 5 months or 4 months of that kind of income. So that does assume the time lag, and it does assume a 60% pass-through. Clearly, our pass-through could be different from that. The timing when we do it could be slightly different, but that's, I think, a good way for you to kind of think about the kind of the gross impact from a hedge cut -- rate cut and how it will pass through. Thanks, Ed."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Edward Firth"
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Sorry, the GBP125 million is for the whole year?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Edward Firth"
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "In the first couple of months, it's obviously going to be much more than just 1/6 of that, because you've got this 60-day time day in the corporate bond and a shorter one in the retail book. And I just wondered if you could give us some sort of sense as to what the front loading because obviously, in the first quarter, you published a number with a rate cut. It may look a lot more than just 1/4."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "You'd certainly see a little bit of pressure in that moment. I'm probably going to let you do the maths yourself, I must admit. So if I look at the unhedged deposits of GBP178 billion, and that will help you work out how that goes through as we kind of take it forward."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "We're now going to take our final question from Amit Goel of Mediobanca."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Amit, can you hear us? Have we got you?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Amit, please go ahead and ask your question."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We've got you very faintly."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Amit Goel"
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "So apologies, I can't actually hear for this one. I have my colleague, probably can. Just two follow-up questions. One, just in response to the previous questions, I think you said it's a bit too early, obviously, to update on the '26 targets. So I was just curious when you think it could potentially make a bit more sense, would that be full year '24? And is it really realistic to see 2026 profitability below 2024 especially given some of these product hedge tailwinds that we've spoken about?"
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then my second question, you saw another 2 bps NIM benefit from funding and other. A peer called out yesterday that they may continue to see these kind of tailwinds this year. Would you also expect to continue to see those tailwinds?"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Katie, I'll let you pick up the NIM piece. On '26 targets, Amit, we're not going to update today on when we will update, but I would reiterate we're reaffirming the return target for '26. And as I stressed earlier in the call, I guess, which is part of your question, I'll remind you, it's greater than 13%. So we're confident we can deliver both the strengthened '24 guidance that we've shared today and the 2026 targets. But we're not preannouncing any date change or anything similar."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Katie, on NIM?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. Sure, absolutely. So in terms of that funding and other, I wouldn't treat them as a kind of constant repeat number. You can see in our walk in most quarters, there could make a number there or not. It will depend on some of our treasury activities as we go through with them. It's not something I would lock in certainly. What we are comfortable with, and we've talked about the call is that we have the benefit of the improved guidance we've given you today. We do expect to continue to see some NIM expansion, which has been driven from the businesses, which I think is really important. And then with the rate cuts coming through, it could moderate that expansion a little bit, but it's certainly expansion -- an expansion from here."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "I'd now like to hand back to Paul for closing comments."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thanks, Matt, and thank you, everybody, for the questions. We appreciate you joining and asking them. As you all have heard, we're pleased with the performance and the positive momentum during the first half. It reflects my and the management team's ambition for the business, and it does give us increased confidence about the outlook which is obviously reflected in the upgraded guidance for the year."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "So we look forward to speaking to you all soon, and I wish you all a very good weekend. Thank you."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

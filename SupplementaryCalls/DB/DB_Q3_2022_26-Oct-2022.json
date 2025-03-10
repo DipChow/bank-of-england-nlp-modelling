@@ -1,0 +1,1010 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. [Operator Instructions] First question is from the line of Andrew Lim from Societe Generale. Please go ahead."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "Hi good afternoon. Thanks for taking my questions. So I would like to talk about revenues and then return on TNAV. So looking to Slide 10, on the net interest margin, you talked about NIM supported by five bps of one-offs. And I presume the bulk of this is due to calling expensive debt. Now you call this one-offs, but I’m just wondering whether we should think about this as a permanent step down in the funding costs. So is this actually an ongoing benefit to the NIM going forward. So that 1. 47% NIM actually keeps on rising through 2023 rather than taking a step down and then going up again? And then more broadly, could you talk about how you see your revenues panning out for 2022? I know you have given an upgrade there, but more specifics on that, please? And then how that pans out for 2023?"
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "And then on the return on TNAV. You have got an 8% target there. You have printed 8% for the past three quarters, but how achievable is that 8% for 2022, given that in the fourth quarter, that tends to be seasonally weak, sometimes you have a true-up in costs. How confident do you feel about that 8% for this year? And again, how do you see that panning out for 2023 against a backdrop of recession and higher loss provisions? Thank you."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you, Andrew. This is Christian. Let me start and for the NIM question, I hand over to James, and obviously, he will add to my comments. On the fourth quarter in terms of revenues, based on the trajectory, which we have seen in the first three quarters, actually, we are very optimistic, in particular, for the Corporate Bank and the Private Bank."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Everything what we can see is that the momentum in the Corporate Bank, but also in the Private Bank in terms of the interest rate environment, but also in terms of the business volume, we see we are clearly on the trajectory of further increasing revenues also in the fourth quarter, in particular, for the Corporate Bank. Again, for the Private Bank, no stoppage of the momentum."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "In the Investment Bank, obviously, there is always seasonality also in Q4. We have seen that from the previous years. But looking at that where we are also in October, I think we will be around the number, which we have seen in the Q4 of last year. Asset management personally, I think we expect to be flat."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So if I take that all together, it is another robust quarter on the revenue side. And then if I then go even into 2023, actually, that kind of foundation, which we have built in terms of the revenue growth, again, in the stable business, - continues clearly continues."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "For the Corporate Bank, we expect a similar momentum like in 2022 to continue into 2023, again, obviously, backed by the interest rate curves, but also again and again by the client volume we see and also increasing client volume. Again, also here, the Moody’s upgrade helped. We see that clients are turning to us wanting to do more business."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "In the Private Bank, again, we expect continued revenue growth in 2023, further supported by the interest rate environment. We always said that from an interest rate environment, the Private Bank is lagging a bit with the Corporate Bank. We said it last year, you saw it in 2022 exactly is now coming then in 2023, which is very positive."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "In the investment bank, first of all, we are hugely proud of what the Investment Bank has shown and is showing in 2022. But I do believe we can really say this is quite a diversified business in the meantime. We have three legs to stand on. We expect for 2023 in the Investment Bank, obviously, a better year and a far better year in the O&A business, very stable financing business."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Potentially, we see the macro business a slight reduction versus 2022 because it was an extraordinary good year on the other hand, I think volatility will not go away. And this is exactly what we said in the IDD in March 2022, where we said this volatility, we will see for the next couple of years and therefore to be honest, rising revenues in Private Bank and in the corporate bank, clearly, rising revenues in both businesses, I think, at least a flattish revenues to 2022 and 2023 in the Investment Bank, flattish, so to say, in asset management."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So all what we can see is the revenue number now and you will get more guidance on second of February when we present our full-year numbers. But all I can see is - and James and I see is a number which is clearly north of €28 billion in revenues next year."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "You also asked on the 8% for the full-year, also with regard to potentially seasonality in I will revert back to my initial comments on revenues in Q4, very, very solid. So I think a good set of numbers in terms of revenues. Also, and James may allude to that, we have an extraordinary €300 million revenue item in the Private Bank, which is coming through from the Italian sale, and we should not forget that."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Costs or we can see and our target is that Q4 will be lighter than Q3. So slightly lighter. And then we may also have the one or the other impact James will refer to, but that makes us very comfortable that the 8% for the year is absolutely in reach. And that is what we targeted for that as we said three-years ago, and that is where we will end. James?"
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thank you, Christian. So within that, Andrew, you had asked about the NIM. The direction of travel is clearly up. We called out items in the second quarter and now in the third quarter that were sort of I will call them one-offs, it is often a noisy line item. Last quarter, it was more related to TLTRO and sort of technical accounting things. This quarter, it had to do with the buybacks."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "We wouldn’t expect a repetition of that, but I would expect, given the tailwinds we have now into Q4 that we would grow over and probably still increase our NIM in Q4 relative to the 1.47 we showed. So where exactly it will be in the rounding around that 1.5% remains to be seen, but we feel that the tailwinds here, especially with Central Bank actions still expected in the quarter will clearly be positive."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "In terms of the seasonality point that Christian referred to, yes, I mean, there is a lot still to happen in Q4. We have got to manage revenues and expenses towards the goals that we set out, as Christian alluded to, and we have been talking with you through the year, we were always working towards the gain on sale we expected from the Italian transaction, the Financial Adviser transaction. In addition, we do expect a DTA benefit later this year."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Hard to say exactly what that will be. That will depend on lots of assumptions and input factors, but we sort of called out for something not less than the level we recorded last year. So those two items helped to offset the seasonality which quite rightly you expected in the fourth quarter."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "That was great. Thank you very much for them."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from the line of Tom Hallett from KBW. Please go ahead."
+  },
+  {
+    "person": "Thomas Hallett",
+    "role": "questioner",
+    "position": "Keefe, Bruyette &amp; Woods Limited",
+    "text": "Hi guys. a couple of questions from me, please. Firstly, on the cost/income ratio guidance. You are now seeing upside to our revenue forecast for the year. Also, I would like to think that would leave you better placed within your mid- to low 70s cost income range. So is there any reason to believe that, that cost/income ratio should not land under the 74% consensus then maybe looking towards 2023. I mean does that range change at all given, obviously, tailwind from rates?"
+  },
+  {
+    "person": "Thomas Hallett",
+    "role": "questioner",
+    "position": "Keefe, Bruyette &amp; Woods Limited",
+    "text": "And then maybe sticking with costs but coming at it from maybe a slightly different angle. How should we look at 2023, because on one side, there should be significant benefits coming from your past cautions initiatives. But then on the flip side, you have some structural cost pressures coming through. So maybe if you could just walk us through some of the big ticket cost items that are expected to roll off next year. That would be great. And then is it also fair to assume maybe a 3% inflation on the underlying cost base for next year or do you see those kind of cost pressure fading? Thank you."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Sure, Tom, it is James. I will start, and there is a lot to go into here. So let me just start with the range for the year based on where we come out in Q4. Absolutely, that is what we are working to. When we set the mid- to low cost/income ratio range, our hope is to achieve something in the low area. But there is always some variability both on costs and on revenues, given we are managing to a ratio, but with the step-up into Q4, we would certainly target closer to the low end than the middle."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Now there are decisions we still need to make, whether that is as I think Andrew mentioned, events in Q4 always take place seasonality, compensation decisions, also restructuring and severance decisions, but our goal would be to be more low than mid."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Looking forward to 2023, what I will focus you on is the investor deep dive narrative that we talked with you about in March. In other words, the model that we shared to 2025 is really benefiting from revenue growth over the next several years, both underlying in the businesses as their drivers grow, the businesses grow and supported by interest rates, with expenses essentially flat over that period."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Now to be flat over that period, there is a lot of hard work. It is executing on initiatives to take costs out of the company structurally. And that is on technology initiatives, front to back, optimizing our distribution channels, optimizing our employee base and how efficiently we run our processes. So all of that is built into our forward planning."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And we would expect and certainly try to manage the company to something like that in 2023. So we do expect some of the benefits already to be showing up in 2023 of those initiatives, the €2 billion that we laid out in March."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And we have also talked about, relatively speaking, a linear path on achieving those benefits. There are one or two items, of course, that will be delayed. And of course, we are dealing with inflation. But that is certainly the ambition that we have looking forward."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "One last item to note, just inflation it is actually hard to use a simplifying assumption because inflation, how it impacts your expense base is sort of different for each line item. So some were relatively more shielded, some line items - inflation comes through more fully right away. But something in the low single digits certainly would align with our expectations. And hence, that means we need to continue our focus on expenses to work to offset that inflationary impact over the coming years."
+  },
+  {
+    "person": "Thomas Hallett",
+    "role": "questioner",
+    "position": "Keefe, Bruyette &amp; Woods Limited",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question is from the line of Nicolas Payen from Kepler Chevreux. Please go ahead."
+  },
+  {
+    "person": "Nicolas Payen",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Yes good afternoon, thanks for taking our question. I have two, please. The first one is really a follow-up on the cost/income ratio. Because basically, you have increased your revenue guidance several times this year. but your cost-income ratio target has remained the same. And I was wondering what your marginal cost/income ratio is because back at your IDD, you mentioned that you are investing in low marginal cost and commercial activities. So if we could have an update on this would be great."
+  },
+  {
+    "person": "Nicolas Payen",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "And then the second question on cost of risk. Your Stage 3 provisions have increased pretty substantially, but it is not driven by higher energy prices according to you. So what are the drivers behind this increase? And again, looking maybe a bit more sort of down the road in 2023. What should we expect, notably with regards to your 20 bps scenario because we probably have worsening macro condition assumptions. So what should we expect on that front?"
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So Nicolas, thanks for the questions. Look, we have actually been pretty consistent in guiding towards the upper end of the range of that 26 to 27. So I would say we have been managing costs more with the expectation the high end, and we are getting perhaps a little bit of benefit above that, given, in particular, the strong Q3 performance."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And to the question just before, we have given ourselves a range on cost/income ratio. I think we have a path now to something more in the lower end of that range. So I don’t see there to be a significant deviation in terms of the ingredients we have given you and where we currently expect to come out. ."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Your underlying question about marginal cost/income ratio was a fair one. And we have talked in the past about working to make our cost base more variable about investing in very positive marginal cost/income ratio businesses."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And of course, we have the uplift ahead in the next several years from interest rates, which, while not entirely free, obviously, should have a very strong marginal impact. But in essence, the questions answered by the target in 2025, from where we end this year or where we are right now, it is something like a 10 - slightly more than 10% improvement in the cost/income ratio."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And given the model we shared back in March, that is achieved with flat costs and rising revenues over time. There is a lot of hard work that goes into the flat costs. But to your point, we would be becoming more variable over time and benefiting from increasing contributions from high marginal cost/income ratio revenue sources. So that is definitely our path and what we have been working towards."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "On the Stage 3, look, we are it is obviously an uncertain environment. The way I would characterize the credit environment at the moment is, we are all looking ahead to some of the risks that we see in the outlook. But in the - if you like, backward-looking risk metrics, there is no sign yet of that credit cycle starting."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "As the impact of energy costs flow through the economy, as we see a recession, there will, of course, be some deterioration, and we are prepared for that. As I say, we reaffirm our guidance for this year. At this point, that implies credit loss provisions about in line with Q3 for Q4, and we feel pretty comfortable with that based on what we see and know today."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "If we look to the future - the way I would characterize it is we have always given you a range of normalized CLPs somewhere between 20 and 25 basis points. Perhaps we are a little bit worse than that next year as we go through that cycle. But we are not expecting a dramatic deterioration from where we sit today."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And so why is that outlook relatively speaking, probably to your ears, optimistic given the scale of the challenges we faced. We always go back to conservatively underwritten lending, tight risk appetite well structured, well collateralized portfolio that we sort of rely on to see us through this cycle as it has done in recent cycles. So hopefully, that is helpful and giving you some color on our thinking"
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And I would add to the last point that you can already see that there is a very positive reaction actually in the German economy on the announcement of the support program of €200 billion. Now obviously, it needs to be detailed out in terms of structure, but this is exactly tailored to the mid-cap companies and small businesses."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Now first of all, we have a very diversified portfolio there. So I’m not afraid of anyway of the portfolio. But secondly, as this money is exactly tailored for these companies, I think in this regard, the government did the right thing and that would be also supportive to our numbers."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And therefore, I agree with change that I think when it comes to next year, the range of 20 or 25 basis points is, in my view, the right one. But even if you think that overall, there is a deterioration given that support program and our structure of the portfolio I think it is actually beneficial for that portfolio in Germany."
+  },
+  {
+    "person": "Nicolas Payen",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from the line of Adam Terelak from Mediobanca. Please go ahead."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca S.p.A.",
+    "text": "Good morning. I wanted to do - sorry afternoon, I wanted to dig into some of the NII disclosures. I appreciate you might need to caveat some of this ahead of the ECB tomorrow. So I think what is in your third quarter numbers for technical spreads on TLTRO, is there any benefit there and how is that modeled through to kind of the next few quarters?"
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca S.p.A.",
+    "text": "Secondly, could you update us on your kind of NI upside for this year, but also into next year and give us any sort of sensitivity around what tiering or TLTRO technical spreads being removed could do to that?"
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca S.p.A.",
+    "text": "And then finally, just around the NIM, it sounds like you are relatively confident that NIM will be going up Q-on-Q irrespective of what is announced tomorrow or any changes from the ECB. Is that the right way to read it? And if so, should that mean Q-on-Q momentum in your Corporate Bank and Private Bank revenues or at least the NII continues for Q4 and into Q1 next year? Thank you."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thanks, Adam. A lot to go through in NIM land. Look, so TLTRO was relatively minor in terms of its impact in Q3 so kind of very low double digits in Q3. As you know, there has been volatility in how TLTRO is recognized on our numbers, just from an accounting perspective. But that should pick up on the terms of the program next quarter."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And we probably have, say, €90 million in Q4 coming from TLTRO. If you ask me what would be at risk in the full-year, depending on how more than that. But TLTRO certainly should be a benefit in Q4 on the current terms."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Looking to next year, there is even more at risk, you could at least annualize that number as being the at-risk amount in TLTRO under those terms. And obviously, we can share some thoughts with you if you are interested."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Underlying that, though, just from the interest rate environment, there is a huge tailwind coming through at this point. So if I give you the sort of gross number of the current interest rate curve running through our balance sheet, sequentially, that is 2023 relative to 2022, you would see probably a €2 billion revenue upside coming from the recurrent rate curve on an equivalent balance sheet. If you layer higher funding costs into that, that might take away €400 million and perhaps the same amount at risk, as I mentioned on TLTRO."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "But tying into Christian’s earlier point about the revenues and our outlook for next year, we think we have at least €1 billion somewhere between €1 billion and €1.2 billion on a net basis, even with a negative outcome on the TLTRO program. So all of that sort of feeding into our commentary and thoughts about the direction of NII and of course, NIM that goes with it. Did that cover all your questions, Adam?"
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca S.p.A.",
+    "text": "It did. Just two clarifications. One, the LTRO technical spread presumably it completely drops out through 2024 and 2025. So it is only a short-term noise in your NII guide through 2025. And then two, your net basis is post probably quite conservative deposit beta assumptions."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yes. So another interesting topic to go into on deposit beta, but yes, we published last quarter our TLTRO maturity ladder. So I would refer you back to that in our disclosures precisely for the reason we thought it was important for investors to see how that plays out. Of course, that doesn’t give you for each of the programs, what the average rate would likely be."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "But to your point, Adam, on the current terms, the effect in the first half of next year is the strongest. There is a significant maturity in June and so after that, it tails off, but it is still beneficial through to the final maturities, again, on the current terms."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So Adam, I just wanted to make sure that exactly that what James said at the end is really clear to all the north of €28 billion number I mentioned includes the potential TLTRO reduction, which is important. I think you see then the conservative approach we are taking."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "But let me also say, and I think we should say that, it would be hugely disappointing if something like that is happening. And forget about the impact on our financials, I think you just saw a very nice number anyway on the revenue side. But that is an implicit contract between the Central Bank and us, and we did our job. We lend the money to the economy, exactly what we want to do."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And then changing retrospectively is, in my view, not the right thing, and that is actually also a question how the investor community will look at Europe. And therefore, I’m making the statement because I think - it is actually a very critical move. And therefore, I hope we get some positive news tomorrow."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca S.p.A.",
+    "text": "Very clear. Thanks for that."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from the line of Daniele Brupbacher from UBS. Please go ahead."
+  },
+  {
+    "person": "Daniele Brupbacher",
+    "role": "questioner",
+    "position": "UBS Investment Bank",
+    "text": "Hey good afternoon and thank you. Can we briefly talk about the Private Bank again. And I mean, obviously, there sequentially risk costs increased quite a bit, 60% or so, to €160 million, but the stage 3 loans only went up marginally. Is this sort of the run rate now going forward or is this a one-off adjustment and can you give us any statements on how you see asset quality at the moment in that division, both domestically in the broad volume margin trends and how competition is behaving at the moment? That would be super useful. Thank you."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Sure, Daniele. Thanks for the questions. It is James, again. So the sequential increase in CLPs in Private Bank really reflect two things, one is the absence of benefits from nonperforming loan sales that we have conducted in the prior quarters, we actually had some help in Q1 and Q2 from those sales, and we didn’t have an equivalent event in Q3."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And in addition, one of the - what we sometimes refer to as idiosyncratic Stage 3 events, did take place in the Private Bank, which further pushed up the number. So if you wanted to run rate on a net basis, I would probably say it is about €125 million per quarter run rate for CLPs in the PV portfolio. Of course, it will vary around that number, but that is I think a fair assessment."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "In terms of asset quality, that is where I think you may be hearing from some of our peers, the confidence on asset quality. The statistics in that portfolio are just rock solid. They have been very stable through the past several quarters and no indication of a deterioration, which is, obviously, pleasing. It speaks to, I think, the quality of the portfolio, but also the environment that so far hasn’t really begun to reflect some of the risks that we all see ahead."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "On volumes and margins, I think, helpfully, the spreads, by and large, have widened a little bit in the third quarter. So we are seeing, I think, encouraging developments in terms of spreads on lending. There is only one or two portfolios where it went in the other direction, so by and large, good developments there."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Volumes are probably moderating a little bit. And again, it depends on the product. So mortgages in Germany, as you probably see from external numbers, had begun to slow, reflecting activity, reflecting pricing, but that doesn’t mean a stop."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "There is still activity, there is still appetite for new lending out there. So it is I would say, by and large, those developments are all reasonably encouraging on the loan portfolio side in the Private Bank."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Daniele, on the credit side, I often get asked on the mortgage portfolio. In addition to James’ comment, we should never forget that our mortgage portfolio is, with the vast majority, comprised of fixed loans. So that is obviously a big difference to some of our - in other European countries. So the risk which other sees from the changing interest rate environment, in our portfolio, is actually, when it comes to mortgages, negligible."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Just one other point to make, Daniele, on your question is deposits, we are not seeing any sort of unusual behavior in terms of the competitive environment on - for deposits in the marketplace. So overall there, it is - at least at this point in the cycle, still a positive environment competitively in the deposit market."
+  },
+  {
+    "person": "Daniele Brupbacher",
+    "role": "questioner",
+    "position": "UBS Investment Bank",
+    "text": "That is great. Thank you."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you Daniele."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question comes from the line of Chris Hallam from Goldman Sachs. Please go ahead."
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs Group, Inc.",
+    "text": "Good afternoon everyone. Just two questions, one on IB and one a bit of a follow-up on the market conditions question just earlier. So on the IB, you talked about some of the moving pieces in terms of absolute revenue growth. But I also wondered if you have seen any meaningful changes in terms of market share dynamics either this year or as you head into next year?"
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs Group, Inc.",
+    "text": "And then secondly, on rates, we are now a couple of quarters into seeing rates play out through the P&L. You just spoke about some of the dynamics in the Private Bank. And I wondered whether you have seen anything surprise you so far in terms of clients or competitive behavior in the Corporate Bank?"
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Yes. Let me start on the investment banking side, and then James will follow up on the second question and obviously add to the first question on. First of all, again, I’m feeling confident in the Investment Bank also when it comes to 2023, given the diverse business we entertain. Again, our clear strength is in the financing business and in the macro business, clearly, and now let’s see for the official Q3 numbers, but you have seen it for the previous quarters, we gained market share significantly over the last two-years, almost quarter-by-quarter."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "I do think that reflects the focus we have given on the FIC business, the setup [indiscernible] has taken there. The Rating upgrades, which we have seen the latest one with Moody’s again, all plays into our favor. And I would say, in certain markets, we almost gained the top market position again. And therefore, I think that is clearly something, which also drives the momentum into the next year where we still expect volatility in the market and that helps us."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "On the O&A business in the LDCM, by the way, we gave up market share, but to be honest, kind of on purpose because we slowed down our underwriting already at the end of Q1 or in Q1. And therefore, you can also see that in the new underwritings, we reduced market share that is an on-purpose behavior, and we can also see it now when I look at the pipeline and the commitments we have out there and the losses we have taken, I think this was the right strategy."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "By the way, to be very clear, we will stay in that business. That is a very important business. You have seen some announcements last week that we, obviously, also adjust then our internal capacity to the volumes we see. But this is a very important business on the financing side. It feeds other businesses like the M&A business."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "But on purpose, we have reduced our appetite and therefore, a bit of reduced market share in that business. Otherwise, I would say, we are behaving in line with the market. Actually very happy with the performance and so I’m confident for 2023."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Chris, to your question about competitive behavior or client behavior in the corporate bank. No surprises there, I think everything is playing out in a business as usual type of way. We are seeing better what people often refer to as beta outcomes than the modeled outcomes would suggest not just in corporate bank, but also in the Private Bank portfolio, although it is early days, it is hard to say if that is a trend or noise in the numbers. But we have - and in particular, whether it is a lag in pricing that is producing that more favorable outcome."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So I think one would expect it to catch up with the modeled outcomes, but right now, the lag effect seems to be beneficial in both portfolios or major deposit books. And as I mentioned a moment ago, we don’t see excessive competition for deposits given we all go into this rate cycle with relatively high levels of liquidity on the bank’s balance sheet and in the marketplace."
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs Group, Inc.",
+    "text": "Okay, thanks."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from the line of Anke Reingen from RBC. Please go ahead."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC Capital Markets",
+    "text": "Thank you very much for taking my question. Just two small ones, please. Firstly, on the dividend, most early days. But, obviously, in the last IDD you were talking about, but do I understand correctly, you basically moved to a payout ratio for 2022. And then just on the others and consolidation, the valuation and timing differences, have we reached a point where we are going to reverse the negative revenues of the first half? Thank you."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thanks, Anke. So yes, we had given a very clear dividend path in March. And on that path, €0.30 per share would be the expected dividend in respect of 2022 pay in 2023. And that is something that we are very focused on delivering to our shareholders. No change in the payout ratio thinking. When we talked about a 50% payout ratio, it was from 2025 and that, again, is consistent in our thinking. So no changes in those plans."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "As it relates to valuation and timing differences in corporate and other, it is always uncertain. We did start talking, last quarter, about pull-to-par benefits, given how significant the drawdown has been in the first half of this year. And so we are seeing a little bit of that. And there will be more pull-to-par in the years ahead, particularly in post three-years from now, there - a lot of that - really, all of that loss in an H1 would come back."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "But in a sense, the pull-to-par benefit is then part of the - of also the VNT impacts driven by both the volatility and the level of rates and particularly the FX markets that we see. So it is really hard to predict. Obviously, helpful that we reversed in Q3 about the same amount as we had booked in each of Q1 and Q2. But I wouldn’t at this point, I think it is far too early to call an outcome that we get it all back in Q4. And in fact, we could very well go back to a negative result in the VNT line in Q4."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC Capital Markets",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from the line of Stuart Graham from Autonomous. Please go ahead."
+  },
+  {
+    "person": "Stuart Graham",
+    "role": "questioner",
+    "position": "Bernstein Autonomous LLP",
+    "text": "Thanks for taking my question. I had a couple of high-level ones this time around, please. The first question, I think, is for Christian. You mentioned the uncertain environment several times in your commentary. And given the elevated risk of something breaking in the system, Central Banks rapidly raised rates, and I guess, LDI was an example of that. Which areas, if any, are you watching particularly closely right now, please? That is the first question."
+  },
+  {
+    "person": "Stuart Graham",
+    "role": "questioner",
+    "position": "Bernstein Autonomous LLP",
+    "text": "Then the second question is maybe also for Christian. A lot of talk of corporates having to near-shore or - shore their supply chains in the future, do you have any preliminary thoughts on what that might mean for Deutsche in terms of potential additional revenues within your 2025 planning horizon, please? Thank you."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you, Stuart. Look, it is always hard in these kind of, I would say, complex geopolitical and economic times to call out the kind of the item I’m looking most on, but I think it is inflation. I think we need to get inflation out of the system for the society and for the economy. Therefore, actually, I’m glad about the clear statements by the central banks."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "You have known Stuart, I have been out for 15-months now that, a, in the mid of 2021, this inflation is not temporary, but more permanent. And we also argued for interest rate increases far earlier because I do think that this is an issue, which actually will impact the economy, in particular, in Europe going forward, if it is not thought adequately. And I do think the steps are the right ones by the Central Banks."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "I hope that they continue that. Even if the economy is slowing down, that is all in our base case in, that is all in the numbers, which James and I gave you before that assumes a slowdown of the economy, but I think it is the right thing to overcome inflation as soon as we can. So that would be my first answer."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Second answer is spot on, Stuart. We have a lot of discussions actually with corporates about reorganizing their supply chains, making sure that they have a diversified supply chain that it goes a little bit from just in time to just in case. That is actually the discussion we have with our corporate clients."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And in this regard, it is on two fronts, to be honest, incremental to our business and positive for our business: A, in the corporate bank with our cash management, with our network, which we can offer around 60 countries because you see a lot of German corporates who are thinking about diversifying their supply chain within Asia to go from one country to the other, thinking about establishing other locations in Asia, but also in South and Latin America, where we are present. So that is one."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Secondly, it goes into our corporate finance advisory business that, obviously, we are very close also to the larger German family-owned and mid-cap companies, not always talking about the Dutch companies and having strategic discussions on the corporate finance levels with these companies. And that is increasingly picking up."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Again, they look for our advice from a research point of view, from an M&A point of view. And then when it comes to execution from a day-to-day banking point of view, and there we have the Corporate Bank. So while it is a challenging topic, it is certainly incremental and positive for our business in the Investment Bank and in the Corporate Bank."
+  },
+  {
+    "person": "Stuart Graham",
+    "role": "questioner",
+    "position": "Bernstein Autonomous LLP",
+    "text": "Do you have a sense of when you might be able to put some numbers around that?"
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Look, I think it would a bit too early. But as we promised, we give you a little bit more guidance on the 2nd of February when we come to 2023 and the reconfirmation of our 2025 guidance. And having your question in now, I will remember your question, we give some answers to that."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yes. And maybe I will just add one thing, Stuart, to that numbers around it. So I remember in March when we talked, we gave a compound annual growth rate in revenues for the Corporate Bank of 6% to 7%. And I think people reacted and thought that was punchy."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And look, some of the - just sort of economic growth related lending may not arise or may slow in 2023 and 2024 in a slower growth economy than we might have predicted as we build our plans that we shared with you earlier this year."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "That said, I would think to all of the points that Christian just mentioned, that there will be increased demand for lending given near-shoring, given the need to sort of reinvest in the energy infrastructure in Germany and what have you."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So in a sense, I suspect we will come back to you to say it is on a net basis, supportive of the numbers that we shared. Obviously, with interest rates being far more supportive than we would anticipated back in March. So by and large, again, a pretty supportive backdrop for the Corporate Bank over the years to come."
+  },
+  {
+    "person": "Stuart Graham",
+    "role": "questioner",
+    "position": "Bernstein Autonomous LLP",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from the line of Kian Abouhossein from JPMorgan. Please go ahead."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan Chase &amp; Co",
+    "text": "Yes, thanks for taking my questions. The first question is just around cost flexibility, and James talked a little bit about that topic. Assuming that we are running into a terrorist scenario, let’s assume that revenues actually are going to be down €3 billion, €4 billion from the €28 billion that you are expecting next year or could expect and provisions are actually double your provision guidance for next year as well, how would the cost base look like in that scenario and I assume you run these scenarios. And the reason why I’m asking is because I really struggle to get a feeling for flexibility in your cost base at this point even when I do variable fixed cost adjustments, et cetera, where you give some data. I just want to see how I should think about flexibility?"
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan Chase &amp; Co",
+    "text": "And then the second question is around provisions. The message is cautious around what is happening around you, but at the same time, you are very upbeat on provisioning outlook, especially into next year as well. And I’m just wondering, what your base case is, again, here? And where the tail risks are in that scenario?"
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you, Kian. Look, happy to answer that. I’m still trying to digest where you get the €4 billion of revenue downside. But even if this happens, this bank will be profitable. Let me add this as a first statement."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Obviously, then we will not achieve an 8% return on equity, if you would take a €4 billion revenue decline because, obviously, I would be anything else incredible if we can also, if I would tell you, we adjust the cost by that number down in a year’s time."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "But first of all, we have an investment budget, which, again, this year was higher than last year, which, again, next year is planned in our so far - in our planning discussions, which we have so far, which is in line or even slightly above this year, which we would obviously cut back."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So before we even start to discuss on variable comp, we would go into investments, which we would do, and which we want to do in our business, which we would postpone, which we would stop. And there is a good amount, I would say, which we can take very quickly out of the system. That is number one."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Number two, you just mentioned it in such a downside scenario where revenues would plunge and, again, I think James and I have shown to you that our revenue guidance was spot on over the last three-years when it comes to the individual businesses, for the three stable business. We almost can forecast you the revenues to the last €100 million for next year, given that what we are seeing."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "That would mean - you would assume almost half - 50% reduction in the Investment Bank, which, on the basis of the financing business, which is pretty stable, as you know, the market share and the positioning we have achieved in the macro business and then also in the O&A business, which was very weak this year and which is starting, in my view, to reemerge next year, is, again, would be a drastic number."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "But of course, we would adjust the VC and the VC would be then a material reduction to that what you have seen last year, what we have in our mind for this year. So this is another high three-digit number, which we would take out, of course, in such a scenario."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "On top of that, as James was saying, we are trying to do everything on the €2 billion cost saves to have kind of a linear over the years, I would say, equal reduction of costs, obviously, more in 2024 and 2025, but also already in 2023, which brings down the cost. And we would, in such a scenario, obviously, do a completely different job on hiring."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "All that would significantly bring down the cost in such a downside. And therefore, yes, we could not, obviously, compensate for a revenue loss you are now having in your mind in the downside scenario, but we would, obviously, I would say, materially reduce our cost base. And these are just the first three items I would mention to you."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Number two, on the risk costs, again, our base case and James, please add to that, obviously, also to the cost comments I gave. On the risk cost, our base case is around the 25 basis points, which James mentioned, so approximately €1.3 billion. It is, obviously, in such a scenario where we are very hard to forecast. But I think also there, we have done in quite a good job over the last two-years in bringing early out forecast for the year."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Remember, for the COVID year, I remember for this year, and we were pretty much spot on this one. So all I can see from the behavior of the portfolios in German mid-caps in the private bank portfolio, in the international portfolio, in the real estate portfolio, in the funded LDCM portfolio, I think the €1.35 billion to €1.4 billion, absolutely solid number."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "If we think about the downside, including gas rationalizing, so to say, worsening crisis in Europe, which, by the way, I can’t see, given the storage levels of gas where they are, the very warm October, we should really think about that we take that into account also for the next six to nine-months, what happens in Germany because these are positive impacts, the €200 billion, which are coming."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "But even if I think about the downside, I think Olivier and the team rightly so doing obviously a monthly rerun of their portfolios, are keeping up with the €1 billion over 18-months of additional loan loss provisions, which we would see in a severe downside. But again, with the pre-provision profit, which we show of over €6 billion for this company, I think that is again something, which we are able to withstand. James?"
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Really nothing to add. I think you covered it, Christian. Ken, there is always a place to go in terms of severity of stress scenarios. But as we analyze it, sort of a reasonably stressed environment next year would see us at revenue numbers far higher than the sensitivity that you outlined."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And CLP numbers, I think, more in line with what Christian just described in the scenario that we have put in our disclosures last quarter and this quarter. So we just while we are focused on variabilizing our cost base, no disagreement with you there. We just don’t see that the same - the levels of sensitivity that you are depositing."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan Chase &amp; Co",
+    "text": "Thank you very much."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thanks Kian."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from the line of Amit Goel from Barclays. Please go ahead."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays Bank PLC",
+    "text": "Hi, thank you. So just wanted to come back. I appreciate you spoke a lot about the NII sensitivity, but just on the kind of €2 billion-plus number that you gave in terms of benefit next year before the potential offsets. Just to make sure I understand that correctly, because I guess that would own about €1 trillion of average interest earning assets be increasing the NIM by about 200 bps. I think you said, is it about a 30% beta? So about, I guess, 280 bps of actual kind of rate move. So I just wanted to check in terms of the sensitivities there, if you think with that kind of benefit, there will be any other kind of puts and takes and also just whether you see any kind of risks in terms of taxation or other sorts from the kind of rates benefit that will be coming through? Thank you."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yes. Thanks, Amit. I think more 20 basis points against the €1 trillion of interest in assets. And that, I think, is a reasonable level to assume. So margin next year, sort of somewhere between 1.7% and 1. 8%, we think is entirely achievable, again, with some of those netting effects built into the numbers. So we are - and again, there is a lot of moving parts here around betas, lags, where rates actually are, what, if any, unusual items are built in?"
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And one area that we are really focused on here is managing down our funding costs. We are not comfortable with the spreads where they are right now. We don’t think they speak to the underlying credit quality of the firm, and we would like to see them come down, and that could give us a slightly more favorable environment into which to issue next year. But as I say, lots of different pieces of that puzzle."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "On the taxation side, look, I would just really emphasize the banking industry in Europe is coming back from a period of depressed profitability, reflecting the interest rate environment that we have been living in since 2014 and before, but negative since 2014. So the idea that there is sort of excess profits being earned in an industry that is trying to get back to its cost of capital is one that I would certainly dispute regardless of the political impetus that is out there."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So I think additional taxation, especially in Germany, to try to sort of balance some of the fiscal pressures that are out there, I would view as a challenging policy in this environment, especially in an environment where the governments are looking to the banks to support the economies in all that we need to travel through in the next several years."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And so it, obviously, has been enacted or considered in a number of different countries, but it is not something that we are particularly focused on at the moment. And we think it is from a policy perspective, potentially a double-edged sword."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays Bank PLC",
+    "text": "Okay. Yes, I’m sorry, obviously, 20 bps."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yes. Thanks."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from the line of Andrew Coombs from Citi. Please go ahead."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good afternoon. One on CIB and then one follow-up on the NII guidance. Just firstly on CIB, you talked about strong growth in rates, FX and financing, and you particularly called out rates as having doubled year-on-year. So it is clearly been a sizable tailwind for you. I was wondering if you could provide any visibility on how that breaks out by region, in part, because if we do see Fed rates peak out early next year, one would assume the volatility there might ease somewhat. So interested on anything you can say on the regional breakdown of your rates revenues given your commentary about IB revenues being at least flat next year."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then second question on the NII. You talked about well above €3 billion incremental in 2025 versus 2021. And I think you said there will be some offset from higher funding costs, and you called out about €400 million there quarters has come and gone by that point, regardless of what the ECB [indiscernible]. So I guess my key thing is what are you assuming in terms of deposit volumes and also migration to time deposits, because that is obviously a trend that we have seen play out at some of your U.S. peers and even some of your continental peers as well. Thank you."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thanks, Andrew. I actually don’t have a specific breakout of revenues in rates by region and how that is changed over time. It is certainly something we can follow up with you through IR, but what I can give you a sense of is just the franchise strength that we have."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And there, I will say, first of all, revenues are up in both, that is all regions. So that is a positive. EMEA has been particularly strong as we have achieved really a leading position in European government bonds and European rates. And that is something that we have been working hard to. [Ram Nayak] (Ph) and his team, in particular, I think, had focused on, and we are pleased with that development, but that isn’t to say that the market position in the U.S. isn’t also strong. We have been investing there, and I think have also kind of repositioned the firm, especially in difficult markets."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "We have been very focused on providing good markets to our clients in - even in sort of volatile environments. And I think that is sort of really been showing in terms of client feedback and what have you. So encouraging trends overall in rates, which, one would hope, will serve us well also when volatility begins to normalize. ."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "On the €3 billion through the 2025, that is absolutely correct. It is well above that number. So significant upside from rates more by far than we had assumed in the numbers we shared with you in March. That said, there are these offsets. By 2025, TLTRO is no features. So it is really just a question of funding costs."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Now in the funding cost, you have got to remember that more of our existing unsecured debt stack would have rolled over by that time. So the €400 million from next year, call it, is - or €350 million, would increase over the years as more of the debt stack is replaced at higher spreads. So that grows to €1 billion or more, obviously, highly assumption-dependent, which is why, to the answer to the last question, we are very focused on working to improve the rating improve the unsecured spreads because it is a significant feature."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "We expressed it in compound annual growth rate terms in March. And so there, just to give you a simple assumption, rates net of funding costs might have been 1% contribution over the four-years at that time. Now I would assume at least 2% on a net basis probably a little higher. So that is sort of where we sit today and a reasonably conservative view."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Very helpful. Thank you."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thank you Andrew."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question comes from the line of Jeremy Sigee from BNP Paribas Exane. Please go ahead."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "Hi there, thank you. Just some follow-ups on the dividend and distribution policy, please. Firstly, have you given us the euro millions dividend accrual amount year-to-date. I have not seen it. I know you told us it last quarter, I have not seen it for this quarter. And then linked to that, just on the payout for this year, are you saying that the €0.30 target that you are hoping to pay is the most it could be that you wouldn’t go higher than that? And then sort of broadening out from that, how will you think about capital returns at year-end this year? And how much you might be able to do via buybacks or whatever in the very short term? Is that relative to a ratio? Or is it doing a bit more than last year? How do you - how would you think about that?"
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So Jeremy, early to talk about it on the buyback side. On the dividend distributions, yes - no, we laid out that sort of curve of doubling the per share distribution each year for the next several years, and that is something that we want to stick to we thought that, that was prudent and appropriate and gave our investors a very clear path. That would translate to about €600 million next year."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "We have now accrued about 600 - I shouldn’t use the word accrued. We have now set aside in our Prudential accounts €650 million. And so anything that is further set aside from an accounting perspective, or deducted in the fourth quarter will come back in the second quarter of next year."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "As it relates to the buybacks, look, it is early to make that decision as you know, buybacks were considered in our - in the plans we shared with you in March. But they are also the place where there is flexibility to increment the distributions or to slow them down based on what we see in the environment and all the other influences or flowing through our capital planning. So early at this point to give you any indication of what our thinking is there for next year."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from the line of Piers Brown from HSBC. Please go head."
+  },
+  {
+    "person": "Piers Brown",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Good morning guys. I probably only got one question left, which is just on the German IT merger project and whether there is any update you can give us on that? I think you mentioned last quarter something around €150 million of additional expense in 2023 from extending the life of some of those programs. If you could just update us on that, that would be great. Thank you very much."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Sure. Thanks, Peter. Yes, we have disclosed sort of deep in the earnings report that it is probably delayed further and what we wrote was in to the middle of 2023, which you should read as either 2Q or 3Q. And so that is a further delay. The expense assumption we have up to €200 million against the €150 million from July."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Now what is the underlying issues there, that is a very, very large and very complex IT migration. One that we are making a lot of progress on, for sure, it goes in waves. But I think it is important to note that our sort of risk tolerance there is essentially zero. So we need to give it the time that is needed to do so in a - with testing complete. And as I say, really no appetite to take risk on each migration."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So we are working now on what has been critical for us, which is the year-end wave that is particularly important for certain product types. And we have, in parallel, underway the preparations for the waves in the first and second quarters of next year."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And we will wait to see what the results are from the testing and what have you, but our current estimate is the middle of 2023 with an incremental cost relative to our planning sort of, if you like, two-years ago, back when we shared with you an IDD 2020 of about €200 million flowing into 2023, no change to our long-term cost benefit and also strategic benefits from that investment."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And I think the only add, again, I think James said it, there is no postponement of any waves before that. So it is not that we are moving away from whatever December to March, it is just incremental wave in order to be absolutely on the safe side, the next wave as expected, I think, at December 31st."
+  },
+  {
+    "person": "Piers Brown",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "That is very clear. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "There are no further questions at this time. And I would like to hand back to Ioana Patriniche for closing comments. Please go ahead."
+  },
+  {
+    "person": "Ioana Patriniche",
+    "role": "answerer",
+    "position": "Head of IR",
+    "text": "Thank you, and thank you for joining us for our third quarter 2020 results call and for all your questions. Please don’t hesitate to reach out to us in Investor Relations with any follow-up items. And with that, we look forward to speaking to our fourth quarter call in February. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Ladies and gentlemen, the conference has now concluded, and you may disconnect your telephone. Thank you for joining, and have a pleasant day. Good-bye."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

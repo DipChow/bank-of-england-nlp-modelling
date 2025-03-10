@@ -1,0 +1,560 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] First question from Tarik El Mejjad from Bank of America."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "And congratulations for these excellent results. I have 2 questions, please. The first one on costs. I mean it's great you have positive jaws in the first half, but I would say the tough times still to come. And how do you prepare to the renegotiation of salaries? And where do you see the potential uptick in costs coming from that? I know you guided on jaws, which I agree is something we need to -- one should focus on. But given where we see revenues growing and the cost could accelerate, how do you see the cost evolving there?"
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "And still on cost, I mean, we've seen other industries and banks, some strikes, some social protests and pushing really -- putting pressure on some sectors to high cost probably higher than what inflation is developed. How do you see that in the banking sector?"
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "And then the second question is on the CIB. Last week or this week, the Credit Suisse announced exiting some structural credit products. Given your push to CIB and being a bank that offers a whole suite of products, would that be something of interest? Will you be ready to take on €20 billion of RWAs? I guess it's [Indiscernible] capital point of view, but more from a strategic point of view, that's something you'd be keen to check on board?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Tarik, thank you very much. And so yes, apparently, you said good morning. So good morning to you as well. If we look first at your cost question, as a quick reminder. So if you look at the evolution, half of the evolution is basically variable costs, yes, so costs supporting the revenue. So those costs will be there as long as the revenues are there."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Secondly, basically, the other half is coming from the perimeter transits. So if you look at the costs, there are things that were not there a year ago, take ex-ante and what have you not. So if you look through that, you basically get a traditional run of the mill of 1.5%, which is in line with what we anticipate to be doing."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "And so going forward, in the environment, why do we feel comfortable? Well, we feel comfortable in the way we said, we operate with operating jaws. And so what are the elements that we have and that we basically will do more of. And so there are several things. Why do we feel comfortable to have the jaws? It's because we operate from platforms. So if we operate somewhere or if we want to add operations somewhere, we don't have to go and open a bank or buy a bank or have a bank and whatever with all the fixed costs that come with it. We basically use our platforms and we can grow at marginal cost. That's what we do."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Moreover, we are adding more platforms. So there are activities that we did in the past, still, let's say, locally in every city, what have you not. And we're basically moving them on a platform. So we keep on growing with the existing platforms we have, and we keep on adding platforms."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Moreover, in all the projects that we launched in the planned GTS 2025, we are also taking up an impact that it will have to lead to cost savings and, therefore, we have seen that or we have planned that, that would bring €2 billion in cost savings. So that's a bit going forward how we say. So we grow by platforms, and we have more of those platforms and we have cost savings in the plan GTS '25. So that's a bit the stance on the cost."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "When it comes to your concern on social onerous, listen, in the countries where we are typically, these things lead to discussions and that can be different one country to another, yes. For example, in France, there might be some constraints on some products, but at the same time, the French authorities are not going to tax banking."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "In some countries, it might be different. There are probably no constraints on products, but there is a banking tax coming. So that's what, if you look at what we have been doing in the past in the countries where we are, we have been managing this, I think, in a very good way."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "When it comes to CIB and adding on, I remind you that, indeed, based on the proceeds of Bank of the West, that we would redeploy. And again, our objective is not to redeploy in a bank or what have you not, yes. What it is, we said basically, there is 3/3 in what we see. There is 1/3 where we basically say it will allow us to grow a bit faster. And that's basically already that we are doing. Then there is 1/3 where we say we would use it for technology. Yes, these are the things that what we have done, for example, with the buy now, pay later technology. So that is what we do. And then there is 1/3 where we can bolt on things. So not a bank, but we buy some activities in an area where it allows us to strengthen, yes? So that is what we look at. What it means it has to be bolting on. So it has to be in an area where we already have things. It has to blend in with what we already have. And I'm frugal, so the price has to be right. So that's a bit the criteria that we use. So I'll leave it to that. Those will be my 3 answers, Tarik."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question from Delphine Lee from JPMorgan."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "So just two questions for me. If we could start with French Retail, where we've seen really a very strong NII performance. Just wanted to have a little bit of color around how much of that was driven by rate versus volume? What do you expect with the higher rates, which are coming by the end of the year? Any changes to your interest rate sensitivity? Any color would be very helpful."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And the second question, that would be on cost of risk. If you could share a little bit your IFRS 9 assumptions, I think you've added €500 million to Stage 1 and Stage 2. But just wonder if you could explain a bit the weighting of the different scenarios and also what are the assumptions of your severe scenario."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Thank you, Delphine, for your questions. So if we start with France. So France, as you know, we have been -- we are fully focused on supporting our clients. And of course, what we have been doing if we start from last year, which was a bit -- I don't know exactly where you were, Delphine, but it was a bit movement in times. So we have a bit this return. But at the same time, we are really close to our clients. And so that basically means that we see that our clients, they need lending capacity. So we are there. We are open for business fully. So we provide that lending in the volumes. Moreover, there are demands for fee-generating products, which is what we do. So that is basically all that we see."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "With respect to your question on rates, yes, there is no effect in the current results of that. And if you look at it in general, as a remark, the good thing is, in Europe is that, I mean, the fact of negative interest rates was a bit bizarre period. So it is something that where it led us to have like truckloads of liquidity that we did not know really what to do with."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "And so from that point of view, the fact that the rates are no longer negative, that is basically a positive thing. If there will be further step-ups, there might be further step-up in rates. But let's be fair, if you look at the bottom line, those step-ups will be made in order to fight the inflation. And so those effects will probably offset one another. So that would be on rates."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "On your question on the cost of risk, I suggest that you go into all the publications that you -- that we've made and where you can see the weightings that we have. And there is -- we are on a 30% rating -- weighting on the favorable scenario. And so -- but I'll let you peruse those, yes? I can imagine that you know the mechanics that are behind it. We apply two models which are rather conservative, I would say, and that is why we added so many hundreds of cost of risks. But I'll let you peruse the elements. But on your question, the favorable has a weighting of 32%. So, Delphine, that would be my answer."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Your next question from Flora Bocahut from Jefferies."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "The first question I wanted to ask you is regarding the leverage ratio, which is, this quarter, still at 3.8%. And I see that the AT1 number dropped to, I think, €7.7 billion in Q2 or just 1% of RWA. So the first question is should we expect that there will be a significant increase in AT1 issuance by the end of this year and, therefore, higher AT1 costs that will hit the P&L in the coming quarters? Any guidance on this would be helpful."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "The second question is on the distribution plans around Bank of the West sale. You had announced your intention to do a share buyback to offset the dilution effect. At the time of the announcement, so back in December last year, you had assessed that this corresponds to €4 billion of share buyback. We'll see upon closing. But as of today, if we were to update the dilution effect, I think we would land closer to €3 billion -- max €3.5 billion of buyback need. So just to understand how you are thinking about this? Do you stick to the €4 billion no matter what the move is or you will adjust depending on the market cap, capital ratio, everything at the time of closing?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Flora, thank you for your questions. On leverage, and on AT1, just jokingly, I must have fallen a fixed income call, right? But joking aside, no, the leverage ratio, we said that over the plan, the trajectory, we would go to 4.2 points leverage ratio. We would be doing this by stepping up our AT1 to accompany the growth. And so that's what we said. So we said we would issue €3 billion in a year. So that's basically what we will continue to do."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Again, if I looked outside over the last couple of weeks, the market was a bit shaken. So it is just timing. So what we will do is basically that €3 billion that we announced, and that's in the plan, and that's in all the figures that we have. So that is what we will continue to do."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "On Bank of the West, yes, there are many ways that you can look at. You can say, \"Hey, your share price is now lower.\" But then, Flora, you're very nice to me. You could also say the dollar is stronger. So if you look at all of these elements. In the end, €4 billion will be the amount."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question from Giulia Miotto from Morgan Stanley."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "A couple of questions from me as well, please. The first one, loan growth continues to be very strong. Do you see this continuing? Or do you see it turning off towards the end of the year? And where do you see the best pockets for growth on the lending side? That's my first question."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And then going back to the €511 million of provisions related to Ukraine and forward-looking essentially provisions, do I understand you correctly that these are based on the revision of macro assumptions rather than a bottom-up exercise, looking at which corporates are exposed to Russia, to Ukraine, to specific supply chains, et cetera? And if you have done such exercise, would you be able to share what part of your loan book could potentially be subject to disruption?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Giulia, thank you for your questions. If I start with the last one. So if you look at this S1 and S2 calculation, it is much wider than just Russia or Ukraine. To be frank, if you look at it, our exposure in Russia is so low. It doesn't really matter. So what it is, the way it works is we have a model which basically reflects the customers that we have in the book. So it basically reflects the type, it respects their behavior and so forth. And what we have said is, basically, there could be an effect spreading from inflation all of those other elements. And so that's the scenario. And that's a scenario we apply. So the impact, it is not Russia. Russia is very small into that given we are such a small player. It's the overall adverse scenario that basically makes us -- provides us the underbuilding of this anticipation."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "But let's not forget, right, I mean the same modeling that we applied in 2020 for the COVID led to €1.5 billion, and we basically didn't use any of that, yes? So this to show a bit how the modeling that we have is very conservative."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Then on your other question on loan growth, on the loan growth, yes, it has been strong. It has been strong because it was a bit low last year. And it also has a bit been boosted because on the corporate side, the primary market was Med area. So corporates that were intending to normally go to the primary market, it was closed. They found the phone. They called us and we helped them. So that's a bit it."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Now will this continue? Listen, my crystal ball is broken. So -- but the thing that I can say is that, at BNP Paribas, if you look at us, I mean, we are very solid. We have liquid like there is no tomorrow and what have you not. And so we are there to accompany our clients, and we're ready to accompany them in all kind or forms, yes? Is it primary market? Is it lending? Is it whatever?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "And so for us, listen, I don't have a crystal ball to tell you what it will be, but we are there to do so. And we see that Europe is putting a lot of sails in order to -- sails into ensuring that there are investments happening for the sustainability, that there are investments happening in the sectors where apparently Europe discovered that it was not represented and so like -- so that's a bit it. So that's what I see, we see in Europe, and we are very well positioned to accompany that. So Giulia, that will be my 2 answers."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question from Stefan Stalmann from Autonomous Research."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Two questions from my side. So the first one on the hyperinflation accounting around Turkey. You're mentioning this €0.5 billion benefit to your shareholders' equity from this. And has that become a net benefit to your CET1 ratio as well? Or have they been offsetting moves to other parts of the equation?"
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "And the second question goes back to the BancWest sale. Clearly, you mentioned the dollar is a lot stronger. And in euro terms, the sales prices was €1.5 billion more. And in December, I know you have said that you have hedged, I would just wonder if you could clarify how you have hedged? Have you literally locked in the dollar rate in December? Or have you used an option structure that has protected you against the downside that retains a lot of the upside?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Thank you, Stefan. So if I first look at the hedging or the hyperinflation. So in hyperinflation, this is typically something. If you look, there are impacts in the P&L and in capital. If you look at the P&L, on one hand, what you have -- if you have on the liability side, you have your cash. And so with inflation going up, that cash goes down. So you have a negative impact to the P&L. At the same time, you have your assets which are yielding more because the rates go up. And so therefore, if you take those 2 effects given the way we are basically hedged, the P&L effect is neutral."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "And basically, the same is true in capital. So in capital, you have, indeed, again, the hyperinflation who is having a pickup on the side of your equity. However, the ForEx effect is basically compensating this. So this is -- I mean, yes, it's easy to say that hyperinflation at BNP Paribas is basically nonmaterial, but there are several moves that basically compensate those. So that's on the hyperinflation."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "And then when we look at €4 billion, so yes, I mean, the €4 billion, as I said, when we did the deal, our objective was not to -- now all of a sudden become a trading firm and have those €5 billion or €4 billion to be positioned. So for us, basically, in what we typically do -- if you look at what we have in dollars, there are many moving parts, yes? So there are the activities themselves. There is the capital that we have and so on."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "And so there are many moving parts. And so what we basically take is that overall position is basically not an open position, yes? So we lock in some forward pricing. So it's something where we want to avoid the effect. And all in all, let's be fair. That's why I basically say I don't want to abuse the fact that the share price has gone down or that the dollar has got stronger. That is why we basically say we will return the €4 billion to you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question from Jacques-Henri Gaulard from Kepler Cheuvreux. Mr. Gaulard, your microphone is open. Maybe you are on mute?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Maybe I answered his question?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Yes, maybe so, next thing..."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Jacques-Henri Gaulard"
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Sorry. Can you hear me? Can you hear me?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Yes."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Jacques-Henri Gaulard"
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Apologies. I had indeed closed my mic. So 2 questions, Lars. The first one, I just wanted to understand the mechanics of the ex-ante provision and the cost of risk of the bank generally. In effect, you provisioned €465 million of Stage 3, then €511 million of Stage 1 and 2, net of €187 million of release. Is that the right way to look at it? And as you've released from the public health provisioning, just to have a view about what the stock of the public health provision is, that's the first question."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "And the second question, yes, you were mentioning that in one of your answers about the one thing which we've been completely alarming, frankly, has been the Spanish bank tax, together with the Turkish moratoria. And all these things, whereby governments feel very happy that they can just take on the cash of the banks and actually make themselves happy politically, it's probably a bit of a relationship here with your own risk premium, which remains insanely high, considering the type of results you deliver."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Aren't you afraid, to put long story short, Lars, in all your different markets that you're going to be taxed again? And how comfortable do you feel now that your SRF going to 0, which is a key part of your plan is really going to go to 0 or more or less by 2024?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Jacques, thank you for your questions. Now if we go again through the ex-ante provisions. So indeed, if you look at the numbers, so there is, let's call it, S1, S2 to be forward-looking and then the S3 on the other one. So the S3, that is what we see. We have companies, counterparties, individuals that run into difficulties and that we provision in a normal way. And so the amount that we have provisioned is rather low because, at this stage, well, we don't see many of these things happening."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "And then you have the ex-ante, and so in the ex-ante, that's basically how it works. So the way it works is that you can at some point in time have a scenario, which is negative going forward and for which you provision. And so that's what we did in 2020 saying there is the COVID, which will have an impact, and therefore, we basically provisioned €1.4 billion."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "And then the way it works under IFRS 9, every quarter, you basically have to look how your scenario is realizing. And so what we see, for example, this quarter is that the COVID scenario that we had in mind, the fraction that we thought that would be realized this quarter is not realizing. So that is why we had to write back roughly that €200 million."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Now at the same time, there is a new scenario that we think we can imagine is that -- what we said earlier is that there will be a spill-on effect of what we see in Eastern Europe and so forth. And if we do that, then we basically step up €500 million. So all in all, if you bring that together, you basically get like a tad more than €1.4 billion in reserves, which is partially stemming from the COVID period, partially stemming from this period. So that is the dynamic, but they are both forward-looking and of course, should be available if things happen. So that's basically where we stand."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Then on your question of the activities. So indeed, there are some observations that you can see in some countries. But it also depends on how the overall infrastructure is in place. And so if you look at some of those countries, they are -- basically, the pricing is relative so therefore, the pricing will go up when interest rates go up. And therefore, that can trigger some governments to do something."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Now if you look rather in the countries where we are, you basically see that the products themselves that banks have already contained some protection for customers. And that is why I anticipate, like in France, where basically, clearly, the finance minister, he said that there would be no additional taxes on these kind of things, so we feel comfortable that in the countries where we are, this will be okay."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "And moreover on your question on the single resolution front, and let me remind you that this is a total different ball game. The single resolution fund is there because a law has been voted, and that law is basically saying it ends in 2023. So who am I to say, yes? So that will basically end, and that's basically where we stand. So Jacques, those are my answers."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "And next question from Matthew Clark from Mediobanca."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "So a couple of questions. Firstly, on the French Retail Banking -- sorry, it's not called that anymore. But the net interest income was up very steeply versus the first quarter. So I just wanted to understand is this a sustainable run rate and what products specifically have driven that increase if it is a sustainable run rate."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "There was a bit of noise. Sorry, can you rephrase your question? I missed the beginning of your question."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Sure. So it's a question on net interest income in the French Customer and Personal Banking division, which increased, I think, it was 8% or 9% versus the first quarter. So I just wanted to understand whether that second quarter net interest income level in that division is sustainable or if there are some lumpy items in there going forward?"
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "And then the second question is on your disclosure of revenue and cost growth at constant scope and FX within global markets. I just want to understand whether you are only adjusting for the Exane acquisition? Or are you also adjusting for the DB Prime acquisition? And if you are only adjusting for the Exane acquisition, could you give us the impact on revenue and cost year-on-year from DB Prime?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Thank you for -- let's not forget, the prime brokerage transfer, it already started a year ago. So it's not in the perimeter effect, so the effect in what we call constant scope and exchange rate. So the scope is Exane. And then, of course, there is the dollar and the Turkish Lira and what have you not. So the prime brokerage is not considered as a scope change."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Then on your net interest income, when you look in France. So the net interest income is depending on things like what volumes and what kind of interactions that we are having. So again, if you look at it, it has been -- if you look at the volumes, they have been solid and therefore, that as well."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "So overall, I would rather say there is this mix of kind of services that can step up, and sometimes it can be more interest income. Sometimes it can be more fees. So overall, I would look at the total income rather than just that supply. So that will be my 2 answers."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Okay. Can I just come back on -- I understand that you haven't included the DB Prime in your adjustment, but presumably, that has been a material contributor year-on-year because you haven't transferred any clients across this time last year. So can you give us some guidance on that impact year-on-year?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Remember, we basically phased -- during last year, we phased it in. And so that meant that we were not able to have clients on board. So -- and then on top of when you look at it, several of the clients basically switched into the systems that BNP Paribas had. So that is why the element of just singling it out is done. So that's basically that. But if you want the total number, as a reminder, right, we guided that prime brokerage would be full year €400 million in revenues."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Can you give the cost impact full year?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Listen, that's typically a run rate at 60..."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question from Mate Nemes from UBS."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Wait a second. Wait a second. Just, I don't know if you heard any. So it basically said it's a 60% cost-income ratio. I don't know if that came across."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question from Mate Nemes from UBS."
+  },
+  {
+    "person": "Mate Nemes",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "I have 2 questions, please. First one is on provisioning. I wanted to go back to the ex-ante provisioning that you described, the plus more than €500 million in Q2. I'm just wondering, does that amount also include potential provisions for scenarios including in a duration in certain markets, for example, Poland or Italy? Would that amount be simply a function of certain scenarios, inflation and interest rates? That's the first question."
+  },
+  {
+    "person": "Mate Nemes",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "The second question is on the French bank. I'm just wondering if you could give us a sense of what the recent increase of EBITDA to 2% could mean for NII in the second half?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Thank you. So first of all, on the provisioning. So indeed, as I mentioned, what we do is we run several scenarios, yes? Don't ask me to tell you that this is then for what we guide. So we have a whole set of scenarios that we run, and that basically lead to a deterioration, which allows us to provision this. So that's a bit the way it works. So the kind of models and the kind of things that we run doesn't imply anything on what we see. That is the likely scenario. We run a whole set of them leading to this kind of impact. So that's on the provisioning."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "And then when you look indeed, in France, so in France, the [Indiscernible] is basically a deposit product that basically has a return which is linked to inflation. And so if you look at it, at BNP Paribas, as I mentioned, we are basically a bank focused on corporate, commercial, affluent and the like. So our market share within that is rather small, yes. We have less than 5% in market share in that in France. And therefore, if you look at this year, you basically see no impact because it's part of our overall hedging that we talked earlier. So that's basically where we stand."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "I want to, if I may, have one further clarifying question, basically, I get whispered in my ear that in the answer to Stefan, I maybe was not totally clear. So Stefan asked a question on the hyperinflation. And I said there were positive and negative effects both in the P&L and the capital that compensate. So in the P&L, there is the liabilities that go down in value and the assets that go up in value in the P&L, and they basically compensate. When you look at the capital, so in the balance sheet, there is the positive effect of the hedging and the hyperinflation, and there is the negative effect of the ForEx. And so they basically offset in the capital. So that is what I wanted to clarify going forward."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question from Anke Reingen from Bank of America -- of Canada, sorry."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC Capital Markets",
+    "text": "The first one is on the cost of risk. I just want to understand the 40 basis points you mentioned for this year. Could you actually do better? Or are you basically trying how you currently see the situation? Or should we see a step up in the second half to end up at 40 basis points on your current point of view?"
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC Capital Markets",
+    "text": "And then secondly, I just wanted to confirm something you mentioned about the cost evolution. And I think I heard you saying that half of the cost evolution about, say, 1.5 percentage point increase is due to variable costs, which seems relatively encouraging, relatively high. Is that basically variable compensation and investments? And should we understand from that point that this part could slow down, obviously, if we see a revenue slowdown in the second half?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Okay. Thank you for your questions. If I take the cost evolution first and then the 40 basis points. So yes, when we talked about those variable costs, when I call them it's the variable costs related to the ones that generate revenue, yes. So they typically would disappear with it. And so yes, what is it? It can be a point in sale cost, yes? If something happens in a point in sale, it generates revenues, but it comes at the cost related to that point in sale. So that is, for example, all of the activity that we do, where we provide our services, not through our own networks but through the networks of others and that, for example, that. And it can also be transaction-related payments and the like. So that's the cost. So we have intrinsically those costs. If the revenues disappear, those costs disappear."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "And then on the 40 basis points, Anke, listen, I don't have a crystal ball. But what I would expect is that I would have expected to have a run rate of 40 basis points. So that run rate has been below in the first and the second quarter. So my hypothesis in the modeling is, I would put 40 basis points in the third and the fourth quarter. So yes, it is not impossible that we end up lower than 40% on the year."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Your next question from Kiri Vijayarajah from HSBC."
+  },
+  {
+    "person": "Kiri Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Lars, just a couple of questions from my side. So firstly, on BancWest, is there any impact elsewhere in the group from the sale of BancWest, maybe lots of access to cheap U.S. dollar funding, maybe impacting CIB or anything else, like that we need to think about? And can I just clarify that you keep access to the Fed window after you lose BancWest? So overall, it's a fairly clean separation. There's kind of no -- kind of negative synergies we need to think about?"
+  },
+  {
+    "person": "Kiri Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "And then secondly, on the G-SIB buckets and the more favorable treatment of exposures within the euro bank, when do you think we're likely to see that benefit actually come through for you guys or the European banks in terms of SREP requirements? And specifically for you guys, do we actually move the needle when you think about your 12% CET1 target? Because I think in the past, that 12% has been fairly set in stone. So just some clarification there, please."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Kiri, thank you for your questions. Yes, well, if you look at BancWest and what -- the typical things, if this would be -- if you look in Europe, if you would sell an entity, well, we would have, of course, have all those links with all the other parties like the cross-selling and so forth. But BancWest being on the, well, two oceans away, the cross-sell is relatively limited. On the contrary, it could be -- if we have a very good relationship with the buyer, it could basically lead to that. So there's basically nothing to lose on that."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "And on the financing, remember, on the financing with the arrival of the IHC and being the 2 coasts being regulated -- while the banks on the 2 coasts being regulated by different supervisors, the financing one way to another does not really impact. So from that point of view, there is no impact of Bank of the West on the rest of the bank by the fact that there will be a lot of money available to redeploy in Europe. So that's basically Bank of the West."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "And then on the G-SIB, the thing is -- listen, the -- the main driver for G-SIB is size of your balance sheet, right? If you'd get larger, you will consider more systemic. And then there was this peculiar thing in Europe. We're basically saying, if you are in 2 countries in Europe, basically, your balance sheet doubles, yes, which is a bit ridiculous. And so that meant that on the trajectory where we were, we would -- we could have balanced into a higher G-SIB score because of that."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "And now with what has been voted in Europe and with basically [Indiscernible] is taking on, we will basically not be European banks that are international will not be negatively impacted. So a large European bank will be treated in the same way as Bank of America or whatever bank that is based in the U.S. is treated. So Kiri, that will be my answers."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Mr. Machenil, we have no more questions by phone."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "And thank you very much. I want to thank you all for your continued interest. You have seen the strong results of BNP Paribas, how it is there to accompany the economy and will continue to do so. Thank you very much. Wishing you a great weekend."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, ladies and gentlemen. This concludes the call of BNP Paribas second quarter 2022 results. Thank you for your participation. You may now disconnect."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

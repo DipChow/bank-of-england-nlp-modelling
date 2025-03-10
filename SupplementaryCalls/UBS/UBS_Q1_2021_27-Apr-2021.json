@@ -1,0 +1,986 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "We will now begin the question-and-answer session for analysts and investors. [Operator Instructions] The first question is from Jeremy Sigee from Exane. Please go ahead."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "Exane",
+    "text": "Morning. Thank you. And two questions, please. One is about Archegos and prime brokerage and kind of what it means going forward. And the other is about the corporate center. So the first one, I just wondered how you think about prime brokerage after this incident. On the one hand, you could have an opportunity to take market share of Credit Suisse withdraws, you could say this is our moment. But on the other hand, I'm sensing that you're also doing this with a bit more caution than before. So I just wondered if you could sort of talk about how you balance those thoughts post-Archegos support for prime brokerage?"
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "Exane",
+    "text": "And then the second question was to just ask for a bit more detail on your plans for the corporate center, which sounds very promising. What is allowing you to reduce the drag to $150 million a quarter, this year where do you see that drag next year? And will you allocate all of it to the division so that in future you'll be a sort of zero corporate center?"
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Okay. I'll take the first question and Kirt take the second one. So Jeremy, thanks. As said, you know, we're disappointed by what happened. And we are seriously reviewing the relationships, both on the prime broker side, as well as on the GFO side, and the way we go about this business."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "And having said that, we do see and do think that this was an unusual case, a pretty idiosyncratic. And one that provided for a high risk given concentrated positions that the market was not fully aware of. So to come from this one, and then kind of come to a general conclusion around this business, I don't think it is wise, for two reasons."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "First, the prime brokerage business is strategic to us, it has been - has been a good business to us. It's important for our franchise. And the prime brokers capabilities are also crucial to build - to build the relationships with some of the family offices. But again, you know, you'll have to look at it, client relationship-by-client relationship, situation-by-situation, transaction-by-transaction. That's the way we will go about it. Kirk?"
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yes. Thank you, Ralph. Jeremy, just to address group functions in terms of where we are. So I guided that I expect us to believe, be below $150 million and then continue to see that come down over the next couple of years and then clearly have line of sight to get that nicely below $100 million in a couple of years and then we'll see where we go beyond that."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Now what is allowing us to actually achieve that reduction? Firstly, NCL is shrinking and its coming down considerably. Secondly, if you look within the service side, we've largely built out most of our reg entities, from a regulatory perspective, we were holding those costs."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Thirdly, our DTA asset and its funding costs is lower than it was. And then finally, we are finding ways just to improve our treasury efficiency. And those will all be the drivers going forward to continue to bring that down."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "Exane",
+    "text": "And do you do you plan to fully allocate it to the division? So like some of the US banks, you'll have a zero corporate center?"
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yeah, I think our intent is over time to get that as close to zero as possible, and we fully sunset NCL. I think there will always be some pluses and minuses. And then just as a reminder, there is some accounting noise and asymmetry that is always going to be absorbed that we want to keep away from the business divisions."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "Exane",
+    "text": "Okay. Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Alastair Ryan from Bank of America. Please go ahead."
+  },
+  {
+    "person": "Alastair Ryan",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Yeah, thank you. Good morning. So a little bit on Archegos, please. You say it's idiosyncratic, but you know, UBS has been here before. And IB revenues down 12, costs up 7, Zurich writes a check when New York blows up. And you know, it's not clear from any of the risk disclosures that I've had, 50 pages in the annual report, where I could have found this risk. So UBS talks a lot about being low risk, it hopes to get a multiple for being in a low risk institution and $900 million an extraordinary figure. I mean, it's higher than your credit losses, and for the whole of a very severe year."
+  },
+  {
+    "person": "Alastair Ryan",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "So take page 98 of the annual report, and risk management control principles, five principles, protection of financial strength, fine, but looks like this is on the wrong side of four of the others, all four of the others, protection of reputation, business management, accountability, no mention of that, independent controls, no evidence and risk disclosure, clearly not there."
+  },
+  {
+    "person": "Alastair Ryan",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "So can you give us a sense of how serious this is? What the consequences have been? Why the market should look through $900 million from a single name. And it's only it is idiosyncratic because its the only one that that blew up in the quarter. And it's intrinsic to the business. And the risk management has been found wanting relative to some peers, although clearly not as bad as Credit Suisse. Thank you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Well, thank you, Alastair. And as I said, you know, I can hear the disappointment in your speech. Before the question was asked, and I, you know, I understand you're disappointed, we are disappointed as well. And that's why we are doing a detailed review of the relationships of the individual relationships, specifically on both sides, prime brokers, or GFO relationships, as well as the processes, the risk management processes surrounding all of this. You know, and that's what we're currently doing."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So, we are taking it seriously. And you can expect it from us. Having said that, if you look at the situation, and look at the build-up of a highly concentrated position across many different players, it was idiosyncratic from the perspective that this was not a market event, it was an event to a specific case, with highly concentrated positions."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Now, again, you know, it should have been detected, I understand that, it's not the point that I'm trying to make. But that's also why we're just as disappointed as you sound as well. So thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Magdalena Stoklosa from Morgan Stanley. Please go ahead."
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Thank you very much. And good morning. I've got two questions. One, still about our triggers [ph] from slightly different perspective, and another one on cost. So, as the reviews start, and, you know, and the kind of industry looks back at what went wrong on the regulatory side, particularly in the US when you're having this conversation, what comes up from the perspective of the potential changes to the regulations to the disclosures that may - you know, that may come through post this positive event. And also, you know, how has your conversation with a kind of Swiss regulators about it, kind of gone. So this is my question."
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And my second question is really about the cost, and of course costs also within the kind of strategic was kind of an update, well, update strategic kind of framework that you have just communicated. And I'm going to kind of use slide eight as a little bit of a framework, because you know, what, it kind of explains to us what happened in 1Q and that's fine, you know, I never have an issue with kind of variable costs when they come with revenue."
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "But Ralph, when you look at the fixed cost base, so your cost base excluding the variable side, and when you think about kind of potential changes, particularly from a perspective of technology, from perspective of automation simplification, do you think that medium term that cost base can actually be attacked in absolute terms, i.e., is there an argument to be made, that that cost base could actually go down, but also within the context, of course, of your revenue ambitions? Thank you very much."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Hey, [indiscernible] good question. So the first one, you know, that we don't comment on our interactions with regulators, but clearly we are in daily contact with our regulators across the globe, on these matters, big or small. And so on this one, I think the - if I may summarize it in one word, it is a call for transparency on this one, that is the big learning and that we are basically looking at to either increase with our clients in a bilateral way or we're, you know, regulatory requirements could or should come in."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "On your second point, I actually do think that if you would keep all things equal, there would be scope to reduce your cost, if you keep all things equal. Having said that, as you know, we have a brand out there that can grow to an exclusive brand for Wealth and Asset Management that is already known for it, specifically in the markets that I mentioned. And these markets provide for growth opportunities."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So if we were not to go after growth, and we would only look at cost, then the programs that we have started to get to that $1 billion on an annual basis would actually be programs to - that would decrease that cost base. Again, if we wouldn't go after the opportunities that we see in the areas where we see the growth the fastest."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "And again, you know, this is not about, okay, we have the $1 billion, if we can generate it as a savings, and let's spend it, it is not about that. Also and where we want to spend it and where we want to support the business, we will be really focused. And that's why they come together in this presentation. There's about - we do see the opportunity to save cost, and we do see the opportunity in a very focused way to grow. And again, if we feel that that growth does not make the returns that we demand, we will not spend it and we will not support that business. So that is what you can rely on."
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Thanks very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Kian Abouhossein from JPMorgan. Please go ahead."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Yes. First of all, thanks for taking my question. Two questions. The first one, coming back to strategy. It sounds like Ralph, you're quite happy with the businesses and geographies that you operate in? And I just wondering, can you talk a little bit first of all, is there anything that you're unhappy with in terms of business geographies mix. And in that context, any areas that you feel are subscale either on geography or on business that you need to review in the future more strategically?"
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And the second question is related to Archegos again, I cannot understand fully that you are loosing roughly the same amount as Morgan Stanley, which is claiming to be one of the top prime broker actually, I think they said they believe it was a number one player and you must be relatively small in terms of underlying exposure, and it takes you into the second quarter to take all the hits, and you have the same amount of losses against a smaller underlying exposure. So can you explain that to me, because you're probably making the analysis against your peers?"
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And secondly, can you explain to me how much of PB business you have overall, in terms of exposure? How much of that is family office? And lastly, why there was not a decision to unwind the positions by Friday, i.e., as for example, one of the peers, Goldman and Morgan Stanley, more or less were done on Friday or Sunday?"
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Thanks, Kian. Well, we're not disclosing the specific exposures on these sub-segments, and I can't go into the event itself. I can though, tell you that we are a top five player in the prime broker business. So it is not like we have come from a different position than some of our peers. So that is not the kind of the comparison you can make."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Back to your first question. I think there is always places where you are not sufficiently happy, regardless by the way of the geography, or the business line or the capability that we are managing. And for starters, no, it may be very clear that - for also from this presentation that the Wealth and Asset Management business are really important businesses to us."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Having said that, there were certainly areas where we feel that we can’t generate the scale. And that will lead to decisions like we took on Austria, and some of the businesses that need more local scale, we will find difficult to really scale up and improving profitability, certainly if they are in geographies where the growth is also not coming through. So that should give you a hint."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Then the other one is around, for example, the investment bank, where we actually think that in terms of the capabilities that we need for that in order to build our wealth business, we're kind of right size and the clarity, you know, we can always improve, but it is certainly a business that we want to manage in a very capital efficient manner, way, as you know, and needs to - needs improvement all the time, needs alignment all the time. But that goes for all businesses as well."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So again, you know, there will always be areas where we're not happy and where we need to improve. So – and we see scope for improvement across. And scale will be a factor in all of our businesses, whether it is wealth, which we are the globally the number one and we still have a scale challenges in some of the – in some of the areas that we feel we can improve on and if not, then the asset is not strategic. So it's all over the place. And I really think you should never rest on your laurels, even if the business is strategic."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And may just ask on regulatory impact on Archegos, should we think as some of your peers has done that there could be counterparty and upwards graded at - this rate risk weighted assets add on to capital, add-ons in any form, in related - in relation to Archegos?"
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And just coming back, one more question Archegos. Why would you lose the same amount of money as the player that claims to be number one to Archegos in terms of underlying exposure?"
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "I can't comment, I won't comment. You have exposure, and you have collateral, and you have positions that may be different, you may have margins that may have been different going into the situation. So I can't really draw a comparison there."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "On your first one, regarding capital. Clearly, we are discussing with regulators as a set. We - I can't give you anything more. I can just tell you that even in this quarter we have further improved our capital situation through CET1 at 14%. And that shows the strength and with that also kind of the confidence that we have in being able to build and also to weather some of the challenges if they may come along."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "I would just add that there's been no such add on at present. But as Ralph said, we don't know what's to come. And I would re-emphasize that our current capital requirement is 9.66%."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Nicolas Payen from Kepler Cheuvreux. Please go ahead."
+  },
+  {
+    "person": "Nicolas Payen",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Yes. Good morning. Thanks for taking my question. I have three. The first one a quick follow up on capital requirement. Beyond Archegos, do you – can you update us perhaps on the - your risk weighted assets, regulatory inflation that you expect for the next couple of years?"
+  },
+  {
+    "person": "Nicolas Payen",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "And the second one is really on the - on your IT budget, with insights of the COVID-19 crisis and in light of your new strategic framework. Do you expect your IT budget to be revised – revisited upwards most probably?"
+  },
+  {
+    "person": "Nicolas Payen",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "And the last question is on sustainability, which seems to be a big focus now. In your discussion with clients, are they willing and ready to accept a lower profitability for better sustainability in their mandate? Thank you very much."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Could you repeat the last question, please, Nic?"
+  },
+  {
+    "person": "Nicolas Payen",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Yeah, on sustainability, when you discuss with clients about sustainable mandate, are they ready to accept a lower return on their investment for better fitted sustainable mandate, for instance?"
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Okay. So reiterating [ph] the last one. To the extent it really depends what you're looking for. So some really go for impact in specific areas, and then they may actually accept a lower return. Orders were form to have a really good combination. And we see that sustainable investing does not necessarily mean lower returns. So from that perspective, it really depends on the client and the client wishes and the impact he or she wants to have through the investment portfolio."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Now, on your second question on IT, and Nicolas, honestly, and to maybe a bit of a pick, generally, you know, we'll go with the 10 percentage rule of revenue that we look for on the IT side, and I think that with that budget in dollars, there's a lot we can do, and you should realize that we're going to manage our IT investments, much more strict at the top level on a quarterly basis."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So what we're going to put in place here is that each and every project that needs a change budget, whatever it is it change, or business change, as we call it, that we review that at the top level, that we crowd the ones out that don't make the right returns, not in comparison or competition with somebody else, over some of the other ones."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "And clearly, the compliance or regulatory ones always go first, you know, they - often you can't really look at return there. But beyond that, everything that has to do with the business will have to meet return hurdles. And with that, we will crowd out some of the projects that would otherwise receive purchase, because we take it, we manage this beyond the business divisions, that's also why Mike joins the gap."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Then thirdly on that one, we actually think that we can further improve in the productivity of our technology professionals, and really leveling them up, as we say it, and use that and bank the improvement of that productivity in order to do more. So we're not planning a big budget increase in order to support some of this, it is really about being very strict as to how you manage it, being - managing it across the business divisions rather than within the business divisions in terms of the allocation, doing it on a quarterly basis, and leveling up the technology from a professional perspective, so that we can improve the productivity."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And maybe, Nicolas, in terms of your first question, we have around residual $6 billion to $7 billion of increases due to reg model updates that we're making to the rest of this year before we absorb the full impact of Basel III finalization. We've guided before that that estimated impact is somewhere between $20 billion to $30 billion, we continue to refine that. And that is - of course, given there's still some uncertainty around FRTB rules. In addition to a couple of areas where FINMA has discretion, we expect that discretion to be clarified as we go through the rest of this year."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And then finally, we still believe we have an opportunity to look to optimize so that we bring that impact down and we'll update you as we have clarification on all of those points."
+  },
+  {
+    "person": "Nicolas Payen",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Tom Hallett from KBW. Please go ahead."
+  },
+  {
+    "person": "Tom Hallett",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Morning, guys. Just a couple from me, really. Could you just elaborate on the restructuring expenses you take in the second quarter? And what that's specifically related to? Because it sounds like you're reinvesting all those gross benefits there. So there's no obvious benefit from the outlay on investing in the restructuring plan."
+  },
+  {
+    "person": "Tom Hallett",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "And then secondly, on strategy, I'm just curious as to why have no financial targets disclosed? Or they won't be until the end of the year? Thank you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Well, I'll answer the first one. Clearly, you know, if we're doing well, we have financial targets out there. We are reviewing some of the activities still, for which we need to update you. And therefore we are not concluded on everything. And therefore, I don't think this is the moment to come up with new financial targets."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "But we are working to comply and address and fulfill the targets as we have given. And we do expect to perform this year towards the more positive ends of these ranges that we have given. And so that's what I can say. And Kirk?"
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Tom, just on your first one, the restructuring of around $300 million, its broad base across the group and across geographies. Also, just to clarify, and you’ve heard this from Ralph, very importantly, the $1 billion we indicated, we only reinvest that if we actually see growth opportunities that more than hurdle, otherwise, that would be an opportunity to reduce our costs. So just to be very, very clear about that. And as we've guided before, the real intent is to maintain our costs around flattish, grow the top line and deliver positive operating leverage."
+  },
+  {
+    "person": "Tom Hallett",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Okay. Thanks."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Jon Peace from Credit Suisse. Please go ahead."
+  },
+  {
+    "person": "Jon Peace",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "Yes, thank you. So just a follow on, firstly, on the comments on financial targets. I mean, should we expect a reform of some of the big group targets, like return on CET1, which may be a not looking ambitious enough at the moment? Or will it be a roll forward of some of the more divisional targets for pre tax profit growth and buybacks, et cetera, or a combination?"
+  },
+  {
+    "person": "Jon Peace",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "And then my second question please is on the new measure of net new fee earning assets. And how would that compare to net new assets over the last year or two? And prospectively would you expect it to be slightly higher because you're now including some of the dividend flows? Thanks."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Yes, just in terms of the financial targets overall, and it would be inappropriate for us to comment what they might be because we still have to go through the work. And so meanwhile, as we said, we keep our current targets and tax for this year, and we tend to operate at the positive end of those targets."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "In terms of fee generating assets overall, just mathematically what is excluded there are deposit flows and also other client inflows that really don't have an impact on our recurring revenue, and principally includes large stock inflows. And so in general, on most quarters, you'd actually see a higher net new money number than you would fee generating asset number."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "But having said that, the composition is different. And archaeologists point out a fact for example, on a fee generating asset basis, net new fee generating assets, the Americas would have been positive over the last five quarters, but that would not have been the case on a net new money basis. And so you do see that there are some differences overall, in terms of regional patterns and also the competition overall."
+  },
+  {
+    "person": "Jon Peace",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "Great, thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Andrew Coombs from Citi. Please go ahead."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Hi, good morning. A couple of follow ups on Archegos and the investment bank. Firstly, I haven't seen anything, but perhaps you can confirm whether FINMA has opened enforcement proceedings, obviously after the Credit Suisse I haven't seen anything against yourself, but perhaps you could confirm that."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Secondly, when you talk about risk management, on the prime brokerage business in future, can you still elaborate a bit more there about the steps you are taking that focused on the initial and variation margin, is it on the leverage amount on equity swaps, perhaps you to clarify a bit more there."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "And then finally, you've retained your guidance of RWA and leverage exposures in the investment bank, being around 33% of the group. Obviously Credit Suisse has gone from an absolute target to a proportion of group target, and now back to an absolute cap target. What are your expectations there? Do you expect to maintain that 33% figure? And if so, given that you are expecting the broader group to grow, where do you see the asset growth coming from in investment banking? Thank you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So the first question, there is no current enforcement proceedings from FINMA. As we've already said, though, we can't judge what they might likely do in the future. In terms of your second questions overall, clearly, the key lessons learned from this particular event is all around concentration, concentration, and specific overall exposures, synthetic concentration, combined with the lack of transparency. So the changes overall and the learnings and what we will incorporate into and already are incorporated into some changes overall on our reg processes, specifically to address those topics."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "In terms of our RWA and LRD guidance, the one third of group doesn't change. And purposely, I won't indicate exactly where I would expect the investment bank to deploy that because they are very dynamic, they will continue to deploy that in terms of where they see the opportunities in the market, and where they can generate the best returns overall. And importantly, where they can best support our wealth management business."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Jernej Omahen from Goldman Sachs. Please go ahead."
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Yeah. Good morning from my side as well. Thank you for this comprehensive call. I guess that what gets lost on calls like this is, is the bottom line result. And I just want to say well done on a 14% stated return on tangible equity after all the various hits from your businesses."
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Now, you said even, I can't deviate from what seems to be the theme of this call. Can I just ask one last question. On the FINMA response, you have confirmed that FINMA hasn't ordered any enforcement action so far. Can I just ask you is FINMA requested any risk reducing measures at this point? So there's a simple yes or no."
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Then the second question I have, when it comes to this Archegos, was it carried within UBS as an institutional client in your equities operation? Or was it carried as part of your PWM operation, i.e., as a family office?"
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "And then the last question I have is on US rates, which I suspect would have featured more prominently in normal times. You've commented that the effect of lower US rates has been absorbed. Can you just confirm what you think the sensitivity to higher US dollar bond yields is and what is the time lag between bond yields moving higher, and a higher reported revenue number? Thank you very much."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So first of all, thank you for the first comment. And I agree that often, you lose context here. And the fact is, we did deliver a very strong quarter after absorbing the event that we're talking about. Just in terms of FINMAs overall response. There's been nothing that they've added on at all, nor any request, as of yet in terms of reducing our exposure, our positions across the group."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "In terms of the client itself, importantly, it was a prime brokerage client. It was and I think you are aware it was classified as a GFO, which also leads to some of the disclosure issue that all of us are struggling with. And then finally, in terms of your US rates question, what I - what we mentioned is we fully absorb the impact quarter-on-quarter, so there's no residual overall drag due to deposit margins related to US rates from the first into the second quarter."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Now, I didn't quite get your – the final part of the question. The fact that we see in the longer end, we've seen the 10 year rise a little bit."
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "If the curve shifts higher, what do you think the - what do you think the revenue sensitivity broadly? And then what's the time lag when you expect to see the impact in your numbers?"
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Yeah. You know, and naturally, we see a median – back in the lower end of the curve. And anything that's longer, you know, out to 10 year it takes longer for us to kind of work that through our overall replication portfolio, both the synthetic, as well as the cash replication."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "And so we certainly wouldn't see it. And of course, I think while the long end is actually spiked up a bit, there's still a lot of uncertainty around inflation expectations and how rates will behave going forward."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "But if we were to see an improvement and an increase in the shorter end, then that would immediately flow through and you've seen our guidance, overall, a 100 basis points parallel shift across the businesses would contribute $1.6 billion overall of net interest income."
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Perfect, thank you very much. And well done again on the 14% ROE."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Adam Terelak from Mediobanca. Please go ahead."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Morning. Thanks for taking the questions. I wanted to follow up on capital return and the buyback, last quarter you set a target or indicative targets of how much he wants to buy back during the quarter, or what - no such repeat today. I noticed in your AGM documents that the $2 billion accrual actually relates to the 2020 distribution. So I was wondering whether you have to run through that full $2 billion before you're really thinking about it being a 2021 distribution on the buyback? And if so, why we're not discussing an extension of that billion a quarter run rates."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "And then second, I wanted to go further into NII, you've mentioned that the loan spreads were good again in the quarter. Just want to understand, how much lending revenues are you adding Q-on-Q? And how far could we extrapolate that through the rest of the year? You said NOI clearly up in 2Q, but we'd expect that again, 3Q, 4Q and beyond. And as such is this now time to think about NII growth from this billion a quarter runway? Thank you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "[Technical Difficulty]"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Andrew Lim from Societe Generale. Please go ahead."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "Hi, good morning. Can you hear me? Hello?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Mr. Lim, we can hear you."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "All right, okay. I'm proceeding my questions. I actually wanted to talk about the defense tax evasion case. So that hasn't yet concluded in the sense that we haven't had a fine, if any determined, we'll have to wait till September. And it seems like we have to wait for the courts to decide on the application of law. And I guess that encompasses how we view any fine in relation to whether it's dependent on the tax assets shielded or the tax, everything is not paid. And just wondering on whether you could give your view and how the courts are viewing this. And that, if there's any more specific timing in advance for September, when we might get more information on their decision here? So that's the first question."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "And then the second question is relating to your strategy. I realize, you know, you spent a lot of time trying to outline your thinking here. And, you know, we should spend some time thinking about your views on this matter. And you've talked about being more agile, and spending more time on mismanagement."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "In some sense [Technical Difficulty] we can analyze here, and numerically, but it seems important in terms of like, the potential cultural shift for the bank. And I'm just wondering, well, from your point of view, how big a cultural shift that entails for UBS in terms of like different businesses, that the number of people involved and how they think about how they interact with clients?"
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "First, with the…"
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Adam."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Of Adam, yeah, the questions of Adam and then I will take the Andrews questions that he just raised. So you Kirt, you finish."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yeah. So Adam, are you…"
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "And I will take Andrews, okay."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Adam, are you back are in listening mode. We didn't cut you off because we didn't like your questions. So in terms of capital returns, as we highlighted, we actually expect to be back repurchasing shares tomorrow. You can track us weekly. We will modulate the volumes just based on what we see in the market as we progress."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "I would just note, if you look at our 14% current CET1 ratio, that would imply about a $3 billion buffer above the 13 - around 13% that we guide, plus, there is a residual $900 million still in the reserve that we built up last year."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "In terms of your question on NII, indeed, specifically what you've been seeing as our lending NII growth has been helping to offset the overall headwinds from US dollar rates specifically. I would just mention a year-on-year if you look at the increase in lending related NII from a combination of volumes, as well as margin."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "We saw $108 million in the quarter year-on-year increase. The quarter-on-quarter impact was $21 million. How that progress is going forward, of course, we’ll continue to depend on the overall net new lending volume, but certainly the around $11 billion that of net new loans in the first quarter will help us in the second quarter."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Hey, then to Andrew’s questions. The first one on the French case. Andrew, yeah, so the way we read this and also, in terms of the evidence that was provided, we have not seen any kind of argument there to change the provisioning and the level of which you know, it is. And we don't expect any further information before the court actually comes out with their decision. So that's one."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "On the second one, on the cultural one, and how to support agile. And I think that you know, people think sometimes think that agile is some kind of a way to work in some kind of an anarchy or create a bit of chaos. But agile is quite the opposite. Agile is a very disciplined way of working in which you keep things very clear, very disciplined. With a multidisciplinary team that works on two weeks sprints, small teams, two week sprints, and every two weeks you come to the decision as to whether progress has been made, progress has not been made. But if you want to continue, what do you don't want to continue, it is a very strict way of management. But within those, within the framework like that, there's a lot of empowerment to those teams as to doing the continuous improvement."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Now, as with, you know, with the experience I've had before, and what the experience that we have here as well, agile can work everywhere, also here, but you have to introduce it over time. And we have been working agile here in some areas already. And with a lot of success, we have been working agile in what we call hybrid paths in the investment bank. And they're doing a really good job in developing new business opportunities, and disrupting some of the activities, but also to continuous improvement of some of our electronic platforms. And UBS Neo."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So there was quite some experience with this, but very specifically, and more so within the investment bank than anywhere else. And what we're doing is we're drawing on that experience, and rolling it out, and first piloting it in new areas, two or three areas, specifically now in the Swiss business, and some more areas, one in the finance - in the finance function, and we have one in the risk function as well. And we'll draw on those experiences, to see how we could further develop what we call then the UBS way of working before we introduce it to all and everyone, so they could step by step."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "That's great. Thanks a lot."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Anke Reingen from RBC. Please go ahead."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Hi. Thank you very much for my question. Just two follow up questions. The first is on cost. Thank you very much for your guidance on the longer term costs on control. For 2021 did I understand you correctly, you expecting an underlying increase - the available compensation and so on by 1%. I just wonder what would be driving this."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "And then secondly, on your slides on strategy, I understand its pretty much you're giving an update with ‘21. I just wanted to confirm when you talk about committed to delivering higher returns, do you refer to industry standards or higher than you currently deliver, which I mean, will be surprising or higher than the target? Thank you very much."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Yes, in terms of your question on costs, you did indeed hear us correctly, we do expect around a 1% full year-on-year increase, excluding variable comp, one-time items, and also foreign currency translation effects. And the reason for that versus the flattish that you've seen from us over the last couple of years is that we did come into the year with slightly higher runway costs overall, because we have now postponed any layoffs for several quarters just in response. And also just to ensure that we were considerate of the pandemic."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "On the strategy side, in terms of our overall return targets, I think what we're referring to is, we do expect to deliver consistently high and sustainable returns. And that's really our area of focus, above our overall cost of capital. Clearly, right now, that's captured within our 12% to 15%. Overall return on CET1 range, and we said we intend to operate at the upper end of that. And then we'll have any further update on targets as we highlighted, as we go through the rest of our build out of our overall strategy plans."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Okay, thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Stefan Stalmann from Autonomous Research. Please go ahead."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Good morning, gentlemen. Thanks for taking my questions. I wanted to quickly follow up on Archegos with two aspects, please. You have a $774 million pre tax loss or revenue loss, sorry, and you have a $434 million net loss? Is it fair to assume that you have actually made a around $200 million variable compensation reduction in regards to Archegos to bridge this distance between the revenue hit and the net loss?"
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "And also regarding Archegos, you look at this more as a market risk event or a credit risk or counterparty credit risk failure? Or is it more of an operational issue in your point of view?"
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "And also wanted to quickly follow up on the restructuring expenses to come in the second quarter. And do I understand this correctly, that this is essentially a legacy item related to measures that you want it to take already for a couple of quarters? Or has it anything to do with the $1 billion growth savings that you're targeting for 2023? And if not, is there a restructuring or costs to achieve budget for these $1 billion additional cost savings please? Thank you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Yeah. In terms of Archegos, you are correct, that's accounted for overall as a trading loss. Well, actually your first question first, if you look at the 774 versus the 434, we're going to ask you to do a little bit of work and you can reach your own conclusions."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "You know, our tax rate, so…"
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "There is a tax rate there as well, of course. And just in terms of overall, we - it is accounted for as a trading loss. We do view this as a market risk event, not an operating risk event and not a credit risk event overall."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "In terms of your restructuring question, you can look at the $300 million as an initial start on the overall $1 billion. There's a little bit of legacy there that we've incorporate into that, but it's really been packaged. And it also reflects some of the work that we've already done to make it advance towards the $1 billion and naturally the full $1 billion will have a cost to achieve. And as we progress through the delivery of the $1 billion we’ll give you transparency on what that, those costs are."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Okay. Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Amit Goel from Barclays. Please go ahead."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Hi, thank you. Yeah, so I've got a couple of follow-ups. So one which is a clarification and in terms of the alignments of corporate center costs to the business divisions, just to understand that, is that going to be kind of a change in how you present the results with the reallocation? Or is this something that we done kind of internally, but from an external reporting basis there wouldn't be a change?"
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "And then secondly, just on the border strategy. So I guess as I understand it, you know, the commentary that the business is doing well, the IB is the right size. And you know, clearly there's some time until before year ‘21 results. So just want to try and understand the other areas that you're focused on. And how significant is the review that you're undertaking. So just to get a sense of, you know, how much change or how - you know, how much action we could anticipate at that point beyond some updated targets? Thank you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "I'll start with the second question. So the areas that we - that clearly everything we review, and you should expect us to continue to review areas. But you know, we have indicated first that we see growth opportunities in the US and in China and Asia. Plans for those are also under review and under discussion. And it's about further alignment of order activities in order to support the wealth business. So also, if it comes to what is it that we exactly do across the firm, also in investment banking, as to how can we further align some of these activities in order to support our way forward. So that's where you can also kind of expect us to review."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "And clearly also here in Switzerland, we know that the performance, commercial performance is good, but the financial performance continues to be in the pressure, because of the negative rate environment. We will have to invest on one side into in digital and digital services. The other side, it will have to reduce our cost also further. So those are a couple of areas. I mean, there will be more. But we literally – and you should expect from us to review each and every area continuously anyway, even if it is top strategic, it has to make the returns, it has to make the scale, it has to make a difference."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "As I said, you know, that the second strategic imperative is a very important one, which is that we should focus on where we have, as what I call sustainable share, which basically mean is, is the market attractive? Is the market large enough? And can we differentiate ourselves in that market to make it – can we basically really make a difference in the market. That's what we apply to every market and every capability."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yes, Amit. In terms of your first question, you will see no difference in the presentation. And from our disclosures, I mean, right now, we're only disclosing one operating expense line. And of course, those costs were already fully allocated to the business divisions."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Okay, got it. And just be clear, then on that point, the 150 per quarter. So it wouldn't be a case that in the future, or that number going down to $100 million - that 100 would then be reported within the divisions, that would still be reported as a corporate center item?"
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yeah. That's correct. In terms of the group functions, overall retain cost, that there is no operations cost per se that sits in that below negative $150 million. The operations costs related to all the business division activities are already fully allocated to the business divisions and are not retained."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Okay. So there wouldn't be any changes, for example, within internal broad metrics, et cetera to employees, staff, et cetera, for - to reflect any change in alignment of corporate center…"
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "The shift is already the 7000 or so operational headcount. They were aligned with the business divisions, but now they will report directly into the business. And so therefore, as Ralph outlined, it just gives the businesses a much better ability to look at the integrated overall solutions and capabilities they provide to their clients and to continue to optimize those, that's really what's behind the intent."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Okay, got it. So it's more a revenue opportunity as opposed to a further cost saving opportunity?"
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Well, I would say both for revenue and it is well as front to back efficiency opportunity. So we think that they're both opportunities."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Well, clearly both, Amit."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Okay, thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Patrick Lee from Santander. Please go ahead."
+  },
+  {
+    "person": "Patrick Lee",
+    "role": "questioner",
+    "position": "Santander",
+    "text": "Hi, good morning. Thanks for taking my questions. One clarification one on the prime brokerage, sorry, and one on the new KPI disclosure in Wealth Management. And firstly, related to the prime brokerage losses, I wonder if you can help me in my understanding on this. Because if I, let's say take the $774 million losses disclose, if there's some sort of a notional exposure to put that loss in perspective, you know, for example, to get a sense of loss as a percentage of exposure, or is that not the right way to look at it?"
+  },
+  {
+    "person": "Patrick Lee",
+    "role": "questioner",
+    "position": "Santander",
+    "text": "And then also, how do we think about the risk reward of this product? Because like, hypothetically, if there wasn't a market dislocation, what would have been the fee generated from this product or trade? I guess I'm just trying to get a sense of the nature of the product does seem to have not very big upside in the good days, for the near very substantial loss on the downside."
+  },
+  {
+    "person": "Patrick Lee",
+    "role": "questioner",
+    "position": "Santander",
+    "text": "Secondly, relating to Wealth Management. Thanks for the extra disclosure on invested assets, interesting to see how it splits between fee generating versus others. Is there some sort of interactions between the solution direct investment and the fee generating assets? Could the non-fee generating be seen as a parking space for clients before you up-sell other fee generating products, effectively converting it from no fee to fee generating some time to the future? Or should we think of the direct investment by nature of a different type of business? And is there any geographical bias, you know, whether I think you alluded a bit earlier, whether the US, for example, is the vast majority of this non-degenerating portion? Thanks."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Yes. Patrick, in terms of your first question, the $774 million, as we mentioned, was overall, an operating loss and it includes two components. One, it's just the overall net residual position from the default decline. And then it's the overall loss related to the de-risking process."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "In terms of your comment on KPI, you're exactly right is, if you look at the current overall client positions that we have in solutions and direct investments, that includes, for example, large overall single stock positions from wealthy entrepreneurs that would initially be booked as within the solutions and direct investments. But then subsequently, we might provide some leverage to that client, some advice, they might diversify and invest, part of those investments might include investments into mandates, or alternatives, which would then sit in fee generating assets."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So it's not to and this is really critical, it's not to at all diminish the value of solutions in direct investments. They on their own generate attractive transaction revenue, but they also resolve and they provide opportunity for us to provide the full benefit of our solutions to our clients. And you do see quite a bit of interplay between solutions and direct investments and see generating assets."
+  },
+  {
+    "person": "Patrick Lee",
+    "role": "questioner",
+    "position": "Santander",
+    "text": "But if I go back to the prime brokerage a bit, I guess, from the outside, you're just saying that we can't really get a notional amount or just to size the risk is impossible for us to ascertain from the outside?"
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "That correct. And let me also just comment on one of the - one of the points that you mentioned is, this has been a highly attractive business for us. We have not seen a loss in this business since before the crisis, as we highlight it. It is a very, very good returning business. It's also one that's extremely strategic to serving our institutions, as well as our global finance GFO clients. And so it is part of our franchise, it's also a valuable part of our franchise. It has been and it will be going forward."
+  },
+  {
+    "person": "Patrick Lee",
+    "role": "questioner",
+    "position": "Santander",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Piers Brown from HSBC. Please go ahead."
+  },
+  {
+    "person": "Piers Brown",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Yeah. Good morning, gents. Most of my questions been answered actually. But maybe just a couple of small clarifications. On the expense guide for this year, I think you said the 1% was pre any potential investment spend for the strategy refresh. I wonder if we could just quantify what sort of margin above the 1% we should be thinking about for investment this year?"
+  },
+  {
+    "person": "Piers Brown",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Secondly, on - sorry, just going back to Archegos, but you said you're reviewing relationships in prime broking, but it sounds like the overall strategy there you're sort of happy with. Are there any relationships outside of prime broking, outside of the investment bank which might be impacted by this review? And I'm thinking particularly family offices within the wealth business. You've obviously had very strong loan growth and wealth. Is there anything in terms of risk review which might be impacted by what's happening in prime this quarter? Thanks."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Yeah. Piers, on the second one, I can be very clear. Yes, we are also reviewing the global family offices that we have exposure to, just to be sure, and that, you know, the lessons learned that we have from this one, that we also apply those, and that we on a relationship by relationship basis, we get a better sense for where we are."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "On the first one, I’ll give that to Kirt."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yeah, in terms of what I highlighted just regarding possible investments and the execution of our strategy overall, the reason why I call that out is our intention, as Ralph said, is actually the sales we generate from the $1 billion will certainly cover and offset the investments we intend to make. But there could be some timing differences."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "We might see a very, very attractive opportunity as we finalize all the diligence that we're currently doing, and the different areas highlighted by Ralph. We might decide that we actually think there's an investment that's really, really attractive that we want to make now. And the saves that we generate from the billion to cover that may not materialize for a couple of quarters. So it's really just to highlight those timing differences. And again, we'll provide that transparency as we disclose that going forward."
+  },
+  {
+    "person": "Piers Brown",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "That's very clear. Thanks very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "There no further questions. Ladies and gentlemen, the webcast and Q&A session for analysts and investors is over. You may disconnect your lines. We will shortly start the media Q&A session."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

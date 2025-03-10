@@ -1,0 +1,632 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] We will take our first question from Raul Sinha of JPMorgan."
+  },
+  {
+    "person": "Raul Sinha",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "The first one is on NII and kind of your NIM assumptions. Thank you very much for the long list of assumptions that you've made. They do look very conservative. I guess the one question I have related to your assumptions is around the deposit pass-through. I think you've talked about 35% so far on interest bearing balances. Can I ask what you might have assumed on that going forward?"
+  },
+  {
+    "person": "Raul Sinha",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And I guess related to that, perhaps Alison, if I can ask you, at the Treasury Select Committee meeting, you talked about how 80% of your depositors had less than £5000 in their accounts? Can I ask about the customer behavior for the remaining 20%? Are you seeing elevated levels of switching amongst people with higher deposits? And do you expect that to be a driver?"
+  },
+  {
+    "person": "Raul Sinha",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Then related to that, if I can ask on the NII medium term. Just to try and understand given your rate assumptions, you obviously expect rate cuts from 2024? Should we assume that NII follows the direction of interest rates medium term? Or do you think that some of the positive drivers like the structure hedge, the growth in your loan book and unsecured could offset and you end up with a more flat outcome more medium term on NII? Thanks."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Great. Thank you very much. So I'll let Katie pick up some of those. Let me pick up the points around customer deposits and what we're seeing. Look, I think we've got strong capital and funding levels, what we've focused on, particularly on consumers, is helping build the savings habits so that 80% of customers with less than £5000 in their deposit accounts, we've really targeted something called our digital regular saver on that. And building sort of saving habits that the balance between our NIBs and NIBs remained broadly stable, which is what we're seeing from a behavioral perspective. And then, in terms of competitive products, we've offered some fixed term products out to our consumers around the 3% to 4%. And we've seen good uptake on that which remain competitive. So broadly, we've seen customers engage a little bit more in their financial capability and management of their deposits. But NIBs and NIBs broadly stable, we've got competitive products, and were targeting regular savings. We're not seeing any shift in customer relationships, and the liquidity value of outflows have been very low. Katie, do you want to pick up the NIM assumption on pass-through?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, sure. Absolutely. So as we look at the pass-through MPC, obviously, we're at 35%. Just now we give you the structural hedge sensitivity in terms of that, that works, as you know, on a static balance sheet, but that -- it worked on a 50% pass-through. I think that's probably a good kind of proxy to go through. As we go into 2024 and that kind of drivers that you're thinking of there. I think we would expect similar kind of drivers. You can see in our economics, that the rate does start to fall off at the end of Q1. So hit kind of from Q2."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I would say, it's clearly some uncertainty of how rates do evolve in that time, but we do see benefits coming through on this structural hedge. In our assumptions, I talked about -- in my speech about 3.3, 3% is the average. If you look at your five-year swap rate, today, it's a little bit higher. that will give you a little bit of a benefit as you move through from year-to-date. And then obviously, mortgage headwinds and what happens to them as we move from '23 and into 2024 will be a bit of a movement as well. Hope that helps a little bit, Raul."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Alvaro Serrano of Morgan Stanley."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Follow up on margins, and another one on cost, please, on margin should help us assess the headwinds, I suppose you can share with us the proportion of term deposits within the balances. And on the mortgage side, I realized there's been some adjustments to -- in the product margin of mortgages in the quarter, but to assess the headwinds going forward. Could you share with us the application margins in Q4 and early trends in January maybe?"
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And the second question on costs, it's more about a sense of how much visibility you think you have now on costs. Obviously, a year ago, you were looking for a reduction of 3%. Now it's more like five, do you feel you've got more certainty now? Is the outlook has narrowed in terms of going forward? What you could expect. And when I think about Ulster cost, when should we expect that to effectively shut down? Is that included in your less than 50% cost income in 2025? Thank you."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So let me start with that. Fixed terms, single digits, mid-single digits and they don't move very quickly. Cost visibility, I think we've given you some really clear visibility on costs and some guidance there. We're starting to see inflation come down. And we actively manage our costs, as you can imagine. So I think, yes, on that. On Ulster costs, yes, those are included. So I think that's covers that one. Mortgages. Katie, do you want to pick that one?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, sure. Absolutely. I'll take that. So in terms of the mortgage pieces, as you know, Alvaro, we try not to get drawn to too deeply on the ins and outs on particular quarters. And I guess as I look at it, the Group, that Group declined from 150, sorry, 141, in Q3 down to 126. But if we think of how we're kind of managing this book, and how we think about it, what we seek to do is to kind of manage it with an application margin, it's in an arrange around at basis 80 bps. It will move a little bit up and down. But that's kind of how we think of the managing of it."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I would, of course, as you'd expect, encourage you to focus on the retail NIM, which at 274 is very strong, up 47 basis points in the quarter as well, that should help you a little bit on your math."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Chris Cant of Autonomous."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "If I could just come back on the margin debate really? On your mortgage comment just then is the 126. Is that the whole book or is that just the fixed book, please. And in terms of the manifestation of that headwind? When I think about the 320, it doesn't actually feel like that's going to be as pronounced as I might have guessed, given that two-thirds of your book is in five years. Is there anything in particular you call out on the progression of the mortgage churn through '23? Is there a particularly fat spread piece of the back book churning, which means it's a more acute headwind, because given the two-thirds in five years, I guess that's going to play out over a slightly longer period than we might have anticipated?"
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "And then, if I could just come back on a previous question really around your deposit pass-through assumptions. Again, thinking about the various puts and takes it feels like you must be making a fairly conservative assumption in respect of deposit pass-through this year. Could I again, just ask around you're expected migration upwards in that deposit beta assumption, the 35% across the interest-bearing book. How high are you assuming that goes in the coming quarters. Thank you."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Well, let me do deposit pass-through. So as we said, at the moment, our average pass-through is around 35%, we're actively managing very carefully both sides of our balance sheet. The guidance we gave you previously was, as interest rates go higher, we would expect to pass a higher proportion through and the assumption we talked about is you should broadly assume, sort of 50%, we're currently sitting at 35%, on pass-through, and we'll continue to actively manage that based on the competition, our need for funding and liquidity, and you can see our funding and liquidity and capital position. So I think that probably gives you a sense of how we're managing that."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On mortgages, obviously, we have a predominantly fixed book, as you know, we have a small SVR book and tracker book, our mix is 66% on five year, and we know exactly which customers are rolling off during the course of this year. And we contact them with six months before they roll off their fix. So we'll actively manage that book. And we'll continue to target in the same way we have done, and I think you've seen we've managed pretty turbulent markets very well, the balance between volume and value."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Katie, do you want to pick up anything else on mortgages?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Just on the mortgage, just to answer your quite specific point. So yes, there is the whole book, in terms of what we're talking about 4% AUM tracker, 4% SVR, 92% fixed, as Allison says. In terms of the kind of color, you're absolutely right, the fact that the book is now 60%, five year that that kind of dampen some of the effect a little bit, but I would probably encourage you, Chris, to cast your mind back to 2021. And what margins we were writing, they're obviously rolling off a little bit. It's not particularly significant as far as a drag on that. But there's nothing exceptional to call out. But there will be a little bit of an impact from that that piece."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "Thank you. So just to confirm, we should be thinking that within the guidance, it's something like a 50% pass-through assumed. And then, with regards to the mortgage book, there's a little bit of sloppiness on I guess, the two-year piece that you would have been writing in 2021. But effectively, the big headwind, I mean, you're essentially guiding for NIM down versus 4Q levels. The big headwind here is really that progression on the beta implicitly, I think."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So what I would say on the beta is, we're at 35%, we always assumed it would maybe get to 50. And so I think that's an assumption will actively manage it based on competitive dynamics. So you're right. What I would say it's now less about pass-through and more about customer behavior. And we're keeping a close eye on that, and I touched on that earlier."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Aman Rakkar of Barclays."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Could I ask the question around the deposit commentary? Thanks very much for kind of elaborating on that. I just wanted to kind of work out how you guys have factored in the potential deposit outflow dynamic, or what kind of risks you see going forward from deposit outflows. I guess the observation is that you've probably been the standout beneficiary of deposit inflows since 2019, and the various support schemes that are announced. And it's allowed you to kind of outperform your own rate sensitivity, kept deposit betas very low. But looking forward, clearly the outlooks evolving. How do you think about the risk of outflows, your particular deposit mix and profile? And could you help us understand the potential earnings impact that you might expect, in particular, what you may have actually assumed as part of that 320 basis points NIM guide?"
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "The second question was around the mix of net interest income and fees. So, I think your guidance is pointing to a shift towards a bit more fee income than what consensus has. But I think taking your guidance at face value, you're still set to generate around 77% of revenues from net interest income. I think that compares to kind of mid 60s in 2019. I'm just interested in your assessment, probably one for Alison around whether that mix might evolve going forward. What do you see as your kind of steady state fee income contribution? And the thing that I guess I'm interested in is, whether you think you can achieve that kind of in-house by virtue of some of the investment that you've announced today, or actually inorganic -- ongoing inorganic acquisitions, potentially part of that path. Thank you very much."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Okay. Let me talk about deposits. So, the starting point deposits are still up around 80 billion even without flows this year. And, as you can see, we have offer competitive rates across our balances, we will look at deposits very much as through a number of lenses. Firstly, we have a strong funding and liquidity position, which is underpinned by our leading customer deposit franchises. And so that up 80 billion gives us a competitive advantage. That advantage has allowed us in recent quarters, as rates have risen to be very disciplined, and manage our deposits for long-term value. And that's a combination of relationship margin and liquidity value."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We have a very disciplined approach in terms of how we're looking at it, we'll defend the deposits we need to, and we won't chase volumes at the expense of our back book or detriment of existing relationships. We've lost no customer relationships, and the liquidity value of outflows that we've seen, have been relatively modest reflecting the nature of customers and balances. So what I would say is, it's something that we manage very well. It aligns with our strategy to help customers save, and we've got competitive products that we have out there. So I think that's really how we're thinking about it. And when you look at the deposit outflows the way I would think about it is, we're managing volume and value and being very disciplined about it. The strength of our funding, and liquidity is a good point. And we're a net to gainer of new customer relationships across our franchises as the result of our strategy there."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So I think about it, we're managing them for value, and we're being competitive, and we're able to retain them. Clearly customer behavior is changing, there is an excess of deposits from pre-COVID level. But I think we're managing that sensibly. Katie, you want to pick up the --"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Revenue guidance. So in terms of -- as we look to the impact of deposits Alison's absolutely right, I use that sensitivity that will give you some guidance. We've got the 4% base rates assumption and we're not modeling any further increases in that that obviously has an impact on the NIM. And then the other place that I would suggest that you have a think about, the guidance I've given you on the head. So if we assume no further changes to volume and mix of deposits, at the end of 2022, we would expect that product hedged to reduce gently over the year by about 5 billion bear in mind, it's averaged. So it comes through relatively slowly. But given the reduction balances in the second half of the year, that will have a little bit of an impact. It's obviously offset by the fact of reinvestment and yield that we're getting on that which is sort of 3.7 as we kind of sit here today. There's a few kind of moving parts, but those are the bits I would -- we'd be thinking of if I were you."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "And then on the mix between NII and fees, kind of how do you think about the structural balance between those two? And do you think you can achieve it by virtue of your investment spending?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So I think if we look at the mix of, I'm not going to get too drawn on that the way that I think of them revenue, particularly of this sort of 14.8 billion of guidance. Three things you want to think about, NIM, we have spoken about already. Volume, we've seen some good volume growth this year in terms of the 6.7 growth that we had. And we do expect to continue to see growth, certainly in the mortgage market. And commercial will obviously be more dependent on the macro environment."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "In terms of non-NII, we're up 19% this year, very pleased with the NatWest markets performance. We didn't expect that to grow at the same kind of that paces we go into this next year. And as it's linked and kind of spending and confidence get comfortable with its performance, probably not going to get drawn on a relative mix in the medium and long-term. I think we are guiding you to that 14.8 for the year, and the sustainable growth 14% to 16%."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Benjamin Toms of RBC."
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Firstly, on your RoTE guidance of 14%, 16%, which is considered sustainable in the medium term. And by saying this target sustainable presumably you feel you can hit the target under a range of base rate outcomes. What's the lowest level that you think rates can go to in the bank still hit a 14% to 16% range? Or I guess, put another way, what rate assumption does the bottom-end of this guidance assume please? And then, secondly, sorry if I miss the answer to this question, but in relation to old costs, for your full year '23 guidance assumes 300 million indirect costs, what will that that number go to overtime. And how long would it take to get there? Thank you."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So look, I think we've got -- we're very comfortable with the guidance we've given you on the 14% to 16% as a sustainable number. There are a number of elements in that as you know, you've got our economic assumptions. We're assuming a 4% interest rate through the course of this year, and then that will gradually reduce don't forget, the number includes a 1.5% [indiscernible] drag in '23, which will reduce. So there are a number of factors in there. But what I would say is we're very comfortable with the guidance, as you go forward, slow drag from Ulster, there will be a reduction in interest rates and a number of different factors in there, but I think we're pretty comfortable. Apologies if we didn't cover Ulster."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Let me just close off the Ulster question. So you're absolutely right, direct costs expect to fall to 300 million end of this year. We've always said that we'd be largely complete in sort of 2024. So you'd expect another material reduction on that I'm not going to be drawn on the specific number but making good progress. really delighted with what the team are delivering."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Omar Keenan of Credit Suisse."
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "Thank you for taking the time to answer the questions. I'm afraid I've got another question on deposit migration. And I didn't really want to throw too many numbers around because it's not fair to the other conference call. But I just wanted to double check my thinking around some of the assumptions. So the idea that the cumulative pass-through on interest bearing deposits at NatWest. So it's currently sitting at 35%. And the assumption that will end up at 50% with Bank of England rates fairly unchanged from where they are today at 4%."
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "I've just done a bit of back of the envelope math, but it seems to imply we need to get to that number. And given the 400 bps of rate hikes roughly, we've seen so far, that you're assuming an interest increase in deposit costs, all else equal of about 60 basis points. And if I look at the difference between fixed term deposit costs and access accounts, I'll just come up with a number that looks like you're assuming that's about a quarter of the interest-bearing deposits migrate into time deposits."
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "Can I just double check ballpark with my thinking is accurate on that, that the deposit migration assumption within the interest-bearing account looks to be around 25% moving into time deposits, and I've just got a second question after that."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. I'm not going to comment on your assumptions. That's not an appropriate one to make. Let me take a step back for you. So we will manage our past three years, we have consistently said, taking into account our liquidity and funding and our competitive position that we need to own deposits. Our liquidity and funding position is very strong. At the moment, we're at around 35% pass-through. We've not said we will end up at 50% but we've said that's an appropriate level to think about as an incremental level of pass-through. And what we are seeing is broadly stable between NIBs and NIBs, we are seeing customers take advantage of some of the fixed term deposits that we're offering, which are competitive. I've given you some guidance around what the deposit levels of our customers in terms of what they have in their accounts. And we're very comfortable that we're able to compete effectively. And we're a net gainer in terms of new customer accounts coming into the business."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So the uncertainty in all of this is customer behavior. And we continue to track and monitor that very closely, very comfortable, we can compete with the market, and we're very comfortable with our position. And of course, our liquidity and funding remains very strong. So the way I would think about it, in terms of how we're thinking about our deposits, we'll manage volume and value, and we'll keep it broadly stable over the period. That's what I would think about for your assumptions and leave it there for you to model."
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "Okay. Fair enough. I think we could play around with our own numbers. But so that's very helpful. Thank you very much. So just a question, sorry, another one on costs. I don't know you don't want to be specific around how quickly stranded Ulster costs may come down when we look forward into 2024 and 25. But perhaps could you talk around some of your maybe inflation assumptions beyond 2023? Because I guess we can look at your inflation forecasts. But do you think there's any lagged inflation effects from high inflation '23 that we need to consider in '24 pr '25? Or can you help us a little bit with the absolute moving parts looking beyond '23?"
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Hopefully what we've given you and I think Katie covered quite a lot in the presentation of the mix of our costs. So you can see really clearly what's happening. I think, with regard to Ulster, that's all included in our numbers as we go forward. And Ulster indirects, they're part of BAU. And there will be some reductions, but there are lots of puts and takes in costs. And so overall, we're very comfortable with the guidance. I think in terms of our economic scenarios. Those are in the presentation on what we're assuming on inflation. But I think what we've given you I think is’ clear guidance on where we expect costs are today, our cost income ratio, and that we're actively manage our costs as we go forward."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Jonathan Pierce of Numis."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "I got two questions. I'm sorry, back on this short and medium-term RoTE guidance of 14% to 16%. I'm still struggling a bit with it. I mean, the NIM has obviously got this circa 7 basis points a quarter tailwind coming from the hedge for the foreseeable future. I mean, even if the hedge is reduced in size, the overnight rate is now ahead of the five-year swap rate anyway. So I'm not sure that's particularly relevant, except in the near term mortgage headwinds are bigger than they might be moving forward because of the two year fixes from two years ago coming off. You got the deposit migration."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "But again, those latter dynamics should recede, I would think later this year and into next year. But you've still got that powerful hedge tailwind. But you're telling us into 2024 that RoTE is still going to be 14% to 16%. You're also telling us, of course, that the income this year at 14.8 billion was a very specific number six weeks into the year. My question getting to the point, it feels to me that you've almost decided that a 14% to 16% RoTE is the maximum acceptable return in the medium-term, and you'll do whatever you need to do on pricing, particularly deposits to prevent it going above that. That's not necessarily a bad thing, because of course, it's going to make the RoTE more defendable when rates start coming back down again. But is there anything in that? That would be my first question. And then I got a question on some accounting movements in the TNAV, if that's, okay?"
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Okay, I'll let Katie take. T now when you get to it. So let me let me try and get you comfortable on RoTE. And the answer very simply is, what we want to give you is a very clear view on the sustainable return on tangible equity of this business. There are a number of economic scenarios that we have given you and the assumptions that we have there. We're actively managing the business to deliver sustainable RoTE uncertainty for you. I think what I would say is, on your point that the hedge is a positive tailwinds. There are some economic uncertainties which we're taking into account. We're very well placed with strong capital, good risk, discipline and capacity to grow. And so what you can expect to see is us continuing to deliver a strong position."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I'm not actively managing the business only to deliver a 14% to 16%, which was, I guess, the opening part of your comment. I think that is a good performance of our business in pretty turbulent markets. And obviously, there are headwinds and tailwinds but we're very comfortable with the guidance that we've given to you."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "What I would say is, when we think about some of the ups and downs, EBITDA is no longer going to be a material drag once we get through the end of this year. Interest rates, we would expect to decline as we go forward. We've got customer behavior and competition and the [indiscernible] procyclicality and regulation coming in as well. So I think you should feel comfortable that we're managing the business well for growth at 14% to 16% is sustainable, without huge peaks and troughs within that. Why don't you ask your TNAV question to Katie?"
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "That's really useful. But sorry, just a quick follow up on that, this point on sustainability, I think it's really important. And to the question before me, sustainable RoTE, the word sustainable, I think is used about 30 times in the slides today. That the message coming out is regardless of the income guidance, and all the rest of it this year, that looks perhaps a little softer than consensus. Your very clear message is you're going to do 14% to 16% and that is going to be sustainable for the next several years, not just this year and next year."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. That's right. We're giving you a view on what RoTE will be. And we don't give out targets without a great deal of thought and analysis. They're based on sort of various economic scenarios, and we've tested them against upside and downside risk scenarios. So as a result, based on the economics given today, our current views of market competition, customer behavior, we're confident on the RoTE range we've given you."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "Okay, brilliant. That's helpful. Second question on this TNAV. Is my understanding on the pensions correct. The 500 million is going to be kept against capital, but there won't be a TNAV hit this year from that pension fund payments. And then, can I also ask on a cash flow hedge reserve that's a negative 30p at the moment within the TNAV. One or two other banks are suggesting a lot of that will unwind this year, rather than it being spread over 3, 4, 5 years. How do you see that progressing over this year? I'm just thinking again about the denominator and the RoTE."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "You are absolutely correct. Jonathan is as expected to be no impact on TNAV from that pension deduct is purely something that's hitting our capital line. In terms of the cash flow, hedge we did see a fair amount of unwinding that in certainly, October, early November. Last year, probably, over time that line, it kind of ebbs and flows, depending what's going on within the different bits of hedging that we've externalized from the group."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So we don't kind of think it will unwind, particularly this year, it's kind of got a life of about five years, is how we think about it. But I wouldn't expect to see that all come back. We've had some benefit already. And we'll see how it kind of goes through."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Rob Nobel of Deutsche Bank."
+  },
+  {
+    "person": "Rob Nobel",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Two please. The behavioral assumption change that you made on your mortgages through the effective interest rate. So how long does your average customer stay on SVR within your current assumptions? How much was that shifted? And is there a difference between what you have in your assumptions now in the stock? And then, what you're lending on? Is there a flow and stock difference between your assumptions on EIR in the mortgage book? And then, secondly, just on the on the deposits again, so how much of the structural hedge is based against commercial deposits versus retail deposits? And then, I think I heard you say that you think deposits will start to come down at the end of 2023? Is that more driven commercially or retail in your view? Thanks."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Okay. I don't think we said deposits would come down at the end of 2023. We said there's sort of customer behavior. What you're seeing actually is on the commercial side, because I haven't touched on that already. Generally, there's a lot of liquidity still sitting in commercial balances. And just to give you a sense with the bounce back loans, 25% of those are still sitting in cash on people's balance sheets. So there is still a lot of liquidity sitting there."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On your SVR question. Most customers, I mean, SVR is a relatively small part of our buckets, it's around less than 4%. And about and most customers are on short-term SVR, which is about 3%. On the behavioral life, we haven't adjusted for a couple of years and update moves to more stable position depends on the customer's time on SVR. But it's a very small part of our book and it's largely short-term. Katie do want to pick up the structural hedge points."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, absolutely. So of the structural hedge 230 billion, 184 billion of that is sitting on deposits. What you know of our hedges that it's mainly based on our non-interest-bearing assets. So those kind of transactional accounts that we have that forms the large part of the hedge and then a smaller portion is then the instant access portion of the balances that we hedge, but that is much smaller. What we can see when we look at our customers, they generally do prefer to stay in transaction. And what's been really interesting for Alison and I is that NIBs and NIBs number hasn't moved really since the end of 2021. So proportionally, it's still there. So therefore, you can see the kind of robustness of the hedge position within there. And I gave you some guidance earlier as to what we thought it could maybe do, if we did the kind of 12-month loop back from here."
+  },
+  {
+    "person": "Rob Nobel",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Thanks. So just to follow up on the SVR point, so the spreads that you quote on in terms of application rates and backward margins, she said on the back it includes SVR, so what proportion of the spread on new lending will be attributed to people staying on SVR? Is it maybe 10% of the kind of profitability of the spread of the mortgage that you're expecting?"
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "If I just give you some, it's tiny, it's 4% of our book, in terms of that piece and that kind of back group is 126 basis points for the entirety of the of the book. So I'll probably let you do your maths yourself. But in terms of that, it's not a significant feature at all."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Jason Napier of UBS."
+  },
+  {
+    "person": "Jason Napier",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "I'm afraid I'm going to come back to NIM. And I think Jonathan's right, the response on sustainable RoTE is super important. But if you want to average 3.2% NIM for the year, after being up 25 basis points in the last quarter, and with rates going up in Q1. It's got to start falling sequentially during the period. So I wondered whether there was anything at all you could say about the rate at which that happens, or some kind of sense as to where the exit margin is for this year. Because again, there's some danger in the market that people don't believe the NIM guidance should you've given today."
+  },
+  {
+    "person": "Jason Napier",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "And then, secondly, whether there's anything that you might say about the size of the balance sheet into next year, it's one of the few missing pieces when it comes to the 2023 guide, and how we should be thinking about average interest earning assets, including, I guess, yielding liquid asset buffers and the like. Thank you."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you. Katie, do you want to get that up?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I'll kick off and then jump in, Alison. So look at Jason, we've modelled at the current base rate of 4%. And throughout 2023, we do expect it to be around that 320 basis points. I do think that we've probably hit the end of those kind of these huge increases that we've seen in NIM coming through that we all have got very comfortable with over this last year. And actually, we'll start to see being much more muted as we move forward from here. I'm not going to give you an exit rate sitting in February in terms of what the NIM will do. There's a number of different puts and takes within there, whether it's the structural hedge reinvestment, the negative roll off on the mortgage refinancing, what happens on deposits, which we've spoken a lot about this morning."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And in terms of that, so I'll probably leave you to kind of work it through, but we're comfortable that 320 is in a good position. If we look then in terms of the book, I guess most of what our thoughts are loan growth and what we're assuming, as we move forward, we delivered really good loan growth this year 6.7%. Overall, we do expect to grow at or above market and our chosen sectors and products and volume of the year will of course be dependent on business and consumer confidence. But for our modeling and our guidance, we're not dependent on significant volume growth from here."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Andrew Coombs of Citi."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "If I could just come back to the remark about 80% of your deposit customers having less than £5000. That is my first question, both are very simple one. How many retail customers do you have?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "You're throwing us by the simplicity, Andrew."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "You have thrown us by the simplicity. So 80% of our deposit accounts, which is in retail have less than £5000. In terms of the numbers of customers we have in retail, we have 70 million customers, not all of them will have deposit accounts with us they will have different products across the piece. But when we look at our deposit accounts, from our customers 80% have less than £5000 which is why, we think about our strategy around helping people save and building a savings habit which is more about a long-term strategy about helping people build financial resilience."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Okay. So my second question would be, you have 70 million customers, 80% of those are 13.6 million have less than £5000 of savings. If I look on your savings website, it says your digital regular savings product to join over 840,000 NatWest customers who save every month without regular savings account. So all of those customers is that a case of only what 6% actually are in the digital regular saver product."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Andrew, I'm probably not going to give you that comment. A lot of our customers, they have more than one savings account. So they may have an instant access, they may have a digital regular saver, what we've seen is our fixed deposit accounts, when we launched them in January, we're very popular, and we saw that being competitive to our customers. So it will vary. One of the things that we talk about a lot is the level of savings that exist in the U.K., one in four people in the U.K., do you have less than £100 savings in their account, helping customers build financial resilience is a positive strategy for us."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Things like our round up tool which sounds very simple. Over a million people are using that on a regular basis, which helps them build savings. I'm very comfortable, we have a good suite of competitive products that allows us to compete that meets the needs of our customers and targets our long-term strategy of helping people save."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Okay. My final question on this is, 80% of your customers have less than £5000 of savings, can you provide an idea of what proportion of the total deposit balance those 8% of customers account for? So I assume it's a much more sort of proportion?"
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. I'm probably not going to go into that level of detail with you. I think what you can see is we have a very strong funding and capital position, a competitive position in terms of deposits, and a good acquisition and track record of bringing customers into the bank. So you can see the strength of our deposit franchise, you can see the strength of our funding and capital. And we're very comfortable, we are able to be competitive. And you can see that through how we're managing our deposits for volume and value."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Fahed Kunwar for Redburn."
+  },
+  {
+    "person": "Fahed Kunwar",
+    "role": "questioner",
+    "position": "Redburn",
+    "text": "Just a couple of quite direct ones, I guess. The first one is, the go-forward cost base in 2023. Based on the guidance, it seems to imply around a kind of 6%, 7%. Year-on-year growth versus 2022. Obviously, that's still generating tons of operating leverage in '23 given the revenue growth. But going into '24, it looks like consensus 3% revenue growth, 3% cost growth, do you think operating leverage remains positive in 2024? That would be my first question."
+  },
+  {
+    "person": "Fahed Kunwar",
+    "role": "questioner",
+    "position": "Redburn",
+    "text": "My second question would be on the Basel 3 guidance, the exit rate of RWA's in 2004. Are we looking at about a 200 billion number based on that guidance? And if I can sneak in a really quick question on the third one, your peers at Barclays talked about corporate deposit time mix moving to time, whereas household isn't? Obviously, you've got a very big corporate deposit base, especially in current accounts. Are you seeing differences in behavior between your SME customers and your household customers? And do you think you will see differences in behavior in 2023? Sorry, to sneak in that extra question. Thank you."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Okay. We're very happy to answer all three. And so on the cost base, we don't talk about the go-forward cost base. I think we've given you really clear guidance on costs. And we've also talked about what our cost income ratios are going to be. What I would say is, we have a very good track record of running costs, we will continue to focus on operating leverage and discipline across the business and you will see that as we go forward. So I think that's probably all I would say on that."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On deposits and corporate deposits. Look, I think what we're seeing is, from a business perspective, customers are largely wanting to stay transactional at this the smaller end, I talked a little bit about the example of bounce back loans still sitting in cash in people's transactional accounts, there's definitely a different behavior between sort of consumers and business and how they manage their deposits. And so we would see different behaviors. For at the moment, what we're seeing small and medium sized businesses are really focused on managing their operating costs. They're looking to stay liquid. They have the benefit of term deposits that they can make use of the larger end of corporates. We can see people being sensitive to where they put their deposits. And we're competing effectively on that. And on the consumer side, it really does vary from a consumer perspective. So different behaviors across retail and business, but we actively manage both. RWA's Katie?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Sure, absolutely. Thanks, Fahed. So, a couple of things to think about on RWA's, one, we still have 6 billion of RWA's bolster, we'll see them substantially roll off this year. What I said in terms of their guidance is, if you think of the impact of both process capacity, which we've yet to see come through, and the impact of Basel 3.1, you should think of that as 5% to 10% uplift from our [indiscernible]. So we're at 176. So 5% to 10% on that would be a bit shy of the number you're suggesting."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I would be mindful, obviously, at the end of 2024. The Basel requirements currently, as drafted need to be in place on 1 January, so you would expect to be holding a little bit more there rather than the occurring smoothly to the end of 2025. But there's those few different things that are going on. But that 5% to 10% guidance, I think is very helpful. Just don't forget about Ulster."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Martin Leitgeb of Goldman Sachs."
+  },
+  {
+    "person": "Martin Leitgeb",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "And also, thank you for all the disclosure provided in the slide deck, which is really helpful. Just to follow up on probably the last one, I guess, a follow up on the kind of headwind assumption within an eye in terms of consumer solar deposit side, consumer behavior and what you have assumed. How quickly do you assume that this change in consumer behavior sort of shifted out of deposits in form of attrition or into other deposit products in form of migration to savings? So time deposits, how quickly would you expect that shift to happen? Would you expect everything to be pretty much front loaded into '23?"
+  },
+  {
+    "person": "Martin Leitgeb",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "I mean, similar to other questions earlier today, I'm just trying to square up obviously, the NIM guidance, particularly considering the back end loaded nature of rate hikes in 4Q and obviously further rate hikes in 1Q, which would suggest quite a material headwind, particularly this year. And then, secondly, on cost, just briefly, obviously, historically, very strong focus on reducing the absolute cost base of NatWest Group in terms of efficiency measures, should we assume this efficiency measures on now mostly done? So the cost base to grow broadly in line with inflation? Or do you still see scope for the cost base to lag behind inflation in terms of cost grow from here? Thank you."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Well, look on. On consumer deposits, it's very early days. What we're seeing is, very strong funding and liquidity from our perspective. We're seeing real stability in NIBs and NIBs. We are seeing customers engage more actively in their deposits, and we've got competitive rates. But I think it's very early to say, obviously, there is, if you take a step back, there are excess deposits from post-COVID. People will increasingly spend those deposits. We'll see more seasonality. Don't forget seasonality and deposit flows. January is a big, big tax month. So you'll definitely see a bit of activity in January, and then we expect it to return some more stable levels."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "But I think from our perspective, what I would say is, we have a very disciplined approach, we have very competitive products. We've not lost any relationships, we're managing our liquidity, and it’s very early days in terms of customer behavior."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On costs, we have a good track record, you would expect us to continue to manage costs, actively are continuing investment in customer journeys, digitization, which part of our strategy will continue, obviously, we factored in the impact of inflation. And Katie has given you some really good visibility on what's happening on our costs. You've got our guidance going forward of what we expect to see on costs. And you can expect both Katie and I to continue to manage costs very actively going forward."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Absolutely. Absolutely. And Martin in terms of your NIM guidance. I'm not entirely sure what your question was. I think I've probably said everything I've able to see about NIM. So if there's something I'm missing, please do jump in."
+  },
+  {
+    "person": "Martin Leitgeb",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "No, no, no. There wasn't any more question on NIM specifically, just trying to understand whether the headwind of the deposit attrition is pretty much front loaded and then that base."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I think Alison has dealt with that. Thanks very much. Thanks, Martin. Have a good day."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our last question comes from Joseph Dickerson of Jefferies."
+  },
+  {
+    "person": "Joseph Dickerson",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Just a quick one from me. I mean, the NIM has been beaten to death. Just on Slide 22. Can you just clarify what you mean by we've already written is that assuming no further majorities in the hedge are effectively reinvested. So we get the pickup in '23, from the existing book by '24 and '25, you're effectively not reinvesting because it's quite significant in the outer years is, that's where a lot of the --call it two thirds of the rate sensitivity in the out years comes."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So thanks. I'm glad we did met. We haven't left without talking about this slide, the IR team worked hard on it. So as I think we already said, they are already written is the hedges we already have in place that are going to just roll through. So what I'm trying to tell you here is, 2 billion, 1.6, 1.4 of stuff that's already kind of in the tank. What you know, is that we have maturing each year, about £ 40 billion a year, it comes across the year. So you have to think about averaging of returns there."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "In our own models, we've modeled 3.3%. In terms of that, I would note that today, if I was putting on today, it's closer to kind of 3.7. But I would expect in addition to this already written, there's the reinvestment of that 40 billion per annum. I talked about as well, if I looked as of today, if balances didn't change, it's very static. We would expect that the size of the hedge would reduce over the year by about 5 billion. But there certainly is a significant reinvestment to come as we go on top of this, this Group has already written."
+  },
+  {
+    "person": "Joseph Dickerson",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "And that reinvestment is not effectively in the forward revenue guidance?"
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "It's naturally in the RoTE guidance, or it's not in, is in that 2 million, 1.6, 1.4. But it's very certainly in around 14.8 for the year and the sustainable sort of 14% to 16% in there. So I've clearly made some assumptions on how that reinvestment in the rates on that. But it is in addition to the green boxes that are on this slide."
+  },
+  {
+    "person": "Joseph Dickerson",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Okay. All right, perfect. That's what I wanted to get in."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. I'd like to hand it back to Alison for any closing comments."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Great. Thank you. Well, thank you, everyone, for your time and your questions. As always, I guess the message, just to leave you with. I think from our perspective, we're very well positioned for the current environment. We have a well-diversified, largely secured balance sheet, which means we're positioned well in terms of the macroeconomic for any downside risk. And we're also positioned well, for the future. We have attractive growth opportunities, very strong franchises with capacity to grow. We will maintain our proven experience on expense and investment discipline as we go forward. We're well diversified. We're derisk. We have a high-quality loan book. We will effectively manage our capital and deploy our capital returns to shareholders. So I think good and sustainable returns and attractive capital distributions as we go forward. Thank you very much, everyone."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thanks for your time."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "That concludes today's presentation. Thank you for your participation. You may now disconnect."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

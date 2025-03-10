@@ -1,0 +1,602 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Ladies and gentlemen, the Q&A session starts now. [Operator Instructions] The first question comes from Alvaro Serrano from Morgan Stanley."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Good morning. Thank you very much for the very comprehensive view of the current situation. I have a few follow-ups, hopefully very short. Can you give us the breakdown of the EUR 1.6 billion provision overlay? I can’t reconcile with the divisions. And the two follow-ups that is, this – if I take the EUR 3.9 billion total provisions you’ve taken in the quarter, is it – should we annualize that? I understand – I’ve heard you, Jose Antonio say that it’s very uncertain and you’re taking IMF, but – but at what circumstances should we analyze it? Should we not analyze it? Could it be worse, maybe some color there?"
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And the last point will – related is one of your competitors or peers, yes in their results were saying that their provisions were consistent with saying that 50% of the payment holidays would ultimately result and being default – and been a default. Can you give us a color, I know that provisions don’t strictly work like that, but can you give us a color of what do you think the pay – the payment holidays today? Ultimately, how much that could result in defaults based on your modeling what do you think about the quality of those payment holidays? Thank you."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "Okay. So a couple of different questions, Alvaro to ask well at this point – at this juncture. The breakdown of the overlay, we don’t have a specific breakdown, we went by segments using a global scenario that is not exactly, but it’s close to IMF scenario and we don’t have any specific additional data specifically breakdown that I can provide to you on a country-by-country basis as you – as I understood you were asking."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "We made EUR 3.9 billion provisions in the country in the quarter, sorry, should this number is 10 digit number be annualized in these times, well I will say you know I was speaking – my thinking of this and don’t take it – so written in stone, we are matching the scenarios. We tend to look above what and to try to assess what has happened in different countries in the scenarios like this. We have the real estate crisis in Spain, we have the recession in Brazil and the other side."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "You look – that you look backwards in the real estate crisis in Spain, the Group as a whole we were running into 141 – 1.4%, 1.5% cost or risk at this time, you look book backward in Brazil when the recession hit the country and that’s GDP fell by 10%, the cost of risk went from the current – a little bit lower than 400 to 500. So those are the kind of figures that we’ll have in our mind."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "And well, payment holidays and not – you mentioned how much of this is going – it’s going to be default? Well you need to look at the – at the book. So 40% of our total book as a Group are mortgages, yeah. So we do not expect a significant default in the payment holidays related with mortgages."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "The payment holidays, the majority of the payment holidays related with mortgage have a financial advantage to the customer and make sense from the financial point of view of the customer to take these payment holidays. And we think that many of them are taking, because some of them, because they are facing a difficult situation and some others, because is an advantage."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "Having said that, the main factors behind potential defaults here and when I mentioned before, GDP, unemployment, health crisis, the health crisis, how did they develop, not in 2020 is more 2021 and 2022 is the most important factor in relation with potential default in – in mortgages. So I do not expect mortgages, the majority of payment holidays are mortgage and I do not expect about to outcome that."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "In consumer, we need to elaborate on country-by-country basis. You’ve seen that Jose provide information I mean, the latest Jose provide to you in consumer in Europe, we have like four countries that the production collapse and the other four countries half of the business still performing relatively well, Germany, Nordics and countries around this. So we do expect different outcomes occurring with this kind of situation."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "So in the – particularly in the US, that in this crucial extensions that we provide you the number of extension is business as usual, the number of extensions we do on a normal amount, without having a crisis is in the region of 15,000 amount. Yeah, so now grew dramatically, but is part of the business as usual and is difficult for us to assess how much is going to end up in a higher costs of risk."
+  },
+  {
+    "person": "Sergio Gamez Martinez",
+    "role": "answerer",
+    "position": "Global Head of Shareholder and Investor Relations",
+    "text": "Thank you, Alvaro. Next question, please."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. The next question comes from Francisco Riquel from Alantra. Please go ahead."
+  },
+  {
+    "person": "Francisco Riquel",
+    "role": "questioner",
+    "position": "Alantra",
+    "text": "Yes, thank you. Just a follow-up on the previous questions. So you mentioned that the scenarios that you are managing are in line with the past prices in Spain you mentioned on their – of their recession in Brazil. So what I mean, despite the economic recession is going to be bigger overall, not only in those countries, but worldwide. So what makes you confident that the cost of risk should not be bigger than what you do have been mentioning for those scenarios impact past prices? So that’s the general question."
+  },
+  {
+    "person": "Francisco Riquel",
+    "role": "questioner",
+    "position": "Alantra",
+    "text": "So and then specifically wanted to ask you about Brazil. You mentioned that that cost of risk in the past recession, 2015, ‘16 went up from 4% to 5%. And so at that time, you went through the recession in Brazil in a fairly good shape. What – how did you expect now those Brazilian bank to perform in this crisis given that you have grown relatively fast and how confident are you of the risk taken in the last few years? Thank you."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "Thank you, Franco. The first question, why this time is not going to be bigger. As you know, provision is related with expected losses in a medium and long-term period. What matters here is, we have a new kind of crisis this time. It’s a crisis that that we’ve never seen for that reason is extremely uncertain of the outcome, but you look at the different scenarios, not necessarily on the IMF. Well overall all the scenarios have a strong impact in 2020 and relatively rapid recovery in 2021 and 2022. So if that’s the case, the – the level of defaults is not that high."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "So remember the last crisis, when I spoke before in Brazil, that GDP fell 10% and the recovery is still ongoing, okay. So three years later it’s still not recovering this in Spain at the top to the bottom was around 9% to 10%, 9% I think it took four or five years to recover. The kind of crisis we have in front of us is a crisis in which you have a deep recession with very short – duration sharp meaning months or maybe three months, maybe six months, maybe nine months, depending on the kind of scenario you want to – the kind of we or the kind of you a scenario you want to choose."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "But in any case, relatively sharp period of deep recession that follows a relatively rapid recovery immediately after. This is not a very bad scenario for – or if this happens for the cost of risk. The longer the recession last, without even any of the intensity is lower, the higher penalization I mentioned already, the mortgages in which, is not that – what matters is not that much how deep the health crisis fall immediately, how long it takes to recover the crisis afterwards, yeah. So this is the general thinking on this."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "And for that reason, we remained relatively confident, that if a niche a biggie at this stage, the scenario behaves like the ones we are seeing from the different economies now – and we have a relatively quick and rapid recovery afterward the scenario is workable I will say."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "You said Brazil, while in the last crisis, we had a – you said, yes that we had a different portfolio that grew a lot in the last couple of years. It’s true, but well our franchise now is much better franchise than it was four or five years ago, much more resilient, with much higher profitability, with much more capacity to take management actions. I’m fairly positive on trends in Brazil naturally because of this is going to go up for sure, we are suffering right now and you see the NII, the impact of the overdraft – the charges that were reduced significantly, yes. But the underlying trends are pretty good, yeah."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "So we continue to see our strand across the board is significant. And we are – I think we are well prepared to face the headwinds that we’re going to suffer in the coming quarters and we feel confident that that we’re going to be able to march in the range I was telling you, well not exactly, don’t take the numbers, take the range as a potential outcome in the coming quarters."
+  },
+  {
+    "person": "Sergio Gamez Martinez",
+    "role": "answerer",
+    "position": "Global Head of Shareholder and Investor Relations",
+    "text": "Thank you, Franco. Next question, please."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. The next question comes from Carlos Cobo from Societe Generale. Please go ahead."
+  },
+  {
+    "person": "Carlos Cobo",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "Hello. Thank you very much for the presentation, Carlos Cobo from SocGen here. The first question would be on the FX hedging policy, if you could update how much of the currencies you’ve hedged? And for how long that hedges in place would be, if you see – we’ve fully seen the impact already in Q1 and what would be the pacing of that hedging growing off?"
+  },
+  {
+    "person": "Carlos Cobo",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "And secondly, if you could confirm that the EUR 1 billion cost cutting target for Europe is being reiterated, I think Antonio said and whether you see any risk of as in the – coming from investment related needs in the context of the COVID-19. I would like to understand your thoughts around, any room to beat the previous guidance on costs now or on the contrary, to meet the targets you now need to make in a stronger effort? And finally on capital, if we should still maintain the 10 – the 12% year end 2020 target or how should we expect the capital evolving from here? Thank you."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "Well I will take the second and the third question I will pass to Jose. The first one, the FX hedging policy. Target for EUR 1 billion cost cutting in Europe remains in place is reiterated I’m fairly optimistic as you see the numbers in the first quarter fairly optimistic we’re getting there probably in the short run we’re going to have as I mentioned before, at the end of the presentation, we’re going to take management actions, management actions on revenues and costs and costs we have capacity to reduce the costs further from our targets in recent time, yeah."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "Capital here in 2020 capital asset that we also expect to remain inside the range of our target. Remember, our targeting capital was – is 11% to 12% and we’ll expect to be in the upper side of the range at the end of 2020 taking into account all of that has been said in this presentation. Jose, FX hedging?"
+  },
+  {
+    "person": "Jose Garcia Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "[technical difficulty] we have two different policies for capital – for the capital ratio, we fully hedged the capital ratio and we do that on a monthly basis. So any exchange rate volatility does not affect the capital ratio directly. And in terms of profits, we hedge basically based on our expectations for exchange rate movements and to go into the details, we here, we have the Mexican peso, the sterling and the US dollar fully hedged. We have the real partially hedged. So we in the next few quarters, if the exchange rates remain where they are today, we will still see some negative impacts on our numbers."
+  },
+  {
+    "person": "Sergio Gamez Martinez",
+    "role": "answerer",
+    "position": "Global Head of Shareholder and Investor Relations",
+    "text": "Thank you, Carlos. Next question, please."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. The next question comes from Jose Abad from Goldman Sachs. Please go ahead."
+  },
+  {
+    "person": "Jose Abad",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Hello. Good morning. Thanks very much for the presentation. I have three questions. First one is, whether your 1.6 perspicacity impairment taken today. Does this include the positive things from the warranties in the different countries that you operate? The second question is on the – from the profitability, one of your European peers actually mentioned in a conference call was taking place in parallel to yours, that they expect to exceed a profit from the government warranty lines. Is this also the case for you in Spain or in other countries?"
+  },
+  {
+    "person": "Jose Abad",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "And the last question is given that actually only in Spain two tranches have been approved up to actually EUR 40 billion so you granted EUR 9.6 billion. So based on these should you expect actually these to go up to potentially EUR 25 billion in cumulative incremental corporate lending until potentially Q3? Thank you very much."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "Okay. When you are referring to the EUR 1.6 billion including warranties, does this include warranties? That will include warranties, because we are assessing the portfolio, we – that was in our books as of 31st of March. So on the – these new lending started in April. So does not include government warranties."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "How much profits we expect to reap? I understand the profit in the overall lending related with government warranties. I don’t really, I don’t expect to make profit out of this. So we’re going to get some revenues on cost of risk, but overall it’s going to be difficult to make profits, we may make some profits, but not significant at all, yeah."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "The government warranties. You extrapolate the – as you know, in Spain, the government established a kind of coupon for each bank based on the market share in the overall credit market. And our case was, I think 18.5% or something like that. And, as you know, we have – we finished the assignment of the lines we were granted to – maybe that were granted to us one week ago and we still have pending demand."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "That’s something that you may expect, given the fact that I’ll do our participation in the overall credit portfolio, the market share is 18.5%. Our participation in the SMEs portfolio space, that is the ones who are demanding more loans in these days in the region of 25%. For that reason, we have significant demand. Well it’s up to the government to – to go from the EUR 40 billion to EUR 100 billion, they match this and well, what they can tell to you is, we have stated demand pending for these kind of facilities."
+  },
+  {
+    "person": "Sergio Gamez Martinez",
+    "role": "answerer",
+    "position": "Global Head of Shareholder and Investor Relations",
+    "text": "Thank you, Jose. Next question, please."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. The next question comes from Sofie Peterzens from JPMorgan. Please go ahead."
+  },
+  {
+    "person": "Sofie Peterzens",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Yeah. Hi. Here is Sofie from JPMorgan. When I looked at your stage two and stage three exposures, they fell quarter-on-quarter although very marginally. But how much or what movements should we have expected in your stage two and stage three exposures if the EBA would have had the new rules out on forbearance? Would that have had any impact on NIM on your stage two and stage three exposures?"
+  },
+  {
+    "person": "Sofie Peterzens",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And then my second question would be clearly COVID-19 has different invites in different countries, but overall, which countries are you most concerned about in terms of the outlook and which countries are you believed or concerned about? And then my final question would be, if you could just remind us of your recent rate sensitivity given that we are seeing lower rates, both in Brazil and Mexico and the US and so on. So if you could remind us of why your rate sensitivity? Thank you."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "Well, I will have the first two questions. I pass the third one, the sensitivity rates to – yeah, well Jose is going to take this one."
+  },
+  {
+    "person": "Jose Garcia Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "This one, do you want me to take it now?"
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "Yeah."
+  },
+  {
+    "person": "Jose Garcia Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Okay, so the interest rate sensitivity to a drop of 100 basis points is around EUR 500 million, a 176 more or less in Spain and very, very small sensitivity in Latin America, but overall for the Group is around EUR 500 million more or less."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "So the other two question is stage two and stage three is too early to go into these detailed analysis – in the next, we have plenty of moving parts. The first one is the scenario that very likely we’re going to have more in the stage two and stage three. Second, we have the government guarantees that are going to upset partially what goes to the stage two and stage three. And so the uncertainty is so high that at this stage I can’t elaborate and but later on this."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "The overall, which countries will be more affected. More than these countries, I will tell you ex government guarantees, the sacraments that I see potential highest effect. The first one is all this semi, self-employed, the small corporate segments on top of the traditional sectors that everybody has in mind, yeah you know the sectors, everybody speaks about the sectors, yeah. But by segments, this is the segment that probably is going to be significantly affected."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "The second one is some pieces of the consumer lending, not necessarily cars, probably direct lending, more – much more than car and auto lending is the second I see a potential more impact. And at this stage and I may be wrong, because it depends on the – how the house price evolve, I don’t see a significant impact in the mortgage books, because the interest rates are so low, that affordability ratios and the loan to value ratios in our books are relatively low, interest rates very low, so affordability ratios are relatively high at this point, you combine the affordability ratios with the loan to value ratios, I do not expect a big impact overall in the mortgage book."
+  },
+  {
+    "person": "Sergio Gamez Martinez",
+    "role": "answerer",
+    "position": "Global Head of Shareholder and Investor Relations",
+    "text": "Thank you, Sofie. Next question, please."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. The next question comes from Adrian Tang from Credit Suisse. Please go ahead."
+  },
+  {
+    "person": "Adrian Tang",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "Hi, there. This is Adrian T from Credit Suisse. Thank you very much for taking my questions. Three follow-up questions from me. On the EUR 1.6 provision overlay, can you maybe provide us some key sensitivities around your base case scenario?"
+  },
+  {
+    "person": "Adrian Tang",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "You mentioned GDP, unemployment and house prices as the key variables just to judge, if these get better or worse, what we could expect on the capital? Can you maybe help us think through the potential impact you expect from the risk migration given the increasing PDs and LGDs?"
+  },
+  {
+    "person": "Adrian Tang",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "And then the third one, just a clarification, thanks for the disclosure on the mortgage and consumer payment holidays on Slide 30. Can I just clarify that you’re still accruing that interest income on all the loans in all geographies on these? Thank you."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "Well, the EUR 1.6 billion, the question was exactly –"
+  },
+  {
+    "person": "Jose Garcia Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "The sensitivity associated with –"
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "The sensitivity to the base case. Well these EUR 1.6 billion comes from the combination of two scenarios. One scenario that this kind of we, a scenario that is relatively mild, and one scenario that we call internally, you scenario that is much, much worse and, overall much – it takes longer to recover the – some of the variables that are behind this expected losses, particularly as I mentioned before house prices."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "So house prices, let’s say, call 20% and it takes more than three years to recover, the impact is much more intense than if we have a stronger GDP fall in the short run and our recovery immediately after, none otherwise will be the case. So these are the base case we are using is a combination of we, a scenario with you a scenario that give us and I mentioned before, kind of IMF, on a country-by-country basis in some countries is more intense than IMF in some other is less, but overall as an average we are basically there."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "Capital impact of the great immigration. Remember, we have 50% of the portfolio is just under model. The other 40% is mortgages that the world immigration, right immigration is not significant and this trade immigration affects wildly to 10%, 15% of the portfolio that is related more with a kind of CIB business and some corporate. So the impact should be relatively minor, yeah, so we’re going to have some, but relatively minor in our case, given the fact that the standard model still plays a big role in our capital numbers that we’ve been telling you."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "And the third one is consumer. The third one was? Holidays. Payment holidays. It will accrue? We don’t accrue. We accrue in the majority of the case, although there are some cases that the government initiatives, the payment holidays force us not to accrue for one month or two months or three months. It’s not significant, but it has some effect, some in a limited number of cases, because it doesn’t apply to the overall portfolio that’s applied to specific people that has a very, very low income along with vulnerabilities that we cannot accrue interest, but this is really, really minor. What this has in the other cases is the financial effect, because we are translated interest into the future – in the future principal payments and that has some financial advantage for the for the borrowers, yeah."
+  },
+  {
+    "person": "Sergio Gamez Martinez",
+    "role": "answerer",
+    "position": "Global Head of Shareholder and Investor Relations",
+    "text": "Thank you. Next question, please."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. The next question comes from Marta Romero from Bank of America. Please go ahead."
+  },
+  {
+    "person": "Marta Romero",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Thank you very much. I’ve got three questions. The first one on capital. You’ve mentioned you’re in to be the upper end of your 11 to 12 target for fully loaded core equity tier 1. However, given that 2020 is kind of the last year dividend in some more or less banned, and you still have legacies from the previous crisis, but it makes sense to clean up as much as possible in 2020. I would you be willing to bring your fully loaded core equity tier one just in line with the MDA thresholds at around 9% after CRD V?"
+  },
+  {
+    "person": "Marta Romero",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "The second question is on your ALCO strategy. How attractive do you think current sovereign yields in Spain, Italy and Portugal are? Are you willing to increase your exposure to the periphery? Do you believe the ECB backstop will be effective and hence, it makes sense to load up on periphery bonds today?"
+  },
+  {
+    "person": "Marta Romero",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "And finally on Santander consumer finance, thank you very much for the color you provided on recent activity levels. How that translates into revenue outlook for the rest of the year. And just to be on cost of risk you’ve given us lot and lots of details and you’ve tried your best of course, given the uncertainty, but where do you see the cost of risk in consumer – in Santander consumer Europe progressing for the next two years? Thank you."
+  },
+  {
+    "person": "Jose Garcia Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Can I take this?"
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "Yeah."
+  },
+  {
+    "person": "Jose Garcia Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Okay so. Hello, Marta Sanchez, I – I’ll take the first question. I’m not sure I understand what you were saying about legacy issues from the previous crisis in terms of capital, beyond the IFRS 9 transition period. So we can take that offline and discuss that, but I don’t think we have any legacies whatsoever coming from the previous crisis in terms of capital."
+  },
+  {
+    "person": "Jose Garcia Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Having said that, you have to remember that, we no longer have a capital conservation buffer in the UK which gives us 20 basis points. So the capital requirement has been lowered by at least 20 basis points, we have fully reached the 81 and tier 2 buckets. So any new issuance of 81, we do – we’ll go against a P TO R."
+  },
+  {
+    "person": "Jose Garcia Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So if we issue in the market this year, we will create more space and a higher MDA. And we would you know, expect to demonstrate that our capital continues to be extremely resilient even in the worst case scenarios within the different stress tests that have been conducted by the EBA and the ECB, we’ve always come as the least affected Bank, those were paper crisis, this is a real crisis."
+  },
+  {
+    "person": "Jose Garcia Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "But what we are saying is that, our capital, which, you know, I would agree that it takes time for us to build up capital, because of our model, our model or show also it’s extremely resilient when withstanding the shocks of crisis and we will demonstrate our capital, we’ll withstand this crisis again extremely well."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "Okay. The second question was related with ALCO strategy usually, yes like why not? If we plan to buy a Spanish-Italian sovereign bonds in order to hedge the current accounts. Well what I can – well this ALCO mix monopoly, what I can tell you, we are probably at the lowest level in the last six, seven years in the portfolio of ALCO and you are referring to the parent company where the lowest level in the last probably six, seven, eight years I don’t know for a long time."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "Finally, revenue outlook for consumer finance. This is going to happen immediately affecting the fee income. You saw then on the first quarter we mentioned, because fee income in the new origination plays a significant role there. Fee income coming from – the long-term fee income coming from an insurance business that we do at the origination. This is the government to be the main effect in the very short run."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "You mentioned the cost of risk. You’re right, we elaborate that we do expect much significant higher impact. We are relatively positive in auto lending and we expect higher impact in direct lending and direct lending well, the main – the biggest portfolio is Germany and somehow Spain, but a smaller size, Nordic countries and naturally these – those are the portfolios, the businesses one-third auto lending – sorry two-third is auto lending, one-third other business, credit cards and direct lending and this one-third is what I do expect higher costs of risk."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "On the portfolio, I can’t resist what Germany is the largest, second is Spain, Italy we have some lending although is warranty by the payrolls is the probability of default is relatively low and Nordic countries where we have credit cards and direct lending where I do not expect a significant increase. Going forward you mentioned in the medium-term well now at our scenario in the medium-term, the cost of risk will go up, but not in a dramatic way."
+  },
+  {
+    "person": "Sergio Gamez Martinez",
+    "role": "answerer",
+    "position": "Global Head of Shareholder and Investor Relations",
+    "text": "Thanks, Marta. Next question, please."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. The next question comes from Ignacio Ulargui from Exane BNP Paribas. Please go ahead."
+  },
+  {
+    "person": "Ignacio Ulargui",
+    "role": "questioner",
+    "position": "Exane BNP Paribas",
+    "text": "Yes. Hi, good morning. I just have two questions. One on the capital, coming back to how do you see the capital evolving in the coming quarters? I think that the 1Q has been a bit of a trough of the years, there’s quite uncertain, but if you can give us some color on how you see the capital moving onwards?"
+  },
+  {
+    "person": "Ignacio Ulargui",
+    "role": "questioner",
+    "position": "Exane BNP Paribas",
+    "text": "The second one is on the government reactions in Latin America, has been a bit lower than the – than that we have seen in Europe and in the US. How do you see these impacting the banks there, particularly interested on your thoughts in Brazil and Mexico? Thanks."
+  },
+  {
+    "person": "Jose Garcia Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Can I – while to the capital –"
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "Yeah."
+  },
+  {
+    "person": "Jose Garcia Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "In the first quarter, we had, as you could see, 15 basis points from regulatory and accounting charges and 19 basis points from perimeter changes. We wouldn’t expect to see more significant perimeter changes in the coming quarters, and yet there might be some regulatory charges, but they are not going to be of the nature and the amount that we saw in the first quarter."
+  },
+  {
+    "person": "Jose Garcia Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So going forward, I would expect, that we would expect the capital to evolve in line with our capital generation, which we think could still be in the region of 10 basis points per quarter, on average."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "Okay, government reactions, your question was, is the reaction of Brazil and Mexico was lower? Well, this is probably the European view. You take into account that how that these societies where is the – in economic terms, where the societies and economic terms are, we say the informal economy playing a big, very big role and the resilience of the population in terms of the resilience to a confinement of these populations is much, much lower than it is in Europe. You will understand a bit better why in some countries they’ve been reluctant to take strong measures of confinement."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "Having said that, they are taking measures and if this is going to affect our – the performance, because this is lower reaction of the governments, well it will depend basically the kind of actions they will take in protecting or warranting the lending to the SMEs. Having said that, you take the figures, the figures are pretty small when I looked at the SME book in Mexico, that in our case is more than 50% already has warranty from the government from an institution called now things are more than 50% of the book. We already bought warranty for these books at the origination time when the book was originated and you see Brazil, the size of this book is relatively small."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "So the governments are reacting in Brazil, there is plenty of measures that the government, the central bank already took and we feel comfortable there. And while in relation with how they are handling the health crisis, I am not an expert on this. I’m not telling there’s plenty of controversy about how to match this even in the Europe and the states there has been controversy about this I’m not in a good position to make you an analysis of this."
+  },
+  {
+    "person": "Sergio Gamez Martinez",
+    "role": "answerer",
+    "position": "Global Head of Shareholder and Investor Relations",
+    "text": "Thank you. We have time for one last question, please."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. The next question comes from Fernando Gil de Santivanes from Barclays. Please go ahead."
+  },
+  {
+    "person": "Fernando Gil de Santivanes",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Hi, good morning. Thank you for the presentation. Just a follow-up question on the ALCO portfolio. Just to get to the strategy on the Alco portfolio, I see that the volume has come down quite significantly in the quarter. What should we expect in terms of size and the disposal on the TLTRO programs on the ECB? This is one."
+  },
+  {
+    "person": "Fernando Gil de Santivanes",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "And the other one is on RWA inflation I mean, you have disclosed on these pages 30, 31 and 32, the increasing in loans in April so far, how does these effects on the RWA makes an inflation going into quarter two? Thank you very much."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "So the ALCO portfolio, the size, while this depends and then on a – on the – this issue is related with interest rate we reduced the size of the portfolio. Well, it’s up to the ALCO to decide if we want to increase or not, is to – and I cannot elaborate on this in turn. TLTRO was the role of TLTRO depends very much on the overall liquidity in the market."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "At this stage, the overall liquidity is quite good. Our liquidity provision, in fact, our LCR since we started the crisis had been going up. The deposits are growing fairly rapidly, stable deposits coming from customers. And the liquidity position is, as I said, is improving almost on a daily basis."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "Risk weighted assets inflation, because the lending I showed you there, the lending goes to corporate and CIBs, the lending going to SMEs, the majority of these has government kind of government warranties. So the weighting is very, very low is maybe in the region of – 10%, 15% depending on the country, but this is very low. So I don’t see that much inflation there."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "The other growth that we had was in CIB, but was already in the first quarter we do not expect another jump in the second quarter in CIB companies drawing the committed line. So which better no more normalized behavior, so overall with individuals, I don’t see in this quarter coming back to normalized levels in Europe."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "And with the majority of the lending going to SMEs being warranted by the government and with CIB being fairly stabilized, I don’t see a particular inflation in risk weighted assets or some come from breaking some of your colleagues are still before is not that important. Here the government warranty plays a role, unfortunately, originating within the reverse is fairly low. So overall, I do not see, we’ll stick with our targets of course, I said before, so."
+  },
+  {
+    "person": "Jose Garcia Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "[technical difficulty] we have very – relative to others very limited market risk. So."
+  },
+  {
+    "person": "Jose Antonio Alvarez Alvarez",
+    "role": "answerer",
+    "position": "Vice Chairman and Chief Executive Officer",
+    "text": "That’s right."
+  },
+  {
+    "person": "Jose Garcia Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Okay. So that will also not impact our risk weighted assets significantly."
+  },
+  {
+    "person": "A - Sergio Gamez Martinez",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "So we need to leave it here guys. Thanks very much for your time today. Obviously, myself and the entire team will be at your disposal for any follow-up from now. Thank you keep safe."
+  },
+  {
+    "person": "A - Jose Antonio Alvarez Alvarez",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, guys, and take care."
+  },
+  {
+    "person": "A - Jose Garcia Cantera",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thanks a lot guys."
+  },
+  {
+    "person": "A - Jose Garcia Cantera",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

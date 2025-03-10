@@ -1,0 +1,824 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] Our first question comes in from Aman Rakkar of Barclays."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "First of all, congratulations, Paul on the appointment. And I wanted to just pay my regards to Howard, on your tenure at the firm, I had a couple of questions. One, I think it's the main question that I'm getting this morning is around your revenue guide for '24. And obviously, at face value, there is a pretty material kind of step off in the revenue run rate through '24. And there's clearly some downside versus consensus, but I guess, to push back against that it doesn't really feel that surprising to see you come out with a revenue number that's that low. I think the uncertainty that's faced by rate cuts, competition, various bits and pieces -- I think it kind of makes sense, but can you help kind of elaborate on exactly a bit more on the moving parts there and whether you recognize the conservatism here?"
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "And indeed I'm sure you won't answer this, but I'll ask you anyway. But if I was to look at the spot rate market right now, it is not implying base rate of 4% at year-end. It's implying something more like 4.4% at the end of the year. I know these things are volatile, but I don't think we're going to get the rate cuts predicated on the current forward curve that you guys are basing your guidance on, so this does look to me to be quite a conservative revenue guide for '24. I'd really be interested in your thoughts, any help there. I had a second question. Shall I give it to you now or afterwards?"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Keep going, Aman."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Just in terms of distributions. I was interested in -- obviously it's great to see the GBP 300 million open-market buyback. The retail share offering that the government is looking to kind of execute this summer, I'm interested in how this influences you’re thinking at all. It doesn't look to me like you've budgeted for a directed buyback in May. Maybe you're confident on capital generation in the coming quarters, which would be a good thing, but retail share offering might mean that there's less likelihood of a directed buyback. And then hence, do you then feel as though you can kind of execute open-market buybacks more regularly? Again anything you can give us on your updated approach to distribution is really helpful."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "I'll take number two and number three. And then Katie will allow you to talk through the revenue guide. So on -- Aman, on directed buyback, simple answer is it is in our plans and our budget. So that's very simple. So we have assumed that we make the DBB. Obviously, we can do that after the annual anniversary. On the question around -- or the challenge around conservatism and interest rate outlook, I hear you in terms of the where the curve is now. I'm sure you'll understand we have to look at the balance of the economic consensus. Even in the space the last 7 or 10 days, as you well know, it's moved around, so what we've done is -- we've got a set of assumptions there which has 5 cuts in '24, 4 in '25, with the first one in May."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "What I would say is Aman, is that we've been the -- I guess we've given a lot of disclosure around the sensitivities, so for those who want to take a different view around some of that volatility, it's pretty easy to do given the disclosures we've got, depending on where your views are on the 5 and 4, 4 and 3, 3 and 2 et cetera. So that's where we are on those two. Katie, do you want to talk revenue guide?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "As I look at it, as you know, there's a number of variables. And even in your question, I think you kind of know the answer I'm about to give you but -- that are impacting that kind of income range. The customer behavior has been relatively difficult to predict. And we may see different competitive dynamics, so the way that I think about it is I would think of 4 things as you try to kind of build in with your own model. Obviously, base rate cuts, Paul has already talked about them. We've got 5 in for May and 4 in for later. The timing of that rate cut is important for income. We've got it in -- starting in May. It could be different from that, but as Paul said, you've got the sensitivities there. You can take a view on that."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "The second one, deposit volumes and mix. We expect deposit balances to fall a little in Q1 as a result of tax payments and thereafter move broadly in line with what you see happening in the market. We do expect the deposit migration to continue into 2024 but obviously at slower pace than we've seen. As we talked about it, Q3, we could already see that slowing down, but again we don't expect that to be linear."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "The third thing, the structural hedge, you're very familiar with that it’s tailwind in 2024 as the higher yield offsets lower volume. And then finally, mortgage volume and margin, which I'm sure we'll get into in more detail as the call goes on."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Overall, as we look at the income, we're very focused on managing both sides of the balance sheet to make sure that we deliver our income and our returns guidance. We expect the shape to improve as you go through the year but with the second half being slightly stronger than the first half. I'll just pick up one last bit on the DBB. The retail share offering does not impact our buybacks. As a board, we plan our -- what we need to do. And so it's a completely separate debate."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "And it is in the plan."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Benjamin Toms of RBC."
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Benjamin Toms"
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "You know your guidance on your income, ex notable items, of GBP 13 billion to GBP 13.5 billion, but could you provide us with an estimate for NIM for the full year, I guess, based on your new measure; and how the shape of NIM might change as we go through the year?"
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "And then secondly, just a clarification question on your sensitivities to rate cuts, where you assume a 60% pass-through assumption. Can you just clarify what that 60% means? Is it measured from the first rate rise in the cycle or from the first rate cut? If it's the latter, is 60% a fairly conservative assumption? I think I've heard peers of yours talk about deposit pass-through being much higher on the way down than it is on the way up."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Thanks, Ben. Katie, do you want to pick the NIM piece up?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes, sure, absolutely. So in terms of NIM, Ben, we're providing you with total income guidance today, GBP 13 billion to GBP 13.5 billion. As you've heard, we've managed margins across both sides of the balance sheet. Managing margins is obviously a key focus for the entire management team, but it really is one of the drivers that we look to in terms of the overall return. You need to consider the cost of risk, capital requirements and, of course, the operational costs of doing business. And this is why RoTE is our key financial metric, and it's what will drive capital generation and capacity for investment and distribution to shareholders. The key income drivers that I've talked a little bit about already for 2024 are also our key margin drivers, so you can assume that margin will follow a similar shape to income as we progress through the year."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So on the sensitivity. So the way that we've done it, I think, it's an illustrative example of a single 25 basis point cut. So by definition, it's the incremental pass-through on that. We have said that the pass-through will be very much a function of competitive dynamics. And similarly to the way, when we were on the way up, we didn't share with you what our next pass-through thoughts were. They obviously emerged as competition and market dynamic as dictated. And I'm not going to share with you -- or it just now, but we have worked on a 60% pass-through of that rate, taking in mind as well that there is a delay in passing through because of some of the regulatory requirements so the speed of notification that you need to give to our customer base. So that has also been built in a little bit as well. Clearly, how we do it and the time of implementation will be dependent on customer and market."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Yes. What I'd add on that, Ben, is I would see it as a sensitivity and an example, not a statement of our pricing strategies. Our pricing strategy will be influenced by as and when the rate changes happen, what the competitor responses are, what our funding and liquidity needs are at that time as well."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Rahul Sinha from JPMorgan."
+  },
+  {
+    "person": "Rahul Sinha",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Rahul Sinha"
+  },
+  {
+    "person": "Rahul Sinha",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "I've got 2, please. The first one is just around the confidence in your new RoTE targets, just interested in the moving parts from the sort of 12% that you guide for '24 to above 13% for 2026. I guess the simple question is, is it all just driven by the hedge? Or are there other sort of material drivers that you would point to as well? And I guess, related to that, the second question, just on the mortgage business. The book didn't grow in Q4. Obviously your flow share was 10.5%. I think you've done 14% share through the year. I'm just trying to understand if this more disciplined approach to mortgage growth means that we should expect lower growth in the loan book driven by mortgages going forward given competitiveness in this market is probably not going to change. And just an addendum to that, if you could give us a bit more color on the mortgage refinancing churn, the back book to front book; how it phases through the quarters in 2024 that would be really helpful."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Thanks, Rahul. Katie, why don't -- I'll start with a couple of things on RoTE. And maybe you can talk to the bridge. And then I'm sure we can both have a go on mortgages."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "So Rahul, just on the broader kind of RoTE guidance. Obviously, we've shared around 12% for '24 and greater than 13% for '26. We thought about that carefully. You can see the economic assumptions we've played through there. And again, in my response to Aman, you can take your view on them."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "The main thing really that's driving that is the path of the peak, I guess, from 5.25 to 3 over the course of the 2 years, but to the heart of your question is what drives the upturn. It's certainly more than the hedge. Katie talked about the kind of tailwind from the hedge, but from my perspective, I'm very focused on growing a number of the different P&L lines. We'll be managing costs and capital very tightly, thinking very carefully about capital allocation but also driving growth in our core businesses as well, whether that's the fee lines or lending growth, be it mortgages or corporate. So it's certainly supported by the tailwind in the hedge, but we're gripping the other levers to drive the business forward."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "I think I will just move things to mortgages, if that's okay. So in terms of the mortgage piece. So as you look at the mortgage book, if I start with the kind of phasing of the churn, what we see is more stable in Q1 or the roll-on and roll-off kind of dynamic. And then, we'll expect stability, I think to kind of come through in Q2. We did in this last quarter, very much manage the application flows that was coming through as we saw the shape of the balance sheet. I think that's a very rational thing to have done. 14% over the year, we're very comfortable with. It's above our stock share. And we do see this as an area that we can -- is an important area for growth. I don't think you should necessarily expect growth every quarter, but certainly growth over time is what we would be expecting."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "I think it has been important with some of the pricing dynamics and things and the movements in the swap curve is to make sure you're really managing it for value and maximizing your RoTE in that space. So very comfortable with that process, so I wouldn't see that as 1 quarter being a bellwether for the future. We still view this is a book that's important to us, returns very good, RoTE for the business and an important area for growth as we move forward from that and one of the areas that we're making significant investments so that we're able to scale and really benefit from the digitization of this business."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Andrew Coombs of Citi."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Andrew Coombs"
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "So 2 questions. First one, just on the structural hedge. I think the previous guidance was for it to finish the year at GBP 190 billion. And it's actually come in at GBP 185 billion. And that's even though the deposit mix shift seems to be -- it seems to have been broadly in line with what you were guiding for Q3, so perhaps you could explain what caused the additional GBP 5 billion decline in the nominal? And also, any color you want to add on where you think the direction of travel is magnitude-wise for 2024? So that's the first question."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Second question was actually just on the impairments given the confident guidance you've given for this year, the less than 20 basis points. I noted on Slide 21, you still get through-the-cycle figures, 20 bps to 30 bps; and you obviously expect to come in better than that this year. Just is there anything baked into that for release of the GBP 429 million adjustment for economic uncertainty? Or is it just the case of better IFRS 9 assumptions, lower Stage 3 migration, et cetera?"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Katie, do you want to take the hedge?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes, perfect, absolutely."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "I'll take impairments."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Sure, absolutely. So as I look at the hedge, what we'd sort of talked about was around a GBP 190 billion base on a static balance sheet. We know that the balance sheet obviously is not static. In terms of the direction of travel is a few things I would probably mention on that. The average product yield for the hedge was 142 basis points. It's important to understand in the fourth quarter that increased to 152 basis points for the quarter."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "When I look at the kind of sizing of the hedge as we go into next year, we would expect the shrinkage to be less than we saw in 2023, in line with that conversation we've had around deposit movements kind of stabilizing in the middle of the year. If you were to look at the year-end notional balances and the mix remains static, you could see that number would kind of recalibrate to about GBP 170 billion."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "I think what's important, though, as you look at the hedge is also the level of reinvestment. So Andrew, it matures over 2.5 years. You take the GBP 185 billion today. 1/5 of it will mature every year, so therefore, it's GBP 37 billion when you look at that kind of average life of the book. We are assuming that it gets reinvested at around 310 over the course of the year. You can see that rates are slightly better than that today, but on average, we think that's an appropriate number to look at. And we've talked in the past around the fact that the roll-off yield is so much lower than what the reinvested real. So we do see this as a positive tailwind as you see that stabilization coming through in the first half of the year and moving forward from there. And Paul, do you want to take impairments?"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Yes, I'll take impairments. Andrew, your hypothesis or as you outlined is pretty much spot on. The book is performing better than we'd anticipated. Customers have adapted resiliently to the higher rate environment, so arrears levels remain low across most of the asset books. So loan impairment, 15 bps for '23, obviously below our through-the-cycle range. You've seen the guide for '24, below 20. So assuming no sign of significant macro deterioration. You also astutely point out we do have post-model adjustments of GBP 0.5 billion, GBP 400 million for economic uncertainty, GBP 0.5 billion overall, but we will be very prudent about them in terms of the release. So your thesis is right in terms of what's happening."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Andrew Coombs"
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Can I just clarify one thing with Katie? Roll-off yields. I think previously you said 80 bps for this year and 50 bps for '25, presuming that guidance is unchanged."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "I mean it's unchanged. There are some technicalities that I'm going to not get into too much detail, but as we're kind of managing the process of reducing the notional and we fixed swaps to reduce, that roll-off yield actually does reduce. So it's actually a bit lower than that in terms of the mechanics that we do, so -- but I think, if you work with those and the difference between -- but then just that pay fixed swap as we manage the notional does have a little bit of an impact. But those are good numbers for you to use."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Alvaro Serrano from Morgan Stanley."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Alvaro Serrano"
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "I've got a follow-up, apologies on the margin and what to expect. If we put to one side the -- what looks pretty conservative rate assumption, how much of the mortgage sort of your 80 basis points on mortgage product spread? And how much more headwinds should we expect in the first half of '24? And similarly, we've seen sector data point to very stable deposit movement in November and December, so is there much more drag on deposit margins as well?"
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And if I look related to that. If I look at your above 13% RoTE in 2026 versus the 12% this year, is it -- and I compare that to the 9 rate cuts you've got? It does feel like your revenues are not going to grow until we're done with rate cuts. Is that kind of what's reflected in that 2026 improvement, that once you get through the rate cuts in '25, it will improve? And sorry for that long first question."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And Paul, maybe one more for you in your opening sort of -- in your section, you talked about improving share in targeted segments. When we look back over the last few years, it's been very much focused around mortgage growth. When you think about the next 3 years in your plan, what would you highlight of your key sort of focus on growth areas versus what we've seen in the past?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "I'll take question one. So if I look at the mortgage margin, obviously we talked a lot last year about how the book would ultimately stabilize around that 80 basis points; and that's where we are at the end of that year -- at the end of the year. What we can see is that the level of churn and come down that we've had in that rate has obviously kind of come to an end. Well, I would say, at the moment, we're currently writing around 70 basis points. And so the impact of the mortgage book refinancing headwind will be lower in 2024 than it was in 2023, but there will still be a little bit of movement around about that. And I think that we do expect there to be some stabilization in mid-2024. Clearly, the volatility in the swap rates we've written some of the business over time, a bit below the 80. And we're comfortable with the level of writing we're doing just now. You can see that we're managing that in terms of the flow share that we have."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "On deposits. I mean I guess the way that I would look at it as we look at both at the Bank of England data and the data, the experience we're seeing in our own book, we are still seeing some migration. You can see that we went from 15% to 16.4% at the end of the year. So still kind of seeing that. We do expect that to continue for another couple of quarters and we expect that it will probably stabilize in the kind of the summer months."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "If I look at revenue into 2026: I mean, Alvaro, that's certainly not the impression that revenue is flat from here till there. That's something we've been talking a lot about this throughout last year. As you see that deposit stabilization and then the mortgage stabilization as well what -- and then you start to see the structural hedge kind of come through, we expect the second half income of 2024 to be better than the first half. And we expect that to continue to develop into '25 and to 2026. And Paul, I'll give you question two."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Yes. Thanks, Katie. Alvaro, I'm thinking quite broadly around the opportunities for growth in the business. You rightly pointed out in my presentation I highlighted a number of areas. I think, just going through the different customer businesses, we have the mortgages as we've positioned. If the market is there, the demand is there and the pricing is right, then we're now the second biggest lender, but we'll continue to grow there. So that's one area of continued growth in retail, providing the margins and the returns are there. We've also made good progress on the unsecured side in retail. We're happy there with both the returns but also the credit quality, so we see -- and obviously we're underweight relative to some of our peers in those areas, so that's an opportunity that the retail team are astutely focused on."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "In the kind of commercial and institutional business, we've seen some good growth around our project finance, infrastructure and funds business. We believe they're businesses and asset classes that offer good upside over the course of the next couple of years. We're not only building, I guess, for the next year or 2. We're also making big market share gains in areas like startups and youth, where we're now over 20%. And the way I think about that is we're kind of we're filling the pipe for future, the future revenue and future returns, so we're very focused on growth, but we're very focused on disciplined growth. That's how I and the team talk about it. And we think there's plenty of opportunities embedded within the core businesses of NatWest to do that."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Guy Stebbings of BNP Paribas Exane."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "I think we have an issue with Guy's microphone, so we're now going to go over to Fahed Kunwar from Redburn Atlantic."
+  },
+  {
+    "person": "Fahed Kunwar",
+    "role": "questioner",
+    "position": "Redburn Atlantic",
+    "text": "Fahed Kunwar"
+  },
+  {
+    "person": "Fahed Kunwar",
+    "role": "questioner",
+    "position": "Redburn Atlantic",
+    "text": "Just a couple of questions. Firstly, on the returns point around the greater than 13% in 2026. I mean, if I look back to when you first gave the 14% to 16% guidance, which I think it was like August '22, even your kind of quite conservative rate expectations, they weren't actually that different then. If I look at the 5 year swap curve, I think it was running at like kind of like mid-2s or a little high 2s versus the 3.1% you're assuming, so why have you -- why have your return expectations come down versus that August 2023? It can't just be base rates. Was the mix shift just far more than you had anticipated at that point? That's question one."
+  },
+  {
+    "person": "Fahed Kunwar",
+    "role": "questioner",
+    "position": "Redburn Atlantic",
+    "text": "And the second question was on costs. I see sort of wage negotiations done, I think for 2024. Does that mean actually the risk of costs missing, if inflation is stickier than we think is less because actually you've already negotiated the wages? And any sticky inflation would probably be a 2025 issue. Is that the way to think about 2024 costs?"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "I'll take costs. And then Katie, you can talk to the RoTE point. So, I think your thesis is good on costs, Fahed. As you say, we've agreed with the unions an offer that we think is appropriate and fair at around 4%. We obviously delivered on our costs this year. We've guided next year -- sorry, '24, that costs will be broadly stable. Probably worth pointing out that we do build into our cost guide the ability to kind of take restructuring on the people and the property side, but we prefer to take them in year rather than any extraordinary charges, so they're all built into the plan, so we're very comfortable on the cost guide. I think we've got a good track record over a number of years delivering on that line."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So if I look at the bridge from why no longer 14% to 16%, I think there's a number of things, Fahed, you need to kind of take into account. If I compare just to when we spoke in October, then it's all a story of rates, in terms of the expectations that were there, but you rightly went back to kind of August '22, when we first talked about that. And absolutely, rate expectations are not that different, but I think none of us at that point could have imagined the journey that rates went on when we saw swap curves go all the way up to 6% and then come down and then go back up again and actually what this then delivered in terms of the change in customer behavior and the mix of that. We were sitting at about 4% sitting in entire, we're now sitting at 16% and expecting that to continue to increase. So that's been one of the things."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "I think there's also been another couple of things. With that rate curve going up, we also saw inflation going up significantly. And we [indiscernible] 6.6% and 4%. These have all been things we've had to build into the cost line. We're happy with how we've delivered on those, but obviously still feel the RoTE under pressure. And I think the most important thing also to think about is the denominator, the TNAV. So our TNAV is growing very well, very strongly this year. I think up 28 pence over the year. We predict it will continue to grow as you see that cash flow kind of unwinding, but the real difference from when we last spoke formally, in October, is that movements in rates which has been really bigger than any of us had anticipated."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Ed Firth from KBW."
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Ed Firth"
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "I just have 2 strategic questions really for Paul, if that's all right. My first one is if one looks at the sort of full length of this downturn. I guess one of the key characteristics or the differential characteristics has been much lower loan growth in the market as a whole and much better credit. I guess that's, to me, one of the big highlights today is your credit outlook for this year given some of the stresses we see in the broader economy, so I just wonder. As you look forward, do you see that there's -- as a bank, there's more appetite for loan growth going forward? Or and I suppose that's really a question about supply versus demand. Is it a demand problem or a supply problem? Is that the key issue in terms of a sort of reasonably lackluster -- because I guess the loan growth and the economic performance often go together. So that's my first question is how do you as a sort of new CEO look at that? And how do you feel the balance is and whether you've got that right and how it might change going forward? So that's the first question."
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "And then my second question was about retail, which I know is not your traditional business, but now you've had sort of 6 months, I guess, to look at it. It's making a mid-20s return, which is pretty punchy. And I guess that's in an environment where you've got some pretty strong new competitors coming in, which chases obviously the most important one. All of whom are paying much better rates than you are on like-for-like products. And I guess they can justify that because they don't have the hedge headwinds. And they probably have got better systems than you have. That's an assumption, but by all means, tell me that's wrong."
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "So I just my question is, as you look at that return going forward, how sustainable do you think that is at those sort of levels as an incumbent bank? And I guess, what sort of do you think there's further costs you're going to have to take to try and sustain that level? Or how should we think about that going forward?"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "All good, broad strategic questions. On the first, around how do we -- how do I think about loan growth? I guess I'd point you to '23. We've grown our asset side of the balance sheet by 3%. Obviously, given our size, we are linked in some ways to the health of the economy. The way I think about it is, given the scale of our businesses, whether that's our commercial business, whether that's our mortgage business, we should target ourselves to grow at above market rates. I think we've proven over a number of years in both businesses that we've successfully grown the asset side of the business. There are also certain aspects of loan growth where as I've alluded to, we're underweight relative to the market. We touched on unsecured earlier. We're still only the second mortgage -- the second largest mortgage provider, so there are opportunities to grow, but ultimately we are geared to the U.K. economy there."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "And to your point on demand versus supply, from a supply issue, we have capital available. We're very keen to put that to work, providing it's at the right returns, across all of our businesses, whether that's our private bank, obviously also lends our retail bank or our corporate bank. So that's how I think about it. I think it's -- that's the broad picture."
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Ed Firth"
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "But if you -- sorry. Just if you take nominal GDP last year, it was probably up I think 7%, something like that, so you're effectively growing at sub-nominal GDP. Is that how we should think -- I mean, is that a sort of sense of your conservatism? Or are the two just not really related at all?"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Yes. Well, I think there's a couple of things going on there. Obviously we've seen given the high interest rate environment, as you all know, we've seen paydown of borrowing as well, whether that's in the retail bank, in terms of customers paying down mortgages, whether that's in government lending schemes and in the commercial business. I think, as rates come down, the inclination to either want to pay down or have to pay down will slow. And so that's how we think about it. So we've delivered growth despite there being a lot of in effect deleveraging by customers across all of our customer businesses, especially in private."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "On your second question, which I guess is a very broad question. We're very happy with our retail bank. The leadership team we have there over the last couple of years have built a very actually digitally enabled retail business. We have a market-leading mobile platform. We support that with our branch network. As you know, the returns are healthy, which is what you alluded to. And I think we've proven over the course of the -- I guess, the last couple of years that we've managed -- certainly over the course of the last 6, 9 months, we've certainly managed to react in terms of our product range, our pricing, whether it's on -- you alluded to some deposit pricing and our ability to compete. I think we have a very competitive range across different terms, different products, et cetera likewise on mortgages."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "So I think the retail bank is in good health. We're continuing to invest in it. I'm very focused on cost. You mentioned that, but that isn't a particular focus for retail. It's across the whole business. I'm very keen that we have good cost discipline. We have good cost management, but also we invest in the business to drive those productivities and efficiencies out."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "So what I'd say in summary is I think we've got a retail -- we've got a good retail bank. There are areas in which that bank could grow. We'll obviously work on productivity and efficiency, but we'll do that at a bank-wide level, not just in our retail bank."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Chris Cant from Autonomous."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "Chris Cant"
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "I had one on your RoTE aspiration and one on the '24 income guidance, please. So on the 2026 RoTE target, I just wanted to understand a little bit more about what you're assuming here as a denominator. I think this is an area where consensus looks a little bit probably different to how you're thinking about things. So if I look at your disclosures today, you tell us 225 bps of rate cuts. And you've given us a cash flow hedge reserve sensitivity of just over GBP 1 billion per 100 bps, so that alone would knock your cash flow hedge reserve down by over GBP 2 billion."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "You're then going to have pull-to-par effects on top of that. You're going to have the removal of the IFRS 9 add back on top of that. If I think about your RWA guidance, your CET1 target, you're looking at about a GBP 27 billion CET1 base, which I think would imply, once you allow for those cash flow hedge reserve, movements, both the print today and the future sensitivity, probably for a TNAV in 2026 of about GBP 31 billion. And I think consensus is quite a lot lower than that around 27 something or rather for '26 on average."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "So is that math right? Because I think what that's telling me is, if you think you can do a 13% RoTE on that meaningfully higher TNAV base, it's about a GBP 4 billion net profit number, but it really comes down to that TNAV piece."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "And to your point, Katie, RoTE is you North Star, but it's impacted by this math around the cash flow hedge reserve, which doesn't appear to be factored into consensus, so I was just wondering if you could speak to that. Is that math the right way we should be thinking about it? Is that kind of GBP 31 billion peak at the right sort of level for the denominator, in your view based on your rate assumptions? And obviously we make our own."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "And then on the 2024 guidance, just in terms of the comment around income being better in the second half than the first half. So I understand the argument around sort of deposit mix stabilizing and then we start to see more of a net tailwind from the hedge. The hedge starts to overpower the other forces, but in terms of your rate cut assumptions, you said 5 cuts starting from May. But I guess your rate cuts are back-end loaded in the year. And I presume you're assuming within the guidance some negative pricing lag effects. i.e., there is that limitation for, say 6 weeks on the actual pass through to customers. And all of that negativity is then baked into your second half income guidance. So I just wanted to try to square the circle there. How is it that, with all of that repricing lag effect, you still end up with income up in the second half?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Thanks very much, Chris. So look. I mean, Chris, you're absolutely right. And I'd probably encourage you, as you're already there, but also others to kind of look at the denominator piece. I think it's important for us. It's been great to see the growth that we've got within the denominator this year, as we saw the GBP 25.7 billion at the end of 2023. Chris, I'm not going to give you a profit guide for 2026, as we go through there, but I think you've got the various component parts. That cash flow hedge will unwind as we go through. Rates have been volatile so it would be linear."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "I think, if you looked at what happened in rates just in the first part of this year and if I was to cut the numbers now, you'd actually see it reverse a little bit in the other direction, but overall with our rate assumptions, we'll definitely see that continue to come down. And that's important for us. So if you look at the TNAV, think of the profits, think of the movement on the cash flow hedge. There are some other movements on some other reserves, but those are the 2 important ones. And then obviously deduct distributions, and then I think it will get you to a better kind of view on TNAV. And I think we need to kind of catch up a little bit on that."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "As I look to the income guidance, so second half better than first half: There are 5 cuts, starting in May. There's -- we have considered within those timing lags as to how long it takes to from the cut if you would to make the decision at that point how long it will take you to go through. Clearly, the absolute time when we make decisions on pass-through will be dependent on what's happening in terms of competition and customer behavior. That's part of the reason we gave you a range for income for the full years. We -- but we have kind of looked to consider that within the income guidance."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And then I think the other thing. Just remember we spoke about it earlier, so I won't repeat it all, but in terms of the structural hedge, just the differential in that level of reinvestment. We are assuming that there is reinvestment despite the hedge kind of will shrink over the year. We get to deposit stability by the middle of the year, so from the middle of the year, onwards, you would start to see fuller reinvestment, not full, because of the 12-month we buy but that helps the second half to be stronger than the first half."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "Chris Cant"
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "Just on that TNAV point, and I appreciate you don't want to give us a profit number. When I look at consensus, the gap between consensus CET1 and TNAV in 2026 is about GBP 0.5 billion. Your gap as of the end of 2023 is GBP 1.2 billion. And from what you're saying that gap should materially widen subject to exactly what happens with rate, but we should be expecting a much more meaningful gap between TNAV and CET1 in the outer-years than we see today, presumably."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "I mean I think we gave you a really good disclosure on that capital-to-TNAV reconciliation. It's on Page 375 of the accounts. You might not have got there yet this morning. And what I always find, if you look at it over a few years, you can see which numbers present a little bit of volatility within that number. So I'm not going to be precise on the gap at the moment, but I think you've got the component parts within there. And that reconciliation over a multiyear basis does give you some helpful views into the evolution of TNAV."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "We look forward to discussing Page 375 with you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Robin Down of HSBC."
+  },
+  {
+    "person": "Robin Down",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Robin Down"
+  },
+  {
+    "person": "Robin Down",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "A couple of kind of linked questions. And actually it slightly builds on a bit of what Chris was saying there. You've given us this 25 basis point sensitivity, which is quite helpful on Slide 17, but I'm just conscious. Obviously, we're looking at a series of rate cuts. I'm just wondering whether you could perhaps talk about what the impact might be of, say, a 100 basis point rate cut. I assume we don't just kind of multiply it by 4 here. I don't know if we can do on the structural hedge side, but it's the managed margin side. I'm conscious you've got insides of savings account to pay 175. And I guess, the lower rates go the harder it is to pass-through."
+  },
+  {
+    "person": "Robin Down",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "And the reason why I'm kind of interested in that is just thinking of the dynamic going into 2025. I appreciate kind of volumes will hopefully pick up as interest rates fall. But if I think about the kind of structural hedge, I'm guessing we're going to be looking at probably low to mid-30s billions of rollovers in 2025 with, say, a spot rate of 3% and a maturity rate of 50 basis points. But going the other way, if you build a string of interest rate cuts and you're telling us 25 basis points today is GBP 125 million in year. I'm just kind of curious as to how you sink those two kind of interplay going into 2025?"
+  },
+  {
+    "person": "Robin Down",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "And when we look at consensus revenues, I think we're up at that kind of 14.2 for '25. Obviously, there'll be some volume growth there that will help out, but perhaps whether comfortable with that 14.2?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Look, in terms of the 100 basis points, it's relatively linear. And I think if you go to Page 267 of the accounts, you'll actually see that I've given you the 100 basis points disclosure."
+  },
+  {
+    "person": "Robin Down",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Robin Down"
+  },
+  {
+    "person": "Robin Down",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "I didn't quite get that far. Sorry."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "No. It's all right. I must -- I've got the cheat list for where the pages that you guys will go, but you can work out through there. So that will be help for you. So I think it's is Page 267 in terms of and I think that will kind of give you what you need on that point. And then just sorry, Robin. I'm not entirely sure of the second bit of the question that you're actually asking me to kind of confirm, but I think if you look at Slide 15, it will help a little bit with the interplay of what's hedged and unhedged. What we've given you there this morning is just to try to kind of give you a flavor of what happens in term, which is obviously the tightest. What's unhedged? And then what's supporting the product structural hedge? And as you see that migration continue, you'll see that -- you'll see those balances move a little bit more to the term hedge. And then you need to take a view whether that's coming out of our unhedged kind of instant access or out of the current account piece, as we go through from there, as to what happens in terms of different rate cuts, but I would say we have seen it slow. We do expect it to continue but not at the speeds that we saw in the previous year."
+  },
+  {
+    "person": "Robin Down",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Robin Down"
+  },
+  {
+    "person": "Robin Down",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "I think my point was more that if we're looking at, say, GBP 30 billion, GBP 35 billion of maturities in 2025. And I appreciate this is kind of we have to think about quarterly rates here. And you're going at 250 basis point kind of uplift on that then we can kind of do the math on that. And how that then interplays, though, with average base rates and ‘25 being more than 100 basis points lower than where they are in 2024? I mean it's -- effectively it's a question of almost like where you think the margin goes in ’25."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So I think I'm not going to give you the margin. What I would say is that we expect it to behave the same way we described income, but we do have confidence in the income growth over the medium-term. We -- I said earlier in the call that we're kind of expecting the reinvestment levels to be about 310 basis points. I'd expect them to be a little bit lower in 2025 but not meaningfully, but then similarly, we've talked in the past around the 80 bps roll-off kind of becomes 50 bps. I'm not going to get into the pay fixed kind of debate, but I mentioned that earlier as well. That prices those numbers of piece a little bit. And that's why we have confidence in the income growth over the medium-term, as we see those deposits stabilize."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our last question comes from Jason Napier of UBS."
+  },
+  {
+    "person": "Jason Napier",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Jason Napier"
+  },
+  {
+    "person": "Jason Napier",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Two, please. Paul, clearly a lot of focus from you on cost efficiency within the business. I wonder whether you might give us some more details perhaps on 2023 just in terms of expenditure on restructuring, the big moving parts and the performance that you've turned in last year. Just some of the feedback this morning is flat may be good enough for 1 year, but the organization in this kind of operating climate can't hold close to that on a sustained basis. Perhaps you could talk about how you did -- what you did last year and then how you feel around what run rate cost growth ought to be for NatWest going forward?"
+  },
+  {
+    "person": "Jason Napier",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then secondly, perhaps for Katie as well as Paul, some conversations in the prepared remarks this morning about a more active stance on capital management, securitization and risk transfer and so on. I don't think there's a change in the outlook for RWAs in 2025. And I think we're still being told that it's linear. Perhaps you could talk a little bit about what that does for NatWest? Presumably, in this year in particular, there's a need to want to be able to do share buybacks in the market probably of the flowback and so on. If you can just talk about whether this active balance sheet management changes much in the very near term for the availability of excess capital."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "I'll take costs, Katie. And then maybe come back to Basel 3.1 and RWA trajectory."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "So Jason, on costs, we're only guiding for '24, which is broadly stable. Within that we have restructuring costs built in, so then I guess it's pretty easy to conclude that to stay broadly flat, we're going to work pretty hard to mitigate the impacts of both wage inflation and general contract inflation. So we're very focused on mitigating any cost increases. I'd like to take those costs in year, so no broader restructuring charge. So we've built in a higher level of restructuring charges in '24 than we used in '23, just to directionally give you a sense of that."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Overall, I do see big opportunities in respect of bank-wide simplification within the bank. You'll have seen that in the slides. I think there's a lot to do, a lot that we can do to make our bank easier for customers to do business with us but also improve productivity for our colleagues. I talked in October how I'd reshape the investment spend around some key projects to deliver more digitization and automation. That obviously plays through in terms of efficiency. We also have opportunities in terms of consolidation of some of our tech platforms as well. So we're gripping cost as a management team. We want to take the charges in year. That's what we've done in '23. That's what we'll do in '24. We are very focused on the glide path and mitigating any of the natural inflationary aspects that there are."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Basel 3.1 and RWA. So I mean, Jason, you're absolutely right. I would take the GBP 200 billion guidance we've given you to the end of 2025, as linear from here, remembering that it can be lumpy. You know in RWAs there's many, many different moving parts. We're very disciplined on how we allow the businesses to use it and then also how we then manage it as we go through. So we will look at things like SRTs, the origination of lending that we've got at the -- at any point and just to make sure we're getting the right return for those investment we're making in our RWAs allocation. But if you go linear from here, you'll get to the right place on in terms of the numbers, I think, as we roll through."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "That concludes the Q&A section. I will now hand back to Paul for closing comments."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Thank you, everybody. Thank you for joining. Katie, Howard and myself appreciate it. I hope you'll agree we've laid out a good strong performance for 2023. I'm delighted to be confirmed in role today."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "And hopefully, you've got the sense I'm very focused on driving the performance and returns of NatWest, but before we sign off, I do also want to thank Howard for his commitment at NatWest and his invaluable contributions as Chair. I know this will be the last time you join the analyst call. I know many of you on the call know Howard very well and have spent a lot of time with him over the course of his tenure, so I guess I'll take the liberty of thanking him on your behalf for that. And we'll build on these strong foundations to deliver the very best we can for our customers and our shareholders moving forward."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "So have a good Friday, everybody. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, Paul. That concludes today's presentation. You may now disconnect."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] We already have our first question from Sofie Peterzens from JPMorgan. Please go ahead."
+  },
+  {
+    "person": "Sofie Peterzens",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Sofie Peterzens"
+  },
+  {
+    "person": "Sofie Peterzens",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "This is Sofie from JPMorgan. Thanks a lot for taking my question. So my first question would be on the risk transfers. Did I hear it correctly that you saw €30 billion of risk-weighted asset disposals in the quarter? And maybe you could just talk about the decline in risk credit asset. I see risk-weighted assets, especially being down around 2% quarter-on-quarter, in digital consumer buying minus 1% quarter-on-quarter. But in both entities, the loan book grew by 3% quarter-on-quarter."
+  },
+  {
+    "person": "Sofie Peterzens",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "So how should we think about these SRTs or securitization? And what will be the revenue invest going forward from securitizing some of the loans. And also related to that, if you could just remind us on the regulatory capital headwinds coming in the second half?"
+  },
+  {
+    "person": "Sofie Peterzens",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And then my second question would be on Ebury. There has been quite a few press articles suggesting that you're looking to potentially IPO Ebury. Could you just remind us what the tangible book value per share is for the -- or tangible book value for these businesses? How much revenue do you get from Ebury and what your kind of plans for Ebury is? Thank you."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Thank you, Sofie. I mean, first of all, I mean, our policy basically has been to -- as Jose was explaining in detail to rotate the balance sheet as much as we can. This is basically a very important change for us given the high capabilities that we have to originate assets, okay? So this is basically helping us to rotate and also giving us a new, basically, I would say, a turbocharger in the sense that with every single time that we sell something, we basically reduce that capital, already deploy the capital within the organization at a much better price."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "So that's exactly what we're doing and rotating the capital in a much better way. As Jose was explaining you, we rotate a third of the balance sheet every year. And since we're very focused on profitability, we're actually reinvesting better and better, and that's actually a new way of basically managing the balance sheet of the bank. Then Jose can give you a little bit of the details in terms of what you were explaining about it."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "In terms of regulatory capital, as we told you, our guidance is basically to be above 12% after regulatory charges, et cetera. So we continue to basically hang on to that number, 12%, above 12% we believe. And as we -- and as I said -- and Jose basically reiterated, we're going to be above the 12% after Basel III as well. And in terms of the IPO of Ebury, we'll give you the details -- Jose will give you the details on that. Thank you, Jose."
+  },
+  {
+    "person": "Jose Garcia",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Hi, Sofie. First of all, the €30 billion was risk-weighted assets in the first half. So more or less 40% of this is SRTs, but the rest is other types of transactions like asset sales, hedges, et cetera. The cost of mobilizing this €30 billion was around RoTE equivalent, okay? We always look at RoTE, but just to use the same currency everywhere in RoTE equivalent, the cost of mobilizing this €30 billion was slightly below 10%."
+  },
+  {
+    "person": "Jose Garcia",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And we reinvested the capital, as I said, at 23%. So there was at least 13 percentage points difference on this €30 billion in risk-weighted assets. €30 billion in risk-weighted assets is close to €4 billion in capital times this 13%. So on an annualized basis, we generated increased profits with the same capital of around €500 million."
+  },
+  {
+    "person": "Jose Garcia",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "We expect to continue doing this. The demand for private credit is significant that we have a very busy second half of the year. It's difficult to replicate the same figure in the second half of the year because of holidays, et cetera, but we expect to mobilize much more than last year. And as you can see from the figures I gave you, this is very profitable."
+  },
+  {
+    "person": "Jose Garcia",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Capital headwinds this year, we still expect 20 to 30 basis points in the second half of the year. Basel III, as Hector mentioned, fully loaded. And when we mentioned fully loaded, is fully loaded, even taking into account those impacts that come in 2029, we will be comfortably above 12%. And the day one impacts will be very relatively small, as we mentioned before. And in the case of Ebury, we're always looking at ways of managing the capital and maximizing capital usage."
+  },
+  {
+    "person": "Jose Garcia",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So there were some news that we are contemplating an IPO in Ebury. Again, we are looking at all types of alternatives to maximize the capital. This is one of them. That doesn't necessarily mean that this will be executed. And again, this will be put as one of our several capital management initiatives that we have across the group."
+  },
+  {
+    "person": "Begona Morenes",
+    "role": "answerer",
+    "position": "Director, IR",
+    "text": "Thank you. Can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question from Ignacio Ulargui from BNP Paribas. Please go ahead."
+  },
+  {
+    "person": "Ignacio Ulargui",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "Ignacio Ulargui"
+  },
+  {
+    "person": "Ignacio Ulargui",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "Good morning. Thanks for taking my questions. I have two questions. The first one is on the revenue performance. We have seen a very good performance in Europe, probably a bit better than what we expected -- at least we expected at the beginning of the year. LatAm has been lagging a bit behind with Brazil being softer. How should we think about the revenue performance going forward in the second half?"
+  },
+  {
+    "person": "Ignacio Ulargui",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "When you have upgraded the revenue guidance to high single digits from the 9% currently so we expect second half in line with these levels kind of getting a bit of a sense whether LatAm should offset the weakness of Europe that you have flagged Jose during the call in margin? And the second question is on the U.K. If you could elaborate a bit what should we expect in terms of NII for the UK, are stabilizing so try it getting your thoughts on the outlook for the UK? Thank you."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Thank you, Ignacio. I mean, first of all, let me tell you, as Jose said, revenue has been very strong, much stronger than we believed at the beginning. Rates have helped, but also the good performance of our different businesses. As you know, we're very focus on profitability in the way we're restructuring things and that basically is paying off, right? I believe that, I mean, revenue will continue basically to give good results."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "I don't see that LatAm has a weakness. I see that actually, LatAm is going to be doing very well in the second half. And you can see also very good results coming out of what we're doing in retail in Brazil, okay? And also Chile is doing quite a good performance. Mexico, basically on retail, we're changing the mix, and that's why you see the flat NII on there, but I mean we will continue to give very good results."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "So we expect a very good second half of the year in terms of revenue. And in that sense, on basically what you were asking about the UK, UK was pared a better second half. First of all, we see that the market is a little bit more rational. Competition has been much rational than we saw during the first quarter. Second quarter has stabilized. We also -- some of the strategies I have done in terms of betas are paying off, okay? So I believe that all in all, UK will have a much better second half of the year than we have seen."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "In terms of detail, basically is more rational behavior, as I told you, fees are not going to be doing that well due to the switcher campaign that we structured and -- but benefits will come over in the third and fourth quarter, much better than the way we basically saw it. And what you're going to see is also a very good cost control because we have cost control initiatives coming into the U.K., which are going to make the business perform much better than we saw."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "I don't know, Jose would like to complement a little bit on the revenue side, but..."
+  },
+  {
+    "person": "Jose Garcia",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "I think I'm sure that you will ask about -- you mentioned that revenue in Europe is better than you expected. At the beginning of the year, we guided for a drop in NII in the Eurozone. We now see NII in the Eurozone, particularly in Spain, Portugal, et cetera, up mid-single digits. Obviously, rates are higher for longer, so much better performance in NII. We have hedged a substantial amount of our balance sheet in the Eurozone, basically through the ALCO portfolio, hedging the assets, particularly mortgages and also swapping our fixed liabilities into variable liabilities. And it means that the sensitivity of our NII in Europe going forward is going to be significantly lower than we had before."
+  },
+  {
+    "person": "Jose Garcia",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So as Hector mentioned, we expect fairly stable, maybe slightly down NII in Spain in the second half of the year and next year. But at the same time, we continue to see good momentum coming from South America, Brazil and particularly Chile. So we are constructive on the future evolution of NII and revenue in the second half."
+  },
+  {
+    "person": "Begona Morenes",
+    "role": "answerer",
+    "position": "Director, IR",
+    "text": "Thank you. Can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question from Alvaro Serrano from Morgan Stanley. Please go ahead."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Hi, good morning. Can I ask a couple of follow-ups on -- just wanted to confirm the comment you've just made around mid-single digit in Spain NII? That implies, I think, almost 9% production half-on-half, which is feels a bit substantial. So I don't know if I've done my math very quickly wrong or if you can sort of add a bit of color on that."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And then on the performance and fees in the U.S., could you give us a bit of color on the obviously very strong performance. But if you can maybe sort of give us some kind of color on split on, is it ECM/DCM, just perform an opinion of how sustainable it is going forward. If I can slip in a third, you mentioned over 12% capital, but I thought the target was 12.5% at the end of the year. So can you just confirm that's the case and we should still expect the 20, 30 basis points regulatory headwinds? Thank you."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Thank you, Alvaro. First of all, let me talk about capital. In capital, we have always said we're going to be above 12%, okay? And that basically has been the guidance. We're at 12.5% right now. And we said -- as Jose basically reiterated that we're going to be above 12% even after Basel III fully loaded, okay? That's exactly the guidance."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "In terms of performance in the U.S. fees, okay, the majority is basically the CIB business. CIB is the one that is driving and also a little bit in terms of good performance in retail that we're having a little bit also in the U.S., but CIB is the main driver, okay? It's been growing -- it grew 38% year-on-year, 1.3% quarter-on-quarter."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "As you know, CIB business is cyclical. So we have pretty good mandates. The business is basically doing well and also a very good connection in between -- what we're doing with the U.S., as I explained during the presentation, with the business in Latin America and the business in Europe. What's happening, and let me explain a little bit is some of the businesses that we used to do in terms of DCM that we wouldn't get because we wouldn't be seen as a dollar house, we are becoming one, and you see us top three in the league tables right now in Latin America, doing dollar transactions, not just to the corporates, but also to the governments."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "I mean, when UMS did their transaction at the beginning of the year, €7.5 billion, we were one of the principal book runners in the transaction. So you're starting to see that because of the beef up that we did in the U.S. So that's starting to pay off. I believe that with the four teams that we added, I think it's going to complement the rest of the business and will continue driving fees up, but let's see what happens with the cyclicality of the business. On the other side, retail is also performing well in fees, and we believe that it continues to do so over the rest of the year."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "In terms of what we gave -- in terms of Spain, okay, performance, loans are starting to reprice lower at lower rates, but deposit betas are behaving very well. This is helping contain the cost of deposits. Also, as Jose explained you in detail, ALCO volumes are hoping and the lower cost of the hedging, which were not in place before and now are in place. So that's going to help us. NII, as Jose said, is reaching to speak, but I expect NII to grow mid-single digit in '24, better performance than we expected at the beginning of the year. It's also because of the higher -- for longer rates environment that we're experiencing, okay? I don't know, if Jose would like to add something?"
+  },
+  {
+    "person": "Jose Garcia",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes. In terms of details, Alvaro, I mean, it's first half against first half, NII in Spain is up 15%. So if we grew 0 in the second half, the year-on-year would be around 7%. So I don't understand where you get the minus 9. If we go quarter-on-quarter, NII in Spain was started in the third quarter of last year, 174, fourth quarter 174. First quarter of this year, 182, second quarter 184. We would expect the 184 to be the peak and then slightly down in the second half, probably to very, very similar levels that we had in the second half of last year. And we expect to be able to keep that same level in 2025."
+  },
+  {
+    "person": "Jose Garcia",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "In terms of capital, 20 to 30 basis point headwinds, taking into account that we generate 20 to 30 basis points BAU, you should expect our capital ratio to be basically at these levels by year-end. The guidance of 12% is post Basel III fully loaded."
+  },
+  {
+    "person": "Begona Morenes",
+    "role": "answerer",
+    "position": "Director, IR",
+    "text": "Thank you. Can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question from Marta Sanchez Romero from Citi. Please go ahead."
+  },
+  {
+    "person": "Marta Sanchez Romero",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Marta Sanchez Romero"
+  },
+  {
+    "person": "Marta Sanchez Romero",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Thank you very much. I've got a couple of follow-ups on the U.S. So you're still struggling to deliver positive jaws. When do you think things will turn around there? Do you think that we will see positive jaws in the second half of the year? In the U.S. as well, your P&L still remains pretty supported by tax credit. Can you help us understand how the tax line will look like in the next few quarters?"
+  },
+  {
+    "person": "Marta Sanchez Romero",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "And then if I may ask, do you think the new reporting is helping investors understand Santander better because judging by your low PE, I think not. So I would like to hear your thoughts there. Thank you."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Thank you, Marta. Okay. Let me explain you a little bit what's going on in the U.S. If you look at by business, you're going to see that retail is actually having lower cost than you used to have because of the transformation even with the strong investment we're doing in transformation. But we have done a really -- good cost reduction, and we believe we're going to perform better. Their jaws are negative due to the fact that we're investing in CIB. And CIB, as you understand, I mean, cost a lot to do it."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "So if we're going to have a second half that is better, it's going to start looking better, but it's going to depend on the cyclicality of the CIB business and some of the still people that are coming into the team that will start to come in, in the next few months. As you know, there is a period of garden leave et cetera. But the main reason is the investment we're doing in CIB, which by in any way is not creating a big investment bank or anything like that."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "This is basically, as we said, complementing the rest of the business that we have. Our size is not going to be huge. It's the size of a really small boutique, but it's helping us out to beef up and to help us in the remainder of the business. And you can see fees are starting to basically be up due to that fact, okay?"
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "In terms of the P&L, it's at easy to understand. The DTAs are basically what we said last year when we started doing the electric vehicles. I mean we signed contracts with some OEMs that are generating the DTAs. And that's why you see that the P&L is affected by that, and it's going to continue due to the fact that we will continue to be absorbing, I mean, that volume. So we have now three things, and this is basically leases on electric vehicles that are creating the DTAs in the U.S., all right? And you're going to see that throughout the year."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "In terms of the new reporting, it's very important to understand what we're doing. The new reporting is helping us a lot in the way we are managing the business on a day-to-day basis, okay? Because it's making us work together, is making us spend a lot less. In the past, for example -- and let me give you a really stupid example. I mean we used to have 10, 11 different apps in our 10 different banks."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Right now, we're just having one app being deployed in all the countries. For example, one app is being deployed. Today, it's being deployed in all of Europe. The last deployment we did was the U.K. and they were deploying Brazil and then we will -- we are deploying also the U.S. So what happens is basically, you use the same around 80/20, and that's the goal that we're basically going through, investing jaws ones and those 80% common, 20% customization for each country."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "So that basically will enable us in the future through these global platforms to work much better in a much cheaper way. We gave you a pretty good example in what we're doing in acquiring. When the acquiring platform was deployed in Mexico, it took us in 18 months to number two, and you saw the results that I explained, I mean, how EBITDA is growing. And I showed you in the presentation that is helping us quite a lot in terms of positioning ourselves to be very competitive and with really high margins in every single market."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "And jaws 1 platform, the one that is being deployed. Now this platform is being deployed down to Chile, is being deployed to Argentina, and they will -- we will deploy it in Europe in the near future. So this is basically helping us to work together and to manage the business in a much better way."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Then in terms of how do you see the businesses and the way they're reporting, I mean you're going to start getting used to it because it's going to be a lot easier for you to understand every single business in the way we're managing it. We're reporting now, as you can see, the operational leverage that we're getting by working together in which revenue is going up, cost is staying stable and is giving us a really profitable run."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "So it's very important that you understand that. Also, let me give you a great example. In CIB, where we have been working together for a long time, the same factories that we use for Mexico, Brazil, Spain or the U.K. are completely the same and it's the same product, and we just made them once. So that basically tells you how we're going to be able -- I mean we have been able to make it a really profitable business with growing revenue every single year and with profitability at around 19% that I gave you."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "So this is exactly the points that we're doing, and I believe that this will enable us to give a lot more value to our shareholders. There is no way we're going to give you more value if we don't work together and do things in a much cheaper way."
+  },
+  {
+    "person": "Begona Morenes",
+    "role": "answerer",
+    "position": "Director, IR",
+    "text": "Thank you. Can I have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question from Francisco Riquel from Alantra. Please go ahead."
+  },
+  {
+    "person": "Francisco Riquel",
+    "role": "questioner",
+    "position": "Alantra",
+    "text": "Francisco Riquel"
+  },
+  {
+    "person": "Francisco Riquel",
+    "role": "questioner",
+    "position": "Alantra",
+    "text": "Yes, thank you. So two questions for me. The first one is on NII in Brazil. You still maintain the guidance of growth in the high teens for the year. Mid-teens would imply a quarter-on-quarter fall during the second half, if you think this could be the case or not? I mean, because selling rates have been expectations of cuts have been pushed out. So if you can comment on the main drivers of the NII in the coming quarters and also update on the sensitivity of the NII to select rates in Brazil?"
+  },
+  {
+    "person": "Francisco Riquel",
+    "role": "questioner",
+    "position": "Alantra",
+    "text": "And the second question is about NII in the U.S. We have seen this is bottoming out in this second quarter, but they have also seen the deposits falling for a couple of quarters now. So you would need to pay up for deposit gathering in the second half of the year or not. In this context, if you can also comment on the plans to launch Openbank, shall we expect there? Because when I look, for example, at the digital consumer bank, the deposits are growing there by 20%, but net interest margin is still falling, despite the shift to retail deposits?"
+  },
+  {
+    "person": "Francisco Riquel",
+    "role": "questioner",
+    "position": "Alantra",
+    "text": "So you can comment also on these NII trends here."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Thank you, Francisco. Let me start with Brazil. First of all, as you have seen, I mean, very strong and solid numbers coming from Brazil. NII, once again, a very strong quarter, up more than 3% and it's up more than 22% in the year, okay? What's behind the performance is the combination of the healthy volume growth, the change in mix and lower rates, okay? It is true. First of all, rates outlook has changed. The market is expecting a smaller than initially anticipated rate cut by the year, by year-end, and this ultimately means that NII growth will be a bit less intense than what we thought at the beginning of the year. That's a fact, okay."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Having said that, we still expect Brazil NII to grow in the mid-teens mark by the end '24, okay? It's a good performance that should continue in '25. And let me tell you that to take the opportunity that Brazil has delivered a 16% RoTE. We believe that the end of the year should end up between 16% and 17%. A strong profitability improvement is not just relying on NII growth, but on the good delivery on fees also, the cost contention that we have had and expected cost of risk is stable during the year. So I remember very optimistic in Brazil and the ability to continue funding the profitability, as you have seen."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "In terms of Openbank in the U.S., Openbank will come into the U.S. with the deposit gathering facility towards September, October, okay? We expect that to come. The first phase is the deposit gathering. And I believe it would be quite successful. We had a pretty good plan in place. And then we'll come -- and we'll be improving the platform as we see fit."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "In terms of deposits, the deposits -- the transactional deposits that SG&A has had remained stable during the year. What is -- what you have seen the movement in deposits in the U.S. is basically the deposits that we have in CIB, which are the ones that we decide on profitability, what's better for us or not. So sometimes because of profitability, we basically let them go and we move out if we see fit. So there is no problem into that, and we will continue to see that working profitability towards every business that we do."
+  },
+  {
+    "person": "Jose Garcia",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "One quick comment on DCB Europe margins and profitability. The new business we wrote in 2021 was extremely profitable. This was post-COVID, and we have historically high profitability levels. This year is going to stay -- this production is going to stay in our books for three years. So it's still in our books in 2024 and it will gradually disappear between '24 and '25. The new business that we are writing in 2024 is at RoTE's of around 20% RoTE was of 2.3%, 2.4%, which is much, much higher than '22 and '23 annual production."
+  },
+  {
+    "person": "Jose Garcia",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So you should expect in 2025, a very substantial pickup in profitability in margins and in profitability in Consumer Europe because of this in and out of the different productions and the fact that there was an abnormally high profitability in the year following COVID."
+  },
+  {
+    "person": "Begona Morenes",
+    "role": "answerer",
+    "position": "Director, IR",
+    "text": "Thank you. Can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next Question from Alvaro Fernandez-Garayzabal from UBS. Please go ahead."
+  },
+  {
+    "person": "Alvaro Fernandez-Garayzabal",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "Alvaro Fernandez-Garayzabal"
+  },
+  {
+    "person": "Alvaro Fernandez-Garayzabal",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "Hello, good morning. And thanks for taking my questions, I have two. First, we assume you're aiming for the upper end of your RoTE target for next year. So that is 17%, which implies a meaningful profit increase in '25 versus '24. So my question is, geographically, where is that earnings growth going to come from? And second, related to previous questions, we have seen revenues improving in the U.S. over the last couple of quarters, with volumes up, customer spread expanding and fees coming quite strong. So basically, how sustainable is this revenue pick up going forward? Thanks."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Thank you, Alvaro. Let me start with the U.S. To tell you, I believe, I mean, the U.S. revenue is going to continue to do pretty well, but the profitability is always the most difficult in the second part because of seasonality in terms of what happens to us in provisions. So what you're going to see is revenue continue to go up quietly fairly strong. Let's see how we do in fees, as I said, due to the cyclicality of the CIB business, but revenues will be doing fine."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "In terms of the seasonality, let's see how we do in terms of the provisions, but we believe and the indication that we have had in terms of provisions show us that are coming better. The LTM numbers that we have in provisions for the U.S. are much better than last year. So it's looking well. And so the U.S. shall have a much better year than last year. In terms of the RoTE 17%, Jose, if you would like to comment?"
+  },
+  {
+    "person": "Jose Garcia",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes, I mean, obviously, we expect profitability to continue to increase on the back of increased -- Sorry what I was saying is that we expect our profitability to continue to increase on the back of higher operational leverage. Our transformation program is delivering very positive jaws that we expect to maintain, particularly in consumer and retail in 2025. The negative -- the sensitivity to rates in Europe has been much decreased, as I mentioned before, and we should have positive tailwinds coming from NII in South America, both Brazil and Chile. So definitely, operational leverage is we'll continue driving increased profitability."
+  },
+  {
+    "person": "Jose Garcia",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "In terms of cost of risk, no signs of deterioration, and looking into the next few quarters, we see no signs that we will require to increase our provisions going forward. So if you put all of these together, again, this means that our profits should continue to increase going forward."
+  },
+  {
+    "person": "Begona Morenes",
+    "role": "answerer",
+    "position": "Director, IR",
+    "text": "Thank you. Can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question from Benjamin Toms from RBC. Please go ahead."
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Benjamin Toms"
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Good morning. Thank you both for taking my questions. The first one is on Brazil. You used a €350 million gain to top up your provisioning. I think that's one strategy you've adopted before, but how comfortable are you that you will not need to do further top-ups in Brazilian cost of risk going forward? And are the top-ups a catch-up? Or can we assume that the top-ups will mean a structurally lower cost of risk in Brazil in the coming years?"
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "And then secondly, in the U.K., in the deck, you mentioned that 100% of your hedge income is already locked in for 2024. This suggests that either you do not have any maturities this year or you pre-hedged some of your maturities. If you have been pre-hedging, what proportion of 2025 structural hedge maturities have you pre-hedged and what rate did you look in at given the swap rates have been volatile? And do you expect the tailwind from the structural hedge will overwhelm the headwinds on NII in the U.K. in 2025? Thank you."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Thank you. Okay. Let me go to Brazil, okay? First of all, it's very important to tell you that increase in provision is exclusively linked to the loan growth that we have in the country, okay? Cost of risk, as you have seen, is flat quarter-on-quarter, 4.77% and credit quality in Brazil remains sound and solid. It's very important to understand that the recent vintages that we have are performing very well and no signs of deterioration. So it's performing than we expected. It's very important to understand that we're also changing the mix a little bit on the portfolio."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Just to explain you a little bit, for example, credit cards where in '21, we were making around 800,000 to 900,000 credit cards per month. Today, we're just growing by 400,000 credit cards a month and just to our client base."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "So the important thing and the big change is exactly that we're not going to the open market, which was the 1 that hurt us quite a lot during '22 and '23. So that's exactly the change of mix that is helping us."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Also, it's very important to understand that we're very focused on profitability, and we have been very opportunistic, and we used the proceeds of a corporate transaction to further reinforce the balance sheet at this point. And we reiterate that the '24 guidance of delivering is a flattish cost of risk versus '23, okay, excluding the one-offs. So that's what I see in terms of Brazil. In terms of the U.K., Jose, please?"
+  },
+  {
+    "person": "Jose Garcia",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes. So as you know, obviously, the strategy is to keep the structural hedge position in line with core deposits to protect the balance sheet ahead of decreasing interest rates. Following the recent increase in market rates and in order to protect the NII, we have accelerated the planned investments for 2024 amongst other measures."
+  },
+  {
+    "person": "Jose Garcia",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So the sensitivity we have today is to a 100% decrease in -- parallel decrease in rates in the U.K. Today is minus GBP 120 million compared to minus GBP 220 million a year ago. So roughly, we have half of the sensitivity today than we had a year ago. The current hedge -- structural hedge is GBP 114 billion, compared with GBP 106 billion in December. So this is related to my comment before. With the duration of 2.5 years in December, it was -- sorry, 2.5 years. In December, it was 2.4 years and the yield is slightly over 2%."
+  },
+  {
+    "person": "Begona Morenes",
+    "role": "answerer",
+    "position": "Director, IR",
+    "text": "Thank you. Can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question from Carlos Peixoto from CaixaBank BPI. Please go ahead."
+  },
+  {
+    "person": "Carlos Peixoto",
+    "role": "questioner",
+    "position": "CaixaBank, BPI",
+    "text": "Carlos Peixoto"
+  },
+  {
+    "person": "Carlos Peixoto",
+    "role": "questioner",
+    "position": "CaixaBank, BPI",
+    "text": "Hi, good morning. My first question would actually be a follow-up in Spain. I'm sorry to insist on this again. But if I understood correctly, and the message was that in 2025, NII should be roughly aligned with the second half of this year where you already expect NII to drop somewhat towards the mid-single-digit growth in the full year that you are mentioning?"
+  },
+  {
+    "person": "Carlos Peixoto",
+    "role": "questioner",
+    "position": "CaixaBank, BPI",
+    "text": "And then my second question was actually on the U.S. tax rebates that you have been booking. I was just wondering if you could give us some color on how the rebate works in the sense that -- or basically, for how long is it in place? Is it something that we should also witness next year? And also, is it this federal level rebate or something at the state level? And to what extent the potential changes in -- political changes in the U.S. could drive that to disappear or not. Just to have an idea on the time frame for which this is valid right now. Thank you."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Thank you, Carlos. All right. I mean I think in the -- Jose gave a pretty good explanation of what's going on in terms of how do we see now things. It's important to understand what Jose explained you about what we're doing on the hedges, the ALCO position that we have, that will help us throughout the year. Even if the rates come down, I think we're probably in the best ever position in that sense."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "And even as we say, I mean, the NII would slightly come down over the second half. And then we'll see that we will have a pretty good run towards -- let's see how rates basically behave. But I don't know, Jose, if you like to complement, but it's basically..."
+  },
+  {
+    "person": "Jose Garcia",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "No. It's exactly what I said. Carlos, it's exactly what you said. We expect NII to go down slightly in the second half of this year. The year-on-year growth, '24 against '23 will be somewhere between 5% to 7%. And then next year, NII should be fairly flat relative to the second half of this year, which means that NII should be down slightly low single digits. Because, again -- and this is using the forward rate curves today."
+  },
+  {
+    "person": "Jose Garcia",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So if this was to change, obviously, we would need to update these estimates. But using forward curve rates today, that's our best estimate for NII in Spain next year. And as Hector mentioned, this is thanks to the substantial reduction in NII sensitivity that we have conducted in the Eurozone in the last year, 1.5 years."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Carlos. Okay. On your -- on the U.S., let me walk you through exactly what happens. Okay. First of all, let me tell you that it's federal, okay? We don't know if this is going to be sustained. If there is a change of government in the U.S. or not. You -- I mean, I don't want to speculate on that one. Exactly what happens is every single time we do a lease on an electric vehicle, we buy the vehicle in the bank, okay? So what you see is basically a situation in which we own the vehicle. And then we get the cash back or -- sorry, the tax credit and you show the cash credit in 1 lump, okay, during the month in which we do that, right, to be exactly how it goes."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "So you don't see the impact in the revenue but the impact you see it in the taxes. So that's exactly how it works. I don't know if I'm being correct of -- I mean if I'm being clear in one, the way I'm explaining to you this, but it's exactly how it works, all right? So what we have done is that we have a program what we have signed with the OEMs that we're doing this for, it depends on the -- also the capacity that we have to absorb those ETAs because this is not, I mean, unlimited."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "This is not, I mean -- we have to have depends on the balance sheet that we have, and we have calculated the number exactly that we can absorb, and this is exactly what we negotiated with the OEMs. I know if you understood the question in the right way, but this is exactly how it works, okay? And we don't know if it's going to happen in the future or not, hopefully, continues to be like that."
+  },
+  {
+    "person": "Begona Morenes",
+    "role": "answerer",
+    "position": "Director, IR",
+    "text": "Thank you. Can we have the next question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question from Miruna Chirea [ph] from Jefferies. Please go ahead."
+  },
+  {
+    "person": "Unidentified Analyst",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Unidentified Analyst"
+  },
+  {
+    "person": "Unidentified Analyst",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good morning, Hector. Good morning, Jose. Thank you for taking my questions. I just have a couple of follow-ups, please, on point we touched on before. Firstly, in the UK, your NII was slightly up quarter-on-quarter in Q2. So just wondering how you see it progressing from here? And is it fair to say that Q1 was probably the low point on NII and it should start building from here supported by the hedge and what is the shape of this into H2 and also into next year?"
+  },
+  {
+    "person": "Unidentified Analyst",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Secondly, just a clarification on your U.S. business. You were talking about some seasonality into the second half of the year in provisions. Could you please explain what is driving this seasonality? And then lastly for Brazil. Also taking into consideration your comments about changing the mix of your business. When do you expect to see a full normalization in cost of risk and around what level would this normalization be? Thank you."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Thank you. Okay. So as I said in the UK, we see that we're going to have a second half better than the first half, okay? Market is more, more rational, both in the margins and in the betas. And on top of that, cost, as I said, is going to be slightly better than the first half of the year. Q2 in NII is showing signs of improvement, okay? And as I basically explained, and we see that betas are not going to go up so that basically will help us."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "In terms of revenue, we see mid-to single-digit decrease in NII, down mid-single digits versus last year and fees down low double digit due to the fact that I was explaining about what we're doing with the switcher campaign and the higher cash back. You're going to see that it's going to be much better in '25 because exactly we're preparing the bank towards that. Also, we're very focused on profitability. It's very important that you understand that, okay? We're not using capital below our cost of equity. So we're being very tough on that and that's exactly how we manage that. And then, Jose, I would like to..."
+  },
+  {
+    "person": "Jose Garcia",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "A quick comment. The mortgage dynamics in the U.K. seem to suggest that margins in this business will pick up substantially from the fourth quarter of this year into next year, just as an additional comment. Brazil cost of risk, we still believe the cost of risk this year should be somehow below cost of risk last year. Remember that when you look at cost of risk quarter-on-quarter, it was a substantial increase in the fourth quarter when we look at year-on-year X the fourth quarter and we look at cost of risk for the full of 2024, we would expect to see an improvement in the cost of risk."
+  },
+  {
+    "person": "Jose Garcia",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So year-on-year because the fourth quarter will come out in the fourth quarter of this year, you should see the most significant improvement in cost of risk in the fourth quarter. And then provisions in the U.S. are normalizing. Cost of risk this year should be somehow around 2% or slightly below 2%."
+  },
+  {
+    "person": "Begona Morenes",
+    "role": "answerer",
+    "position": "Director, IR",
+    "text": "Thank you. Can we have the last question, please?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Last question from Alberto Negro [ph] from Mediobanca. Please go ahead."
+  },
+  {
+    "person": "Unidentified Analyst",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes. Thanks for taking my questions. I have just a few follow-ups. So the first one is on U.K. If you can give us more color on the contribution of the U.K. structure hedge in the second half of this year and in next year? And the second one is, again, on Brazil following your comment on the change of the loan mix. Should we expect normalization of the cost of risk in the next year and see an absolute decline of total provision next year? Thank you."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Okay. In terms of Brazil, we're changing the loan mix, but we are very flexible and very dynamic in the way we change the loan mix over there depending on what we are seeing and how the vintages are behaving, okay? So if we see that Brazil basically, and we're starting to see positive signs of how the mass market basically reacts, is inflation is coming down and we see the rates coming down. We might change the mix again, and we might be a little bit more aggressive."
+  },
+  {
+    "person": "Hector Grisi",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "And I couldn't tell you up at this point, what are we going to do because we revised the strategy every single month of what we do and also the pricing okay? So I don't know what the mix is going to be in Brazil in '25, but I must tell you that we're working in a very dynamic way. It's a very dynamic market, and you need to be on top of it, all right? So I couldn't tell you at this point, but I mean, everything basically is -- and we do change the mix to sustain the cost of risk at the reasonable levels, and that's the intent that we have in order to manage that, right?"
+  },
+  {
+    "person": "Jose Garcia",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So U.K. NII, I think I gave you all the details to calculate that. I gave you the maturity, the rates, the amount and everything else. In terms of cost of risk in Brazil, rates this year are expected to stay at 10.5% by year-end, but to drop significantly next year and that should help. In addition to the structure of the balance sheet, lower rates next year in Brazil will help not only in terms of NII, but also cost of risk. It will be a gradual improvement. We need to see exactly how we will build the business in 2025 in Brazil, but definitely lower rates should help."
+  },
+  {
+    "person": "Begona Morenes",
+    "role": "answerer",
+    "position": "Director, IR",
+    "text": "Thank you, Jose. Thank you, Hector, and thank you all for your attendance. And if there are any further questions, Santander Investor Relations team, is always at your disposal for anything that you may need."
+  },
+  {
+    "person": "Begona Morenes",
+    "role": "answerer",
+    "position": "Director, IR",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

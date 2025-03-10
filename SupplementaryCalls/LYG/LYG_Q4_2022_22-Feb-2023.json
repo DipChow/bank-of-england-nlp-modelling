@@ -1,0 +1,584 @@
+[
+  {
+    "person": "A - Douglas Radcliffe",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, Charlie. We've set aside about 45 minutes for Q&A. And in line with normal practice, if people could mention their name and indeed their company. Please, could you also wait for the microphone to actually arrive so that everyone online can also hear your question. Why don't we start with Guy?"
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "A couple on net interest margin. First, in terms of the net interest margin trajectory over the course of 2023. Thanks for the helpful comments in terms of stabilization and never below 300 basis points. But if we think about the different building blocks, it does feel like the second half of the year should be fairly constructive. I say that because the hit you get from liability spreads compression maybe is more front-end loaded, given when rate hikes came through. Mortgage spread churn, I think you talked about 8 basis points in the final quarter. I would assume that starts to get less over the course of the year, whereas the structural hedge tailwind starts -- it continues the year, and actually given the maturity profile you talked to, suggest it could be quite back-end loaded. So I just wondered whether it could be even slightly better than stable once we've rebased in -- over the first half of the year as we think about Q3 and Q4? Or am I getting too optimistic in some of my assumptions around that?"
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "And then secondly, still on margin. Just in terms of how we could think about deposit moves and the structural hedge notional. There was quite a big deposit reduction in the fourth quarter, but it was driven by commercial deposits on hedge deposits. So in terms of what you're seeing to date in terms of what you expect to see in the next few months, how are you thinking about the hedgeable deposit component and the experience today? Is there anything there that's surprising you in terms of customer behavior?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "Thanks, Guy. Should I kick off on that, Thank you, Guy, for the questions. In terms of the margin, first of all, and then I'll come to structural hedge. The -- couple of points. First of all, bear in mind that our margin guidance is built on our macroeconomic assumptions. So that's a start point, and I think that's an important point perhaps to make."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "Secondly, just to lead into your building blocks, Guy. Whereas we see the margin over the course of the year, we moved from a 294 margin for the whole of 2022, an exit margin of 322 in the course of Q4, to margin guidance of greater than 305 for 2023."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "What's going on there? It's essentially about a series of headwinds, a series of tailwinds that we have built into that margin guidance. If I take each one in turn. The headwinds that we see, we see fewer base rate increases per my macro comment just now over the course of the year. That, in turn, leads us to have lesser lag benefits versus what we have seen, particularly in the back half of 2022. Likewise, we do expect to see a certain amount of turnover in terms of PCAs rebalancing into savings accounts as effectively depositors' seek higher-yielding returns. And we plan for that in the context of our margin."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "Alongside of that, you mentioned the mortgage headwind. The mortgage headwind is quite significant during the course of this year. It's also quite significant during the course of next year, 2023 and 2024. We do think that once we pass that, we've gotten past the mortgage headwind. And at that point, you start to see the effect of that. But for 2023 and 2024, that mortgage headwind is quite considerable off the back of the very attractive rate business that we wrote in 2019, 2020 and now come to the end of 2-year fixes, and therefore evolving into mortgage margin, mortgages spreads, which, as you know, are much lower now than they were then."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "There are 1 or 2 other factors going on, including increased cost of funding on the wholesale side, in particular, but also act as, I suppose, marginal headwinds. But then the main tailwind that we see here in quarter '23 is, as you identified, the structural hedge. But most of that, we've got about GBP35 billion of maturities this year. Most of that is back-end loaded, i.e., it goes on in quarter 3 and quarter 4 of the year. What that means for the margin is that we expect the margin to be actually pretty healthy in Q1, but we expect these headwinds and tailwinds to play out very much in the course of quarter 2 and therefore, to land in a pretty sustainable place actually, for quarter 2, quarter 3, quarter 4, through the course of '23, in line with my comment earlier on about not falling below the 300 mark. So that's how we see it playing out."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "What do we see as the dynamics within that? Again, I would just stress the macro assumptions that we're making in that context. I would also, just before moving on, make the point that I think your dynamics, as you see them unfolding, Guy, are right. But I think they're possibly playing themselves out over a slightly longer time frame versus the way that you're articulating it. So that's hopefully helpful."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "Structured hedge. Structural hedge is interesting. Deposit outflow is a part of that question. I suppose just to put a bit of kind of high-level context on this. When we look at the deposit book, we've got GBP475 billion of deposits, and we saw GBP1 billion of outflows during the year. So I realize this is about a Q4 discussion rather than a full year discussion. But nonetheless, it's important, I think, just to bear that context in mind, GBP1 billion of outflows of the back of GBP475 billion book. But the story, as you rightly identify, is about what happened within Q4 and how much should we be troubled by that or challenged by that."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "We saw deposit outflows of GBP9 billion in Q4. That was split between commercial banking of about GBP6.5 billion and retail outflows of about GBP1.7 billion. What went on there, first of all, commercial outflows, which is the big number within that GBP9 billion. Three things essentially. One is we flagged at Q3 that we expect to see short-term placements come out of the system during the course of Q4. And indeed, that is what we saw. It was pretty much in line with our expectations. The second is that we manage the commercial book, just as we do all books really, but the commercial book in a commercial way. That is to say management pricing actions are part of the story. And so we saw some particularly rate-sensitive deposits that were less valuable to us, these are booked during that time."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "And then finally, we saw an element of seasonality, to an extent clients managing year-end balances. Now relating that to the structural hedge, None of that commercial balance outflow was really structural hedge eligible. So from a structural hedge point of view, we don't see that as fairly much of a challenge."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "The retail side of the equation, overall, we saw a slight outflow in Q4 from PCAs, about GBP1.7 billion or so. Notionally, that should be structural hedge eligible, but the vast majority of outflows, as you can tell during that Q4 period are not related to the structural hedge."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "Looking forward, as you know, the structural hedge currently stands at GBP255 million. We felt very comfortable about our GBP30 billion buffer. We decided actually to take GBP5 billion out of that and put that infrastructural hedge. So it's now GBP255 million. As we look forward, we see deposit flows, again, a little movement from PCAs into savings as savers seek better returns. But equally, we think our offers will attract both new and existing money within the savings accounts. So I think we see deposits being kind of flat to modestly up during the year. And again, that gives us some comfort about where we are with the structural hedge."
+  },
+  {
+    "person": "Douglas Radcliffe",
+    "role": "answerer",
+    "position": "Group IR Director",
+    "text": "Omar?"
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Crédit Suisse",
+    "text": "I just had a question about how you're thinking about deposit costs going up. You mentioned the lagged impact from the Bank of England rate changes. And we saw the start of deposit migration in October and November. And I guess we're trying to model something that we haven't really seen really play out yet, and it took us a couple of years to get to where we are. but then rates have never gone up so quickly. So I was wondering if you could help us think about how you have thought about deposit migration. How quickly you think that will happen to what extent? And is it colored by polling customers or I just wonder how you arrive at those assumptions. So I'd love to know what you're assuming and how you've assumed it. And then just secondly -- sorry if I missed it somewhere in the material, but is it possible to give us a year-end position on the pension deficit, if it's been updated? Or will you have a rough estimate?"
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "Thanks, Omar. Let me take the first one, and it's a great question because as you say, this economy in the last 20 years hasn't been through this kind of a rate cycle. We talked last year about our view on this, which was partly informed by, obviously, the U.K., but also what I've seen in other rate cycles. And at this stage, we think it's playing out very in line with what we discussed last year, but let me just give you the outline and then you can see if there's a follow-up."
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "The first thing we talked about is normally you see certainly on individuals, commercials and businesses are slightly different, but the core of our balance sheet and our structural hedges is underpinned by our retail customers. They become more price sensitive in a rate-rising environment, around the 2.5%, 3%. And actually, that's exactly what we saw, and we talked about last year that the vast majority of our customers by number, not by value. have actually really quite small deposits and savings balances. And so the real sensitivity doesn't kick in into about a 3% base rate. And that's what we saw happening in kind of Q4 last year. There was more sensitivity in customers looking for value on their savings with us but also switching between different financial services providers."
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "The second thing we said was we would recommend and this is certainly how we think about it. But as we get deeper into the rate cycle, we'd be thinking about a 50% pass-through. Now I know that's a very blended set of assumptions. That includes churn out of current accounts at almost 0% rates as well as customers putting money into time deposits and various saving building products. But for us, as you know, will pay 3% to 5%. So there's a set of assumptions around churn where customers are putting their money and what the rates are. But we still think actually that's the right way of thinking about this."
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "Our experience is that takes a few years. And if you think that in our baseline assumptions, rates are peaking now at 4%, and we're stabilizing at about 3% in 2024. That 50% pass-through the rebalancing customers placing their money in the right place will happen with that kind of 3% target. So when we think about a 50% pass-through, that's where we're looking at, and we think that will continue to play out through 2023 and 2024. And certainly, that's what's the foundation of our assumptions. Obviously, it's incredibly dynamic market. It's competitive, as you know, in the U.K., as in other markets. And we don't have recent history. But actually, at this stage, we feel really confident it's playing out as we expected. And we have the tools to be able to compete for retail and commercial deposits as we go through this next period of time."
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Crédit Suisse",
+    "text": "If I just had that right, it's a cumulative 50% pass-through playing out over 2 years..."
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "With a landing point of 3% base rates, which is our assumption at the moment."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "Omar, you asked about pensions as well just before we move on. In short, the expectation for the pension deficit at the end of 2022, which as you know, is the final year of the triennial when we negotiate. We do not have a certain number for that right now. It's being finalized, but our expectation is that, that comes in south of GBP2 billion, below GBP2 billion. That's off the back of considerable contributions, as you know, over the course of the last 2 or 3 years, including in 2022. It's off the back of asset performance on the back of the rate changes that we've seen. But again, we are very confident that it comes in below GBP2 billion. What does that mean? That means that while we expect to continue to pay about an GBP800 million fixed contribution during the course of '23, just as we did in '22 and the years before that. We are very hopeful that we will not have to pay any further variable contributions, including in 2023. ."
+  },
+  {
+    "person": "Douglas Radcliffe",
+    "role": "answerer",
+    "position": "Group IR Director",
+    "text": "Raul?"
+  },
+  {
+    "person": "Raul Sinha",
+    "role": "questioner",
+    "position": "JPMorgan Chase &amp; Co.",
+    "text": "It's Raul Sinha from JPMorgan. Can I have 2 questions as well, please. The first one, obviously, when we look at the net interest margin progression in Q4, the structure has tailwind of basis points. was completely offset by the mortgage margin compression. And looking at the asset side of the balance sheet, I can't have been worried about the pace at which you're seeing some of these trends play through. So if you look at your mortgage book, the back book churn is 25% on the SVR book. Can you talk to us a little bit about what you expect there going forward? When we look at your completion margin was only averaging 50 basis points. And if you look at some of the pricing trends so far in Q1, I mean, there's a Halifax product, which is only 20 basis points above the 5-year swap rate. So it looks like the asset spread compression might actually get worse. So if you can talk to us a little bit about how you expect the pressure from the asset side to evolve this year? That would be really helpful."
+  },
+  {
+    "person": "Raul Sinha",
+    "role": "questioner",
+    "position": "JPMorgan Chase &amp; Co.",
+    "text": "I guess the second question is around what you expect your deposit balances to be this year in terms of outflows. So I appreciate they're only down GBP1 billion last year and obviously, some of that outflow in Q4 on the PCA side was surprising. But in terms of the decision not to guide to a change in the hedge balances going forward, which one of your competitors did. What assumption are you making about your deposit balances?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "Should I kick off on this?"
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "Yes."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "Raul, thanks very much, indeed, for the question. First of all, the way the mortgage book is playing out, the refinancing of the mortgage book is not really a surprise. I feel -- I think we flagged it quite well last year and indeed through the course of 2022. So the way that's playing out is a little surprise in the sense that we took a lot of products that was add margins of anywhere between 150 to 200 basis points written during the course of, again, '19, '20, '21 which is now evolving or rather refinancing in the context of spreads that are, as we discussed today, 50 basis points on average Q4. I'll come back to that in a little more detail. But nonetheless, the thematic of that unwind is not a surprise. I think what is slightly accentuated versus where we sat here when we sat here last February, is completion margins are below our 75 to 100 basis points range. And so it's refinancing into a slightly tougher yield environment on mortgages. And that's true. And we talked last year about a mortgage headwind of somewhere between GBP1 billion to GBP2 billion playing out over the course of a couple of years. That number now looks a shade above the GBP2 billion. As we play out in 2023 and in 2024. So you can see circa GBP1 billion a year by over illustration. ."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "Now having said that, that is all firmly embedded in the margin guidance that we have given, including the fact that we are assuming working on an assumption of less than the 75 to 100 basis points in our mortgage completion margin expectations for the remainder of this year and going into next. So that's baked into the credit and 305 margin guidance that we've given."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "You asked about back book terms in that. Yes, we have seen back book than starting to accelerate. But 2 points to bear in mind. One is it's very natural to expect some of that in the context of a rising rate environment, you do indeed get some customers who want to refinance on to new fixed rate deals. And indeed, we are playing our part and encouraging that via communications to those customers and indeed facilitating product transfers. So we are very much staying in that relationship and we see it as part of our customer duty to ensure that customers are aware of and able to switch where they see it as appropriate. So that back book churn has increased as a percentage. The second point I was going to make there, Raul, is part of the reason why it increases then in some cases, as the balance is being refinanced and not changing that much. What you're getting is a lower and lower denominator. The back book is shrinking in size, so a given chunk of refinancing represents a bigger percentage of that size. As a result, you're seeing a little bit of an uptick in terms of refinancing loads, but not as much as the percentage numbers might sometimes suggest. So that's going on. Again, that's expected. In some respects, it's welcome. We seek to remain in those customer relationships. And more importantly, it's built into the margin guidance we've given you. You asked about completion margins 50 basis points there's quite a dynamic going on there that's worth spending a moment on."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "During the course of October, we as the biggest U.K. mortgage lender stayed in the market. We stayed in the market at a time when many of our competitors came out of the market. We felt that it was our duty to still be there. As a result, we were operating in an environment of highly volatile and elevated swap levels, compressing mortgage margins. Because of our competitors coming out of the market, we also took quite significant volumes during that time. What that meant was that if you look at the overall completion margin within Q4, you've got an outsized contribution from that October event, but the spread of new business margins in particular in November and December were much more favorable the trouble was, as you know, the volumes are much larger in that time. So our overall 50 basis points for Q4 includes an outsized contribution from October, but then lower contributions are much more favorable margins in November and December. And as we see that dynamic evolve into the first part of this year, Raul, we are seeing new business application margins in the 80 basis point type levels that have been talked about in the market. So we are seeing a favorable development of new business application margins in the course of a last couple of months Q4; and b, first month of this year."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "Final point that I'd add on there is at the same time, we have -- because we've got a big fixed very book maturing, quite a lot of product transfer opportunities coming along. When you see those product transfer customers, customers that we know decent asset quality opportunity to extend the relationship. We are prepared to take a slightly lower margin off the back of that customer product transfer opportunity because of those factors. And that will influence our margin a little bit over the course of the year. And again, that's partly responsible for our margin expectation being below that 75 to 100 basis points corridor. We want to stay in with those customers that are product transferring because we think they're good customers, and so we will. Overall, that's what completes the kind of mortgage margin picture."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "The other point you mentioned more broadly asset side, Raul. The other point I'd add to that is we do expect some growth in unsecured balances this year. We do expect some growth -- some growth in unsecured balances next year, too. And that starts to play into the margin less so this year, to be clear, more so in 2024, but that does start to have an effect, so it completes your kind of asset side picture."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "Deposit balances, I'll make one brief comment, Charlie may wish to add. You asked essentially what are the background assumptions on deposit balances essentially flat to modestly up. That's if you net off PCA is migrating somewhat to savings rate benefits being sought after by customers offset by savings offers. And then within the commercial business, probably a little bit of tracking down within BCB SME. But equally, as we build transaction banking and other areas within CIB are that are tracking up. So again, flat to modestly up within deposits, which then informs a structural hedge stance."
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "So the only thing I will build is an optimistic strategic view, which you'll -- you've got used to listening to from me, but Hopefully, what you can see through these tailwinds and headwinds and then the question on asset pricing is '23, '24 is, I know it's complex. We've got a set of legacy and higher-priced mortgage businesses repricing, which I think has been a nervousness in the market for a long time around how does Lloyd's weather through that. We think we'll be largely through that through this period of time. We think there is -- we're competing and showing we can compete and be resilient around the liability side of the business, which enables us to build the structural hedge, which becomes this engine of growth, as William talked into '24, '25 and '26. So that gives us real resilience and a cleaning up on the legacy mortgage business, if I can use that language."
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "We then have the strategic initiative that we're remaining committed to layering on additional income growth for Lloyds Banking Group, which is why we're generating stronger capital and cash distribution. And then at the same time, the GBP7 billion pension deficit we had in 2019 we think we'll be largely through this period as well, subject to the Triennial discussion with our trustees, which means the capital we do generate is more available for our Board to talk about distributions."
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "And if you look at that dynamic collectively, we're really building a strong engine of strong cash and potential for cash distributions to shareholders that is very resilient when you then look forward on the balance sheet and the economic conditions we're looking at."
+  },
+  {
+    "person": "Douglas Radcliffe",
+    "role": "answerer",
+    "position": "Group IR Director",
+    "text": "Rohith?"
+  },
+  {
+    "person": "Rohith Chandra-Rajan",
+    "role": "questioner",
+    "position": "Bank of America Merrill Lynch",
+    "text": "It's Rohith Chandra-Rajan, Bank of America. A couple of quick follow-ups, please, if I could. Just quickly to follow up on the mortgage discussion. On that back book attrition, so that was 17 -- check my numbers now. Sorry, it was -- so that was GBP10 billion in the second half of 2022. How do you expect that to evolve going forward? And then the second one was just on the pension contribution. So William, I think you said you expect the GBP0.8 billion fixed contribution to continue and you've got nothing in for the variable contribution. Does that include the final distributions for 2022, which will be paid in 2023? And is all of that reflected in your 175 basis points capital generation?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "Yes. Thanks, Rohith. First of all, on the SVR book, we've got about GBP48 billion or so of SVR book left now. We are seeing refinancing of between GBP4 billion to GBP5 billion per quarter. I mentioned oral that although the percentage of 25% may be ticking up, that's because the GBP4 billion to GBP5 billion is staying steady and the denominator is declining in size. So that's what's going on there. I think, Raul, as we look forward -- Rohith, sorry, as we look forward, I don't think we see terribly many changes in that. I think we expect to see a similar kind of pattern as we roll forward of about the same rate in absolute terms, which might mean a slightly higher rate in percentage terms, as I say, fair enough because we see those customers as, in some cases, having very low balances, happy to stick with where they are, value the ease with which they can give and take with respect to an SVR, Other customers want to switch into fixed and we'll be there to help them where they do. So hopefully, that addresses that point."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "On the pension contribution, as you say, GBP0.8 billion, GBP800 million fixed contributions we're expecting this year, that is before you get to circa 175 basis points guidance, that is already assumed in our run rate P&L, if you like, the 175 basis points is on top of that. As you say, in 0 variable rate is our expectation. Now as Charlie has pointed out, and we must not forget this, we have yet to finalize negotiations with the trustees. But we have fairly frequent conversations with the trustees, and we hope that, that will result in the outcome that I've described. So that is our expectation."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "In terms of what effect, if any, are there any other impacts on the 175 basis points capital from the pensions issue? No. The GBP425 million that we put at the tail end of last year was out of the capital that we generated in '22, not out of the capital that we will be generating in '23. So the circa 175 is after all of what we've done in terms of the GBP2.25 billion that we put in, in 2022, and we start again. And as I said, the GBP800 million is already deducted before you get to that 175."
+  },
+  {
+    "person": "Douglas Radcliffe",
+    "role": "answerer",
+    "position": "Group IR Director",
+    "text": "Thank you. Just before I take any more questions from the room, there are a couple of questions that have come in online. The first one is from Jonathan Pierce. He says, obviously, lots of sizable TNAV tailwinds this year. Can you comment on whether in aggregate, you think consensus TNAV of 52p December 2023 is about right or whether your ROTE guidance is struck on a different denominator to the market?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "Yes. Thanks. Thanks, [indiscernible]. We deliberately spent a bit of time on TNAV in the comments that I made, as you can tell. What did we see during the course of 2022 a number of factors, the buildup from attributable profit, of course, which was welcome. But at the same time, pension surplus slightly changing shape, hit it. The cash flow hedge reserve declining, are you going into negative territory off the back of rising rates, again, hit it. When you add to that, the impact of dividends and other distributions, there was a further impact again on TNAV. You then get the start point being adjusted by IFRS 17. So that's the start point, which we haven't given precise numbers on the IFRS 17 today, but you get the direction, I think, from the appendices to the presentation that we put out you're looking at a start point around 46, 47p type territory. We then see significant build in the factors that I mentioned earlier on. The adjustment in rates starts to lift the cash flow hedge reserve. The business growth that we expect to see starts to build capital within the business, again, lifting the cash flow hedge reserve. The pension surplus builds. Likewise, the buyback when we distribute excess capital, we'll build the TNAV per share. Those factors are going to lead, as I said in my comments, to positive and material developments within TNAV. And although I'm not going to comment on consensus in quite the way that Jonathan would like, we are putting the comments into my script on TNAV for a reason. It is not necessarily going to make up all the difference between what some people see as content for IoT and what we're projecting for 2023, to be clear. But nonetheless, it closes some of the gap. And so we're putting the tenor comment in for a reason."
+  },
+  {
+    "person": "Douglas Radcliffe",
+    "role": "answerer",
+    "position": "Group IR Director",
+    "text": "Another question came in from Andrew Coombs. You guide to the ROTE improving from 13% in 2024 to greater than 15% in 2026. And even though rates are widely expected to decline during this period. How do you rationalize this? And what are your base rate assumptions? ."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "Should I kick off you?"
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "Yes. go."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "Thank you for the question, first of all. What do we see as happening as we go forward into 2026. A couple of points. One is our assumptions on the macro are as laid out. Some will have a different view of rates to us in particular. That's probably the one that I'll draw attention to. Having said that, as I said in my comments earlier on, compared to the data that we had when we struck the economic assumptions at Q4, the data that we've had in since then during the course of January has been a little bit more positive at a general macro level. Let's see how that plays out, but that's probably been the trend of things so far. ."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "Going into 2026, specifically what happens. Again, we've given our macro assumptions. What is going on there at an income level is that some of the headwinds that we see, particularly to net interest income are exhausting themselves. We talked a lot today about the mortgage margin, for example, or the mortgage pressure on the refinancing of the mortgage book. That plays itself out by the time we get to the back end of 2024."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "The second big factor that is happening through the course of the next couple of years and continues to build is the refinancing of the structural hedge. We have GBP35 billion of maturities in the structural hedge in '23, we have GBP41 billion of maturities in the structural hedge in 2024. We then have ongoing maturities of the structural hedge well into the 40s in the years thereafter. The cumulative impact of that on our net interest income is considerable. And it doesn't much matter whether rates are or . Whatever they might be at that year, it is still considerable because the current yield that we get on the structural hedge is 1.13%. So it does not take much to build in considerable tailwinds to your income developments in the years thereafter. And as you get closer to 2026, they become increasingly powerful."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "What else is playing itself out? Again, we get headwinds in the next couple of years like operating lease appreciation, for example, the way in which the Lex fleet builds, the way much used car prices come a little lower than what they've been in the last couple of years provides an operating lease depreciation this year and indeed next year. That plays itself out by the time we get to '24, '25, '26. And then we see the cost base developing in a similar sort of way to the way that we've described to you before. That is to say we get past our investment peak number one. We see the benefit of some of the strategic investments cost saves, paying themselves through number 2. And allied to the BAU cost saves that we see, we see operating leverage within the business rise by which I mean those positive income trends allied to some of the savings that we're continuing to make on an ongoing basis and a cost base starts to build significant operating leverage within the business. That gives us high conviction in the expectation that ROTE in 2025 starts to build to the excess of 15% that we portrayed by '26. So hopefully, that answers the question."
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "The only -- as just the only build, because it's exactly the right question, it's what I was trying to get to when you look at the online engines playing through the balance sheet and then the business is, obviously, if you look back at Lloyds Banking Group in 2018 when they were 0% rates basically with the Bank of England, we were near 300 basis points of return on our NIM at that stage. So we really do have a balance sheet and a customer franchise that can sustain healthy returns. And then when you overlay the dynamics that William just looked on, that's why we have the confidence about the 2026 go-forward position."
+  },
+  {
+    "person": "Douglas Radcliffe",
+    "role": "answerer",
+    "position": "Group IR Director",
+    "text": "Aman?"
+  },
+  {
+    "person": "Amandeep Rakkar",
+    "role": "questioner",
+    "position": "Barclays Bank",
+    "text": "It's Aman Rakkar from Barclays. Sorry to labor the discussion around NIM. Your color around the mortgage margin is really, really helpful in terms of kind of what took place in Q4. But presumably, that's going to play out in the NIM that you print in Q1, your suggestion and some of your comments was that the Q1 in is going to be pretty firm, which makes sense given you've got the residual effect of base rate hikes, so I think your guidance probably suggests something like a 20 basis point step off in NIM in Q2, maybe 15 to 20 basis points to kind of sustain the full year guidance that you're pointing to. Can you confirm that kind of quantum step off? And can you help us just apportion exactly what's coming from mortgages versus a deposit catch up? I think we need some more detail about exactly what you're assuming in terms of mortgage maturities in terms of a catch-up on deposit costs and mix because it's really quite a remarkable step off in the NIM. ."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "Yes. Yes. I'm going to be able to partly answer that question for you and partly not answer it for you, I'm afraid. So what do I see -- what do we see rather going on during that time. I portrayed the main factors, the kind of puts and takes over the course of the year. It is the case that we have made already some pricing decisions in terms of pass on to depositors that have been, if you like, announced but not yet impacting the margin. They will pay their way through during the course of Q1, but particularly during the course of Q2, as you start to get full quarterly effects as opposed to partial effects. That's a big part of it playing out. ."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "Second part, when you look at the mortgage role, the impact of the mortgage roll depends upon a particular cohort that is being refinanced at any given moment. So if you look at the mortgage role in quarter 4. It was around 1.55% -- 1.55% yield for that cohort. If you look at it in Q1 and Q2 of next year, it's losing more like 1.8%. So the particular cohort that you're refinancing at any given time makes quite a big difference on the margin dynamic within that quarter. What else is going on? It really just is the -- again, the macroeconomics that we have portrayed there. If you don't get the base rate changes in quite the way that we paid them out or rather put it another way, you get base rate changes that exceed those that we played out, you want to see that make a difference on the NIM, that will reintroduce some of the factors that we saw during the tail end of last year."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "So overall, I'm not going to give you a precise number for how it's going to roll off from Q1 into Q2, Aman. But you get the inputs, if you like, to that point. pricing changes, mortgage cohort refinancing, macroeconomic changes, they play their way through. And yes, there is a solid step off for a better word, between Q1 to Q2. precisely what that will be, it depends upon how things play out including current pricing in the market, what will mortgage spreads be as we refinance a large part of the book. As I said, new business applications, they're looking pretty good, but we also want to maintain product transfer share. So there's a lot of variables to play here, but a solid drop-off between Q1 and Q2, I think is a fair expectation."
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "And William just -- because I know you said it earlier, and then the fact that the structural hedge is delayed until the second half in terms of the positive impact that will have. So that's why we think there's stability and resilience in the back end of the year, as William said previously."
+  },
+  {
+    "person": "Amandeep Rakkar",
+    "role": "questioner",
+    "position": "Barclays Bank",
+    "text": "Can I just get a second on the legacy book exit GBP2.5 billion. Two questions. What kind of impact should that have on things like NIM, for example, that we should be thinking about? The second is that looks like a derisking strategy around risk weight inflation under stress. Why are you doing that? Are you worried about the impact of the stress test on the PRA buffer or your target cap ratio. What are you doing it?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "It's a good question, Aman. It's worth putting in the context of the overall way in which we manage capital than business. When we look at what assets we finance on the balance sheet versus what assets we finance off the balance sheet, there are occasionally opportunities to grab value, if you like, from taking assets off the balance sheet and refinancing them into the capital markets. That is a practice, which, as you know, we've long undertaken within the commercial business as we sought to manage what we described before as the tale of the commercial business, are there ways in which we can enhance value for the business and ultimately, shareholders by taking business into capital markets versus financing it with all of the regulatory capital charges that we get on balance sheet."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "Same analysis applies to the mortgage book. Where we see a piece of the mortgage book that is, if you like, unduly penalized by regulatory capital charges, there are going to be cheaper ways of financing that mortgage book by taking it off the market. And that's essentially what we did with the legacy book of GBP2.5 billion that you described. We were very pleased with it because essentially, it is an NPV-positive transaction from our perspective. It creates value for our shareholders. It also has the side benefit of lightening up on our ACS charges next year. It's not a huge book, so it's not going to be huge in its impact. But this is a book that soaks up quite a lot of stress capital in the context of the PRA ACS exercise getting it off our balance sheet, so the margin is helpful."
+  },
+  {
+    "person": "Douglas Radcliffe",
+    "role": "answerer",
+    "position": "Group IR Director",
+    "text": "Ed?"
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "It's Ed Firth here from KBW. I just have 2 questions. One was a detailed question. I noticed your Stage 3 balances in the SME, but were down a lot in the quarter. I just wondered if you could just to highlight what was driving that, I guess, would be the first question. And the second question is, it seems sort of strange, I guess, at the moment, but I'd like to ask about costs. And in particular, flat BAU costs, and I'm just wondering how comfortable you are that, that is good enough. And I guess the background is we've rather lost sight of the digital new entrants year the last year as everybody has made a fortune on NII. But they're still banging away in the background, and then talking 30%, 40% returns on equity. They're all massively deposit long. They're all now producing some pretty extraordinary offers and delivering of margins that I suspect you would really struggle to compete with. So I'm just wondering, how comfortable are you that over the next 3 to 4 years? One of the problems we're having on deposit pricing is actually the massive new entrants with cost bases that are way lower than yours?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "Sure. Thank you, Ed. Should I take the first couple of those hand over to you for the..."
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "Yes."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "Stage 3 balances first of all, Ed, and then I'll talk briefly about the cost base before handing over to Charlie on the competition point. Stage 3 balances, as you know, have been very consistent actually through the course of the year. So Stage Street balances, we had GBP10.75 billion at the end of the year that's versus GBP11.4 million thereabouts in September. Interestingly enough, state balance is, therefore, going down during this time. And actually, if you look back at them after the 1st of January 2022 adjustments, they've been stable right the way through the year. If anything, they've been coming down through the course of the year in its totality across all the businesses. So we're pleased with the performance of the book and Stage 3 balances are a testimony to that point. There is a broader point around performance of the book as a whole, which as you know, we took about a GBP1.5 billion charge during the year. About GBP500 million of that was a net MES charge, about GBP915 million was underlying. And that underlying also being influenced by things like Stage 1 roles, as I mentioned in my comments earlier on. So the reason I say that is just to reinforce the point that the underlying performance of the book across all of the retail and commercial aspects of it, has been very benign during the course of the year, and we've been very pleased with it so far, albeit we clearly have to remain vigilant in the context of a taking economic environment. ."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "On SME, in particular, that's been subject to those same trends,. There has been a similar pattern within overall SME performance. So far, it's been pretty good. I mentioned in my comments that things like invoice financing data days, for example, have been very stable, the use of overdraft revolving credit facilities, likewise, it's all been pretty benign. The other bit of -- the other bit of noise, if you like, that we get within the SME business, when you look at Stage 1, Stage 2, Stage 3 is bounceback loans. Those are sometimes responsible for slightly different numbers than you might first expect it's still categorized according to the accounting stages, albeit we don't incur the loss. Clearly, if the bounce-back loan does go bad. So that may be behind your question."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "On the cost point, just very briefly, when we look at the cost base for 2023, we put forward ; 2024, . As you know, that's about GBP400 million in excess of what we said in February of last year, which was . What have we seen there? We built into our budgets, cost increase expectations of around GBP300 million over that time. We think we're going to get closer to GBP900 million to GBP1 billion somewhere. That's about GBP600 million in excess of what we expected, i.e., the difference between GBP900 million and GBP300 million. We're going to be offsetting that about GBP200 million of that. We're going to be taking a drawing about GBP200 million of that. That's the GBP1.2 billion that Charlie referred to in his comments. But we're going to let about GBP400 million flow through. We actually think that's pretty good. In the context of the inflationary pressures that we absorbed in '22, we're going to up our savings, again, a further GBP200 million to offset a material amount of the inflation that we expect to see I think it is a testimony to the discipline in the group and the efforts of the cost savings that we see in BAU and the strategic initiatives."
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "Great. Let me come to the strategic question. First of all, thank you for a non-NIM rate cycle question. It's great to get it. I think it's good to point us back to that. And so just a couple of thoughts because I think this is a discussion we're going to continue to have all the way through the next few years to get. But I think it's right, the fintech and the neobanks do have that lower cost point. A couple of thoughts from my side. Firstly, interestingly, through the last 6 months and then as we look forward, there's always been smaller players, actually, the building societies and smaller banks and now some of the fintechs that have been -- they've needed to look at higher rates to attract the funding, that's not the biggest area we see our customers going actually. They're still choosing between the big High Street banks when we look at the big volumes. That's not to be complacent."
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "But just when you look at the competitive dynamic, if customers were really chasing with their money, higher rates, they have already been going to an alternative provider even in the last 12 or 18 months. And as you know, the vast majority of our customers only have GBP1,000 to GBP5,000. So there's a -- that's the first thing I think is important, which is in terms of savings and rates. They aren't our biggest competitor today, but we certainly need to continue to stay focused on them."
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "I think the second thing is you just need to unpack our businesses a bit and where we make money. And I think there are 2 businesses where I think what you're laying out, we see -- we agree is where there's a really strong focus around building more digital engagement and efficiency, and I'll give you those that in a second. But there's other businesses that are quite different. Let me give you 2 examples. Our asset businesses, so mortgages, cards, loans and the transport business. Today, when you look at -- which is where over the last decade, the majority of the economic profit in the industry has been 80% plus up to 100% of those products are distributed through third parties. They're not to relationship bank customers. The basis for competition there isn't about the fintech game. And in fact, the fintechs actually don't really participate in that."
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "And interestingly, when the rate cycle comes back the other way, which we all need to be thinking about with my GBP800 billion balance sheet, I'm worrying as much about the next rate cycle as I am this one. That's how you build sustainability of returns. Similarly, in our Corporate and Institutional Banking business, which we think we're seeing good early momentum around and we think can be very accretive. Again, it's not really a cost income gain that they can compete in. I think the 2 businesses, which is why the strategic focus there has been very focused in our strategy is around our core relationship brands and in our SME business. And that's really where the fintechs, the kind of ones you're talking about have been focused."
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "The great news is that we have the biggest digital bank in the U.K., our digital engagement is growing faster than anyone else's. And today, we have a breadth of products and an ability to serve customers at scale that no one else does. The challenges the 1 you've laid out, which is the fintechs are coming with a different operating cost and model. How that plays out over the next few years, we're very, very focused on it."
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "From my perspective, the efficiency and where we really build our propositions for parts of the market that want a digital-only service, we absolutely have within our strategy of building out those service models. I don't -- it doesn't fully answer your question because we could spend the rest of the morning talk about it but I don't know if that helps. I certainly don't think you need to unbundle the big asset businesses on the retail side from the relationship banking, transactional banking businesses. and then the other parts of our business model that really generate through-cycle returns and think that the other side of the rate cycle for those businesses. But thanks for the question. That was nice."
+  },
+  {
+    "person": "Douglas Radcliffe",
+    "role": "answerer",
+    "position": "Group IR Director",
+    "text": "Excellent. There's a couple more questions I want to take before concluding. So Chris, I know you've had your hand up for a while."
+  },
+  {
+    "person": "Christopher Cant",
+    "role": "questioner",
+    "position": "Bernstein Autonomous",
+    "text": "It's Chris Ken from Autonomous. One quick point of detail and then another one thinking about your 2026 ROTE, please. So could you just give us a sense of within your non-SCR mortgage book, how much is 2-year versus 5-year just so we can think a little bit more about how that book churn progresses from a volume perspective. Obviously, you made a comment about the variable NIM, but just in terms of volumes, that would be helpful. And then on the 2026, I guess your future gazing a little bit there in terms of how the broad deposit trends play out in a higher rate environment. I think back to pre-financial crisis about 5% of system deposits would have been noninterest-bearing, and it's now about 19%, 20%. And what are you assuming there in terms of where that might get back down to with a structurally 3% to 4% base rate environment. I'm just trying to think about how much hedge attrition you might be baking into your 2026."
+  },
+  {
+    "person": "Christopher Cant",
+    "role": "questioner",
+    "position": "Bernstein Autonomous",
+    "text": "And on a related point, you talked about sub 75 mortgage spreads for 2023. Again, if I think back to pre-financial crisis, when we would have had a similar liability margin environment, spreads would have been 20 to 25 basis points. And I appreciate the years immediately prefinancial crisis were quite competitive. But why wouldn't we get back down to those kinds of levels if yourselves and other large institutions are expecting to deliver well into the team's returns?"
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "Can you take the first one, I take the second on..."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "Sure. Yes. Just briefly on the fixed versus -- the 5-year versus 2-year fix. Chris, it's about 50-50, roughly. So I'll be a bit of that. I'll get you back to you the more precise number about that level. ."
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "Great. Let me going to go to the second one and William you can back that I don't fully answer because it's a great question again. And also there's a bit of crystal ball gazing as you say, as you think about it. And I think the data is helpful, the 4% to 5% of current accounts or site deposits versus where we are now in the industry around 20%. It's one of the things we've been looking at. I think the first thing is that will play out over time, that kind of change, and that's what we saw precrisis and in other markets where they've been through interest cycles."
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "The second thing that's interest -- I'm not going to give you exact sense we built in the plan of a right Chris, but I'll tell you how we think about it. The second thing is, typically, what I see is how sharp people get around only retain the minimum in current account versus using alternative savings is partly linked to inflation. And of course, what you've seen in our base rate assumptions is we do get back down to a 2% inflation level, which means that people with meaningful savings aren't seeing a level of deterioration that they felt at the moment or last quarter. And that's really important when you look at consumer behavior, where the vast majority of consumers not by value, but by number are operating in pretty thin transactional accounts relative to their spending. So whether we get exactly back down to 4% or 5%, I don't know because we can't crystal ball gaze, our assertion would be -- I think that would be -- it would take a number of years and it would really depend on how inflation played out and how people thought about the savings and/or investments being affected by inflation. When you get to that stage, by the way, the maturity around and how you can help customers around getting a return that does defend their savings and/or investments and also our strategic investment in our investment capability becomes really important, and I'll smile because you'll get this immediately many of you because you cover my old organization. There's an interesting dynamic where investments returns, which are in the 50 basis points level start to become attractive to encourage people to put money into simple investments relative to deposits. So there's a whole broader spectrum of a way of competing. I think it's a good way of looking at the market, but I think it's a few years out. And based on the economics, I would be surprised if we get to that place."
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "On your question on mortgage margins, my guess is we will spend a lot of time in that 2005 to 2007 period, the dynamics were really very different, as you know. And I think structurally, there are some differences post the financial crisis, not least the model of originating to distribute the mortgage portfolio is not worrying about the capital costs and then the regulatory implications around how you have to manage funding and the duration mismatch on interest rates is all very, very different today. So I think there's a structurally different kind of set of economics around the mortgage businesses."
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "And as you know, one of the consequences of that is the customer base, along with the growing house price market has really changed. And I know it's an average, and I hate average. I always tell you a averages, but I'm going to give you an average. The fact that the average mortgage customer at Lloyds Banking Group in the industry has an income of GBP75,000. And obviously, LTV is now down at 41%. And you've seen -- you can see in the appendix the LTV, we give you the 2010 data around the LTVs in the mortgage portfolio versus our 1.3% above 90% today. It's a radically, radically different market. So we have a clear view and as well the other providers in the U.K. around what level you can sustainably provide through cycle returns for mortgage customers. And I think the 2005 to 2007 period is materially different and would be hard to repeat going forward. However, the question around how does competition play out and how do we compete is absolutely William's talked about how we're thinking about it in this period."
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "The other dynamic is if you're there, if you're in 2026, if you have a view that rates are now coming down, you then start to have a really important discussion around which balance sheets and which organizations are best placed to deal with a lowering rates environment. And as you know, to really deal with that, you need balance between assets and liabilities. You need a good mix of assets. You need to participate meaningfully in consumer finance. Otherwise, you're not going to be able to put -- you're not going to be able to generate the spreads in a lower income environment. and you have strong risk management and capital management discipline. So you'll have a view around that between the different institutions in the U.K., but that's why we have confidence when we look at 2026 and beyond."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "Chris, just one point to add to Charlie's comment there and then just to give you some further guidance on the 5-year 2-year point that you mentioned. The -- one of the factors that we are looking at closely right now is to what extent inflation has an impact upon the overall balances that we have within the bank, both on the current account and also on the savings side. So to what extent does that come through in terms of payments, salary checks, for example, what is the lasting effect of that upon the balances. So on side of that in a higher interest rate environment, you obviously get the benefit of that building into balances, too. ."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "And then finally, post COVID, in particular, what is the nature of people's precautionary balances in the banks. We do think that is systemically higher than it used to be. But it is at the moment, if you like, a question that we're trying to figure out within the business. as to what does that actually mean? And how does it play through. Just separately, Chris, you asked about 5-year I gave you 50-50. I think it's more like 60% 5-year and then about 40% 2 and 3-year. So that the way of characterizing the balance. It will be octal different, but those are the numbers."
+  },
+  {
+    "person": "Douglas Radcliffe",
+    "role": "answerer",
+    "position": "Group IR Director",
+    "text": "Okay. Just final question is just in front there."
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "RBC Capital Markets",
+    "text": "It's Ben Toms from RBC. Firstly, on other income. If I take your Q4 number, deduct out the one-off deduct a quarter of the IFRS 17 headwind that you flagged and then put that into future years, grinding kind of 2%, 3% higher as you go through the years. Is that the right way to think about other income growth from here? And then secondly, on the pension, you talked about the triennial coming up this year. Your PSA came down in half 2 for the presumably partly because of pension risk. Is there something to play for here when we get the triennial? Is there more pension risk seeing the pillar way? I know you be able to quantify it, but is that something material that could develop there. It's important, I guess, for an institution where you've talked before about potentially reevaluating management's capital target."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "Yes. Thank you. Shall I kick off from this, Charlie."
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "Yes."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "I think, first of all, on ROI, when you look at the underlying that went on during both Q4 and during the year as a whole, as said in the slides, that gave us reason to build confidence in the form of the underlying OOI businesses. And as you know, it's been -- it's taken some time to get there. I mean I've been quite cautious in terms of our overall AI trends within the last couple of years. But I think what we saw in Q4 to a degree, what we saw in 2022 as a whole, is encouraging in the sense that if you strip out the effect of assumptions, if you strip out the things like GI weather, and you look at the underlying within retail, within commercial and in insurance, you see signs of progress."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "Within retail, it's customer activity and things like PCA, the LEC business, the cards business. Within commercial, it's things like the market's performance within insurance, things like workplace pensions, bulks to the group protection. These are developing a little bit of momentum, and we see year-on-year improvements, both '22 over '21 and also Q4 over Q3, even on a relatively micro basis like that. When we look forward, Ben, you're right to strip out the IFRS 17 effects that we see. If you took those kind of literally, you would go from the performance that we've seen stripping out the IFRS 17, you get down to about . when you look at the underlying performance that we expect for 2022, we expect to outperform the 4.7 . So a little bit of growth that we will follow through on and deliver during the course of 2023 would be our expectation then I don't want to get too excited. It's linked into the achievement of our strategic initiatives, which are big OOI drivers for us in the years going ahead. '23 is just the foothills of that, but we do expect to build into it over the course of the year."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Group CFO &amp; Executive Director",
+    "text": "On the capital point, yes, you're right. We took a -- we had a benefit from pensions liabilities coming down, which helped our Pillar 2A charge come down 1.5% during the course of the year. Looking forward, there is more to go for there from pensions side. So if we continue to reduce the pension deficit, we should see some benefit from that in Pillar 2A. Having said that, we've pointed out in the past 1 or 2 regulatory uncertainties out there. And the regulatory playing field, if you like, is still being played out as we speak. Things like CID 4, all the issues that you'll be aware of. So overall, that leads us to be comfortable with where we are in terms of our capital guidance of 13.5%, recognizing final point, Ben, that we do intend to distribute down to that over the course of '23 and '24, as we've indicated previously."
+  },
+  {
+    "person": "Douglas Radcliffe",
+    "role": "answerer",
+    "position": "Group IR Director",
+    "text": "Okay. Thank you very much. I think we've actually taken most of the questions. But if indeed, there are any further questions as normal. Please do give us a call in the Investor Relations team. Okay. Just briefly before finishing, let me just finally hand over to Charlie just for a couple of closing comments."
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "Well, just to say thank you very, very much for attending. I know we the last U.K. financial that's been announcing. My guess is a number of you were up at 4:00 a.m. yesterday for HSBC. So very much -- thank you very much for joining today. And as Douglas said, any questions, we're going to hang around a little bit now for those in the room. Any questions, please follow up, and we're looking forward to the next results in Q1. So thanks very much."
+  },
+  {
+    "person": "Charles Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive &amp; Executive Director",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

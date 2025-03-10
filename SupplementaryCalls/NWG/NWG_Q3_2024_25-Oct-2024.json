@@ -1,0 +1,1394 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "We will now take your questions. [Operator Instructions]. Today's call is scheduled for one hour, so we ask that you limit yourselves to two questions each to allow more of you a chance to ask a question. We’ll pause for a moment to give everyone an opportunity to signal for questions."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "We will now take our first question from Guy Stebbings, BNP Paribas Exane. Guy, please unmute and go ahead."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Hi Guy."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Good morning Guy. Are you there?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Guy, please unmute. Thank you."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "Apologies for that. Hopefully you can hear me now."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "We got you now."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "Brilliant. Sorry about that. The first question was on margins and then I had a second question on NatWest Markets. So on margin, slide 21, deposit spreads are positive again. Presuming that's the hedge more than compensating for the base rate impact."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "I was wondering if you could perhaps talk a little bit more about the timing of the base rate cut, sort of timing of the past to help us think about it in future periods. Or perhaps another way to ask it is looking at slide 23 where the deposit costs were pretty flat, Q-on-Q, if we are still yet to see sort of the benefit from the August rate cut work through there."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "And then on the funding and other line, all basis points positive this quarter. It feels like quite a hard one to model from the outside. So, just any help there as to how to think about that into future periods."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "Then on NatWest Markets, another good quarter, capital markets are up I think 50% and year-to-date we're at about $1 billion or so already. That's more than you used to talk about in terms of the contribution from NatWest Markets. So I recognize you sort of reported it a bit differently or talk about it a little bit differently than you used to in the past. But how should we think about the contribution there, and if that's the sort of base we can grow into next year? Thank you."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Thanks Guy. Katie, I'll take the markets one, then you come in on the… [Multiple Speakers]"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yeah, sure. Perfect."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So Guy, on markets, I'd encourage – I wouldn't encourage you to think about that any differently. It's an important part of the Commercial & Institutional franchise. As you know, we've done a lot to simplify that business over many years. It's got a strong FX franchise. It's got a strong capital markets franchise and a smaller rates business. Obviously, market conditions this year have been supportive. You can see that the business has traded well through quarter three in respect of the capital markets business."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Its performance will be very much dependent on market conditions. But we feel like we've made over the last 18 months, two years, big steps in terms of right sizing that business and aligning it with the opportunity there is in our core commercial base. So that's how you should think about it."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Katie, deposits?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yeah, sure. There was a lot in that one question, Guy. So, I'll try to make sure I pick the right things off. So, what I would say in terms of the kind of flatness of that customer rate that we're seeing, it has been impacted by the rate cut. But what you've also seen is that we've also had a benefit coming through in terms of the instant access."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "I said in my prepared comments earlier that we've seen, for example, within the private bank, customers having greater preference for that. And the problem is, when you're playing with these kind of margins at this sort of level, it wasn't enough to kind of move the piece. So you do have a couple of different things going on within that line."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "In terms of the base rate cut, you know that we have it in our sensitivity. We model the delay within there. The way to kind of think about it is, obviously, there's a kind of statutory, so 14 days that everybody has. We found that when you – for our retail bank, that when you cut the rate, it's about a month until it hits the customer from when we first start that decision, or when the rate cut goes down and we make the decision to when it actually hits the customer."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "The commercial is a little bit longer in terms of that time, but you can see them kind of coming through. So I think you've started to see the impact of it, but obviously not a whole quarter of the impact given where it was."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And then your last question around the funds and other. So that was increased by four basis points, as you can see on the slide, very much supported by active treasury management. There's a few things within there that I would kind of highlight, that have kind of helped that treasury tailwind within income, which you see coming through in the NIM walk."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So we have had strong deposit growth as I mentioned already. That led to sort of GBP 2 billion growth in our average interest earning assets. We've also done some redeployment of a part of the liquid asset buffer from short dated gilts during Q2, through the whole quarter benefit of those in Q3, and we see most of those gilts are maturing off during Q4."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And then we've also benefited a little bit from the spread widening that we've seen in the treasury repo activity. And those kind of combine together to kind of show that strength of that funding and other line. Thanks Guy."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Thanks Katie. Thanks Guy."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "Guy Stebbings"
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Chris Cant from Autonomous. Chris, please unmute and go ahead."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "Chris Cant"
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "Good morning. Thank you for taking my questions. I had two, please. The first was on your revenue guidance for ‘24, and specifically the implied decline in revenues sequentially into the fourth quarter versus 3Q on a clean basis. I was just wondering if you could unpick your thinking there for us. How much of a sort of normalization in other income are you expecting within that, because obviously it has implications as to how we'll think about 2025."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "And the other question I had was in respect of Basel 3.1 and your capital target. So your 13 to 14 range as within it entering to your sort of effective group MDA of 130 to 230 basis points, and that's a bit above your UK peers. So how should we think about how much a Pillar 2A reduction would convert into a potential reduction in those target bands in your case? Would we see more or less a full pass through of a Pillar 2A reduction given the comparatively high level of headroom you currently allow for? Thank you."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Thank you, Chris. Katie?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Sure, lovely. Thanks very much. So if I look at the kind of Q4 income versus Q3, a couple of things I would sort of unpick in there. So overall in Q3, all three businesses delivered higher income, supported by the balance sheet growth and margin expansion. And it's also important to remember there was one extra day in the quarter that gives a benefit in that quarter of about GBP 31 million."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Non-interest income was also strong given the markets activity that Guy was referring to, and also the transaction and lending related fees as well. And also those income tailwinds we saw in Treasury I spoke about a moment ago."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "When I do look at Q4 income, I do expect it to be lower than Q3. I expect some seasonality in that non-interest income as market activity normalizes. The income tailwinds from Treasury are not expected to repeat. And also remember that in our assumptions, we've got further base rate cuts, which we're expecting in November."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "I do think it's important before we all overly focus on that Q4 income being lower than Q3, is to remind you that we have upgraded guidance today to around 14.4. And part of that upgrade is also because of the strength that we've seen coming through in our own view of Q4 from when we last spoke in July, and it's been a big contributor to the upgrade of the guidance as well. So although the shape is maybe not what you exactly like, it's important to feel that and to remember that, and that's also why we feel positive as we move forward from here."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "In terms of your question on other income, look, I know the other income line is more frustrating in terms of that center income. What I do say is that you should always work to this number being roughly zero, since we do seek to allocate this out to the business. In Q3 it was minus GBP 9 million down from GBP 46 million in Q2."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "What we try to do, so in Q2 there is income left in the center, we would normally allocate that out. We kind of did a bit of a catch up in Q3. So I do think as you think about that line, it is to think about it as zero, and I know that that's a little bit frustrating for you all as well, when we have little bits left within there."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "If I move on to Basel 3.1, I'm not going to surprise you too much here, I suspect Chris, by sort of saying, we're looking at Pillar 2. The guidance is out. We're obviously talking with the regulators and things like that. But at the moment, it's really too early to give you a guidance on that. We're comfortable with the 13 to 14 headroom target that we're working with just now and we've always said that we'll look at that in time, and we just need to go a bit further on with Pillar 2."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So we'll talk, we'll update you as soon as we feel comfortable to, and we've got a bit more clarity on how the actual mechanisms will work to achieve the aim that the regulator is seeking."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Okay, thanks very much Chris."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Yeah, thanks Chris. The consultation obviously Chris is ongoing. Thanks."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Benjamin Toms at RBC. Benjamin, please unmute and go ahead."
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Benjamin Toms"
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Morning, both. Thank you for taking my questions. Your cost of risk number has been a bit erratic year-to-date. But given that you still have about GBP 300 million in overlays, is it sensible to assume that the rate trends are below through the cycle levels over the next 12 months? That's the first question."
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "And secondly, the Sainsbury's transaction is due to close next year in the first half. Can you help us with the potential contribution this might have to the P&L? And will there be any day one impacts to impairments that we should think about in our modeling? Thank you."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Okay, thanks. Thanks, Ben. I'll say a few words on impairments and cost of risk. So if you look at year-to-date, our cost of risk is 10 basis points, so relatively low. The performance of the portfolios remains very strong. Customers have been very resilient."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "There is a delta between quarter three and quarter two. You'll remember that we had some releases in quarter – PMA releases in quarter two, both on the retail and the C&I side. There's no material releases in the quarter three number. So that explains some of the differences between quarter two and quarter three."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "We upgraded our guidance or improved our guidance at the half year around cost of risk, of these less than 15 basis points. Katie outlined in her pre-prepared words that we confirmed our guidance on that. We believe we've got a good business mix that's low risk, high quality prime assets, and that we're very confident in the credit performance of the portfolios."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "On Sainsbury's, you're right, the acquisition is planned to close in the second half of the year. We said at the time of the announcement that it's RoTE accretive. It's around GBP 2.5 billion of loans and deposits. We haven't given any more detail at this stage, but I'd emphasize that at the point of announcements, we said its RoTE accretive upon completion."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And just one thing, Ben, on your specific question there, we will recognize an ECL on day one. That's absolutely standard, as you know. It'll be a good book charge that we'll bring in at that time as we complete in H1 next year."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Thanks, Ben."
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Benjamin Toms"
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Aman Rakkar from Barclays. Armin, please unmute and go ahead."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Armin, do we have you?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Armin, please unmute if you can. Thank you."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Aman Rakkar"
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Hey, guys. Hopefully you can hear me."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "We can."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Aman Rakkar"
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Sorry for that. Thank you very much. I've got two questions, but sorry, I have to just ask 0.5 of another one because I'm just getting loads of inbound on it."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Katie, just on this funding another 4 bips positive, I guess not to repeat next quarter. I mean, I'm never quite sure if that's a headwind, because you know the non-repeat of income to me is a headwind. So should I be shaving off a couple of bips on my NIM as I go into Q4? Or is it literally this is not a – don't expect a plus 4 in the NIM bridge in Q4? Because I need to get that one out of the way, because I've had about four or five questions on that this morning."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Well, then why don't I deal with that one very quickly for you? So I would say, no, we're not guiding on NIM as you know, but we don't expect that to repeat. But I would think of it more in the way that you are describing it, is don't expect another 4 bips uplift from it, and because we're also not expecting it to reverse."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Do you want to go to your real question, one?"
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Aman Rakkar"
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "My real questions, okay cool. Two hopefully quick ones. On your RWA guide for ‘25, so thank you very much for the clarification on Basel. There presumably is some other bits and pieces as well there, right, CRD-4 and other. So is there any color? I mean, ideally, if you could tell us a number, it would be great, but really helpful."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "And the more pertinent point to that question is there is an implied loan growth that you are kind of pointing to, which is pretty decent. And I know we've got a couple of billion coming from Sainsbury's. But to me it looks like you could comfortably budget for a mid-single digit loan growth given the performance in Q3. And I think forward lead indicators are building from here. Presumably you're confident on your loan growth prospects next year. Mid single digit sounds very achievable, that's a question."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "The second question is on the capital. 13.9 is a great print. You have the capacity to participate in a directed buyback, if there was one to come in November and December. My question is, how comfortable are you running your CET1 ratio at the bottom end of your target? Indeed, would you tolerate it being below 13.0% intra quarter, because presumably you're very confident in cap generation?"
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "I guess I'm trying to get a sense of to what extent you'd be willing to participate in a DBB and what the kind of range is around that. Thank you very much."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Okay, so I'll take the capital one and then…"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And I'll do preference…[Multiple Speakers]"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "RWAs and lending. So on capital, as you've highlighted, it's a very strong print, 13.9%. We're very pleased with the capital generation through the quarter. 57 basis points in the quarter before distributions and obviously around 197 basis points year-to-date, so that's good."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "As you highlighted, given the change in the UK listing rules and obviously the shareholder approval we got at our AGM, that does provide another DBB opportunity before the one year anniversary next May. That, as I always say, is ultimately a decision for the government on the timing of that in terms of directed buybacks, but our preference hasn't changed. Our preference is DBBs and we remain keen to support the government's exit and participate if indeed that's what they want to do."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "In terms of where we're happy to operate, Katie's talked in the past about being happy to toggle within the range, but what I wouldn't say is you shouldn't expect us automatically to pay down to 13%. We've got to think about the wider path to our RWA target of GBP 200 billion, and obviously as you alluded to, some of the capital will be consumed by the growth, given the momentum we've got in our three businesses."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "It's perfect on RWAs and loan growth. So let me talk about RWAs a little bit more widely. I mean, as you say, I mean there's a number of different things that will come to us on RWAs. CRD-4, we obviously have the OpEx charge that we have in every quarter. One, Sainsbury's is coming in."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "I think one of the things as I look at the work we've got, given you for RWAs, you know we had book growth of GBP 2.5 billion in Q3. We're very pleased to have seen that, and what we're pleased about, it's really across the broad book and across the whole bank, which I think is really demonstration that the machine is working and our customers are responding to kind of more positive economic scenarios."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "We also are pleased to mitigate that with the RWA management. We've done a lot of RWA management this year. We're close to kind of GBP 6 billion. I wouldn't take that as a run rate necessarily. There's obviously, when you start, you get a natural kind of first sort of push, but it is something that we do expect to see as a feature as we go through here."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "CRD-4, we've not quoted numbers on that. Our philosophy always is to tell you things when we are comfortable to do that, and we will as that goes through. But we are – we’re very pleased today to confirm, reconfirm that around GBP 200 billion number, reflecting the acquisitions we've done since the start as well and I think the clarity that we've now received on Basel 3.1 is very helpful to us. Thanks very much Aman."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Thanks Aman."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Aman Rakkar"
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Alvaro Serrano from Morgan Stanley. Alvaro, please unmute and go ahead."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Alvaro Serrano"
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Hello. Hopefully you can hear me okay."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "We can."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Morning."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Good morning to both of you. Can you give some details on the hedge in the quarter? And going forward, you've now sort of posted several quarters of deposit growth. Can we start thinking about growth in the hedge next year?"
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And where I'm coming from is obviously your guidance is pretty cautious for Q4 on revenues, and it sounds like NII sort of is part of it. What we've seen here in Q3 among UK banks and you in particular is what component is front loading of growth versus sustainable growth in 2025? As we think about 2025, any commentary there would be appreciated."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And then a quick one on the provision and the single name provision. Can you reassure us or give us any details on coverage on that single name? Are we going to see more top ups in the coming quarters? Anything you can reassure us on there would be appreciated. Thank you."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Okay. Thanks, Alvaro. Katie, I'll let you talk to the hedge. But Alvaro, just to comment, I guess, in our view it's not cautious guidance. We're obviously upgrading today both on previous expectations and consensus, so that doesn't sound too cautious to me. Katie, hedge?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Sure, I'll do the hedge and I'll pick up that little impairment question at the end as well. So in terms of the hedge, look, I don't have much more to say than I've already shared with you quite extensively. And we repeated the H1 disclosure in the back of the pack as well. So you don't need to go searching for that."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "But at the moment, the product hedge H1, 175, we're expecting that to reduce to 170 by the end of 2024. We do expect to continue to have that moderate increase in the hedge income year-on-year in ’24, and then that tailwind really increasing as the notional stabilizes."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "A stabilization of deposit supports that expectation and we do think the hedge income will grow into 2025 and continue to improve into 2026. We talked about GBP 800 million in 2025. And the real confidence in that comes from the mechanistic approach that we continue and the amount of income we've already got locked into both of those years."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "When I think of the C&I impairment, I think in any quarter where you have, you're recognizing impairment, naturally you see a bump up in that quarter. If I look at the C&I impairment charge for the year-to-date, it's 5 basis points. So it really reflects an incredibly strong group book that is performing well."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And when you compare it, I'm sure you will -- overall the kind of where we were at Q3 and where we are Q2 in terms of their impairment, you can see it in C&I, our Stage 3 loans have gone up by GBP 148 million in Q3. Our ECL has gone up by GBP 123 million, and our ECL coverage has gone from 37.5 to 40.3."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So really, we're well provided for in there, and there's a real strength of the book within those provisions. And the five basis points for the year is really a historically very low number."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Yeah, I mean, we wouldn't Álvaro comments on individual clients, but I think it's fair to say, we believe that we're very well covered in respect of that particular name. Thanks."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Alvaro Serrano"
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Jonathan Price from Jefferies. Jonathan, please unmute and go ahead."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Hi Jonathan, good to have you back."
+  },
+  {
+    "person": "Jonathan Price",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Jonathan Price"
+  },
+  {
+    "person": "Jonathan Price",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Hello."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Hey, there you go."
+  },
+  {
+    "person": "Jonathan Price",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Jonathan Price"
+  },
+  {
+    "person": "Jonathan Price",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "It's good to be back. I have seen the numbers this week and yours today. I've just got a couple of small ones actually in the scheme of things, but I'm interested nonetheless in the answers."
+  },
+  {
+    "person": "Jonathan Price",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "The customer funding rates across the three divisions in the third quarter are only down about a basis point if you weight it by the deposits of the businesses versus Q2. And obviously that's because you hadn't passed on much in the way of the rate cut until later in August on the retail side, and then I think October on the corporate side."
+  },
+  {
+    "person": "Jonathan Price",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Can you give us a sense as to what the impact of that deposit repricing lag was in Q3? I mean, I presume it's going to be a bit bigger in Q4, but I'm just thinking a bit more out into next year when this becomes possibly at some point a tailwind rather than a headwind. So, the deposit repricing lag in Q3."
+  },
+  {
+    "person": "Jonathan Price",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "The second question, obviously last summer, I think in Q3, your term deposit base increased by about GBP 20 billion net. So a very big set of inflows in those three months, and a lot of those, I guess, matured in the third quarter of this year. I think the default was for those customers to drop into a primary saver account, which has got about 200 basis points of margin."
+  },
+  {
+    "person": "Jonathan Price",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "So maybe you can tell us what those customers did in the third quarter and whether there's a sort of, bit of a temporary benefit in Q3 as well from a brief period whilst customers decided what to do with their money. And at the same time, we're earning you 200 basis points of margin. Thanks a lot."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Okay, Katie, why don't you take the deposit repricing lag, and then I'll talk more generally about the customer deposits."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Sure, perfectly. Perfect, thanks Paul. So, as I look at it in terms of the funding rates, you're absolutely right, we've seen very little kind of movement in those rates in the quarter. They do vary a bit by franchise. It's largely the impact of the lag effects, but it also reflects kind of net flows, and importantly, as you understand the mix of where those flows are going."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "I'm not quantifying the repricing lag, but one of the things I think that you could look at and work it out from is some of our disclosures. You can see on the deposit margin expansion that we've had within the NIM, that if I looked at Q2, and I compared that to Q3, it's gone from six basis points to four basis points. So that would be a little bit of a proxy I think that could help you, in terms of kind of quantifying what that might look like."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Paul, do you want to?"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Yeah, thanks Jonathan. On deposits generally, we're very pleased with the growth in all three of our businesses actually, and that's three quarters, consecutive quarters for all three businesses, so that's it. We're pleased with that. You can see as you alluded to, that the level of term deposit has stabilized over the last couple of quarters."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "On your point around automatically defaulting into instance access, that actually isn't correct. Customers had a choice at origination around which account they'd go into. But more interestingly and more importantly is a high proportion of customers are renewing into fixed term accounts. Obviously, the pricing of those accounts has changed, given we're a year on, but a significant majority are renewing."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "We've done an awful lot of work over the course of the last 12 or 18 months in terms of developing our savings product range, our customer journeys, making it much easier for customers to understand that the products are available. I'm really pleased those investments are paying off."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "We've also invested considerably in our savings kind of analytics, which has given us great insight into kind of customer behaviors. So I think we're seeing the benefits of that, both in terms of overall growth in deposits, but also surfacing offers to customers and allowing them to renew if they want to. Hopefully that gives you a sense of it. Thanks Jonathan."
+  },
+  {
+    "person": "Jonathan Price",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Jonathan Price"
+  },
+  {
+    "person": "Jonathan Price",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Yeah, thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, Jonathan. Our next question comes from Benjamin Caven-Roberts from Goldman Sachs. Benjamin, please go ahead."
+  },
+  {
+    "person": "Benjamin Caven-Roberts",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Benjamin Caven-Roberts"
+  },
+  {
+    "person": "Benjamin Caven-Roberts",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Yes, good morning, both, and thank you for taking my questions. Just one on the macro front. So looking ahead to the budget on the 30th of October, and what is the key outcome that you are monitoring as a management team? And are there any particular areas which give you either cause for confidence or cause for concern?"
+  },
+  {
+    "person": "Benjamin Caven-Roberts",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "And then just one follow-up on non-interest income. So overall that was notably stronger than expected in the quarter and grew obviously 5% year-on-year. In looking beyond the net worth markets element, is there anything within that which you would not consider underlying growth? And how should we think about sort of run rating that forward?"
+  },
+  {
+    "person": "A - Paul Thwaite",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thanks Ben. Good to hear you. I'll take the first one, Katie. So on the budget, you won't be surprised, Ben, I'm not going to get drawn on individual measures. I think there's enough speculation, and there will continue to be over the course of the next four or five days."
+  },
+  {
+    "person": "A - Paul Thwaite",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "In terms of what I'd like to see, and what we'd like to see at NatWest from the budget, I think we'd like to see a budget that helps support growth and investment in all the regions and all the countries of the U.K. So we'd like to see a pro-growth budget. Obviously, that needs to strike a balance between stability and the public finances, but also supporting and driving investment. So we're monitoring all the measures that would contribute to that at a macro level."
+  },
+  {
+    "person": "A - Paul Thwaite",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Obviously, there's a broad range of individual measures that will affect different parts of our client base, whether that's our wealth client base, whether that's our retail customer base, whether that's our businesses looking to invest. So we have, I guess, a set of data points and a set of metrics at a more micro level as well."
+  },
+  {
+    "person": "A - Paul Thwaite",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "So we're prepared for that. But I guess we'll all find out next Wednesday, exactly which measures the budget will contain or not. Katie."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Sure, perfect. Thanks very much, Paul. So because I look at non-interest income, we are pleased with our performance in non-interest income. We increased by 7.1% over the last nine months, and which I think is a very kind of strong print."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "For the quarter across our three businesses, that was up by 3.8% compared to Q2. That was driven payment services, lending and finance fees, currencies, income and market, and also the AUM fees."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "As I look forward from this, you know Ben that we don't guide on non-interest income specifically. We give you total income guidance. There is obviously some seasonality that we see that comes through more in Q4, but has different reactions."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Obviously, when you get to Q1, that capital markets activity has slowed down a little bit in the run up to the budget and the U.S. election. Markets activity does normally reduce a little bit in December, so we'll see how that kind of flows through. And obviously within retail, some of the things like FX related spend is just less within the outside of the summer months."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "But over the medium term, we are confident in our investment initiatives for non-interest income, that they can deliver growth for us. Some of the areas that we're working on is investment fees as we grow our AUM stack. You saw some really strong growth in that this last quarter. Our payment services offerings and areas of our markets businesses, such as FX, where we perform really very well."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "You know, obviously there's other things around customer confidence and GDP growth, as well as the kind of markets environment being conducive for C&I. So there are a few things to think about as you take that non-interest forward. Thanks very much, Ben."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Thanks, Ben. I think it's another example of where our focus and our investments, we're now starting to see the benefits as we get into delivering the strategy that I talked to earlier in the year. Thanks, Ben."
+  },
+  {
+    "person": "Benjamin Caven-Roberts",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Benjamin Caven-Roberts"
+  },
+  {
+    "person": "Benjamin Caven-Roberts",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Robert Noble of Deutsche Bank. Robert, please unmute and go ahead."
+  },
+  {
+    "person": "A - Katie Murray",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Hey, Robert."
+  },
+  {
+    "person": "Robert Noble",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Robert Noble"
+  },
+  {
+    "person": "Robert Noble",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Good morning. Thanks for taking my questions. Just as you said, the point you made on short-term gilts maturing in Q4. What impact does that actually have? Presumably the gilts are at lower yield than cash at the moment. So all else equal, doesn't that improve income?"
+  },
+  {
+    "person": "Robert Noble",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "And secondly, can you just walk us through the economics on the credit card product? So how much of the lending is balance transfer? What rate do you book it in at? And how do the returns work against 100% risk weight on the assets there? Thanks."
+  },
+  {
+    "person": "A - Katie Murray",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Yeah, sure. So if I look at the treasury tailwind, first of all, so just to be kind of really clear what I said, what we did in Q2 was that we moved some of our liquid asset buffer from cash into short-dated gilts, and we're seeing them maturing in Q4. So what you had there was the benefit of a whole quarter in Q2 – sorry, in Q3, forgive me. And then obviously, we've already, some of them have already matured."
+  },
+  {
+    "person": "A - Katie Murray",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "We'll continue to look at that as we move forward in that, but we're comfortable that that has given us a real benefit. We do look at it on a spread basis as we do some swapping out as well."
+  },
+  {
+    "person": "A - Katie Murray",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "In terms of the credit card growth, as we see them coming on, obviously, a large portion of the growth of the initial part is done by the six-month transfer. So that's the kind of 0% led. So at the moment, obviously, your income is kind of delayed for those sort of six months. We reflect that in the EIR [ph] and things like that."
+  },
+  {
+    "person": "A - Katie Murray",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "And then as they mature, we have assumptions of how many we retain. And then obviously, you can start to see with improvement that we're seeing in the returns within that area that we're getting the benefit of that."
+  },
+  {
+    "person": "A - Katie Murray",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "It is interesting. We've also just launched our travel card, which has been launched now. That's not a 0% balance transfer, and it's going – it’s working quite well. We're pleased with it, its launch within there. So obviously, it's generating income as you go through."
+  },
+  {
+    "person": "A - Katie Murray",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "I think what, Paul and I are pleased about with the credit card book is it's really maturing very well, in terms of from where we started to the share it has of market today up to 9%. The addition of Sainsbury's when it comes on in next year will be important to really build that growth, and we do see this as an important contributor, as we move forward from here."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "And Katie I’d just add, we've consistently maintained a very kind of high quality credit book. So it's very much a prime book, we haven't needed to change our risk appetite. In terms of our ability to grow that, a lot of the growth comes from our existing customers, and providing great credit card facilities to existing banking customers. Thanks, Rob."
+  },
+  {
+    "person": "Robert Noble",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Robert Noble"
+  },
+  {
+    "person": "Robert Noble",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Andrew Coombs at Citi. Andrew, please unmute and go ahead."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Hey, Andrew."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Andrew Coombs"
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Good morning. If I could just tick off, I think the one line item we haven't addressed yet, which is OpEx. You obviously haven't changed your full year guidance, but the Q3 is coming somewhat better than consensus expectations. I appreciate the Q3 is always usually a lower seasonal OpEx charge, given where the levy gets booked and given when severance usually gets booked."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "But, it does look like there is an underlying headcount reduction in the quarter, notably in the retail bank. You talk about some lower severance, lower property exit costs. So, just anything you can say in terms of trajectory on the OpEx space, not only into Q4, but into 2025 as well, given some of the steps you've been taking?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yeah, sure, absolutely. So I think, and you'll have heard me in my comments, is when you think about Q4, we do expect our costs to be higher in Q4 than they were in the fourth quarter of 2023. So, I would compare them there, I think, as you're doing Andrew."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "I think it's important to kind of take a step back and think about what we're trying to do on costs. But we are working really hard in terms of simplification, is to make sure that we can create capacity within the costs, so that we can deliver on our full year guidance, but still do the structuring and simplification changes that we want to make. We're not looking to add additional costs on top."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So, very clear that we will deliver on our full year guidance of broadly flat. And then some of the changes that you'll see coming through in terms of severance and property and things in the fourth quarter are all built into that guidance, so that we can make a head start on the 2025 numbers."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "I'm not going to give you guidance today on what we're going to do on 2025. But I think what's really important is, this is something that Paul and I are incredibly focused on. And we do see that it's really important that we make sure we create capacity within our cost base, to be able to enable the investment that we want to do within the business. Thanks very much, Andrew."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Amit Goel of Mediobanca. Amit, please unmute and go ahead."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Amit Goel"
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Hi, thank you. So I have maybe one main kind of follow-up question. Just coming back, actually, on the RWA progression, and thank you for the guidance on the inflation of the GBP 8 billion. So, I guess that gives you about GBP 10 billion, factoring in Sainsbury and so forth. Just curious how much RWA management you think you could achieve, whether that kind of steps up or whether a lot of RWA management is done. So, just thinking about that in terms of your capacity for incremental loan growth."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "And then also, what you are thinking about the pacing as we get rate cuts? Are you expecting it to kind of step up later or is it kind of fairly even as we move forward? Thank you."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Okay, I'll take. Thanks, Amit. So on, I guess, capital management and RWA. So it's clearly one of our key strategic priorities to work the balance sheet harder. You can see the progress that we've made this year, the capital management actions that have happened in quarter two and quarter three. We will have a systemic approach to that. So we will be driving more capital management activity. We don't guide on the exact amounts."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "But I guess if your question was kind of, is it done? The answer is, no. We believe there's more opportunity around capital management activity. If you look at our relative position compared to our peers, that would suggest we do have the ability to drive more good capital efficient activity. We'll continue to do that."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "As you know, these transactions work. I wouldn't read forward from a particular quarter that that's going to be the output for the next quarter, but we definitely have potential to drive capital management harder and we will do over the course of the plan."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Katie, on rate cuts?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yeah, so rate cuts, we've got five for next year. The first one is in line with the first MPC meeting in February, and they all kind of, they are spread throughout the year. The kind of various meetings that come. Obviously there’s some that we don't – we're not assuming any, but we do assume that they start early in the February meeting. Thanks Amit."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Thanks, Amit."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Ed Firth of KBW. Ed, please unmute and go ahead."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Hey Ed."
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Hi, everybody. Thanks so much for taking the questions. I actually had one, but just one sort of supplementary. There've been a few questions on the impact of the rate cut, but just to be absolutely clear, in your sensitivity, I think you said it was about GBP 160 million for a 25 basis point cut. That's an annualized number. So I guess 40 for a quarter."
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Just to be clear, that is broadly what you saw in Q3. Should we assume that? Maybe a little bit more because of the delay on the deposits, but orders of magnitude, your sensitivity is playing out as expected. I guess that's my, that's a question rather than a statement. That's my first question."
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "And then the second question is slightly more left field. Looking at your balance sheet, you've still got about 15% of your assets now sitting with the Bank of England, even after quite a lot of QTs has gone on. Am I right in thinking that as we roll that forward, you would expect that to come down as the Bank of England continues with its tightening, firstly?"
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "And secondly, if we do see that come down, how should we expect that to impact the P&L? I mean, is that like a headwind or a tailwind for the margin? And what sort of spreads? How do you actually manage that as a revenue pot? Thanks very much."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Ed, thanks. I'll take the first one, first of all. So in terms of that sensitivity, we've repeated it at the back of the slides on slide 26. So you're absolutely right. So it's 167, 42 on the structural hedge, and 125 on the managed margin."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Obviously, you're right, that's what happens on day one. We've got assumptions of 60% pass-through. We've got the lag effect. So in theory, 40 a quarter, but actually the rate cut only came in August. So you are halfway through the quarter, but everything's there for you to be able to do that as we go through."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "If I look at it, cash balances will come down. What we will see is allocation back into securities from cash. You saw us do a little bit of that as we took the opportunity in Q2. The income impacts will be driven by the market dynamics and by credit spreads as well."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Thanks very much, Ed."
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "But sorry, is that just in sort of conceptually? I mean, is that a positive contribution to your margin at the moment? Do you make a good spread on that?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "I mean, yes, absolutely. And that's what you saw in those treasury tailwinds coming through in this quarter is that additional 4 basis points coming through in funding and other. So and what, Donald, our treasurer does is he looks very much to try to make sure that we're managing that kind of liquid asset buffer in the right way, so that we're within the rules we set, which are very strict, but that we do a little bit of margin maximization."
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Ed Firth"
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Okay, thanks very much."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Thanks Ed."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from James Invine [ph] of Redburn Atlantic. James, please unmute and go ahead."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Hey, James."
+  },
+  {
+    "person": "Unidentified Analyst",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Unidentified Analyst"
+  },
+  {
+    "person": "Unidentified Analyst",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Hi, Katie. Hi. Good morning, Paul. I just had a question on loan growth. I mean, generally, you sound pretty positive on it. But one area in particular that's been growing really well is that Corporate & Institutions line. So up very strongly in the quarter. I think this is a year ago as well it's a double digit percentage increase. Is that kind of growth sustainable? I mean, you really think this kind of momentum can continue?"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Okay, thanks James. So as you say, I think the lending growth we've shown this quarter and year-to-date has been encouragingly broad based. Actually, you can see the mortgage portfolio grown in quarter three. You can see the cards business. But as you rightly point out, the Commercial & Institutional franchise has been growing well."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "I'm particularly pleased actually that the mid-market business has grown for three quarters on the run, because to me that's the barometer of the UK economy. That's the kind of the mid-market customers all around the UK. So to see that growing three quarters in a run is very encouraging. And I think testament to some of the development work we've done around the product and the lending journeys."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "On the true large, the very large corporate and institutional, the nature of that business, as you know, is it can be a little lumpy. It depends on big transactions. The growth was particularly strong in quarter three. It might not be so strong in quarter four, given the growth that we've seen in quarter three."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "But what I would say more broadly is if you think about the lending demand there, it's for things like the energy transition, it's for infrastructure, whether that's physical or digital infrastructure, it's supporting large, our large corporate clients."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So you would expect through the cycle, assuming a healthy economy, demand in that segment to remain robust. And we're very well placed to take advantage of it, given the expertise we have in some of those specialist areas I mentioned. Thanks James."
+  },
+  {
+    "person": "Unidentified Analyst",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Unidentified Analyst"
+  },
+  {
+    "person": "Unidentified Analyst",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Okay, perfect. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "We'll now take our final question from Jason Napier from UBS, Jason, please unmute and go ahead."
+  },
+  {
+    "person": "Jason Napier",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "Jason Napier"
+  },
+  {
+    "person": "Jason Napier",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "Good morning. Well done on a very good set of results. All the right trends are there, and I think we've probably handled most of the P&L line items so far."
+  },
+  {
+    "person": "Jason Napier",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "Just one area I wanted to probe if I could. The question on C&I growth and the budget next week, there's a lot of talk about quite a lot of investment going into things like infrastructure, a place where banks have a strong heritage."
+  },
+  {
+    "person": "Jason Napier",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "I wonder whether there are two things you could talk about. One, does private credit change any of that in terms of competitive dynamics, the share of the debt growth that the banking sector can sort of own?"
+  },
+  {
+    "person": "Jason Napier",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "And then secondly, things have changed on that front. There are probably 15 or 20 banks that have now got fund caps with private credit funds they've put in place to originate the distributed infrastructure. Is that the right sort of plan to have? Is that part of the SRT future for NatWest? Thanks."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Thanks, Jason. I think I got most of that. For your benefit, the line was a bit distorted. I think that I'll answer what I thought the questions were, and you can come back and tell me. I mean, one was around just a general view on private credit. And then I think you are alluding to I guess the series of announcements there's been on private credit partnerships. So I'll try and cover those two points, but do let me know if that wasn't it."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "I think generally, obviously, there's been a lot of coverage around, I guess the private credit market, given the increasing role that non-banks are playing, whether that's capital to real economy, residential mortgage, resi loans, corporate loans, be that real estate or infrastructure. So there's no doubt it's an important asset class."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "I think for large incumbent banks like ourselves, it's important to remember that we've been engaging with, I guess, with these customers for an extensive period of time. Many of them are customers in themselves, only the participants that you'd know, our customers are ours."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Some of those have been customers actually for over 20 years, and both for financing, but also for risk management. So, from our perspective, it's not really a new area. We think in terms of the business we do, we're very comfortable. We understand the risk and the returns profile."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "We've also been very considered in the past around the partnerships that we do have. So we do have and have had for quite a long time, almost 10 years actually, some distribution partners in terms of the private credit space to support our commercial lending business. The lending business, but also as I think you alluded to in your second question, to support our RWA and risk management activities. So yeah, we've got a number of partnerships in that space. It helps us from the lending front, it helps us on the risk management space."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "There's obvious benefits for us. It allows us to originate and distribute, improves our balance sheet velocity for the partners. It's very attractive because obviously they can access the distribution that our bankers and relationship managers have across the whole of the UK."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So it's multiple benefits. We've participated and had partners for a while. My personal view, it's an asset class that's only going to expand over the course of the median term, given the historic change in regulations, but also the funds that are flowing into those private credit funds. So I hope, Jason, because it was quite difficult to hear, I hope that was the sense of it."
+  },
+  {
+    "person": "Jason Napier",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "Jason Napier"
+  },
+  {
+    "person": "Jason Napier",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "Sorry, that's perfect. Thank you."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Thanks, Jason."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "I'd now like to hand back to Paul to close the session."
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Paul Thwaite"
+  },
+  {
+    "person": "Paul Thwaite",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Okay, thanks Matt. Thanks everybody. Thanks for joining. Thanks for being very diligent around two questions each. We appreciate that. I hope you have a good Friday and I hope you enjoy your weekend when it comes. Good to speak to you. Thank you."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Thanks guys."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

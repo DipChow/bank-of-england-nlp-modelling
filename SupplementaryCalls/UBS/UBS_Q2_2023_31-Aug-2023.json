@@ -1,0 +1,764 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] First question is from Jeremy Sigee from BNP Paribas. Please go ahead."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "Good morning. Thank you very much for all the information. There is a lot to get through and a lot of questions. I’ll just ask two things. One is, could you talk about the Swiss integration, which obviously takes time, and I think you said, it’s going to legally close in 2024 and then physically integrate in 2025. I just wondered what determines that timeframe and how you manage, how you intend to keep the businesses stable, whilst they’re in that slight sort of limbo period. So that’s my first question. And the second question is about sort of capital stack. The 14% CET1 target, I imagine it implies that you’re going to reissue AT1 and rebuild the AT1 part of your capital stack and I saw a headline the other day that you might even do that this autumn. I just wondered if you can comment on that aspect, your intentions in terms of issuing AT1? Thank you."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Thank you, Jeremy. So, well, first of all, on the integration, of course, now that we go through -- as I mentioned, it’s very important to understand the sequence of how we’re going to go through the merger of the different legal entities."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "We -- as I mentioned before, our intention is to merge the two parent company, UBS AG and Credit Suisse AG, and as a follow through, different entities underneath, we’ll go through the same process. So we need to optimize the timing from a different aspects and last but not least, also the one of regulatory approvals."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So we are starting now the process to do that in terms of the Swiss business. The way we will manage that is by, as I mentioned, first of all, assuring that all people employed in the Swiss businesses at UBS and Credit Suisse will not be subject to any redundancies until the end of 2024."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So what’s the most important message is to clients that nothing changes for them and our view is to make it very smooth for clients to go through the transition. And so once we go through this kind of legal process and regulatory process of merging the two entities, we did -- at the same time, we are also tackling the IT migration, the operational migration and this is something that will only be completed early on in 2025."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So what we -- the message here is to -- is a balance between showing the way forward to our people, to clients, but without rush and in a stable manner so that people -- our clients continue to be served in the way they expect to be served."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "In terms of the CET1 target, well, of course, AT1 continues to be an important element of our capital stack and strategy. I will not comment on speculations of this. We are watching the market carefully. We will assess the timing and the need of tapping the markets when appropriate. But, yes, of course, we are looking at the AT1 markets and we will make our consideration when appropriate."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "Very helpful. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Alastair Ryan from Bank of America. Please go ahead."
+  },
+  {
+    "person": "Alastair Ryan",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Yes. Thank you. It’s Alastair, BofA, and Sergio, good morning, and great to have clarity on the strategy, and obviously, the market is delighted as you are that the flows have come back. Just then on operating costs, very clear ambitions and it looks like you’re bringing forward a little, 27 to 26 when you’ve landed everything. But just given the size of the operating costs in the old Credit Suisse Investment Bank and Non-core, can you give us any sense about how quickly you can go there. So the -- a large restructuring charge, integration charge in the second half, but does that cost number move out quickly so that you normalize profitability or is there still quite a long tail to the cost in that part of the business. It’s just IB classic, the revenues have gone, the costs are still lingering how quickly they go? Thank you."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "I’ll pass it to Todd."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Hi, Alastair. Yeah. In terms of the speed at which we expect to take out costs, as Sergio and I said, we’ve been operating at pace in terms of the cost takeout, which is among our top priorities in terms of, in particular, restructuring, the parts of Credit Suisse that need immediate attention and restructuring and so you see how we’re making very strong progress out of the gate in terms of the cost takeout through the second half of 2023 and the cost to achieve those cost take out as well."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "We’ve obviously modeled to get to the targets that or the landing zones that we described earlier in terms of returns and a cost income ratio at the end of 2026. But as you say, that the costs do have a long tail in some cases and that’s because of the complexity of the operation that we have to unpack, because you have significant infrastructure and technology, you have a very large array of legal entities, over 1,000 legal entities that have to be addressed."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And just back one proof point on the software components. There are 3,000 applications and the work that our team has done suggests that we will only integrate 300 into UBS. That takes time, and so, yes, there is a long tail that you can count on us to operate quickly."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "The last thing I would say is in terms of clarity on a sense of as those things hit through, because we give a degree of clarity through the second half of the year and we give sort of our landing zone, we will come back with further clarity once we do the business planning process in the second half of the year and that will be with our fourth quarter earnings in early February."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "And I would probably complement Todd’s observation, because it’s very important that, the fact or the vast majority of the assets in Non-core and Legacy are supported by the Credit Suisse IB platform."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So as we progress in winding down, call it, the core day-to-day operation from the front office standpoint of view, whatever is left is going to be Legacy infrastructure, IB infrastructure that is only there for Non-core."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "And so you can see how then this will be a very important element in determining how quickly we get rid of Non-core assets, because as a consequence of that, we accelerate the winding down of this operation. So, but I think, it’s exactly what we are working on and we will give you more detail in early on next year when we present our Q4 results and our three-year plan."
+  },
+  {
+    "person": "Alastair Ryan",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Chris Hallam from Goldman Sachs. Please go ahead."
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Yeah. Good morning, everybody, and thanks for taking my questions. Just two from me. First, in Wealth Management, you’ve talked about now essentially being at scale in every growth market globally. But in tangible terms, what does that enhance scale enabled you to do that perhaps you weren’t able to do previously and have you seen any proactive response from competitors and reaction to that enhanced scale? That’s my first question. And then, second, looking at the Banking business in Switzerland. Now the dust has settled, does all the volatility we saw earlier in the year changed at all, how you think strategically about running the combined Swiss Bank speed in terms of capital funding, liquidity, et cetera. I guess just sort of simply has your risk appetite changed in Switzerland?"
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Thank you. So, well, I mean, look, in terms of scale, of course, there is an economic -- economy of scale. So being able to leverage UBS’ IT platform as we onboard all the assets, it’s a huge advantage, because we have, call it, marginal cost effects."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "But also when you look at the geographic footprint of the two operations, they are extremely complementary in some areas by relationships, but also in geographic terms, i.e., for example, in Brazil, right? So we had a lot of operation, Credit Suisse is much stronger. We now create a very important player."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "In Asia, we really reinforced our position and both in North Asia and Southeast Asia. I think that in Switzerland is quite clear and also across Europe where there are different markets where ideally, it’s a very fragmented market in general, Wealth Management, particularly in Europe. So there, we create economy of scales and things that we would have not been able to fund from an organic standpoint of view. So it’s very important."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "As I mentioned before, also Credit Suisse across the Board in Asset Management and Wealth Management brings capabilities and excellent products that can be then leveraged into our -- into the UBS client franchise."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Have we seen competitors? Yeah. I mean, the reaction of competitors, of course, they started to take advantage of the fragile situation of Credit Suisse already during 2022, late 2022, of course, at the beginning of the year and it’s a pretty normal situation."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So, now having said that, I think that, as you saw from the flows, clients are now comfortable and they understand the value added of the franchise, we are able to retain and actually re-attract by clients. So now it’s our turn to be proactive and we will not spare any efforts to regain back any lost assets."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So in terms of the Swiss, as anything -- is anything changing? I mean it’s very important to reiterate that nothing changes in the way we run our Swiss businesses until they are fully integrated, right?"
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So from a client standpoint of view, like -- and in service and risk and capital allocation, nothing changes. And even after we merged our commitment, as I said in my remarks, is that we will continue to sustain the combined lending book. Of course, there are exceptional risk situations, but our principle is very clear."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "One and one makes two. We want to keep our market share in Switzerland. Switzerland is strategic, absolutely strategic for the Group and we will not want to lose any of the market share we have today."
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Great. Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Kian Abouhossein from JPMorgan. Please go ahead."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Yeah. Good morning, Sergio and Todd. Thanks for taking my question. First question is on risk-weighted assets, you have around $557 billion, $145 billion operational risk-weighted assets. And I’m just wondering how we should think about the exit run rate in 2026 in terms of total risk-weighted attract, as well as in terms of operational risk-weighted assets, if I may? And then second question is related to the Non-core. Could you talk a little bit about the P&L effect of the Non-core ex any four active write-downs or sales, so to say, leading to potential write-downs. I’m just trying to understand the P&L in terms of run rate of the Non-core and Legacy bank, if I may? Thank you."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Hi, Kian. In terms of the op risk RWA, we will come back next quarter after doing a fair bit of additional modeling in terms of the op risk RWA of the combined bank. We’ve started to have initial views on that and initial discussions with our regulators and that informed the $10 billion reduction that I spoke about in my comments."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And then in terms of the trajectory and how we think about the $557 billion towards 2026, you’ll have more color on that in terms -- after we complete the business planning process and 3YSP and come back early next year as mentioned."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "In terms of the -- you asked about the P&L and the run rate in Non-core. So what I would say on that is, so first off, it’s -- the thing that’s most important is to take costs out and to focus very significantly on the cost takeout, because there’s a significant level of overhead and costs that aren’t associated with the wind-down of the portfolio."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So the way to think about it is that, we have emphasized so far today that we have to take costs out and effectively the cost that sit in parts of Credit Suisse that don’t work. And so those costs, whether they be personnel costs or whether they be technology costs or real estate costs, they move into Non-core and Legacy if they don’t support the core businesses and they have to be run down extremely quickly. And so I would say, first and foremost, it’s a cost -- the way to think about it is the cost rundown over the integration time line."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Then there’s the asset run down and we talked about the trajectory from a natural rundown perspective, and of course, as Sergio mentioned, that will be strategically and actively looking at that."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And of course, we -- from that perspective, we have taken some PPA adjustments in excess of $5 billion relating to Non-core and Legacy. I think that’s a useful way to think about to the fact that some of that pull to par and some of that will be fair value positions."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And we will manage that book on the most capital-efficient way that we can and dispose of positions as appropriate. And also keeping -- and yeah, just considering funding costs and the cost of operations, technology, people, et cetera."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Okay. Thank you. If I may just very briefly, on the risk-weighted assets, if I have to take a very simplistic view and I just assume, yeah, I know the runoff, I can make some assumption about Basel IV and then up risk, clearly, very difficult to predict. If I want to be conservative, one would assume that, ultimately, the risk-weighted assets conservatively should not grow if at all, would materially decline?"
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Kian, it’s -- we can’t really comment right now. We are modeling. We are really going through the details of the plan. We need to really also go through the exercise, I’m sure you appreciate, when we put together legal entities, the optimization of all that, it’s a fairly complex operation. So it’s -- I wouldn’t go into a territory of projecting risk-weighted assets going forward."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Because, one, there are two elements -- well, three elements. The starting point is a good starting point. We know that we can make some adjustments in the next three months to four months. Op risk was one of the subject."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "But then you need to go through, first of all, what are the efficiencies we take out as we run down assets? Yes. What are the efficiency on optimizing legal entity operations? And then what is the growth? Because remember, we are going to grow as well and we have to attach also that prospect into the equation. I wouldn’t go into too much of a risk-weighted asset projection until you see what we tell you in Q3 and Q4 -- for the Q4 results."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Very helpful. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Flora Bocahut from Jefferies. Please go ahead."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Yes. Good morning. Thank you for taking my questions. I’d like to go back actually to some of the elements you have discussed on this call already, especially the NCL. Maybe trying to help us understand how much of the RoCET1improvement towards 2026 is going to be driven by this unit, considering only the natural runoff here, trying to help us assess already at this stage what -- how loss making it is today and how loss making it would end up being in 2026, if you only consider the natural runoff? And then the other question I wanted to raise is on the cost saves. Just to make sure I understand correctly. So you basically have already a target of $3 billion cost saves on an annualized run rate at the end of this year, but this is compared to the end of 2022, I think. So how much of the annualized $3 billion do you kind of already have in the Q2 accounts, please? Thank you."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Thanks, Flora. So in terms of take the -- just maybe address the second point first. In terms of the cost saves in the -- in terms of what we’re projecting by the end of the year at $3 billion in terms of what we see already in the second quarter. We haven’t disclosed that specific number. But I think from just the headcount reductions that I mentioned in my remarks, you could probably consider that there’s somewhere more than, around half has already started to hit through and what we’re already seeing in our underlying results."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "In terms of the RoCET1 and how to think about NCL as we go through the process. I mean, for sure, NCL is going to be something that weighs down on our RoCET1 naturally, just given the fact that we have significant -- at least over the 2024 to 2026 period. If you just look at the natural profile rundown, which is effectively a basis for how we started thinking about the RoCET1, not the only way we started to model it, but for sure, one of the ways that we were thinking about it."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "here’s a drag by definition in the sense that by the end of 2026, you could see in the slide, the natural profile has roughly half going away. Now we can model different scenarios as can you, but we’re not going to discuss how we’re thinking about it, and obviously, some of that is still very much unknown."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "In terms of the cost take out, we would expect to be taking out the lion’s share of the costs in Non-core and Legacy by the time the integration is materially complete. By definition, we would do that. There will be -- we expect some residual carry that we’ll have to take on or continue to run down beyond 2026. So there is some, if you will, negative burn that is associated with NCL in our modeling."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Okay. This is helpful. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Stefan Stalmann from Autonomous Research. Please go ahead."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Yes. Good morning and thank you very much for the presentation. I have two numbers questions, please. So the first one is on capitalized software. You have taken these roughly $1.8 billion of software impairments in the PPA. Can you give us a rough sense of how the -- how much of a remaining amount of capitalized software remains in your Group accounts that relates to CS and is there a risk of further impairments given that you want to retain only about 10% of these systems? And the second question relates to your capital requirements. So you showed it still at 10.6% CET1 over risk-weighted assets. If we were to apply the current capital metrics that is outlined in Swiss Banking Law, what would be the capital requirement if there was no FINMA transitional forbearance, please? Thank you very much."
+  },
+  {
+    "person": ".",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Okay Hey, Stefan. In terms of the capitalized software, as you say, $1.8 billion was the amount that was in the Credit Suisse AG reported number today. I think in the PPA number overall, in total, there was slightly more about $2 billion. You can look at the CS balance sheet from year-end or Q1, Q2 or Q, sorry, Q1 or year-end and see there was a capitalized software in the neighborhood of $3 billion."
+  },
+  {
+    "person": ".",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "So effectively what we have done is taken two-thirds down and have one-third left on a shorter economic useful life that aligns with how we think about; A, the time it’s going to take just to fully decommission everything; and B, leaving what we think we still get value from at the end. So all that has been sort of factored into the PPA. So I don’t see necessarily further impairments. But because we now have just what’s left about $1 billion that will have a shorter economic useful life that aligns to how we’re thinking about the restructuring."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Yeah. Stefan on…"
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Okay."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "… CET1, I think, when you look at the fully implemented regime in Switzerland, which is not applicable to us until 2027. It would be around 12.5%, 12-point-plus. And that’s -- the reason why we raised our the CET1 ratio was both to reflect a buffer there to accommodate for the restructuring, but also it’s a clear, call it, small front running of what we expect to come as a consequence of that and our -- and the finalization of Basel III, which is partially already in our books. So you can count on this number to be calibrated with a pretty medium-term -- medium-to-long-term expectation of the current interpretation of all regulatory regimes worldwide, including Switzerland."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Great. Thank you. Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Anke Reingen from RBC. Please go ahead."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Hi. Thank you very much for taking my questions. The first is on revenue dissynergies. I mean, listening to your comments and especially that you think you can keep this risk market share unchanged? Is it something you really think maybe people get overly concerned and you don’t see quite bad risk of revenue dissynergies, even if you potentially have to contact some of these with more attractive rates or incentivizing your advisers? And then, secondly, on slide 15, where you show us our -- the return path and the block about the funding cost efficiencies and it’s something you, I guess, apart from the drop out of the higher expense of funding at Credit Swiss, is there other areas where you see the material benefits from lowering funding costs and overall Group benefits, because it block is the same size as the cost price prioritizing, obviously, you can maybe elaborate a bit more about that area? Thank you."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Sergio, do you want to go first?"
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Okay, Anke. Let me take the first question. First of all, I haven’t said that we will keep our market share. I said that our ambition is to keep the market share. Now having said that, it’s Credit Suisse lost market share and business in the last 12 months or so. So what we count on is the fact that, we will be able to recapture and regain some of the market share and what you saw lately in the last couple of months is a good sign of that."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "But of course, we are not -- we are realistic and we are also factoring in that we may lose some market shares, because some clients may or may not feel that they want a certain concentration risk. So there is no danger of us budgeting or planning blue sky scenarios on that one. We are realistic, but that should not be confused with our desire to keep as much as we can."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And Anke, on the second -- actually, yeah, the second question, in terms of material benefits we see, you obviously highlighted the most significant one, which will be just the takeout of the significant costs that we were wearing in connection with the PLB and the ELA+ facilities."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "But I would say, and as I remarked earlier, that we expect the positive contribution from the Credit Suisse Wealth Management franchise in our NII in 3Q and that comes principally from having stabilized the business and net new deposits that are also helping on NII. So I would say that’s another factor that is helping on the underlying profitability."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Benjamin Goy from Deutsche Bank. Please go ahead."
+  },
+  {
+    "person": "Benjamin Goy",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Yes. Hi. Good morning. Two questions from my side. The first, to play devil’s advocate, are there more outflows to come where you’ve kind of already had out for some clients, but maybe some longer term structures, partnerships or anything like that take time to see the outflows? And then, secondly, for the first time in a while your CET1 capital is higher than your tangible book value or almost the same. So is there now the 15% return on CET1 should it also be broadly similar to RoTE going forward or should we expect more moving parts towards, yeah, 2026. Thank you very much."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Hey. Thank you. Let me take the first question. I guess, as I mentioned before, now we are -- on the Wealth Management broader perimeter, I think, that what’s -- of course, we may still have a client adviser that’s resigned over the last three months, four months or that as they move into a new organization, they may be able to bring some assets with them."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "What we see right now is clear that, the ability of the people that left a while ago to really move assets it’s fairly limited. And this is nothing new compared to what UBS went through 10 years ago or more than 10 years ago in recognizing that there is a lot of institutional loyalty of the client base."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "And now that we have stabilized the franchises, of course, we are even stronger in retaining assets. And as I mentioned before, our desire is to re-bring back assets. So, look, the movements -- the gross movements are going to be very difficult to predict, but the net outcome, we feel pretty comfortable will be positive."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And Benjamin, in terms of the return on CET1 versus RoTE impact, I’d say, there are two factors that do argue in favor of moving in that direction, just not yet, but for sure, on the first one, the denominator effect were bigger and so that’s obviously going to make the difference between the historic RoTE versus RoCET1 smaller by definition. So -- and that -- so that denominator effect is now in play and it is helpful as you suggest, probably, as well contributing to what you observed."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "The other one, though, which has been our historic delta that really has given us pause to move off what we think is a more meaningful return measure, our DTAs. But there, of course, as they amortize down, because these generally -- no -- not exclusively, but generally relate to very old losses that we’re now continuing to just chip away at as that balance comes down, then that’s yet another factor that would argue in favor of moving to the other measure."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Well, by the way, for the foreseeable future and from the other angle of measuring our capital return flexibility, the CET1 ratio is a better proxy, because this is the true binding constraint."
+  },
+  {
+    "person": "Benjamin Goy",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Okay. Fair enough and very clear. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Amit Goel from Barclays. Please go ahead."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Hi. Thank you. Thanks. A lot of good information. The first question was -- I appreciate there’s a lot of moving parts. We’re going to spend a bit of time trying to kind of update estimates and all that kind of stuff. But in terms of the path for the RoCET1 to get to that kind of 15% 2026 exit rate, are you able to give any color in terms of expectations for 2024, 2025 or how you’d like it to trend? And then, secondly, just on the costs, it would be great if you get a bit more color on the savings. So I’m just kind of curious, things like $10 billion of gross, but how much net saving or how much reinvestment of that do you expect to do where you found the incremental $2 billion versus the $8 billion and also how you’re spending the $12 billion restructuring, because it does seem like quite a big number. So just wondering if there could be benefits there as well? Thank you."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yeah. So as mentioned in terms of color -- further color on the trajectory as to we get end of 2023 to end of 2026, we’ll come back on that provide update in 3Q as to where we are, but then a much more fulsome perspective after our business planning process is complete by the end of the year into early next year."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "In terms of the cost savings, as Sergio also made remarked in his comments, the gross number is greater than $10 billion, as you highlight, but we will be making investments. We’re going to grow our business, we’re going to invest in technology, we’re going to also deal with inflationary factors if need be."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So we -- that’s all in the thinking around it, around half of the gross cost saves related to effectively restructuring the Credit Suisse IB and CRU units and the other half gross relates to the synergies we expect to realize, but then that will be -- there’ll be investments back into the technology and the people to grow the core franchises."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Andrew Lim from Societe Generale. Please go ahead."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "Hi. Good morning. Thanks for taking my questions and thanks for all the detail. So, firstly, on the fair value markdowns that you’ve taken there. Related to that, could you give an idea of the maturity remaining on those financial assets and how we should think about the reversal of those markdowns. So you’ve highlighted more than $1.5 billion for the second half of this year. Is that the kind of run rate that we should be expecting going forward? And then, secondly, on the NCL, perhaps, I can ask it a different way. Do you have a better idea now of what the ultimate cumulative losses might be from the NCL, would they be less than the $5 billion maybe that you might have been exposed to under the LPA agreements? That’s my question. And then, thirdly, might I quickly ask on the domestic side, certainly for some businesses, you will have a significant market share and I wonder if there’s any maybe regulatory risk that, that market share might be looked at and you’d be forced to bring it down to a level, which is more palatable to the regulators? Thank you."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Yeah. Because you asked three questions instead of two. I’ll take the last one. On the market share one, as you know, we got regulatory approvals to basically not be subject to any competitive constraints and that was done just to secure and be able to communicate and to be able to place."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Although, it was already crystal clear as it is today, that there is no market share topics for the combined unit in Switzerland. I mean, if you go across the Board, cantonal banks are larger on any dimensions of relevant Personal and Commercial Banking business in Switzerland."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "When you measure in terms of branches, we are combined the third largest player. So now this is very relevant, but because some people may argue well, the cantonal banks are combined versus you being on unit. Well, the fact, the true of the matter is that we compete in those cantons with the local cantonal banks, it’s extremely relevant to make that difference."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Therefore, we will, of course, contribute what the competitive authorities have to say about it and put our views into that. But I don’t really expect that on a fact based discussions, we will be subject to any limitation or meaningful limitations in respect of our activities going forward."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Andrew, let me just unpack your first and second. I think they’re related. So on the first, as we highlighted earlier, we took around $15 billion of fair value marks on financial assets and liabilities, $12.5 billion where we indicated would pull to par, because they relate to accrual accounted positions, another roughly $2.5 billion related to fair value positions where we had marks -- further markdown in light of sort of liquidity model risk, other type issues."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "On the piece that pulls to par, just keep in mind that, $4 billion of that $12.5 billion relates to Non-core and Legacy. So that’s important to know and about $8.5 billion more in our core businesses."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "On the core business piece, generally speaking, we see three years to four years that we should unwind between 70% and 80%. There will be a longer tail, especially on some fixed rate loans that will go longer than that. So we’ll see pull to par effects that extend beyond the three-year to four-year timeframe, but most of it will accrete to income over the shorter timeframe, as I mentioned."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "To the NCL point, though, since we have roughly $4 billion of the pull to par in NCL and roughly $2 billion in the fair value marks. So you have $5 billion to $6 billion of fair value adjustments in NCL."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And I think to go to your second question, that’s important to understand, just given that we think that the positions are appropriately marked, and from here, we will continue to consider all of our optionality in terms of running down the portfolio, as Sergio mentioned earlier, in the most capital and cost efficient way. But we think the positions are being carried at appropriate levels presently."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "That’s great. That’s really helpful. Thanks."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Adam Terelak from Mediobanca. Please go ahead."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Good morning. Thanks for taking the questions. I want you to get under the hood a little bit more in Wealth Management. Firstly, on the CS business acquired, clearly, there were some business exits to worry about from -- that you see Non-core in kind of the Wealth Management unit. Can you give us a sense of what the revenue attached to that might look like, but also any detail on AT1 cost savings that’s come through the NII in that division as well? And then, secondly, the competitive environment, I noticed in your GWM business, UBS standalone costs are up on lower revenues. I just want to know kind of what the cost is to retain managers at this point, whether you’re seeing kind of a competitive landscape on the RM side or the adviser side, but also in your deposit side, what sort of campaigns have you been running to re-attract deposits and how easy or difficult has that been in the current rate and deposit environment? Thank you."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Thanks, Adam. On the second one, I would just say, in terms of GWM costs. So there’s a very significant positive operating leverage outside of the U.S. So that’s important to note. This is in the GWM, sorry, in the UBS subgroup GWM, very significant positive operating leverage. We were investing for growth in that business, but that business as well has been -- saw a strong NII performance and had strong PBT growth, as I highlighted in my comments earlier."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "As I also highlighted, it’s more on the GWM overall side, just the fact that we’ve seen a lot of cash sorting and rotation on NII in the Americas and that sort of pulled the Americas revenue down reasonably significantly, say, quarter-on-quarter, year-on-year. And as a result, we see that negative operating leverage, but we’re continuing to invest in that business across the Board and so some of that as well contributes to the higher costs."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "On your deposit campaign question, I would say that, like any bank, we are value deposits. We value deposits in the win-back context in Wealth Management. We also do value deposits to fund our business loan growth, et cetera. So there’s nothing I’ve seen that I would call out there in terms of deposit betas that have moved in a direction I would consider to be anything other than what we see across peers."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "In terms of the acquired, you were asking business exits and the revenue attached. At this point, we have, in terms of what’s being expected to move into Non-core and Legacy that was highlighted on one of the earlier slides. The revenue attached with that business is less than $100 million on an annualized basis in terms of net revenues in terms of what’s moving across, and that’s, of course, not risk adjusted for -- and so that needs to be considered."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "In terms of AT1 cost savings that hit through the business from what had been, say, anything there has really just been captured in the Credit Suisse Corporate Center as an offset potentially to the inflated costs. So I would expect that, that will normalize now as the businesses come together."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "So all funding it seems that in the Corporate Center indeed?"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Can you repeat? I wasn’t clear, sorry."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "So any funding noise, AT1 versus liquidity facility was also in the Corporate Center rather than in U.S.?"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "That was our understanding from Credit Suisse’s practice pre-acquisition. Yes."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from Andrew Coombs from Citi. Please go ahead."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Yeah. Good morning. It’s Andrew Coombs from Citi and thanks for taking my questions. Two, if I may. First, I want to come back to a follow-up on the PPA pull to par effect, but in relationship to the restructuring charges. You made the comment that out to the period at the end of 2026, I think, restructuring charges will be largely but not wholly offset by the PPA pull to par effect. And then in your later comments, you talked about $12.5 billion of pull to par effect, of which $4.5 million would be Non-core and that most of that will be recognized in the three-year to four-year timeframe. So can we assume restructuring charges of the magnitude of 12.5% and can you give us a feel for the timing of those relative to the PPA pull to par? And then the second question is on slide 29, you provide a useful quarterly trajectory going from minus 0.3% in Q2 when you talk about breakeven in Q3. But you also flagged $750 million of savings, $550 million of funding cost savings. There’s a $650 million arguably one-off ECL charge on the non-credit impaired CS portfolio this quarter. So just trying to understand, they’re going from minus 0.3% to zero percent, even with all of those additional benefits Q-on-Q, what’s the offset? I guess there’ll be some seasonality on revenue, a bit of a decline in NII, but any more color there?"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So -- hi, Andrew. In terms of the -- yeah, in terms of -- I’ll take the second point first, in terms of the story on the underlying profitability. Yeah, I mean, just to be very clear that, the cost saves that we expect to see by the end of 2023 of $3 billion, which we think you can price into 2024."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Some of that has been realized, but as I would -- the way I would think about it is there is work that’s ongoing and we expect that the $3 -- the greater than $3 billion number is something that we’ll see at the end of the year hitting through."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "I would continue to reemphasize the funding cost point that was in 2Q that will benefit 3Q and fully in 4Q that helps and then the stabilization of as flows and all that will sort of hit through as we go on an underlying basis. And as I said, we expect to break even in the third quarter coming out of sort of $3-- roughly $300 million plus improvement and then to be positive in 4Q for the reasons that I mentioned."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "In terms of the restructuring, you asked about, we’ll come back in further details in terms of how much restructuring specifically they’ll be. We’re giving a perspective that we expect the number to be broadly offset by the pull to par effect. But at this point in time, we’re going to need to detail that out through the business planning process and come back, as we have said, in -- with our fourth quarter earnings."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The last question is from Vishal Shah from Morgan Stanley. Please go ahead."
+  },
+  {
+    "person": "Vishal Shah",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Hi. Thank you so much for the questions. My first one is on Wealth Management. Just wanted to get a sense on how you are assessing the business overlaps in that segment or you’ve had further chance to sort of look at different regions and how to respond to all the ongoing competitive pressures and in terms of relationship managers and then sort of bankers in that segment. So if you could give a bit of an update on that side? And then the second one is on the investment bank the CS Non-core perimeter of $55 billion. I know in one of your slides, you have provided a natural runoff rate. But I was just trying to get a sense if you could provide any sort of color in terms of what is your sort of ambition on actively winding down this perimeter in terms of time line, i.e., could we expect the next two years basically by 2025, broadly, most of this rundown to be done. Is that a fair assumption or are you looking at it in a bit of a different way? Thank you so much."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Hi, Vishal. I mean, I think, on this -- on that second question, we’ve addressed that in the sense that, we offer the natural rundown just given, of course, we have to take care and ensure that we’re protecting our counterparties and we’re doing things in the best interest of the firm. And so on these positions that we will look strategically to exit them as quickly as possible."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "But at this point, I would say, we’ll come back and give you progress as we’ve done already in 2Q in terms of the actual RWA reduction relative to the natural runoff profile, we’ll continue to do that and to the extent we can give more color through any -- through our planning process, we will. But again, these are positions where we think naturally, there will be strategic exits and opportunities that arise and not something we’ll be disclosing."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "In terms of your first question on Wealth Management and assessing business overlaps. I mean, in general, the way we approached integration is to look at Credit Suisse is adding value in a lot of the areas in which we already operate."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "But also, as Sergio mentioned, areas where we have less of a presence. Brazil was mentioned, there are important parts of the Middle East, where that’s the case, important parts of Southeast Asia, also much bigger in Europe overall."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So in terms of assessing the overlaps, I mean, in the end of the day, relationship managers have their client relationships and we want to retain them all, and of course, we’re looking at how to manage the business in the most efficient and effective way."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "I would make one additional comment, which is very important, which is that, Icade [ph] announced the area market heads on a combined basis and that was very important just in the last several weeks and it was in comment, Sergio, made as well, because when we start integrating how we approach the market. And so we’re in the market on an integrated basis, which, of course, just took time just -- even though we’ve moved quickly into two and a half months since we’ve closed to be in the market on an integrated basis having market heads that have now been decided across Wealth Management on a combined and integrated basis is quite a step that helps us to manage some of the business overlaps and competitive pressures that you were asking about."
+  },
+  {
+    "person": "Vishal Shah",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Okay. Thank you so much."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "It was the last answer-and-question. And we -- I’m sure we’re going to have a chance to stay in touch between now and November 7th when we announced the Q3 results. For the time being, thank you for dialing in. Thanks for your questions, and well, as I said, looking forward to staying in touch. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Ladies and gentlemen, the webcast and Q&A session for analysts and investors is over. You may disconnect your lines. We will now take a short break and continue with a media Q&A session at 10:45 CET. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

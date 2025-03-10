@@ -1,0 +1,800 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "25:34 [Operator Instructions] We will take our first question from the line of Omar Keenan from Credit Suisse. Please ask your questions."
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "25:56 Good morning. Thank you very much for taking the questions. I've got two questions, please. One on rate sensitivity, and then just one on mortgages and mortgage margins. So, firstly, on rate sensitivity, on the four fifty million for twenty five basis points, is there any color that you could add around what deposit beat assumptions are behind that number? And then secondly on mortgage margins, so the application margins were one hundred and five basis points in September versus the back book of one point six four, I think kind of historically, the level of around one hundred bps received in twenty nineteen is quite low. And a few peers like nationwide at the time made comments that similar levels didn't meet their hurdles. So, my questions on mortgage margins are firstly, how do you get comfort that your internal ROE metrics that drive the business really reflect economic reality? And then secondly, how do you get comfort that mortgage margins and volumes are being balanced in the most optimal way considering price elasticity for example? Thank you."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "27:20 Thank you. Katie, do you want to pick up the question on the rate pass through in mortgages?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "27:26 Yeah. Sure. Absolutely. Thanks very much. So, morning Omar, good to hear you. So, let me try to give you a little bit of color on this one. So, our economic assumptions, they're based off H1, they are not updated in Q3 in line with our usual process. So, just to remind you, at H1, the yield curve suggested that base rates would remain at ten basis points until Q4 twenty twenty two before rising to fifteen basis points and [rising] [ph] by fifteen basis points to twenty five with a further hike to fifty basis points was expected in Q4 twenty three. Clearly consensus rate expectations have increased significantly since then."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "28:05 So, on the managed margin slide, as you look at it in terms of the Q3, the four forty million for a twenty five basis point shift in the base rate, is in there that's around ninety percent of that number is a sterling based. This sensitivity is built bottom up incorporating different pass through assumptions for products across all franchises."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "28:28 The actual pass through rates will be reviewed and adjusted subject to prevailing market conditions and upcoming capital charges, etcetera, including expectations of the pace and the number of rate increases that we might see."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "28:42 Omar, you’ll be a bit disappointed to hear that I'm not going to get into the finer details of the past through rates today, but this is a built-up on the bottom, a number that we're giving you. You can see from the interest rate sensitivity disclosure that the managed margin benefit decreases in year two and three. This reflects the higher pass-through assumptions that come as we get those higher base rates."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "29:05 You can also see from our disclosure the hundred basis points shift in the sterling GDP yield curve would be one point three billion income benefit. So, the sensitivity incorporates higher pass through rate and is not as simple as a multiplication of the twenty five basis point level. But clearly from this, you can see that any rate rise is very positive for us."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "29:27 And then if I go to the mortgage margin question, so you're right again on that slide twelve, September one zero five, the back book at one hundred and sixty four. What I would say is that we continue to meet hurdle with clearly what's happened in that level, and then with the rate increases that you saw coming through from swaps into October, and then we’ve accompanied those with some rate rises as well from our own side."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "29:51 So that [indiscernible] comfortable, we're still okay on the internal ROE. We do, do a lot of analysis internally to make sure that we are clear on the elasticity of pricing and then we're comfortable in terms of how we do all the extra charging over of course into this business."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "30:05 So, very comfortable it makes sense. And I think it's important also to look at the whole book, and I think that's why I was really trying to demonstrate to you on slide twelve, it’s actually the movement we've seen in pricing. Obviously, one helps compensate for the other. Overall, we're very comfortable and on this book and that’s seen in the very strong ROE that you see for the retail business as a whole."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "30:27 Thank you."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "30:28 Thanks Omar."
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "30:30 Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "30:33 Next question comes from the line of Fahed Kunwar from Redburn."
+  },
+  {
+    "person": "Fahed Kunwar",
+    "role": "questioner",
+    "position": "Redburn",
+    "text": "30:39 Good morning, Alison. Good morning, Katie."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "30:41 Good morning."
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "30:42 I just have a couple of questions and that’s kind of related, if I think about the, kind of revenue and cost and isolation they do make sense, but when I look at the jaws coming through of the next few years given the cost reductions, they are one of the most ambitious in Europe and I guess given the cost of the inflation we're seeing across the market right now, how confident are you that you can see revenue growth while cutting costs four percent per annum? And then just specifically on, I feel that NatWest Markets is a real kind of [indiscernible] at that point, when you look at the kind of annualized quarterly number, it's kind of annualizing around four hundred million and the guidance I think you talked about being eight hundred to billion in the medium term, how much of that is actual growth expected in kind of rates improvement, currency improvement, capital market improvement? And how much is just mechanically if you've got any a negative funding track still running in the business from building on core and that just kind of rolling off with just move that kind of four hundred million, up towards eight hundred million? Just interested to know how much do we need to kind of make an assumption on growth and how much is mechanical, that would be very helpful?"
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "31:53 And then just a final question on NatWest Markets. The kind of twenty five billion or the kind of, the day in cutting the risk weighted assets. I think that was the do with the particular position that you have on your balance and you like to keep on. When that rolls off next year what will be the revenue loss that you would see when that little bit of balance sheet comes off? Thank you."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "32:14 Thank you. Well, let me start and see if I can help you with some of that. So, on costs, you can see we've got very good trajectory on our cost. As Casey, and I both said, it won't be linear, but we're very confident about the four percent and we see opportunities to continue to reduce costs within the business as we continue to invest in digitization and technology and our customer journeys. And we also see continued revenue opportunities across different parts of our business."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "32:45 You can see the strong performance in mortgages. You can see our unsecured growth is very strong and coming back. You know, we've doubled the number of new credit card issues as we've launched new products, and you can see the strong growth in our AUMA in our private bank with a billion of assets under management an almost eleven percent year to date growth."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "33:11 So, we see continuing growth trajectory from the strength of our franchises and with our continued investment in technology and digitization, which is where eighty percent of our investment is going opportunities across there. So, I think probably that's all I'll say there. On NatWest Market specifically and just to, sort of talk through that and give you some help on that."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "33:37 I mean, let's put, looking at the Q3 performance, I think the capital markets and currency businesses, which are serving our core client base are performing well and remain in line with our expectations. Obviously, a disappointing performance in our rates businesses we continue to reshape that, but what we expect is that as we continue to grow in our capital markets and currency business and you can see this strong performance in ESG, that will continue to perform very well on the back of our franchise."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "34:15 We'll have the benefit from improved funding costs, which will come through, and I think we'll see a stabilization of fixed income revenues into twenty twenty two from the improved trading, the lower funding costs and the completion of the refocus, which is largely on the rates business."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "34:31 So, in the medium term, we're comfortable that this business is zero point eight to one billion revenue business, and we would expect that to stay the same and as that restructuring continues. So, I think that's where we remain. On your specific point on the RWAs, you know the reshaping of the business is going well. We are running a strong syndicated loan pipeline as a result of strong activity across our corporate business and our specialized business and so that's giving us a little bit more RWA, but we'll continue to restructure that business in the right way on the RWA. So, again trajectory we’re comfortable."
+  },
+  {
+    "person": "Fahed Kunwar",
+    "role": "questioner",
+    "position": "Redburn",
+    "text": "35:16 Thank you very much. Can I ask one quick follow-up?"
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "35:19 Of course."
+  },
+  {
+    "person": "Fahed Kunwar",
+    "role": "questioner",
+    "position": "Redburn",
+    "text": "Fahed Kunwar"
+  },
+  {
+    "person": "Fahed Kunwar",
+    "role": "questioner",
+    "position": "Redburn",
+    "text": "35:20 I guess, I understand isolation how the cost can come down, and you know NatWest has done a great job over the years of doing that, but the issue has always been the revenues have followed. I guess where I struggle a little bit is, if you're cutting capital and costs in a wholesale business without any kind of mechanical benefit, what really is going to be driving the growth when you are kind of cutting cost and capital, which is a big part of the story on NatWest markets?"
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "35:47 So, on the, you are talking about growth in NatWest Market specifically, is your question?"
+  },
+  {
+    "person": "Fahed Kunwar",
+    "role": "questioner",
+    "position": "Redburn",
+    "text": "35:55 Yeah."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "35:56 Yeah. So, on NatWest Markets again, you know, if I remind you where we started with NatWest Markets too much of the capital was deployed into our rates business, and therefore, and not focused around, you know our key strategic priorities. Where that capital is focused and you can see that through the strong performance in the capital markets business and also currency and FX, that business is growing very well."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "36:24 So, the capital is being deployed to the areas that are growing and we're shrinking it in our rates business, which was outside. So, overall, we're very comfortable that the size of the capital deployed to our markets business will be delivered. We'll deliver the sort of zero point eight to one billion revenue business. And we're also investing in the underlying business as well. So, more digitization, more technology, which drives more efficiency in terms of our productivity and also our revenue growth. So, I think we're very happy with that balance between investment and where the capital is deployed for growth."
+  },
+  {
+    "person": "Fahed Kunwar",
+    "role": "questioner",
+    "position": "Redburn",
+    "text": "37:03 Very helpful. Thank you very much."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "37:04 Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "37:08 Our next question comes from the line of Alvaro Serrano from Morgan Stanley. Please ask your question."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "37:13 Hi, Alvaro."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "37:15 Hi Katie, Alison. I think a question one for each and they are both follow ups. First on the managed margin rate sensitivity, I know you'd want to be drawn into the exact deposit [indiscernible], but the way I'm thinking about it and the question is I'm thinking – is it I’m thinking about it correctly? If I take your product hedge hundred and forty six billion disclosed in the first half, and deducted from your deposits, from your total deposits you get to three twenty billion or so remaining sort of unhedged deposits, which is basically twenty five basis points and [fifty seven percent] [ph] gets you to four hundred million, which sounds very, very familiar, very similar to the figure you've got in, in that slide in Page twelve. Am I missing that some of those deposits might be tracking base rate or is it roughly the very sort of, is it not that simple?"
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "38:23 That's a first question. And the other follow-up is on the cost and inflation. Alison I heard your reply, but maybe you can give a bit more color as to why you're so confident around the four percent in subsequent years because presumably when you laid out the plan, sort of inflation, you wouldn’t have expected this kind of inflation? Is it more about the fact that you're reducing the headcount that you’re not, the inflation pressures are less intense given the reduction of the headcount? Is it the fact that you, as a good manager you were building a buffer, you've got sort of efficiency plans to offset it or you didn't have Ireland in there, just a bit more color that can help us gain confidence or reassure us on that target? Thank you."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "39:16 Thanks. So, I’ll look on the cost and then Katie can pick up the managed margin. As you can see, in our quarterly results this quarter, the continuing strong trajectory on [indiscernible] that's very much focused on largely our customer journeys as we create benefits from the investment that we're making in our customer journeys, and as we simplify those and more use of automation and digitization and the subsequent impacts on that."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "39:47 I think as, you know we will afford, obviously, we're mindful of the inflationary situation that we may be looking at, but as I look at our customer journeys, as I look at the return on the investment that we're making, we still think there is efficiency that can be delivered across the business from that and if I look at the benefits that we get from our customer journeys that reduced throughput and the use of automation that does help us."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "40:18 I'm not going to comment as I never do on FTE and headcount going forward, but clearly, that is an element of how we'll drive costs out going forward through that benefit of the investment that we're making. Katie, managed version?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "40:33 Yeah. Alvaro, look, it's not a bad proxy. I'd say it’s probably not quite as simple as that as you would expect. You need to consider the asset and the liability side. So, if I think a little bit in terms of one deposits, almost all of our retail and corporate deposits are managed rates. We do not have an automatic price change due to the external reference rate change. So, if you look at retail, one hundred eighty six billion at Q3, about around forty percent of that is current accounts, sixty percent is [savings accounts] [ph] with an average cost of five basis points, and no explicit link to that external [indiscernible]."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "41:06 As said in that assumption we've given you is, we've obviously gone through product by product and saying, we'd move this, we’d move that. The exact moves will depend a little bit on the environment in that moment. And then you see the same sort of dynamic in the commercial group where there is minimal balance that’s linked to that external reference rate."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "41:23 So, you have a bit of flexibility. But then considering what will happen on the asset side, in terms of the lending. So, retail bank, ninety percent fixed book. So, you have the impact because of the SVR immediately and that's less than ten percent of the book. In commercial bank, there is a bit more linking to reference rates. So, you'd see that come through much more quickly. But you can say, your proxy is not a bad one, inevitably as you can imagine the devil on this one is in the detail."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "41:52 That's great. Thank you very much."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "41:54 Thanks Alvaro."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "41:58 Your next question comes from the line of Andrew Coombs from Citi. Please ask your question."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "42:07 Good morning, I'm going to slug a dead horse I’m afraid as we come for the late sensitivity. I guess what intrigued me when you look at your sensitivity and you compare it to peers is the peers has a much bigger multiplier affecting it in the [indiscernible]? To you in your sensitivity it's almost relatively static as about time period. Now, one other thing you do provide which you pay down, which is quite helpful and is the split between the structural hedge and the managed margin and what's quite [indiscernible] the decline in the managed margin over time, whereas when you gave this guidance for the full year in the twenty twenty sensitivity, you didn't see that same decline. So, I'd love a bit more color on what's driving the decline in the managed margins in year one, year two, year three is clearly the pass through and the churn that you will be on the time deposit book? And you’re also not assuming static balances, you are assuming dynamic balances within your sensitivity, so just a bit more color there on the sensitivity and assets."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "43:20 My other one on NatWest Markets as well, you still reiterated the zero point eight to one billion revenue guidance, I think, can you just confirm that the breakeven guidance of that business is still in force as well in the medium term?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "43:37 So, I plunge myself in there. Thanks morning, morning, Andrew. It's interesting. I smiled when you said it's relatively static. And I guess the headline level of the four fifty, four nine two and five zero two, it's relatively static. Though, I smile sometimes with the pain you give me when I move my fifty million on one line. So, I'm delighted to get the feedback that that is seen as static movement."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "44:02 The details – the devil's absolutely in the managed margin. This is a disclosure we gave you in H1. What we talked about in H1 and you got to remember where your base sensitivity was? It was ten basis points going through, and this is a twenty five basis point increase on that. And then in the outer year, it was in a further, it was a fifteen [indiscernible] and then a further twenty five basis points. So, you get the change in that movement. So, what you can see from there is, clearly the beta, the pass through is lower in the order years and higher in the later years. You know, obviously the structural hedge continues to strengthen."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "44:36 If you cast your mind back to year end, when we had this slide here, what we were all talking about, actually it was going into negative territory. So, therefore, you had a market curve that was assuming a negative journey, and so therefore the increase in the later years was in relation to coming out of negative."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "44:55 So, therefore, the pass through assumption was probably lower, if you could assume in that case. So that's why you see this kind of convert. So, it's rather going – we're now going to a rising rate whereas there we were actually going into a falling rate. And you remember that we also floored some of them zero because they would be flooring happening at that point."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "45:12 So, you've got to look at the disclosure and think what was in their assumptions at that time and how does the shape change? So that's what's kind of driving you there. And probably won’t comment on how others have done their sensitivity. We've done ours bottom-up product by product to try to give you the kind of the best, if this was to happen now, this is what would happen in terms of the movement going forward on that."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Alison Rose"
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "45:37 And on your NatWest Markets questions, yes, we remain comfortable with the medium term guidance we've given you on that and we're pleased with the refocusing and the restructuring of that business, and obviously, we're making good progress in October. NatWest Markets paid a further two fifty million dividend bringing the total year to date to a billion, but our guidance remains the same in terms of our confidence on the medium-term outlets."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "46:05 Sorry, Andrew, I didn't answer your question on [indiscernible] balances, they are static. So, we kind of leave them flat from this point, there’s obviously movements in balances with movements as well, sorry, I missed off."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "46:18 Thank you."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "46:18 Thanks, Andrew."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "46:23 Our next question comes on the line of Jonathan Pierce from Numis. Please ask your question."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "46:30 Hey, good morning both. I’ve got a couple of questions on the hedge, I’m afraid. First question is, could you just clarify what you’ve done on the scale of the hedge in the third quarter and what the remaining capacity is to build the hedge any further from here? Maybe we'll deal with that one first before I come with the second on the hedge, if that’s okay?"
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "46:53 Katie?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "46:54 Sure. Absolutely. That's one for me. So, if I look at the hedge, we added on seven billion in the first quarter. So, it's now one hundred and ninety seven billion and that we believe that we've got over the next twelve months, assuming balances do not grow, and I think that's important. It would be fifteen billion growth that we would do over the next twelve months. I'm very conscious about the same things I said in Q1 and then I added on seven billion in the next quarter [Technical Difficulty] balances grew."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "47:23 Okay. That's clear. Thanks for that. Second question is, I think I heard you correctly in your comments Katie where you said that the contribution from the hedge in twenty twenty two would be broadly neutral from twenty twenty one, is that correct? Did I hear that right?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "47:42 I think broadly neutral may even slip into slight positive, but I would think about it in that level. I think it really depends of what kind of happens on rates in the next were this movement kind of settles in terms of that, but yes, we'd expect this to be broadly neutral."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "47:56 I mean, I suppose coming into twenty twenty one, the hedge revenue was higher than where it is ending. So that leaves scope maybe some incremental quarter on quarter growth in hedging income as we move through twenty twenty two, but I'm still slightly surprised that you're not more positive on the potential outlook for the hedge because if I go back five years, the five years swap rate in twenty seventeen was sixty five basis points on average, and we’re now at hundred. So, all those hedged you had pre-pandemic are presumably, certainly the five year part of it rolling onto to high yields through twenty twenty two, but maybe more importantly than that, you've loaded on a huge amount of net new hedge over the course of the last twelve to eighteen months, and a lot of it was done, I think at the sort of one year part of the curve to be [indiscernible]. And early this year, that the one year part of the curve was next to nothing. And those will be rolling out on to the five year part of the curve, which is now around about a percentage point. I’m just slightly surprised that the comments on the outlook, the hedge income are not more positive than you seem to be pointing to, interested in your view on that?"
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "49:12 So, Jonathan we'll talk as ever more about twenty two in February. So, let's see what happens in the next little while. I think the important thing is to remember it's an average life of two point eight years. So, we rule about nine billion a quarter in terms of what’s going to coming off. We added seven billion on there."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "49:30 The impact in twenty one was circa two fifty million, which we've down from early in the year, but we expected it to be three hundred million down. So, it's definitely improved quite a bit, and we've gone from that down compared to prior year to flat, sorry, neutral to slightly positive into 2022."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "49:47 I think what I'm really interested in seeing is this movement that we've seen in the last literally only in the last sort of six seven weeks in terms of the particular spike. Let's see how let's see how that balances out and we'll take it from there a bit. I think neutral to slightly positive feels the right balance sitting here today."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "50:06 But I am right just, sorry, just to finish on this point. I am right in saying that for instance, the thirty two billion of net new hedges that we'll put on in the twelve months to June, a lot of those were put on a shorter duration rates ensure there’s no cliff hedge in five years. As I say, back then that was a short duration. Yields was very, very low, but directionally that's correct isn’t it. [indiscernible]."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "50:35 That is [indiscernible]."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "50:38 Okay, great. Thanks for all that."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "50:40 Lovely. Thanks, Jonathan."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "50:44 Our next question comes from the line of Guy Stebbings from Exane. Please ask your questions."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Exane",
+    "text": "50:50 Hi, good morning. Thanks for taking the questions. And the first one was on commercial [indiscernible] volume the margin perspective, a bit more color. So, NIM side on the commercial division, I think by about eleven basis points this quarter. I think you said captures having distortion there. I don't think you can say that, sort fully explains it. And then as we look forward, excluding anything from rates, how we should think about the dynamics of government guaranteed lending volumes to new lending in terms of whether that's margin accretive or not? And then also whether this de-risking that you're doing in commercial does that have a negative new impact at all? Any comments there and then more broadly how you're thinking about growth in the commercial division as you still have those headwinds, but then hopefully, areas like invoice finance etcetera start to come through?"
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Exane",
+    "text": "51:38 And then the second question, just a point of clarification really on strategic costs. So, you're tracking quite a bit below the full year guidance. So, on share should be expect quite a big step up in the fourth quarter there? Thank you."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "51:48 Great. Thank you. Well, on commercial, let me talk a little bit about that and particularly on what we're seeing in the government guaranteed lending. So, you can see, we gave you some detail on how those loans are performing, so we've had one point one billion of those bounce back loans repaid. The environment continues to remain benign; we think around thirty percent of the balances from the bounce back loans are still sitting in current accounts of businesses and around ninety percent of them are repaying on time or ahead of schedule."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "52:24 Clearly, at the moment demand for new lending, particularly at the small end, it's a difference to in the mid and larger end and specialized end of our businesses, but at the small end demand is relatively muted and we would expect that growth to and lending to come back over coming quarters as the economy continues to recover and particularly as all the support schemes taper."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "52:49 Any new lending that comes on will be more accretive than the bounce back loans, which obviously are at lower rates because they benefit from the government guarantee. So, I think, as you look for the degree of commercial lending, growth is going to depend on a number of things."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "53:09 Firstly, the degree and speed of the economic recovery and the result in increasing working capital requirements. We are seeing good signs of that with invoice financing and working capital lines increasingly being used and we would expect that to continue. I think business confidence is obviously a key driver, and that will be a driver of investment spend, and then this continuing behavior of customers paying down the government scheme."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "53:37 So, I think that's the dynamic between the government lending and the margin accretive. I think the larger end of commercial, we're seeing much higher levels of activity, particularly in specialized finance infrastructure and large mid-corporates. Those tend to be lower RWAs, so returns again remain sort of positive on that side."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "54:03 So, I think that's how I would think about it from that perspective. Strategic costs, Katie."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "54:09 Can I just finish off on the NIM point to remember on the tax point of it. So, if I can cast your mind back to a Q2 guide, when we had the enactment of the corporation tax change that came through and so that required us to change the tax treatment in our operating leases that we do with the customer base. So, we had a benefit that came through on that, then what you've seen is the reversal of that as it’s come through this quarter."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "54:37 So, NIM looks down when you take that tax out, it's flat. So, there's nothing in there that we're concerned about."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "54:45 And strategic costs?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "54:47 Alison, I can’t remember the strategic cost question, could you remind me what it was? I’m terribly sorry."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "54:51 What are we expecting [indiscernible]?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "54:52 Sorry. Thank you. Thank you very much. If you look back over strategic costs for the last number of years, I got the team actually to run it for me the other day, just completely confirm I was comfortable and this is that Q4 is always a bigger strategic cost number that comes through as we kind of push towards the end of the year to get decisions made on property and things like that."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "55:13 So, what you can see is there's always a little bit of a bump up in the air. So, not changing our guidance on strike costs as we know the Q4 is often – it's a month where you get the last things done and pull through. So, it’s often a higher month and that's looking over the last number of years that's exactly what's happened. So, I think just stick with the guidance as we got just now. Thanks, Alison."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Exane",
+    "text": "55:32 Thanks. And thanks very much for the color on commercial. And if could just quickly push Alison perhaps on appreciating really difficult, there's lots of puts and takes there, but in terms of commercial whether you expect to see balance growth from here or is it probably a bit too soon for that, taking some headwinds?"
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "55:47 Yeah. No. No. I'm happy to cover. I mean, look, I think we really expect to demand to start coming back. I think one of the dynamic and we can see the signs of that demand businesses are trading and we can see those indicators in working capital and invoice financing. There is still a lot of liquidity. So, average revolving credit facilities are, you know joins around nineteen percent, so there's still a lot of liquidity, but we are seeing demand coming back."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "56:18 I think the big question, which is, you know, the one you're pushing on is, is business confidence, that's a big dynamic and I think at the smaller end, the SME end they are the ones who’ve absorbed a lot of the lending on the government scheme. So, they're more indebted and this is confidence, it's certainly affected by some of the short term issues, but we are expecting commercial lending demand to come back at them."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "56:43 At the moment, it's a demand issue. We've got the capacity to lend and we are lending at the upper end and in specialized areas, you know and across the business. So, I would expect that demand to come back subject to confidence levels remaining, you know, not too much knocked by things like supply chain issues."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "57:06 Our next question comes from the line of Chris Cant from Autonomous. Please ask your questions."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "57:13 Good morning, both. Thanks for taking my questions. One on targets and one on [indiscernible]. So, on your target, if I think back to your twenty twenty three guidance you gave a full year twenty results, you would say nine and a half [indiscernible] twenty twenty three and that was on a zero percent base rate. And if we look at the curve now, it's probably going to be one hundred bps, if that's right, expect it might change again, but that's where the rates market is. So, if I take a look at sensitivity, post tax, it's about nine hundred million. And I think your guidance back in February implied and that's income of two point six, two point seven billion, so it’s quite a big uplift that we're talking about here proportionately for you in terms of where the range market is, that would be implying a RoTE of maybe twelve percent to thirteen percent. So, what is it that's offsetting that do you think? Are you going to be revisiting target, should we be thinking about something in low double digits now given where the curve is? I mean, NatWest Markets has obviously been a problem area in recent orders, but I know you're reiterating the medium-term revenue guidance, it doesn't feel like that's a big change in you're thinking. What is it, if anything that's offsetting that big change in the rates outlook please, when we're thinking about your medium term RoTE target?"
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "58:38 And then of the bank, I understand you necessarily want to comment too much on ongoing transactions, but given that you’ve moved the AIB book to hold for sale now and that's at value where you think you're going to clear that transaction, including any cost, so could you please guide on the expected capital impact of that transaction? I know you said, capital accretive, but I presumably now have a number of that transaction given you reclassified it."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "59:05 And on a related point, given the progress you're making with the Ulster Bank transactions, looking at your current consensus, Ulster Bank direct cost of two hundred plus million in twenty twenty three, how should we be thinking about the number? I would have thought that the direct costs have dropped away rather than more sharply than that given the transactions are likely to close, but may be I’m misunderstanding the dynamics there? Thank you."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "59:33 Thanks, Chris. So, I think I'm going to disappoint you on my answer. I'm afraid, just from the perspective of, I mean, clearly we're happy with the progress we're making. I've always said it's going to be a phased withdrawal over a number of years, but progress is being made and yes, absolutely moving those assets gives you comfort in terms of how we're doing."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "59:59 And as we complete those transactions, we will look to update you, we'll probably update you in our full year results in February around the costs and the disposals. We do expect it to be capital accretive over the multi-year period that we've always talked about."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "60:17 On your specific point on costs, I mean clearly, costs are going to – cost reduction will lag because we need to support the exits of our customers as we migrate those and we complete the sales, but we'll update you in February, but I guess I would just reaffirm. We're positive about the progress. We're pleased with the direction of travel on the transactions. We're remain confident this is a capital accretive, and it will be faced and we'll give you some more specific guidance in February as we conclude some of these elements. And obviously, we'll keep you updated on other transaction as and when they happen."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "60:56 Katie do you want to take the target [Multiple Speakers]? Yeah."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "60:58 Absolutely. So, I mean, Chris, probably a bit more frustrating set of answers for you. Look, as I look at twenty twenty three guidance, clearly rates are very helpful to us. You can see where that is and let so see where the excitement of consensus lands. I think by the time we get to February; you know we’ll certainly will look at it at that stage, but in terms of that with our cautious optimism, I think, that that's good."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "61:21 If there were offsets, I think the mortgage completion, which we've talked about, you can see where those rates are, just now, and little bit about some of the muted commercial loan growth, that we feel we’re at the pivot point of that coming kind of back on. But certainly, you know where you can, sorry, optimistic as we move forward from here, and this rates increase is a very different picture from when we announced them. So, that will certainly be helpful. And we'll talk more about it in twenty twenty three. Sorry, no in twenty twenty three, we will talk about it February Chris forgive me."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "61:50 Okay. Thanks."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "61:51 Thanks, Chris."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "61:54 Next question comes from the line of Aman Rakkar from Barclays. Please ask your question."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "61:59 Hi, Aman."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "62:01 Good morning, Katie. Good morning, Alison. Couple of questions if I might. Can I come back to the net interest margin, please. So, thanks very much for the disclosure around the application spread. It looks like you've got about sixty basis points of refinancing pressure to digest on a book versus one hundred and eighty odd billion pounds, if I have to run the math on that, that does look like that could offset quite a significant chunk if you deposit be it a rate hike benefit? I guess coupled with the comment that the structural hedges is not necessarily a tailwind, could I trouble you for your view on, do you think net interest margin can actually rise from here given the various moving parts that you can see on the horizon?"
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "62:52 And second would be on NatWest Markets, it's interested for a trading update actually, how are conditions through October, how is that performing relative to Q3 that would be really helpful? And then I guess just a final one, I guess, we've kind of proved costs a fair amount. I do know that your current cost target at the moment is to reduce the cost base four percent per annum ex-Ulster, should we wait until February for you to kind of merge those kind of two comments together? I mean, is it a case that given the inflationary pressure that we're expecting four percent is probably the best that we can expect or do you think Ulster can be incremental to your cost reduction target? Thank you."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "63:37 Thank you. So, on costs, yes. I suggest you wait till February to address that in terms of Ulster position. On NatWest Markets, I mean, in terms of how it's performing, you know, I think we're still seeing a very strong performance in our currencies and capital markets. Business, I think we've in terms of October, there's no real change to the trends we’re seeing in Q3. So, continued weakness in the fixed income performance in Q4 as we finish the reshaping of that business."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "64:18 I think that's what I would say, but both our currencies capital markets are performing well. Our sort of new pipeline in terms of syndicated lending and corporate remains very strong. So, that is continuing to [keep full] [ph], but you'll still see weakness in the fixed income business. NIM, Katie?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "64:40 NIM, sure, absolutely. So, as we look at it, and I think all you've got to look at is not just the point in time, but obviously on that graph as you’ve got on page twelve, as you've got the higher rates that we wrote, they will continue to kind of flow through as well. But certainly, this recent fall down to the one zero five is significant."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "65:04 It's the way that we can offset that, a couple of things. And one is obviously continued focus on volume, which we've been good in the past of volume and margin kind of offsetting with a nice progress in the [bank delay] [ph], which will help, but I do think as I look at mortgage income, that the level of rate where that is, is hard, which is why you've seen us and others do a number of price increases in the last couple of weeks."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "65:26 We did another one yesterday to offset it. Clearly the strategic hedge also will provide some most particularly you can see that it does grow into year two and year three, and obviously the volume will go and that will help as we go forward as well."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "65:41 Other things is I look at margin for the whole group, we’re pleased to see the growth that we've seen in the unsecured space. I bought across personal loans in this quarter and now for the second quarter on a row in terms of commercial."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "65:55 And then obviously in commercial, sorry, the second one in a quarter, forgive me in terms of credit cards. And then in commercial, as we start to see the kind of the growth coming back there, we do hope there will be some benefit as we move forward as well."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "66:09 And then you heard me talk about the, kind of the AT1 reclassification from debt in Q3. It won't repeat. I do think among the mortgage spread clearly that that does have an impact as we go through. We need to focus on the offset of that through the price rise and to make sure that we add volume. And as I say every call, the NIM is really important, what the NII is generating and the ROE for the business, which continues to be strong, is also very important as well, so don't get too focused on that one metric. Thanks, Aman."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "66:41 Oh, sorry, you also asked on February cost reduction. We will talk about it more in February as we do that. Thank you. Alison has obviously covered that already. She’s nodding at me across the table, forgive me. Thank you, Aman."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "66:53 Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "66:58 We have time for one last question. The question comes from the line of Martin Leitgeb from Goldman Sachs."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "67:05 Hey, Martin."
+  },
+  {
+    "person": "Martin Leitgeb",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "67:07 Hi, Katie. Hi, Alison. Just one question on capital please. I mean the capital print today is better than expected in terms of core Tier one and also the new some of the headwinds you have previously guided for seem to have shrunk a little bit, I guess partly due to obviously the strong impairment trend today. I was just wondering how should we interpret the stronger capital print today? Does this mean, there's increased scope for capital return or do you see some of these changes and drivers here as more temporary in terms of nature? And just in terms of next key dates, I think in the presentation that you stated that the whole market program is expected to complete early in 1Q twenty twenty two, could it be a scenario that there is an update on this potentially ahead of full year results, if that's I mean the one you frequently assess scope or should we really wait here for FY twenty twenty one for any update? Thank you."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "68:09 Great. Thank you. Well, look, I mean, obviously, we're very pleased with the capital bills we've shaped to capital generative business. So, fifty basis points up, you've got very clear guidance around, you know our –and very clear that my intention is to return capital to shareholders."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "68:30 We're investing the businesses. Growing in the areas that we have targeted to strategically grow. So, we're pleased with performance and continuing to generate capital. So, I think that should be very positive. Obviously, we've giving you guidance on the billion pounds that we want to distribute as a minimum, as well as any other opportunities that may arise. So, I think we're pleased with the capital generative nature of our business, and that's positive."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "69:03 In terms of share buyback, we'll talk about that in February and we see as an important tool that we have at our disposal."
+  },
+  {
+    "person": "Martin Leitgeb",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "69:16 Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "69:19 I would now like to hand the call back to Alison for any closing comments."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "69:23 Great. Thank you very much. Well, look, thank you for your questions and time today. I mean, obviously, we think this is a good performance, strong delivery operating profit one point one billion, capital benefit business and growing in the key areas that we've targeted in mortgages in unsecured, you know strong performance in our AUM and strong commitments in terms of the targets that we set out."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "69:55 So, pleased with the performance and good to see the resilience in the underlying customer base as we move forward. So, thank you again for your time, and look forward to catching up with all of you soon."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thanks very much."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

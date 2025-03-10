@@ -1,0 +1,1046 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] The first question from the phone comes from Kian Abouhossein with JPMorgan. Please go ahead."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Yeah. Thank you for taking my questions. The first question is related to - first of all, thank you very much for the guidance on recurring fees in the Wealth Management business. Can you also comment on the NII, how you see the NII developing considering the lower rates? That's the first question."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And the second question is on your macro assumptions for IFRS 9. What have you assumed? And in that context, if I look at your report, the larger report, you talk about the ECL and the fact that you are covering at a lower level than 100%, and you have discussed that a level of 100% coverage would be more like US$600 million impact rather than more like the US$400 million that you have taken. So can you just discuss how we square the macro assumption as well as your ECL allowances so we can get a better picture around provisioning outlook?"
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "Kian, thank you. Thank you for both of your questions. In terms of net interest income, what I highlighted is that we do expect to see the impact of the rate cuts from the U.S. show up in the second quarter that would represent headwinds overall to our net interest income in our Wealth Management business."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "And also, we do see continued further headwinds in terms of where rates are currently for Swiss francs as well as euros for our P&C business. Having said that, we haven't currently provided specific guidance on what we expect the quarter-on-quarter impact to be."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "Just on the - your question about IFRS 9, as we indicated in our report, of course, we went through an exercise to update our scenarios, and we did a couple of things. Firstly is our baseline scenario, as you would expect, now reflects higher unemployment and overall GDP contraction."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "In addition to that, we felt that our severely adverse or more adverse scenario was appropriate for the first quarter, although we currently are going through a revision of that scenario as we enter the second quarter."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "The other thing that we did is we eliminated the upside scenario and we also eliminated the mild depression scenario. So we ended up with a 30% - 70%, 30% mix between the baseline and also our adverse scenario, and that resulted in the Stage 1 and Stage 2 that you saw that we booked for the quarter."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "Now in terms of your question around ECL, I think what we highlighted is just given the fact that our Basel III expected loss is higher than our current total balance for ECL from Stage 1 and 2, we don't see any impact in our CET1 capital from the P&L that we booked for our credit loss expense. I think that's probably what you were reading through in terms of the reference and the impact of what we booked versus our capital overall."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "Maybe just to add on NII. I would just probably want to add that in addition to what Kirt says on the headwinds, partially we will mitigate those headwinds because of the credit we deploy out are also creating some counter effects and which, as I said, will help mitigate or manage that situation. So that's probably the answer."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "If I can, just one follow-up. On the economic scenarios, baseline and more the severe and mild downside, can you just quantify them? Because I don't find anywhere input data in terms of real GDP assumptions or unemployment. If you could just give us that for this year and next year."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "No, we - yes, Kian, we didn't provide any specific details on the assumptions for those scenarios. I guess I would only comment in terms of the baseline. As I mentioned, it was a deterioration from our assumptions at the end of the fourth quarter, as you would expect."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "And in terms of our severe global crisis scenario, I would only mention that if you look at those factors, they tend to be more adverse than what you see in the severely adverse CCAR scenario, what you see in the ECB, ICCAP scenario."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "And so it does encompass a very significant narrative around global downturn. And I think as with all our peers, we're going to continue to update our scenarios as we see the overall crisis evolve."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question from the phone comes from Anke Reingen with Royal Bank of Canada. Please go ahead."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "Royal Bank of Canada",
+    "text": "Hi. Thank you very much. I had two questions. The first is on capital. You indicated that the capital ratio might fall in the second quarter below your target range. But I just wonder, if you were to apply the temporary relief in the capital, would that - could that potentially be an offset? And any indication about the dividend accrual for financial year 2020?"
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "Royal Bank of Canada",
+    "text": "And then just a follow-up question on the cost of risk. You've been quite cautious in your comment. Is it fair to assume that Q2 could be higher than the P&L charge in Q1? But could you be more specific in how much buffer you have in terms of the hit against capital? Thank you very much."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "Yes, Anke. Thank you for your questions. In terms of capital, just to be clear, what I indicated, as I said, that we could fall slightly below our guidance range, in the lower end of our guidance range on CET1 capital is 12.7%. Now, importantly, if you look at the removal of countercyclical buffer, which was granted by FINMA as well as other regulators, that puts our total requirement at 9.7%. So that still leaves us with a very, very significant buffer to our actual requirement."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "Now also, importantly, while we have a removal of the buffer for our requirement, it doesn't help the ratio at all. So there's nothing right now in terms of relief that's been made available, that we've availed ourselves of that has made any impact on our current CET1 capital ratio that we reported at 12.8%."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "In respect of dividend, Anke, I don't think I have much more to say. I think that - and at this stage, we can only tell you that I believe it's both prudent not to talk about it, but it's also prudent to take in consideration that, as I mentioned before, capital returns is part of our equity story."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "So we are accruing for a dividend in 2020, but it's very premature to talk about levels and any other topic around this other than saying that we are well aware that there are - we have to balance capital solidity and the ability to respond to the crisis but also to continue to have an attractive capital return story."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "And maybe, Anke, I would just add to Sergio's comments that in terms of our 2020 dividend, for the half that has been postponed, we continue to maintain a special reserve for the payment of that second half that has not yet been accretive back to our capital. And that's just as consistent with our - the current expectation that we will pay that. Now on your question..."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "On the risk side, I think that the question is that the comments we made on risk is that the elevated level are elevated in terms of our own historical standards. And I consider the first quarter, although it's a strong performance in relative terms to peers, an elevated level."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "So it's difficult to do a forecast right now on how much they will be. We have been trying to show scenarios, and of course, we need to adapt to any major negative developments in the macroeconomic assumptions."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "As Kirt pointed out, very coherent with the way we manage risk and risk rewards, you can assume that our existing underlying macro assumptions are quite severe. And - but now we don't know exactly what the next round of economies the outlook is going to be."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "We take external views. It's not only our UBS internal macroeconomic view that we take in consideration. So - but even if we stress our portfolio, it's very difficult to see any meaningful results out of this crisis."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "Royal Bank of Canada",
+    "text": "Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question from the phone comes from Jeremy Sigee with Exane. Please go ahead, sir."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "Exane",
+    "text": "Morning. Thank you. Just a couple of clarifications, please. First one is on the CET1 and RWA discussion that we've already been having. You mentioned that you expect further expansion in market risk RWAs from the sort of averaging effect of that. I just wondered if you could put some scale around that. Are we talking about a similar expansion to what we saw in Q1 or something less than that?"
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "Exane",
+    "text": "And linked to that, are there any other movements that you kind of expect already in RWAs, either from technical calibration effects or from rule changes or anything, if there are any moving parts that you could explain to us?"
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "Exane",
+    "text": "And then my second question is really just a clarification. You said that you're prudently accruing a dividend for 2020. Is that dividend in line with your existing policy of small year-on-year increases in the dividend?"
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "Yeah. As I said, it's premature. I understand that, Jeremy, the need of clarity, but there is not a lot of things I can say around the dividend. You can only assume that we are accruing a dividend, which is aligned with the current market conditions and the need I mentioned before. So hopefully, we will be able to give more guidance and clarity on dividends, I suppose, after the summer."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "I think before then, I think - I don't think it's appropriate, and it's not in the interest of anybody to talk too much about this topic. So we keep our focus on execution and delivering capital and generation and then the issue will be resolved. It will resolve itself."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "Yeah, Jeremy, in terms of your question on RWA. First, just to highlight, of course, we were coming off of extremely low market risk RWA as of the end of the fourth quarter. You see that just $7 billion. And so therefore, when you look at the increase, I think it's a bit amplified because of the low base."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "But nevertheless, also, as I highlighted, is we just look at the technical nature of the - of how reg VAR and stress VAR impacts our market risk RWA and knowing the volatility remains at higher levels. And you think about the 3 month reg VAR window that we're certainly in and continues to extend as we see higher levels of volatility, all of that suggests that we're going to see a further increase in the second quarter."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "I would only say as well, we would expect and we're making, of course, capacity available to continue to support our clients, and that is both through some level of potential drawdowns for existing facilities. But also, we're still open for new business, and we see very, very attractive opportunities to continue to deploy capital."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "And given the fact that we still have attractive buffers, we're going to do so and we're going to support our clients and our shareholders as we go through the second quarter."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "Now overall, when I look at both sides of that equation, what I mentioned is that we would expect to be, right now, positively slightly below our 12.7%. That is the range that we've guided on. Away from that, there's no additional regulatory or other related increases. What we mentioned as well as during the quarter, we fully implemented SA-CCR, so we no longer have any phase in for SA-CCR."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "And over the past couple of years, we've been diligently implementing basically what has been the overall progress towards Basel III, and there's no further such increases that we anticipate for this year."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "Exane",
+    "text": "And just as you think about, as you say, you've got very strong buffers above your regulatory minimums and there are opportunities to deploy balance sheet. What's your sort of levels of comfort? I mean, you could easily go down to, say, 12%, and we would still look at that and say, well, that's still a pretty decent ratio. I mean, is that - what's your tolerance for lower ratios in this environment?"
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "Yes. Well, Jeremy, I think that we are mindful that the buffers are there to be used. But also, as I mentioned before, it's very important that those buffers are used also with a time frame in mind. So it would not be really wise to go out and use the buffer immediately."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "We don't know how the crisis will play out. We need to be careful in managing any dimension. We believe that we have enough capital generation and ability to serve clients and support the economy without going deep into using the buffers. So I don't think that I want to speculate about what is the level that we will be down."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "But of course, everything which has a 12 in front is, I believe, is both in absolute and relative terms very important because I think that we can comfortably say that if you look at our CET1 ratio right now, which is absence of any kind of concessions on a relative basis, is extremely strong. And of course - but capital strength, as the largest wealth manager in the world, is an absolute must."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "And we are - we also have a duty, as I mentioned before, to protect our clients, being the one who have off-balance sheet assets with us, but also the one who have liabilities with us. So we are always very mindful to make sure that the full picture of how we look at our stakeholders and clients, bondholders is fully reflected in the way we manage risk and capital."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "Exane",
+    "text": "Very good. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question from the phone comes from Jon Peace with Credit Suisse. Please go ahead, sir."
+  },
+  {
+    "person": "Jon Peace",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "Yeah, morning. And my first question is, you've talked about some of the revenue headwinds going into the second quarter. But would you say in this environment that activity is still elevated across the bank, maybe particularly in the investment bank, compared with the normal April?"
+  },
+  {
+    "person": "Jon Peace",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "My second question is on the French tax appeal verdict. I think we'd originally been hoping for an update on that perhaps around September, October. Do you think in this current environment that's likely to be delayed? Do you have any visibility there? Thank you."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "So I think it's very difficult to talk about the environment. But as Kirt mentioned in his remarks, we all know that the first quarter was very active with two different kind of connotations, the first half and the second half."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "In the second half, we were very profitable also including loan loss provisions and marks down, but of course, was a different nature of profitability and levels. I would say that the environment we see so far is similar to the March environment than it is to the January and February, but it's way too early to call for any trends. I'm referring to the IB environments."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "Of course, Kirt already extensively spoke about wealth management and what it means. So of course, we need to understand that there is also some kind of seasonality coming into the second quarter."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "Although nowadays, I would say, the last 12 months or 20 or so talking about seasonality is a little bit difficult. But of course, we have some seasonality factors, and so it's premature. But I would say that so far, we are not seeing a dramatic change of environment compared to the way March went."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "On the French tax, we were - other than more updates, we were expecting any outcome probably by September, which we all know now that we will find out on June 2. The trial was supposed to start on June 2. Now what we know is that on June 2, we will find out the new date of the trial."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "So until June 2, we have no update. And then based on that, you can assume that still, we believe that from the day or the beginning of the trial, you have to put few months, 3 months maybe, I don't know, 2, 3 months, 4 months, time frame between the end of the trial and the verdict of the second round. So more information’s will come out during June. I'm sure you guys see publicly, and we will be able, if anything, to make comments for Q2 results."
+  },
+  {
+    "person": "Jon Peace",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "Great. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question from the phone comes from the line of Stefan Stalmann with Autonomous Research. Please go ahead, sir."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Good morning. I have two questions, please. The first one on your sensitivity of net interest income to rising interest rates, which you helpfully disclose every quarter. That has actually doubled compared to year-end to the upside, but it has not changed to the downside of falling rates."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Could you maybe talk a little bit about what has triggered this much higher upside sensitivity, is it positioning? Or is this just a different way of estimating the impact of a given move?"
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "And the second question goes back to IFRS 9 and expected losses. I think the disclosure is very helpful about what the provisioning impact is by moving to a severely adverse scenario. But I'm surprised how small that difference actually is. It turns out you only need $170 million extra provisions to move to an adverse scenario, which according to your annual report, it's something like 6% to 9% GDP contraction. I find that quite counterintuitive. Maybe you could talk a little bit about how the additional provisions in that kind of move will be so low in stage 2?"
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "And maybe in that context, could you maybe roughly guide what you would expect to see in stage 3 assets and stage 3 provisions if you move into your severe downside scenario under IFRS 9? Thank you."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "Yes, Stefan. In terms of your first question, if you look at what's taking place with interest rates now that the U.S. rates have cut down close to zero, what you see now when we model the upside, particularly since a lot of our assets are very short-term, is that the pickup on the upside now that we've had such compression just tends to be much more favorable, particularly given some of the model data assumptions overall on both the deposit side as well as what we would expect in terms of the asset pricing side. And all of that together contributes to a more significant overall pickup with the 100 basis point move."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "Now on the downside, the reason why that, that's far less than the upside, it's again because of the compression. And when you start to model in the negative rates and you assume floors, particularly on your asset margins, your asset margins actually tend to stay fairly firm if you see any further downturn in rates. And we've seen that very much in terms of how our NII has behaved in Switzerland with the negative rates."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "Now overall on IFRS 9, the reason - when we model the assumption of what happens if we move from 70, 30 to, say, 100% with our severe scenario, we model that on the existing mix between stage 1 and stage 2. And so because you still see a very high percentage of our loans overall that remain in stage 1."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "So we don't include any significant increase in credit risk, then the impact overall is the one that we've indicated, which is somewhat over $100 million, but it's not that severe overall beyond that, just as I said. Because at the same time, we don't include any modeling of further migration from stage 1 to stage 2."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "Now regarding your question on modeling the impact on impairments, I mean, that's not something that currently we've disclosed. As you would expect, we continuously run our stress models and we look at the full impact of our credit exposure as we think about the adequacy of our capital buffers and how we manage that."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question from the phone comes from Andrew Coombs with Citi. Please go ahead, sir."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Good morning. Thank you for you comments I'll commend you as well on your commitment to support the COVID relief projects. If I could just follow-up with a couple more on the reserve build and interaction with capital."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "The first question would just be looking at the disclosure you provide on Page 77 of the report, where you say that if you did apply a lifetime of expected credit losses on all stage 1 and 2 exposures, CECL would climb from $429 million to $900 million."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "I'm just trying to square the circle with how that compares to the $80 million incremental you guided to on Slide 18, if you were to adopt CECL, because the incremental number in the report seems somewhat higher. So perhaps you could just clarify there."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "And then the second question would just be on the remarks about the capital expected loss under the IRB model less the existing provisions. If I look at that, it did decline slightly from $495 million to $429 million, but it declined by less than the loss that you actually booked through the P&L."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "So I'm trying to understand what moving parts there. And also, does this mean that you could take up to another $430 million provisions without it essentially impacting your capital position? Thank you."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "Yes, Andrew. So maybe it would be helpful if you go to Slide 18 of the presentation. And what we do there is that we model what our provisioning and our allowance balance would have been under CECL."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "And importantly, what you see is the starting point is coming into the quarter, we would have already had a total allowance balance of $1.4 billion, which already would have been $372 million higher than our balance would have been under IFRS 9 or was actually under IFRS 9."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "So there, we would have already - in the process of adopting CECL, we would have already booked the $372 million increase directly to equity, similar to when we adopted IFRS 9 and similar to what you saw with the U.S. banks and also the Swiss Bank reports under U.S. GAAP."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "So then the impact during the quarter was an incremental $80 million in stage 2 on top of what we would have booked under IFRS 9, and so that then takes the total increase. You see our increase goes up to $429 million, and then we would have seen the $80 million on top of $372 million to get to $450 million under CECL. So that results in the total of $890 million in allowance balance as of the end of the quarter. I hope that's clear."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Yes, that is clear. Sorry I missed the step-up at the end 2019 there. I guess just to round out this whole debate, if we're trying to essentially kitchen sink, I'm not sure - it's not clearly not the right thing to do, but if we were to just look at kitchen sinking sensitivity. You talked about ECL allowance, if you were to move two - so two parts to your equation. One is essentially, if you were to do the light kind of expected credit losses in all stage 1 and 2, which goes from $429 million to $900 million, so $470 million incremental. And on top of that, you talk about if you are to move to severe downside scenario, it will be an incremental $170 million."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "If you were to move to 100% severe scenario and move to a lifetime of expected credit losses, so I said it's not the base case, but if we were to apply that sensitivity, then presumably, you'd be looking at the $470 million plus the $170 million plus an incremental number, because you'd be taking on the lifetime expected credit losses, and the, I hope, severe 100% scenario. Does that make sense?"
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "Yes. Yes, Andrew. So yes, we run those models. And you're right, our total allowance balance would have further increased if we would apply the 100% of the severe scenario plus the full CECL impact. And you can assume that we would have been nicely above $1 billion."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "And we just run those scenarios just so we understand the sensitivity and the reporting, what would happen and what ifs. But of course, it's not relevant because we'll report under IFRS 9 going forward."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "And it goes against it."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "Yes. And well -- and at that point, the question is how much of that would have gone against equity, which kind of gets into your second question. And you can't exactly look at a dollar-for-dollar in terms of what we book because the structure of our Basel III expected loss that sits in capital, that balance has an assumption across different parts of the portfolio."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "So depending on what you booked for stage 1 and stage 2, it would determine whether or not a portion of that goes to equity or portion does not, is offset. So it's a little bit more complicated and nuanced in terms of the actual impact. We can get back to you and just reconcile what took place during the first quarter."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "No, I appreciate that. We're all having to adapt to the complexities of IFRS 9. That's very helpful."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question from the phone comes from Benjamin Goy with Deutsche Bank. Please go ahead."
+  },
+  {
+    "person": "Benjamin Goy",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Hi, good morning. Two questions, please. First, on your client survey, sounds relatively constructive. So do you think you can keep your fee margin more stable this time unlike in previous crisis?"
+  },
+  {
+    "person": "Benjamin Goy",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "And then, secondly, on the $183 million of write-downs that were more than fully offset by hedges. Just wondering is that your general hedging policy? Or could you act swiftly as the pandemic unfolded? Thank you."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "So I mean, first of all, I think that if you look at from a historical standpoint of view, when you look at margin protection, so I don't know if you refer back to the financial crisis where we had more of an idiosyncratic situation, of course, protecting margins there was a function of outflows."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "But in general, I can say that in the environment like this one, we can price advice. We can get margins up on transaction business. So I don't think that there is an issue of margins."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "As you can see, it's all about client activity levels and the way we engage with them. If anything, in many cases, we are able to price our services while staying competitive in a way that is recognized by the client as being added value."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "In respect of our hedging strategy, it's very much what I said. It's not that we were particularly quick in reacting to the pandemic. It's part of our - the way we manage risk across the cycle. So I remember that. That means that maybe there are quarters in the past in which we could have seen a little bit of a better momentum in NII and any other dimension of the business, but we always say that what matters for us is risk-adjusted returns and return on deployed capital and looking at also our cost base versus the return on risk-weighted assets."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "And in this quarter, you saw is being fully deployed. So no, we were not quicker or smarter during the crisis. We were coherent over the cycle entering into the crisis with the same discipline that we had over the last decade."
+  },
+  {
+    "person": "Benjamin Goy",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Okay."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question comes from Adam Terelak with Mediobanca. Your line is open. Please go ahead."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Good morning. I wanted to dig back into GWM NII. I know you're hesitant to give any formal guidance. But I wanted to understand whether we can still think about the $60 million of the cuts that we had last year as a potential headwind."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "And then how we're thinking about loan growth on the other side. Clearly, you're sticking to your 13% midterm guidance on CET1, but there are lingering COVID-19 RWA coming through. Does that mean that your loan growth aspirations for GWM has been downgraded? Or is there an impact, should we say, given that there's some balance sheet that needs to be set aside for COVID crisis?"
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "And then, finally, could you just give us a bit of color on the deposit outflows you saw, clearly, the repricing there? And whether you could quantify the benefit for the quarter and what that could be for the coming quarters as well? Thank you."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "Yes. Thank you, Adam. Just in terms of our capital deployment, and I already highlighted when I addressed how we saw our RWA progressing as we go through quarter two. And I think, importantly, what I indicated is we do expect, and there is a portion of capital that we expect to deploy for lending purposes."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "And that cuts across any potential drawdowns along with any additional business that we would do within our P&C business, as well as our IB and GWM. Very importantly, we'll continue to prioritize allocation of RWA for further GWM loan growth."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "And what you saw in the first quarter is actually our loan growth was trending very, very positively as we got through the first half of the quarter. We - in fact, we reached almost $9 billion, but then we did see some deleveraging from COVID. We ended up with about just short of $4 billion in net new loans."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "We continue to have a good pipeline of opportunity in GWM, and we would expect to continue to see lending growth as we make our way through second quarter. That will, in turn, help offset part of the net interest income headwinds that we see from the rate cuts that we've referred to where very clearly, if you model that through, there is going to be a step down, particularly in deposit margin as you go through the quarter. And we'll do everything we can on the deposit management side along with loan growth to offset that as much as possible."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "In terms of the deposit outflows, what I referenced is that we saw $16 billion outflows from the programs that we announced that we would implement at the end of the fourth quarter coming into the first quarter. I did say that, that was accretive overall for NII. That also will have a positive impact to partially offset some of the headwinds that we're seeing. We didn't indicate how accretive, but it does have an important impact overall on net interest income."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "And then more than offsetting that, actually, what you saw also during the quarter is that we did have very strong deposit inflows, particularly in the U.S., and I think that just references, first of all, UBS is our view as being a safe haven and a secure place to put your cash along with moves that clients made where they did go out of investments into cash. So they are holding more cash now, including with us."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Great. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question from the phone comes from Magdalena Stoklosa with Morgan Stanley. Please go ahead, madam."
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Thank you very much. Really, two quick questions, one on costs and another one on medium-term targets. So on cost, of course, we've discussed some caution on revenue trajectory from here. But how do you see your cost flex as a potential for the offset of the revenue challenges and particularly in 2020?"
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And my second question, really, how do you see the medium term targets now kind of post 2020 as kind of numbers that you would like to deliver or aspire to beyond this year? Thank you."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "Thank you, Magdalena. So I mean, first of all, in terms of the midterms target, the aspiration remains the same in mid terms. Of course, we are not really moving away, and we need to have more visibility about how the environments develop."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "To talk about 2020, it's very dependent on that medium to long term. I'm totally convinced that particularly in 2021, we will see a more normalized environment. And therefore, there is no reason for us to put in doubt our medium to long-term targets range."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "Short term, I'm glad that we have a strong start to the year. We have - and we do our best to get at the targets. And - but it's very premature to talk about that. But I remain totally convinced, and the first quarter gives me higher - even higher confidence that while it's not really appropriate to talk about targets in this environment, one cannot stop to think about how to manage the crisis and how to manage the near terms and the medium terms stories."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "So overall, on cost flex, first of all, I have to say that we will - we still - are still working on taking down $1 billion of cost in - for this year, a chunk of it will be fully annualized into our numbers. But we are also of the view, if anything, that this quarter was an indication of our story, that's the issue is that if you don't continue to invest in your capabilities, you are not able to have infrastructure that allows you to serve clients, to be effective and efficient and to capture opportunities."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "So the flexibility we have, we have some natural ledges on our cost side as a function of how revenues work in the compensation, for example. We can delay or spread over time some of those investments that we want to do. Therefore, we gain further flexibility."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "But I don't see us having a necessity to take draconian actions on cost because as you can see, the issue is all relative about how the revenues environment performs. And therefore, we need to stay focused on creating value long term and not take actions that are not constructive for the future. But we have some degree of flexibility across natural hedges and delays on how we implement."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "Thank you very much. Very clear."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question comes from Jernej Omahen with Goldman Sachs. Please go ahead, sir."
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Yeah, good morning from my side as well. I have three questions. I think - so Sergio, in your opening remarks, you made reference to select regulatory changes that were implemented, but have been implemented so far on a temporary basis and that you were hopeful that some of them could become permanent or should become permanent. Can I just ask you if you're willing to be more concrete as to exactly what your measures you have in mind?"
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "The second question is on - again, in your opening remarks, you were talking about government plans in which UBS is playing an active role. You commented that UBS will not make any profit out of these programs and whatever profit is made will be donated."
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "I was just wondering - so as a starting point, what are the asset prices for these loans? Because I'm assuming that you - the starting position is we're saving this from breakeven, that you will get asset prices, which are - asset rates rather, which are very, very attractive from a borrower's perspective."
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "And then my third and final question is just so, obviously, all the focus is on credit losses and the credit quality outlook. And I'd like you maybe to comment in a different manner. Sergio, obviously, you were in European banking at the time of the global financial crisis and the European sovereign crisis."
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "And I was just wondering you mentioned that there is still a very wide range of possible outcomes for this current crisis we are going through. In your mind, how likely is it that the credit loss experience in this crisis, just the credit loss, I'm not talking about mark-to-market or any of those things, but the credit loss experience in this crisis is less severe than what we've seen in '08, '09 and '11, '12. Thank you very much."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "So thank you. Well, I mean, I don't want to go through a very comprehensive review of detailed regulatory issues. But I would say that from my standpoint of view, as I mentioned, there are great merits of the regulatory framework and regulation that responded to the 2008 financial crisis."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "As I mentioned, I believe that the vast majority is absolutely was necessary, is necessary. But inevitably, when you make so many changes, we have a situation in which you create intended or unintended consequences that then proved to be counterproductive over the years."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "And I believe that recognizing also that this crisis is not like the financial crisis on which the entire regulatory regimes were the fact to build, we need to respond and adapt now to the crisis and fixing those issues. In my point of view, I mean, I can tell you two examples where I believe that there is a need of rebalancing."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "For example, the temporary relief on LRD calculation for cash deposit that central banks have been taken out of the LRD calculation, it's something that I think is a structural issue that should have never been there. It's not very coherent also with the way risk weightings are assessed on some of the sovereigns."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "Therefore, I would have said that this should be a permanent use. In our example, we are right now more risk-weighted asset constraints, so we don't really have an LRD need, but also an LRD concession that, as 2 months or 3 months of time horizon, is useless, because you can't really deploy $50 billion or $60 billion of LRD with a danger of those LRD being pulled back in 3 months' time."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "The procyclicality of some of the provisionings, although again, we are very comfortable with our provisionings, as I mentioned before and Kirt really explained this matter comprehensively, the truth of the matter is that the outcome of our CLE is a reflection of our credit risk."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "And therefore - but I do see that some of the IFRS and the accounting standards are putting too much for cyclicality. I would expect maybe in good times to be able to build up more reserves and adding less volatility around this issue, particularly in the first phase of the situation. So this is something that are at minor effect. They are not necessarily comments that are reflecting UBS, by the way."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "Government plans, we make - I mean, there are - if you look at the Swiss program, there are 2 aspects. One is for the very small SMEs, where the government is guaranteeing 100% and there is no interest rates and so we make no profit out of the credit. We have potentially a funding - we have a funding advantage because we can refinance those loans at the Central Bank."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "So if you take out our cost, potentially, of serving the clients and so on, potentially, we would be left with some marginal out of the funding between the zero that we apply to the clients and the refunding at the Swiss National Bank. And that's where we think that we will not book those profits. We will - eventually, there are any profits are going to put them into our relief fund."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "For the second tranche, we have - we take 15% of the risk and the risk-weighted assets, and we are still able to refund it at Central Bank. But there, we take risk other than the cost of serving. So we're going to also there try to really manage the line. So the spirit of helping now is not to make money out of this program."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "The spirit is to become the transmission mechanism for governments and central banks to help the economy, and it's not for banks to make any profit out of it. And that's the reason why we take that stance."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "On credit losses and what happened there, sorry, difficult to answer that question. I think that's, of course, one of the scenario we are looking, for example, is what happened to our credit risk provisions during the financial crisis in the Swiss business, right?"
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "If I take as a reference point that one, over 2008, '09 and '10, we took, in aggregate, $250 million of losses. Now each crisis is different. And as you do with stress models, you go across the board, you look at different situations, and we believe that we can see that financial crisis that's been one of the outcome or even if it's more or less, it doesn't really meaningfully change our view that we are able to absorb a higher degree of stress in credit without compromising the soundness of our capital and our profitability, also importantly."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "Because if I really run through the Swiss business also to a severe stress, they're going to come out with being able to pay their cost of capital, most likely. So that's really the kind of stress we look at when we do scenario analysis. And of course, it's very complex, as you know, and we try to keep it as simple as possible in the external communication."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "But the most important issue for me is that there is a high degree of prudence and -- while looking always for risk reward, because we are, as an organization, what I always like to say that we are not risk adverse. We are risk aware. And it means that we are pricing risk appropriately and also taking consideration a worst-case scenarios"
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question from the phone comes from Amit Goel with Barclays. Please go ahead."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Hi, thank you. So just a follow-up. Just on the CET1 capital. Just wanted to check in terms of a rating migration impact, and what are you seeing or thinking for that in Q2? Because I think a number of banks have kind of called that out as a potential impact."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "I saw obviously on the undrawn commitment side, Slide 22. I think there, you're referring to stable risk weights on drawn exposure, but I think that's maybe a slightly different thing. So I just wanted to get your thoughts because just trying to understand really where CET1 capital may trough in Q2? Thank you."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "Yes, also, a little bit difficult to answer the question because it depends on what you assume for your rating migration. But obviously, rating downgrades, certainly, will have an impact and will increase RWA."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "And we include that in our modeling. We look at that in our stress scenarios, and we add that to consideration in terms of how we deploy capital and what our buffer retention should be. But it's not a straightforward question to answer unless we talk about multiple different scenarios and what kinds of downgrades."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO &amp; Chairman of Executive Board",
+    "text": "Well, I guess, at the end of the day, we have given you a guidance on what we expect our CET1 ratio to be in Q2. Kirt clearly say that it may be slightly below our range guidance. So you have to assume that our scenario coming into second quarter is embedding the recent developments and our other dimension on capital generation. So - but who knows what happen in a few weeks' time. So I think that this is - at this point in time, we are comfortable with that statement."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "Maybe just to kind of further make the point. I think if you look at our Slide 19, you see that rating migration really is impactful to our corporate loan portfolio, which is pretty confined at $27 billion. So perhaps unlike others, we don't have a large portion of our portfolio where rating migration could have a substantial impact in RWA spikes."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question from the phone comes from Piers Brown with HSBC. Please go ahead, sir."
+  },
+  {
+    "person": "Piers Brown",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Yeah, good morning. Quite a few of my questions have already been addressed. So I've just got a couple of small follow ups. Just firstly, on the - coming back to the question of the CET1 temporary exemptions where you've talked about not having availed of some of them. I think we've -- I mean, we've had a couple of them already outlined in terms of, I think, in the slide pack, you talked about the VAR back testing exception and how that didn't really help your market risk number, and you've also talked to SA-CCR that you fully implemented that rather than phasing."
+  },
+  {
+    "person": "Piers Brown",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "But just - I mean, is it fundamentally the case that you chose not to avail of other exemptions, regulatory exemptions? Or is it just that any other items outside of those 2 that you've highlighted weren't material for you this quarter? That's the first question."
+  },
+  {
+    "person": "Piers Brown",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "And then just on the - just the second question, just coming back to some of the mark-to-market losses that you've highlighted on the auction rate positions and the $183 million on the LCM and the other items in the investment bank."
+  },
+  {
+    "person": "Piers Brown",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "I wonder if you could just talk to how those positions might have behaved so far in the second quarter. Obviously, we've had a pretty big recovery in credit, whether some of those positions may have reverted back to - closer to where they were in terms of valuation pre-March [ph] Thank you."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "On the - on the RWA - Piers, on the RWA question, I think, firstly, we actually didn't need to be able to avail ourselves of any of the opportunities, let's call them, that were on offer nor were there others that were offered to us that might have been helped. So in terms of back testing exception, it just wasn't something that we require because we actually didn't hit a threshold that would have then triggered a multiplier."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "On the mark-to-market losses, first of all, if you look at the ARS positions, I think, as you know, what happened in the market during the first quarter, of course, with the significant dry up of liquidity, particularly in the tax-free market, just along with the drop in interest rates."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "On liquidity side, we have seen liquidity come back a little bit. You would assume that that's going to be helpful to those positions. Obviously, on the interest rate side, they remain low. But I would just re-highlight the fact that the notional underpinning the $143 million that we referenced on the page is AA."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "And so we have full confidence that we'll recover 100% of that notional. There's no concern at all that we have on that overall quality. And we also expect to - we're currently earning very, very good net interest income. So the margin on those positions are actually also quite attractive to us. So as long as they're on the books, we're earning quite well from them."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "Now in terms of the LCM positions, it's a little bit harder to call because markets remain quite volatile and you also have different impacts that are idiosyncratic across sectors. So if you look at oil and gas, if you look at how different sectors are continuing to respond to the crisis, it's going to have a flow-through impact and a second order impact on how any either LCM or corporate lending or real estate portfolios, which are the three portfolios we referenced that - where we incurred the $183 million of mark-to-market losses with also the point that we highlighted that we did offset those losses fully with gains on hedges."
+  },
+  {
+    "person": "Piers Brown",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Could I just briefly follow up? Just - I mean you gave a number for the ARS book, I think it was $1.4 billion. Are you able to just be able to give some indication in terms of sizing the LCM books? How big are they? Or are you able to give any information in terms of the size of those portfolios?"
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "You can't really correspond specifically the LCM with those losses. Because, as I mentioned, they did cut across other portfolios, including our commercial real estate portfolios."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "But what we did do is, we outlined on Slide 21, we just gave you an overall profile of our LCM exposure. And we were at $10.8 billion as of the end of the quarter. And I think importantly, what we saw, even in these challenging markets, we were able to derisk between the end of the quarter and the end of last week, $3.5 billion."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "So our current exposure there is $7.3 billion, of which about 40% is investment grade. And actually, a larger portion of what we derisk was in sub-investment versus investment grade."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "And also, what we highlight here is in the sub-investment grade, it all is with business that are core clients of ours, where we have great confidence in the credit fundamentals and also on the strategic merit of the business that we're doing with them."
+  },
+  {
+    "person": "Piers Brown",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Okay, that’s great. Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question comes from Patrick Lee with Santander. Please go ahead, sir."
+  },
+  {
+    "person": "Patrick Lee",
+    "role": "questioner",
+    "position": "Santander",
+    "text": "Hi. Good morning, everyone. Thanks for taking my question. I just have two quick follow-up questions on the wealth management revenue. Firstly, on the recurring fee headwinds that you mentioned, the $200 million to $300 million. I just want to check with you how much of this is purely the mechanical effect of the U.S. quarterly billing. Or how much of that is some sort of subjected fuel from your side in terms of where asset prices would be by the end of June? And what, I guess, hypothetically, if the market goes back to 2019 level, would that make a big change to that assumption or to that guidance?"
+  },
+  {
+    "person": "Patrick Lee",
+    "role": "questioner",
+    "position": "Santander",
+    "text": "And secondly, relating to transaction revenues, which has a very, very strong quarter. On Slide 12, you gave a bit more color in terms of that movement by geography. I mean, for example, APAC doubling is, I guess, kind of expected. But I was surprised as we actually saw such a big jump in transaction revenues."
+  },
+  {
+    "person": "Patrick Lee",
+    "role": "questioner",
+    "position": "Santander",
+    "text": "And I know you mentioned that there are more interactions and all that. But is there anything special in that line that we should be aware of in terms of like transfer of business? Or is this just a new normal in that particular geography? Thanks."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "Yes, Patrick, in terms of your first question, any time we provide any kind of guidance, it's modeling off of asset rates, interest rates forward, anything that we could reference from a market perspective. We generally do not overlay any kind of management actions or any assumptions we might make otherwise."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "So therefore, when you look at the $200 million to $300 million, mechanically, if you look at the - our overall invested assets, which you see quite clearly on Slide 11, so there was an 11% drop. We were at $2.3 billion, roughly half of that is U.S., and that's the billing base for the U.S. business throughout the quarter."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "The other half that's international we bill on a monthly basis. And so of course, if in fact the market performance we already saw in the month of April, assuming that holds through the end of April, will have a positive impact on our international business."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "And then it really depends on the international side what happens over the next couple of months. In terms of your transaction revenues, and one of the things I mentioned that I think did have a really important impact on the overall level of transaction revenue we saw from clients was the increased engagement level."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "And Tom and Iqbal were very focused on purposely increasing substantially the level of client interaction we had across all our regions. And we highlighted, in fact, in Switzerland, there was a 30% increase in client interaction levels."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Group CFO &amp; Member of Executive Board",
+    "text": "That, combined with just the extreme volatility that we had in the quarter that actually made available, structured product and other repositioning opportunities where our CIO was very focused on pushing out solutions resulted in the very good transaction revenue performance that we had in the quarter, and it's certainly included in Switzerland. So it extended across all regions."
+  },
+  {
+    "person": "Patrick Lee",
+    "role": "questioner",
+    "position": "Santander",
+    "text": "Great. Thanks."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Ladies and gentlemen, the webcast and Q&A session for analysts and investors is over. You may disconnect your lines. We will shortly start the media Q&A session at the press conference.+"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

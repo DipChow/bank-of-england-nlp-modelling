@@ -1,0 +1,770 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. [Operator Instructions]. Thank you. Our next caller is Jason Napier from UBS. Your line is now unmuted. Please go ahead."
+  },
+  {
+    "person": "Jason Napier",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "Good morning. Thank you for taking my questions. Two on net interest margins, please, if I could. The walk on margins on a quarter-on-quarter basis, just focusing first on the 4 basis point headwind from mortgages, Wondered you could talk a little bit about the spreads that you achieved in the second quarter, the pipeline for the third quarter and how that looks the sort of persistence of the headwind is a particular focus for investors. How long you think that headwind will continue? And then secondly, the support in this quarter from funding capital and other, it looks to me like that's mostly about the Bank of England Levy change. But if you could talk about whether we should consider that to be a plus or minus or neither in future periods, that would be most helpful. Thanks very much."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Thanks, Jason. I'll perhaps take those two questions. Maybe that Charlie wants to add a little on the mortgage point in particular. On the mortgage question, first of all, in relation to NIM, as you say, we've seen a bit of a headwind during the course of quarter 2 in relation to mortgages, 4 basis points. That's very consistent with what we saw in quarter one. And to your look forward point, Jason, it's consistent with what we would expect to see the remainder of this year. It's not playing out very much in line with expectations. What's going on behind that, as commented on in my comments, I think perhaps in Charlie's too, we've seen completion margins of around 70 basis points in the course of quarter two."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "That's up a touch versus quarter one, which I think was more like 65%. That's good to see, but it's a gradual and obviously relatively modest progression, but it's progressed nonetheless. That is, however, as you know, in the context of maturing mortgages coming off the balance sheet around a 110 basis points. And it's that combination that leads to that 4 basis points headwind in quarter two. And as I say, I expect that pattern to be pretty consistent for the remainder of this year. As we go forward on that, today is not the day, obviously, to be making guidance or giving guidance for 2025."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "But as we go forward and consistent with the comments that we've made before, we expect that headwind to temper slightly during the course of 2025 and then get effectively eliminated during the first half of 2026 at which point you're taking on new mortgages at much the same rate as they're coming off. So it's that type of development looking forward, Jason, which hopefully is helpful to your question."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "In terms of the second question there, funding capital and other on the margin, as you say, we've had about a 3 basis point benefit from that. What's underneath that number? It's basically three things. You mentioned bank levy, which is quite right. That is certainly a feature of that. Alongside of that, we've seen some spread compression, which is helpful, and we've also seen lower quantities of wholesale issuance than we might otherwise have had partly because of the deposit strength that we've seen on the balance sheet. So those things are coming together to help steer the margin in the context of our 293 for Q2, 294 for the half as a whole. Looking forward, Jason, on that particular point, I would expect that to continue to be a bit of a tailwind going forward, it will ebb and flow a little bit."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "But overall, that bank levy benefit will continue to contribute through the course of the year, and likewise, maybe a bit of benefit from Wholesale in the context of strong deposits. Charlie, I don't know if you want to talk a little bit about mortgage volumes."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "Yes, thanks, William. Just on the mortgage market broadly, I think probably everyone will know, we saw a strong Q1 actually in terms of customers coming back and origination around mortgage volume that was linked to, obviously, the lower swap curve that we saw in January and February. And I think the good thing from our perspective is our strategy about being focused on our segments that we are the leader and maintaining and growing market share in those segments, played out well. And it played out at margins, as William said, that we're very much in line or slightly better than our guidance. Volumes in Q2 slightly dropped as the swap curves moved up, but it stayed healthy."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "And we'll have to see how the second half develops probably along with the rest of the market. We're not expecting huge volatility in the swap curves and therefore pricing. It remains a competitive market, but what we are pleased about is we're competing well within the segments we've seen, and we've actually gained a bit of share in the first half. So let's see how the second half goes, but it's a good start to the year. And obviously, those balances will be supportive of our AIEAs in the second half and hopefully in '25 and '26. Thanks, Jason."
+  },
+  {
+    "person": "Jason Napier",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "Thanks very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Our next caller is Aman Rakkar from Barclays. Your line is now unmuted. Please go ahead."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Good morning, Charlie. Good morning, William. I guess I had a follow-on question on the net interest margin. So you're kind of talking about a bit more mortgage margin pressure in the kind of coming quarters at a similar run rate to Q2. So there's quite a lot of heavy lifting that needs to be done by the deposit side of NIM here. I guess, could you kind of break out your expectations of the deposit margin sequentially from here, and in particular, the structural hedge? So do you think we're kind of at a level now where the structural hedge is stabilized? Should we expect that to be a pretty meaningful pickup from here?"
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "And I guess that's coming in the broader context of NIM, which to me I think is I think you are pointing to a weaker NIM profile in H2 than consensus is modeling. So I guess I'll attach, I guess, a second question to that is, it's right to think of NIM down in Q3 and then some kind of pickup in Q4, but one that probably may not approximate consensus. Is there any chance you can comment on those points, please? Thank you."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "Good. Thanks, Aman. First I'll take those questions on the margin generally in the direction going forward, Aman. The guidance for the margin remains consistent with what we said at the beginning of the year and then again at Q1. So, hopefully, that's helpful in a sense that it's consistent over the course of the year. What's going on behind that? As I mentioned in my comments earlier on, actually, the developments in the half one that we have seen have given us, I suppose or rather underlined our confidence in that guidance as we stand today."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "So it continues to be greater than 290 for the full-year, underlying greater than and it continues to be turning towards a positive inflection point before the end of the year. Behind that, what is going on is the principal headwinds and tailwinds that we discussed before, which is to say that we see the mortgage headwind developing in the way that I've just described, pretty consistent remainder of this year. We see the deposit churn evolving but actually slowing in the second half of the year. And there's some early signs of that happening, Aman, that we can -- that we have discussed in the context of Q2."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "So we expect to see that churn continue in the rate environment. It'd be natural to expect people to continue to put money into things like, fixed term accounts, likewise, interest withdrawal. But, nonetheless, that pattern, we expect to slow in the second half. And as I said, some early signs of that in Q2. Alongside of that in deposits, that pressure is going to be slightly augmented by the bank base rate reductions that we expect to see, which in turn, as you know will lead to certain lags before we're able to pass those on to depositors in whatever shape or form we choose to pass them on. That's the picture of the deposit headwind, which evolved in the pattern described."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "At the same time, we commented earlier on, on that funding capital Nova [ph] tailwind, which is helpful. But actually, much more importantly in the second half is the structural hedge. And the structural hedge comes back in a significant way in the context of the second half to offset a number of those headwinds that I just described a second ago. So I'm not sure I would totally buy into the profile that you described in terms of the overall performance of the margin. We feel, as I say, very comfortable in the overall guidance greater than 290. And likewise, the guidance that we expect the margin to turn before the end of the year. In that context, I think it's also reasonable to expect net interest income to turn in advance of the margin turning."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "So as we see it today, based on the guidance that we have given you in respect to net interest margin, in respect to non-banking net interest income, in respect to AIEAs, we expect modest progress in H2 NII over H1. So it gives you a bit of context if you like for the way in which you might view, not just the margin, but also the net interest income picture as a whole."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "That's excellent. Thank you so much. Appreciate it."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Our next caller is Benjamin Toms from RBC. The line is now unmuted. Please go ahead."
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "RBC Capital Markets",
+    "text": "Good morning. Thank you for taking my questions. The first one's on that structural hedge. And just to help with our modeling, can you just provide some color on to what extent you pre-hedged your '24, '25 and '26 swap maturities? Top curve has been a bit all over the place. So to the extent that you have pre-hedged, when did you do the bulk of that pre-hedging? Or to put it another way, how does the rate you've locked in at compare to swap rates today? And secondly, on securitizations, it may have formed an SRT securitization. Some of your peers are utilizing this method more than you are relative to size of their loan books. Can you talk a bit around your ambitions around further securitization, whether they're traditional or SRT? And maybe put some color around the economics on this type of transaction from an RoTE and capital perspective? Thank you."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "Thanks, Ben. Again, perhaps I'll go through those two questions. In relation to the structural hedge, consistent with the pattern that we described at Q1 and perhaps also in February, we have as you know a structural hedge, which is right now £242 billion invested that's come off a touch since quarter one about £2 billion. That's pretty much tracking in line with our expectations for this year, which is to say that we expect a modest notional reduction, probably not unlike what we saw last year, which is about £8 billion. Maybe the deposit performance that we've seen this year actually helps us out a little bit in that respect, but let's see how the rest of the year fares."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "As we look forward to your question, Ben, we do obviously try to ensure that the hedge is both a source of shareholder value, but also stability in our earnings, which in turn means that we do look to lock in the hedge in a way that's not hugely different to what you would expect out of a 3.5 year average life and the kind of lock in associated with that as you rolling forward. So specifically, what do I mean by that? It means that within 2024, we are very largely locked in as you would expect. We've only got six more months or in fact five more months of the year to run. So you'd expect us to be largely locked into '24."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "When we look forward into 2025, we're about full phase locked in. If you were to -- if you like to extrapolate the hedge over the course of its seven year total life, 3.5 year weighted average life, that's about what you would expect. And then in 2026, we're probably around two thirds locked in. Again, to extrapolate the average over its total life of roughly seven years, average weighted average life of 3.5 years, pretty much what you would expect. So that gives you a sense as to our hedge position, Ben, as we roll forward."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "In terms of timing, I'm not going to address precisely your timing question. But I think it is safe to say that when we see, the curve look advantageous, if you like, relative to our long-term expectations, then we will incrementally take steps forward on that basis. I wouldn't take that too far though, Ben, because if you look at our hedge, it is more like a kind of conventional hedge that you would expect to roll forward in a pretty conventional way than anything else. But occasionally, when rates looking very favorable, then yes, we'll deploy a touch more than we would do in other less favorable circumstances."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "In respect of, the SRTs and the like, Ben, as you know, optimization is a part of our balance sheet management strategy that we seek to pursue in a very net present value positive way for shareholders. There are a range of tools available at our disposal in respect to that optimization. Some of them are simply around making sure that we are efficient in our interpretations of how risk weighted assets should sit on the balance sheet. Some of them are around management with counterparties, for example, net and collateral. Some of them, to your question, involve transactions."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "And to your particular point, yes, we do deploy SRTs. You'll see SRTs are being deployed in respect of our commercial business, including in respect of our commercial real estate business in particular. And so we do take advantage of SRTs. Likewise, we also take advantage of retail securitizations, particularly in the mortgage book. We did both the mortgage book actually and personal loans last year."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "The question that we ask ourselves every time we do an SRT or for that matter of retail securitization is, is this structure -- is this transaction net present value positive? And if it is, then we see it as a useful source of shareholder value added. It is also, by the way, a useful source of risk management, of course, on the balance sheet. Talked about SRTs in the context of CRE just a second ago. But also, over the course of quarter two, we securitized about £900 million of Bank of Scotland self-certified mortgages. That combined with a transaction we did in securitization space last year, similarly, part of it relating to the legacy book, has saved us about £200 million in expected loss and therefore helped us in terms of the ECL management business going forward."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "So we are effectively risk managing in the context of some of these transactions as well as obviously managing risk weighted asset base that we seek to adhere to and target as you know for our year end. Thanks, Ben."
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "RBC Capital Markets",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. The next caller is Edward Firth from KBW. Your line is now unmuted. Please go ahead."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Yes. Good morning, everybody, and thanks so much for taking my question. I had two questions, actually, on a slightly different topic. Just coming back to Charlie's comments about growth and the sort of labor imperative or the labor government's imperative for growth, because if I look at your full-year '26 target, that sort of 15% plus return target on a 13% core Tier 1. If you're going to generate 200 basis points of capital, that that doesn't suggest as much spare there for growth, if that's virtually nothing. So I'm just trying to think how important how much do you have to gear up your growth to actually get the economy going? And I'm particularly thinking of the commercial book. That's now been falling in a reasonably consistently for some time. And I'm just not clear in my own mind how the economy can really pick up if you, as one of the biggest players, can continue to decline that loan book. That was my first question."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "I've got another slightly different question. Should I give it to you now or wait till after that one?"
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "Yes. [Indiscernible]. I'll take the first one and the second. But, yes, please go with the second."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Okay. Great. Yes. And the other one is completely different topic. When I look at the sort of regulators regulatory papers that are coming out at the moment from the FSB and base and everybody else, there seems to be about one a week on artificial intelligence, and the sort of potential in the banking sector for huge efficiencies and huge sort of transformations in the way you do your business."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "And I'm just welcome your thoughts on where you are at Lloyds in your thinking. Is it potentially going to be a big game changer like sort of digital banking was perhaps 20 years ago? Should we be thinking about a lot of cost potentially to implement that? How -- where are the sort of big pluses and minuses from that sort of initiatives? Thanks very much."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "Great. Thanks, Ed. And thanks for giving me a question as well today. This is great. So look on the first one around growth and the imperative or the focus of the government put around growth. I think the starting point as you've seen is our forecast and the basis of our plan actually assume the GDP this year, although we upgraded it slightly, is any 0.8% growth. And then we start heading towards 1.4%, 1.7% growth in '25, '26. That's not in line with the labor government's objective of getting to 2.5%. So we have laid out a growth plan we think is realistic based on the current government policy and the government -- the current fiscal policy. We'll have to see what plays out in terms of the labor government policies and whether that changes that trajectory."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "We think there is an opportunity by the way for a government to take a more proactive stance around blocking the supply side and encouraging investment in the U.K. This could enable that. It's not going to be in the first six or 12 months, it makes a difference obviously. But we do think there's an opportunity to beat that. But obviously, our forecast is based on what we can see today."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "In terms of our loan growth and then balance sheet, I think about it in a couple of ways. The first thing is our baseline does have some core growth in AIAs. We haven't given you specific guidance obviously beyond 2024. But I think what you've seen this quarter around the kind of growth we can achieve when markets are returning to more stability is a good example of the trust we have in the Lloyd's Banking Group business and the broad based growth we can achieve. That was both across our CIB businesses and then our full consumer businesses."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "So we do have that growth built in and that is even with the capital return and the ROE that we're expecting in 2026. If growth were to be faster, it does depend on where it comes from. And of course, as you know, when you talk about a lot of the investment in infrastructure growth the U.K. needs, it's going to be in some of that longer term patient capital, and it's going to be in areas like the energy transition, building out housing, infrastructure, et cetera."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "Some of that can be bank-based lending. But we have some of the leading structures and especially ESG structuring teams in the U.K. focused on those sectors where most of the investment needs to go. And often we do that through, obviously debt financing, debt capital markets. We're a leading structure on behalf of insurance companies. You've just seen the announcement this week around Oaktree. But we are a source or a destination for private credit companies to come and say, how do you can -- how can you help us use your expertise to originate assets?"
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "And so we see that as a really exciting area both for our CIB business, but also the right way to think about supporting some of this growth, because it needs long-term patient capital with the right cost of equity and the right liquidity profile underpinning that. And the great news is that we start as the leader in the U.K. on many of those sectors and we already have strong relationships. So I think if that's where the growth comes, it doesn't have to be just bank balance sheet based. In fact, I think if it were just bank balance sheet based, we wouldn't get the right return profiles for those sectors and for those industries. So that's a really important part of this."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "I suppose the third thing, William, you might have commented on this, but if we see our ability to grow our core resell and SME franchises faster than is in our plan, they are accretive businesses and will always look to take economically positive growth for our shareholders if we can see it because we know that builds long-term sustainable returns. And if we see that coming, we'll just give you guidance going through this period."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "Maybe your second point, and you all know me now. I feel like I'm about to start two hour lecture on AI because I'm very passionate about this topic. So maybe just a couple of thoughts. Look, the first thing is we're already a leader in the context of financial services. We have over 800 AI models. Most of them aren't generative AI, but they are AI models that we're using to make better decisions, optimize the efficiency of the way we manage the bank today to manage risk better. And we've been doing that for a long period of time."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "And in the last two and a half years in the period of this strategy, William and I have been making sure we're now investing in and leapfrogging into some of the data and technology capabilities that really will enable us to use AI at the next level. So we're already a leader, and it's already driving significant impact for shareholders, as I say, across things like risk management, efficiency, our ability to meet needs. And we definitely see that as part of the continued next two or three years, and that is part of the investment we've been making. I won't unless you want me to jump into about specific technologies."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "Generative AI is an additional opportunity for better services to customers, better risk management, better efficiency in terms of how we serve customers. We're already piloting those and we've had some good case studies and impact around bringing generative AI tools to support our colleagues and make better decisions faster, and more efficiently. And we're seeing some good lift, right in different areas, customer servicing, our own coding team. And we definitely think that provides additional opportunities over the next few years."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "The one thing I'd say is, I think like all technologies, I've been 32 years doing this, since the early 90s. And from day one, been totally disrupting and building better efficiency around banking and financial services from day one, started on the trading clause in the 1990s. All of these adoption curves don't happen overnight. It's going to take a few years for this to really be used generative AI that is on top of the existing AI tools. And I do think it provides an exciting opportunity for the industry over the three to five year time period."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "And I think what you should be looking for and what I can give you confidence about is we're already a leader in AI, and we're already leading on how do we deploy the new tools to get the best outcomes for the shareholders over the medium term. So we definitely see it as an opportunity. I think it's going to probably be more about 2026 plus, but it really starts to make a difference. But just have the confidence we're already working on it."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "And is it -- so just to come back, is so just very quickly, is it do you see it as something that can provide a source of competitive advantage, Or is it something where it's just going to be good for the industry as a whole in terms of credit risk management and costs?"
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "So, I've seen some of the comments from some of the U.S. CEOs around this, who say if you're not using this service, then you're no longer relevant to your customers. Look I have always believed, ultimately, the way we use technology will be a source of competitive advantage. And that's why, for example, our digital capabilities and the differentiated position we have on customer engagement and use of digital and data is already differentiating. Just give you one tangible thing. Why do I think we're doing better than other High Street Banks around our core deposits and our relationship banking? I think it's because of our digital engagement services and relevance of our services. So I think it is differentiating."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "How we use generative AI directly with customers, needs a bit of development because there are risks about it. And, obviously, the regulatory context is going to have to develop for how you use it. So I think the initial application of it will be around efficiency, making better risk decisions, which are guided by people, and some enhancement around customer service. I think in that kind of three to five year time period, it could start to really improve how you serve customers and differentiate the service and therefore gain more market share if you like for the businesses that are winners in that segment."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "And we're obviously going to be thinking that way and are piloting things in that context. So short term, probably more about support for bet doing what we do to stay better, managing risk better, and being more efficient. But I do think at this medium term piece. And maybe we've just done our full seminars. As we think about what we do next, we should just highlight some of those examples. I think around guided online advice in the wealth space, it's a really good example."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "So maybe we'll bring that back in one of the next set of seminars that we haven't yet committed to. So I'm looking at my team with a smile. If that's okay, we'll [indiscernible]. Thank you."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Perfect. Thanks so much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Our next caller is Joseph Dixon from Jefferies. Your line is now unmuted. Please go ahead."
+  },
+  {
+    "person": "Joseph Dixon",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Hi, thank you. Just, back to the -- on the ground. Another question just on, the margin outlook, I guess. I mean, one thing that's really stood out is that if you look at the -- your retail unsecured, the car, the motor finance, you've grown those three segments on the balance sheet by £2.7 billion and they're currently at a 550 basis points margin. You've had a neutral hedge impact in Q2 following the maturity yield issues that you flagged at Q1, but this looks like it's going to turn and you highlighted on Slide 17 that the contribution this year is going to be a little more than £700 million, plus you've got some funding benefits. So I guess if you're relatively consistent on the mortgage headwind and what's happening on deposits, is there any reason why the Q2 NIM won't be the lowest for the year? Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Thanks for the question, Joe. Just to comment on one or two of those component parts you've been through there. Perhaps starting off before that with the overall reiteration really of the guidance for greater than 290 for the full-year and indeed the turn before the year end to a positive trajectory. I'll come back to that in just a second. You mentioned that consumer finance is the first of your component parts. And effectively, what we've seen within consumer finance is a couple of things going on."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "One is decent growth in balances. You have seen it's kind of circa £0.5 billion for the quarter two for the card business, the personal loans business, and so forth. And those are in relatively high margin parts of the books. That is net beneficial. At the same time, if you look at it overrate temporal period, the margins have come in a little bit for one or two of those areas. And that's mainly because funding costs has been going up, and we haven't passed on all of those funding costs to customers. So a little bit of margin compression there."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "But as we look forward, that is easing up a little bit. That is a source of pressure easing up a little bit on the margin going forward. So consumer finance is playing its part in short in the margin as we look forward. The second, the structural hedge, as you say, we were kind of in advance really for quarter two. We flagged it at quarter one, the quarter two contribution from the hedge would not be terribly much. That's simply a function of the impact of maturities within the hedge and the yield that the maturing hedges come off at as well as any pre-hedging that we might have put on to manage duration and the yield of those."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "So that combination is what's led to the hedge being pretty static in Q2. But as I mentioned earlier on, our expectation is the hedge picks up significantly in the second half and goes, as I say, considerable way to offsetting the headwinds that I mentioned in respect to deposits and in respect of margin, in respect of mortgages. So overall, the structural hedge makes a much more significant contribution in the second half of this year. You asked about timing, in terms of the turn of the margin, Joe. I'd make two comments really. One is to revert to the earlier points, where I went through the headwinds and the tailwinds as we see them for the second half of this year. I shall repeat that."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "The second is, clearly, you can see based on the flattening of the Q1 into the Q2 margin, we are getting very close to the turn. Which precise day of the week the turn happens on is going to be a function of customer behavior. It's going to be a function of rates. It's going to be a function of competitive pricing and the like. But we have complete confidence, as said in greater than 290 and indeed the turn before the year end. And again, in that context, I'll just repeat the earlier point that I made, which is in this context, it's reasonable to expect net interest income to turn before the margin."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "And that's based on all the guidance that you have out there as to net interest margin, as to AIEA, as to non-banking net interest income. We would expect that modest progress in H2 NII. So the margin is going to turn. We're not calling the precise day of the week in which it happens right now because of the uncertainties that I mentioned just a second ago, Joe. But it is going to turn. And alongside of that, in fact, in advance of that, we expect NII to turn."
+  },
+  {
+    "person": "Q –",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thanks, William. Can I just confirm the full-year guidance is still using a 4.5% base rate?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "The full-year guidance is expecting two cuts in base rate this year, which takes it down to 4.75, not 4.5."
+  },
+  {
+    "person": "Q –",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "4.75, okay. Great. Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Thanks."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Our next caller is Guy Stebbings from Exane BNP. Your line is now unmuted. Please go ahead."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Exane BNP",
+    "text": "Hi, good morning. Thanks for taking the questions. The first one was on asset quality and really think about the impairment charge in the medium term. We can sense that it sat around 30 basis points, a figure you've talked to historically. You've improved the guidance this year to sub 20 basis points. I recognize, that change in part reflects the more one-off changes during the first half. But then even excluding those model changes, we're still running below 20 basis points in terms of experience, and that comes at a time when households and corporates have really faced some pressures."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Exane BNP",
+    "text": "So I'm just interested if your view on medium term cost of risk is perhaps lower than 30 basis points given the experience of the last 18 months or so in particular. And then my second question was really just a couple of brief ones on NIM. On the hedge, could you talk about maturities between Q3 and Q4, just given they are quite significant on those sort of quarter-to-quarter NIM dynamics? And related to Jason's earlier questions on mortgage rates, I don't know if you could tell us what the average back book spread is now on the mortgage book. Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Yes, thanks. Thanks for that, Guy. A couple of different questions there. First of all, asset quality, second of all, the hedge, and then third of all, the back book mortgage spread. So I'll cover each of those in turn. In terms of the cost of risk, as you say, it's been a very benign experience over the course of both Q2 and also H1. We've had a 5 basis points charge, total £44 million for Q2. We've had a £101 million charge, 5 basis points again ironically for the first half, coincidentally for the first half. So very benign experience. In each of the two quarters…"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Technical Difficulty] [01:05:33] Ladies and gentlemen, apologies. Please remain on line. The main speakers will be rejoining us shortly. Thank you. Ladies and gentlemen, apologies. Please remain on line. The main speaker will be rejoining us shortly. Thank you. Ladies and gentlemen, please do remain online. The conference is due to continue shortly. You've been reconnected. Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "That's great. Hi, Joe. Apologies or, Guy. Sorry. Apologies for the drop in the line there. Can I just confirm that we are back online with you and you can hear us?"
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Exane BNP",
+    "text": "We can hear you. Thanks."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Thank you, Guy. And again, apologies for that. I think I'll just start out again in answering your question, if that's right. So I'm not quite sure where I dropped in the response. So taking a step back, as I said, the impairment experience for Q2 and also for H1 has been extremely benign. Specifically, within that, the Q2 impairment charge, £44 million, as you know, 5 basis points. The H1 impairment charge, £101 million also coincidentally 5 basis points. What's going on within that? Two things. One is the observed charge has been extremely low. The observed charge, as you know, relates to the customers going through default process because customers having difficulties."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "We are seeing those at extremely low levels. That is augmented by a very benign write-off picture, very few write-offs, very few flows to default and indeed improving new to arrears pictures within most of our portfolios in Q2. So that's a very benign observed charge. So that is augmented still within the observed charge of 176 in Q2 by the withdrawal or release of some inflationary judgment. Why do we do that? It is because the inflation happened, but the defaults that we thought might be associated with that inflation did not happen, i.e. the credit quality of the customers was more resilient than we had expected. Therefore, the inflationary judgment is being withdrawn."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "The second component of the impairment charge in Q2 was MES revisions. And the MES revisions gave us a credit of £132 million in Q2. That was principally because of a modest change in the way in which we model the severe scenario. The severe scenario within our IFRS 9 provisioning is still pretty severe. You'll see it in the context of our economic assumptions, and it produces a circa £7 billion ECL associated with it. But what we have done is in recognition of the kind of evolving economic environment around us is we now have a blended demand shock and supply shock in the context of our severe modeling. What does that mean?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "It means that a supply shock, which is being associated with very high inflation and very high interest rates, is balanced in our severe scenario with a demand shortfall, which is associated with the contra of that, i.e. low inflation and low interest rates. And it's that modeling change, which is fed into our MES in quarter two. And as I said, it's conditioned upon the evolving environment as we see it in terms of the outside world."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "So stepping back for a moment, Guy, on your first question, asset quality continues to be very benign quarter one going into quarter two. But as we look forward, two points. One is I'm not going to give guidance on 2025. But the second is we would expect, as you can tell from our AQR revision, to be below 20 basis points for the full-year. And if you look at the underlying charges that we've seen within the first half, going back to my observed charge earlier on, we've seen a observed charge of around 25 basis points averaged over the first half as a whole. That is not a bad signpost to what you might expect to see in the context of the second half of this year, but in turn helps inform our less than 20 basis points AQR guidance for 2024 as a whole."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "How that then progresses into 2025? As I said, I'm not going to give guidance in 2025, but you can see that the underlying performance of the portfolio has been pretty robust. And at the moment, at least, we're not seeing any signs that is about to change. Second question, Guy, in terms of the Q3, Q4, structural hedge movements in the maturities and so forth in respect of that. I'll just give you some guidance for the second half of the year in respect of the structural hedge, which is that we're expecting about £20 billion of maturities. That obviously ticks up, it's more like £40 billion of maturities in the context of 2025, but it's £20 billion for the remainder of this year."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "The slight word of caution, I would apply that, Guy, as you interpret that, bear in mind that the maturities will be coming off and indeed the refinancing going on at various different yields at any given moment. So there's some numbers behind that that are required to build a full picture. But I think, barring my earlier comments, if you consider those, we do expect the structural hedge to play a much more significant part in development of the margin Q3 and Q4 and that's the right context to look at that £20 billion of maturities in. Final question, Guy in respect to the mortgages, as I said earlier on, we've seen maturity yields on those mortgages that are rolling off the balance sheet at 110."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "I know that's not exactly your question. Your question is about the yield on the back book. The yield on the back book as we stand today, is around 1%. It's going to be about that on a go forward basis. And so, hopefully, that gives you the answer that you need in respect to the back book."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Exane BNP",
+    "text": "That's all very helpful. Can I just check on that last one? Would that be ex-SBR [ph] or including SBR, the 1%?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "That number that I've given you is the total book of mortgages, Guy. So it's 1% for the £307 billion of mortgages that we have based on where we are today. The SBR is obviously going to be marginally higher than that. I don't think we disclosed, the SBR yield, but you can see it in the context of our publications and public information."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "And, William, as you said earlier, as you said earlier, the mortgage headwind, we think, as we get towards 2026, from the back of the property becomes no longer a headwind to us. And that guidance helps the back of some of the pricing assumptions. Thanks, Guy."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Exane BNP",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Our next caller is Andrew Coombs from Citi. Your line is now unmuted. Please go ahead."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Good morning. Thanks for taking my questions. I just wanted to push you a little bit on the full-year guidance. I guess, firstly, with respect to NIM and second average interest earning assets. So on the NIM, just to follow-up on Joe's point earlier, you talk about mortgage and deposit trends being as expected. You've seen good growth in note and card. Structural hedge is now expected to contribute more than 700 -- is around 700. And you're only assuming two cuts now rather than three. So that all sounds quite positive and yet your full-year guidance is unchanged on NIM. So what's the offsetting negative? And similarly on average interest earning assets, you're at 4.49. Your guidance is greater than 4.50 for the full-year. You've just done £5 billion Q-on-Q ex-securitization with very strong volume growth in mortgages. Even if that does slow in Q3, Q4, why the caution on the greater than 4.50? Why has that been reiterated? Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Thanks, Andrew. I'll perhaps take each of those, and then Charlie may wish to add, particularly in respect to the AIEAs. In respect of net interest margin, your question is effectively why are we not increasing guidance today. Let me just put a bit of context around that. The guidance today, as I said is greater than 290, right? I've just underlined that point, greater than 290. We feel very comfortable. In fact, per my comments earlier on in my script, we feel more confident now around that guidance, than we did at the start of the year. So we're feeling very comfortable with that and, again great than 290. We also continue to feel very comfortable with the guidance around the turn of the margin before year end. We're just not calling out precisely which day the week it is going to happen on."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "So why is that, to your question, Andrew, when we look at the year as a whole and it's developed so far, we've clearly seen some things turn out pretty much as we expected. The macro, more or less as we expected. The direction of deposit churn, more or less as we expected. Refinancing in mortgages, again, more or less as we expected. We've also, to your question, Andrew, seen some developments that are more positive, more constructive than we'd expected. We talked a bit about PCA balances being a little bit better than expected in my comments earlier on. We talked about the rate environment that was in your question being a bit higher than expected. And likewise, we had the bank levy change. At the same time, we consistently pointed out, including in Q1, there are one or two developments that have been more balanced, frankly."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "So BCB, non-interesting bearing current accounts for example have been a touch more of a headwind than we have expected. To a degree, in the rate environment that we've seen, augmented by the prompts and customer attention that we paid, the STR book in the mortgage business has come off perhaps a little bit more than we had expected. Not huge, but perhaps a little bit more than expected. So those are the balancing factors, Andrew, in response to your question."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "But overall, where does that lead us? That leads us to feel, as I said, very comfortable, in fact, very confident with greater than 290 as the margin guidance. Very confident in the point that I made earlier on is that we expect to see progress in H2 NII over H1 NII. I'm very confident in the development of the margin on a positive trajectory before the end of the year, and we'll call out precisely when as we see the third quarter develop, and obviously come back to you accordingly."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Your second question, AIEAs, Andrew. We feel very comfortable actually with our guidance of greater than 450 for AIEAs. Why do we feel comfortable with that? Look at the lending developments over the course of quarter two. We've had lending developments of £3.9 billion adding back the securitization, it's over £4 billion of lending predominantly back end loaded. So if you look at our £449.4 billion I think it is AIEAs in quarter two, those are not really being influenced by the lending that we saw in quarter two, but, of course, Q3 and Q4 will be. That's one reason."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "The second reason is we've seen not just those lending developments in Q2, but we expect to see continued positive lending developments in Q3 and Q4. And that will be across the business. It will be across the retail business, obviously mortgages, but also the unsecured books, likewise motor. It will also be across good parts of the commercial business. And so in that context, Andrew, our AIEA view is very firmly in 450. Again, consistent with the guidance we be giving all year, you don't see it so much in the AIEA numbers of Q2. You should expect to see it in Q3 and Q4. Charlie, anything else you want to add on the lending?"
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "Well, just on lending and actually on SME deposits. I think the other thing you can imagine we are very focused on is just understanding our market shares and where the customers are choosing, to bank with us. On SME cash flows and deposits, what you've seen in the industry, as you know is there have been smaller than actually we all expected. And in that context, we've actually grown our market share -- excuse me, of SME deposits. So but it is a good indication of we can't get everything right in terms of our projections, even when the market is smaller than we think. You'll -- you can trust us to be really focused on whether customers are choosing us and whether we're competing well."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "And that's also true in mortgages. I think just stepping back on both of these, and I understand I think the question is really why didn't you take a positive upgrade on both of these? Our guidance, we're very comfortable with the great spend is important in this context. And actually, you're just talking at a macro level here of, I think a couple of basis points and a couple of billion on numbers, which we've given really quite clear guidance on."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "So as William said, we're comfortable with the guidance. I'm going to say very focused with William and the team on actually winning the trust of our customers in these businesses. We know there can be quite significant swings in the market and the volumes in the market. And from my perspective, it's good that we can stay committed to our guidance that we gave at the start of the year. Thanks, Andrew."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Very clear message. Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Thanks, Andrew."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Our next caller is Chris Cant from Autonomous. Your line is now unmuted. Please go ahead."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "Good morning both. Thanks for taking my questions. I had one on NII, please, and then one on operating lease depreciation. On NII, I'm obviously discussed very extensively this morning. I guess, cutting to the chase, you've indicated modest half-on-half growth. I think the current consensus is looking for about 3% half-on-half growth. Is that consistent with your view of what modest means, in your own sort of lexicon as it works?"
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "And then on operating lease depreciation, obviously, this has been a source of kind of ongoing misses for several quarters now. Just keen to get a bit more insight into actually the underlying dynamics here. So could you give us a bit more visibility on the composition of the current fleet? How much of the fleet is electric vehicles versus ICE, and what's the sort of sensitivity you would encourage us to think about in terms of potential further residual value provisions. So I think it's about a 10% move in the first half. So if it's a £100 million, if there's a further 10% fall, we should assume another top up, or is that too simplistic? Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Thanks, Chris. I'll take both of those two questions, and hopefully address your queries. First of all, in respect of NII, you repeated my words obviously a modest tick up in NII in the second half over the first, progress in that respect. I'm not going to comment on consensus numbers, so I'm going to answer your question directly in that respect. But hopefully, what we've given you in the context of the AIEA net interest margin and indeed non-banking net interest income guidance, which is pretty comprehensive gives you enough to work from."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Op lease depreciation, Chris, it's an entirely fair question. When we look at op lease depreciation, it might be worth just stepping back for a moment and say, what do we do in the car finance area? First of all, as you know, car finance is an absolute of the U.K. economy. Circa 85% of customers use car finance when they buy new cars. That means there is a significant market, which is going to grow as we look forward. We participate in that car finance business in two respects. One is a leasing business and one is a financing business. The financing business, first of all, as you know, trades under the Black Horse name. It's a conventional financing business. Income comes in through net interest income. Any impairments go through the impairments line."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "The leasing business, which is Lex Auto, number one, and Tuskr, number two, the income comes in through the other operating income line and the charge, if you like for the depreciation comes through the op lease depreciation line. When we see, when we execute on the leasing business, we have, as you know, the obligation to take the vehicle back at the end of the term, which means that we then set aside a residual value expectation against that vehicle and depreciate the automobile against that residual expectation."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "If the residual value expectation changes, so does our depreciation schedule. What that means is in times of used car strength, we will actually get some benefit from that, and that has been the experience, as you know, since 2020. We've been significant net beneficiaries from strength in used car prices, which in turn has come through the P&L to the benefit of shareholders. From time-to-time, we also see car price weakness. And over the last six months, we've seen weakness in particular in electric vehicles. And so that causes us to revise down the residual values, to revise up the additional appreciation, and accordingly take an adjustment of the type that we saw in quarter two."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Now couple of questions, couple of points to follow on with there, Chris. In terms of the implications of that property depreciation going forward, the combination of fleet growth within the business, plus the revised additional depreciation schedules that I just mentioned are going to mean that op lease depreciation in quarter three and quarter four is going to be a touch above £300 million. While we're going to be above that, it said so two factors that I just mentioned. And as you look forward, you should expect the business growth to contribute to that number growing over time. But that's what you'd expect in the context of other income growth that comes with that. As you would expect, we hope that business to grow. It's certainly an important part of our strategy. And likewise, charge op lease depreciation will grow as other operating income grows. That's one point."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "The second point, you asked about sensitivity. The residual value exposure within the business across the Black Horse business and across Lex Auto and across Tuskr in total, when we disclose this number, residual value is around £10.5 billion, £10.4 billion to be precise. The operating lease part or component of that residual value is £4.7 billion. That's relating to Tuskr, and it's relating to Lex. Now within the operating lease business, partly because a lot of it is company linked, that is a more electric vehicle heavy part of the business."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "So to give you some idea, just the 50% of the RV exposure within Lex and Tuskr is electric vehicle linked. To come to your question, what type of sensitivity do we have or exposure do we have for those electric vehicle prices going forward? The schedules for operating lease depreciation that I mentioned just a second ago, either touch about £300 million or Q3 and beyond, they incorporate a further circa 7% reduction fall in electric vehicle prices over the course of 2024 and then a further 2% to 3% fall over the course of 2025."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "The internal combustion engine equivalent of that is around 2% to 3% for '24 and a further 2% to 3% for '25. So you can see in terms of the indications that we're giving for operating lease depreciation in quarter three and beyond, we are taking into account some further buffer for expected electric vehicle price reductions during that time."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Final point, Chris, which I would emphasize is we are now seeing the operating cost of an internal combustion engine and electric vehicle engine basically come into equilibrium. In fact, it might even be cheaper to operate an electric vehicle today than it is to operate an internal combustion engine. That, in turn, should lead to some stability in prices. Let's see I'm not forecasting it as such, but let's see. It should be an ingredient, if you like, for stability of prices. In that context, because of the residual value exposure within the leasing business, we are also exposed to the upside of that business."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Now if we see it, that will obviously be of net benefit to shareholders. Again, I'm not forecasting it. It's not in our additional depreciation expectations, Chris, but it has happened before. It happened in the period between 2020 to 2023. So I just want to land on that or rather end on that point, if you like. This exposure goes both ways."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "William, I'm not going to jump in too much on that, but just one thought, Chris. William and I are highly aware that the volatility decline isn't something that the shareholders have appreciated. So we are taking some actions at the moment. We're not going to give you specifics today on ways we can mitigate that volatility going forward. So we'll come forward back with some of the things we've done, but we are aware that the facility isn't really what you want to see. And we're going to make sure we can see if there's any ways of mitigating that going forward. But the returns on this business are good. Thanks, Chris."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "That was helpful. Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Thanks, Chris."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. As you know, this call is scheduled for 90 minutes. We've now reached the end of the allotted time. So this will be the last question we have this morning. If any further questions, please contact the Lloyds Investor Relations team. Our final caller is Amit Goel from Mediobanca. Your line is now unmuted. Please go ahead."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Hi. Thank you, and thanks for taking my question. So really just, one clarification on NIM. I appreciate, you don't really want to say exactly when you expect it to turn. But just wanted to get a sense making sure I understand it correctly. So would you expect the Q4 NIM in aggregate to be better than the Q3 NIM, or are we saying that you expect the exit rate, at some point in this year to pick up?"
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "And then secondly, just a follow on, on the operating lease depreciation. Maybe I just the markets a bit different now, but just curious if you were to use depreciation curves from back in 2000, how different it looks now and what kind of order of impact could all of there be? Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Thank you. Why don't I take those questions and maybe that Charlie wants to add before finishing up. In respect of your net interest margin question, is as your question implies and hopefully, as my comments have implied through the course of the session this morning, in short, we would expect the net interest margin to be better in Q4 than Q3. That is not predicting anything about the Q2 to Q3 shape, which I've obviously given you commentary on during the course of this call."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "But by its very nature, the evolution of the deposit churn picture, the evolution of the structural hedge picture, to a degree at least, the evolution of the mortgage picture, although I said that that will be stable through the course of second half, and I'll repeat that. But that combination naturally leads to the strengthening of the margin over the course of this year. So that's that question, Amit."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "The second question on op lease depreciation. Depreciation curve has naturally changed, since previous years. The one point that I would make there is a couple of things going on in our business. One is used car prices. We talked a bit about that. Two is the evolution of car prices themselves. Car prices are up around 50% over the course of the last five years or so. So naturally, for any given type of fleet, you're going to get higher operating lease depreciation charge."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "And then the third component is obviously the growth of our fleet itself. This, as I said earlier on, is a growth driver for the business, and we expect it to continue to be so. And that's a factor that leads into the op lease depreciation charge. But at the same time, Amit, there are two points to bear in mind there. One is that that is a contributor. That business is a contributor to the significant growth that we have seen in other operating income. Half on half other operating income as a whole, up 8% quarter-on-quarter, year-on-year that is, up 9%."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "So that's a significant driver of other operating income growth alongside businesses elsewhere in retail, businesses in commercial, businesses in IP&I. And the final point, Amit, is just to underline the point that Charlie made. The automobile finance business is a very attractive, profitable, and growing business. Charlie, anything you want to add?"
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "Well, just a couple of things because it's, I'd love to talk about the business a bit more. As you said, William, the great thing here is we're operating at kind of 17% market share. So we just have a very, very extensive set of data across the whole industry both on new cars and secondhand car prices. And when you look at the way about how was the depreciation curves changed since 2000, as William said, at the aggregate level, We've seen a significant increase in secondhand car prices, especially in ICE vehicles. It actually differs quite significantly by vehicle."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "And so we have a really distinctive competitive advantage around understanding around individual vehicles, appreciation schedules, what customers do and don't want. And then every time we set prices for our operating leases, we can learn of what's happened in the previous weeks, quarters, and months. So that's why it's hard for us to give you sensitivity as Chris asked, because if we learn that a specific vehicle type is depreciating faster, we'll actually price the operating lease to incorporate that expectation. And we have the best leadership team in the market making those kinds of the judgments and assessments, which is why I share confidence around the ability for us to manage this risk going forward."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Executive Director and Chief Financial Officer",
+    "text": "Thank you, Amit. I think we are through with the call today. I'd just like to say thank you to everybody for taking the time to join. Your interest is much appreciated, and we wish you a good summer."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Executive Director and Group Chief Executive",
+    "text": "Thanks, everyone."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "This concludes today's call. There'll be a replay of the call and webcast available on the Lloyds Banking Group website. Thank you for participating. You may now disconnect your lines."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

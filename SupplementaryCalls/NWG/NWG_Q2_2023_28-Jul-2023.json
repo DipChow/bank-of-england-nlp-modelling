@@ -1,0 +1,500 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions]. Our first question comes from Aman Rakkar of Barclays."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Couple of questions, please. Firstly, on the hedge I just wanted to double-check your comments around the structure of hedge I think you said that the product head would be coming down from 202 to 190 billion by year-end. I just wanted to check the comment around the deposit experience. I think you talked about it being a catch up. So is that based on kind of the backward looking experience on deposits tells you that the hedge needs to come down by 12 billion in H2?"
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "And to what extent does that it capture any kind of forward look around your expectations on depositor behavior into H2?"
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "And as a kind of related question on that what then have you naturally assumed for things like mix shift as part of this, how many current accounts are you assuming to have at year end? And how did that kind of drive into your full year '23 NIM guide?"
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "And then the second question was just on noninterest income. So I know that you're kind of sticking with the 14.8 billion revenues this year, that's looks like it's going to be less net interest income, then consensus has probably a bit more noninterest income. Indeed, I think the kind of H2 run rates that you're effectively pointing to suggest a better outlook for noninterest income, through the second half of this year, so I guess can you confirm, or kind of deny that thinking? And does that give you confidence, if NII looks like it's a bit softer here than what we were looking for before? Do you feel more confident around noninterest income? And if so, where is that coming from?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thanks, Aman. You managed to pack a lot into two questions there. Look, in terms of the hedge, as we look at it, we're going from 202 to 190 is very mechanistic, as you know. So we basically looked backwards over the last the last 12 months, obviously, we had three quarters where we failed this last quarter, we stabilized on deposits. And that's the impact of that coming back through. What's interesting as we raised our rates to that we're expecting on the spot rate is around an average of 4.4. What you see on income side is although you've got this fall off in the hedge, the 4.4 versus the 3.6, we talked about that the last time we spoke is actually it kind of balances itself out. So it doesn't have a particular income effect. I haven't taken any forward look, in terms of that we do on a 12 month roll backwards."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "In terms of the mix shift that we have seen some mix shifts, you can see that very clearly, obviously in the 40% to 37% of noninterest bearing. And then if you look in the financial supplement, you can see that across private, which is actually a little bit further and then in the retail the retail bank as well, in terms of that piece."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I'm probably not going to go into specifics in terms of the exact percentages that we've picked on that, but I have taken thoughts of some further kind of migration as we go into there."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then in terms of income, specifically on the non NII, I would say is H1 trends were positive and we do expect to grow a non NII into H2. But the numbers are impacted by volatility. But what we can see in the C&I business is more normalizing into H2, following some lower volatility in the trading business in the second quarter, particularly due to things like the U.S. debt ceiling, because we just didn't see that volatility in FX, that number is a little bit lower. And obviously, we know and you know that people kind of held back a little bit from the capital markets that will normalize in our early performance in July is confirming that view. Hope that helps. Thanks, Aman."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you very much. Our next question comes from Alvaro Serrano of Morgan Stanley."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Just really a follow up on deposit balances and the outlook. When I loosely benchmarked your offerings, term deposit in particular, I'm talking about now versus your peers. It does seem like you've stepped up your offerings during June with a 5% term. First of all, do you recognize that it's coming through balances, so maybe that's fair. And post that increasing remuneration after the last rate hike? Are you seeing the migration accelerate? Or what trends are you seeing? Maybe in July, you can speak to that to give us a bit more color."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And related to that. Maybe the second question is, how do you think the visibility is -- how much -- how confident are you in the visibility? Obviously, you've lowered the NIM guidance today. And I'm not sure if you can reassure us of giving us some current GAAP granularity around how low the mix on noninterest bearing balances can go. Thank you."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Lovely, thanks very much, Alvaro. So if I look at it. When I look to see what's kind of happening in terms of those customer deposits, what we do see is this kind of catch up in customer deposit rates and that there was a -- that was very much because of the impact on some of the pricing changes that we did during the second quarter. Effectively if you look at those last couple of rate rises, we pass through 75%. So that was a bit higher, that's taken our cumulative pass through to-date to kind of 50% of all of the rate rises. We do think we're now competitive on rates as we move through. When you look at our sensitivity in terms of what we think of the impact of that competitiveness would be -- we have changed the structural hedge sensitivity, which I'm sure we'll talk about more later and to your 60% pass through rather than the 50% model that we had done previously. So I think that kind of reflects a little bit more."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "As I look at what's happening in July, it's all the mix and move is kind of in line with our expectations, I think it would be a brave person to say today where we think the IBBS and NIBS might land. It has been interesting for us in the last number of courses, there was so little movement, but then what we saw as customers really then moved into the fixed term that we did see a movement from that 40% down to the 37%. And that was people really moving straight from noninterest bearing kind of all the way into term deposits. So that's kind of why we saw that that step up happening in that space. But I'm probably not going to look to call in terms of where I think that that might go, I think it will take some time to kind of get there."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And just a follow-up, because in the past, I think you and other banks have said that the big shifts typically happen around rate hikes. And that's when all the noise happens. And when the mix happens, do you still think that will be the case, i.e., if we're very close to the peak, it will be much more stable progression later or this year, next year, in terms of mix shift."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I think that's definitely a theme. And I think we certainly expect this shift to kind of slow as we kind of approach that peak. I think there's other things that are happening as well that you've got to be mindful of, if we look within our own product offering, we've opened up our new-to-bank. So therefore, it's a whole of market offering, which we didn't have before that will attract some funds as well. I think there's also the kind of the rollover, that when we saw people starting to tie their money up in Q4 last year, what offers are available now and how that kind of moves around. So I think we'll see a little bit of that."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then, Alvaro, you're obviously very familiar with the TF SME funding piece. And I think as that starts to get closer for repayments, you might start to see people behaving in a slightly different day. But at the moment is very connected to rate rises and given that we are certainly predicting further rate rises in Q3. I probably expect it to attach itself to that as well. Thanks, Alvaro."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Our next question comes from Rob Noble of Deutsche Bank."
+  },
+  {
+    "person": "Rob Noble",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "I ask on the credit card and the growth in cards, what's the EIR that you assume against that now that you've gone whole market and kind of the quality of the customers that you're adding as you grow? And secondly, thanks for all the information on the risk profile of the mortgage book. Do you give, what proportion of your book is on high loan to income multiples that are also refinancing soon as well? Obviously, those are the customers that are more at risk. Thank you."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, sure. Absolutely. So if we look at the credit card book, what we have seen as we've gone to more of the whole of market, what we're actually seeing is, it's actually slightly better quality that's coming in. So it's kind of lifting the quality of that book which we're pleased about. If I look at the EIR, it depend on the card and how you're looking at it. But it will be low single digits in terms of EIR, it's quite conservative in our approach on that piece, so certainly a better quality."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "When you can certainly see as we looked at mortgages, in terms of that risk profile of the refinancing of the high ones. I'm not giving you the split of the book in that way. But you can see that our average loan to value is 54%. We have I think less than 3% is sitting at that low that higher LTV level. So it's a relatively small piece of the book. And given the structure of our book. It's much more of a five year-book these days that actually, you've heard me say earlier that only about 20% of the group is actually refinancing this year. So I think given that high LTV is small and the lower level of refinancing, that's not something we consider a particular risk for our book as we move forward from here. Thanks, Rob."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Our next question comes from Jonathan Pierce of Numis."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "Couple of questions. The first on the margin, the margin looks now to be stabilizing a bit based on your guidance in the second half. So down a few basis points, but nothing that significant, versus what we have been seeing. I was just wondering if you can talk to the moving parts in H2, the ups and the downs, but particularly into 2024, because one would assume that mortgage refinancing pressure is easing maybe deposit churn isn't quite as significant as you're expecting for the second half of this year. Whereas you've still got obviously the tailwind from the asset repricing from the structural hedge."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "So I'm wondering about margin dynamics particularly into next year. Could we start seeing it move back up a little bit again. And just a supplementary to that, the other banks have told us now what the yield on the maturing hedges next year is, it'd be helpful if you could give us that."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "The second question is on noninterest income weakness. I heard your comments on FX and volatility but the NatWest markets, subsidiary disclosure showed actually not bad performance again in the second quarter. There was though I think, deep in the group announcement, talked to us about Page 83 or something. And notably, big drop in FX trading revenue at the group level. I'm just trying to square the circle here. I'm wondering whether this is anything to do with this FX management of U.S. surplus deposits that you talked about, just after Q1? And if it is, you told us that Q1 that there was a sort of natural offset in net interest income. So if we get a recovery in noninterest income in the second half, if this is the reason for it in past, is that captured, within the net interest income guidance as well. Thanks very much."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, sure. Thanks very much. Let me deal with the end of that question. First, you're absolutely at page 84 and it talks about the foreign exchange, it's gone from 258 down to 125. I think what you've got to remember as well, that we have -- NatWest markets as a subsidiary level of the Group. So it's important that you actually look when you're trying to look at the Group result is to look at the Group piece, because obviously, they've got revenue share and things that go on in different kinds of lines. So it's not anything to do with the FX management of the U.S. surplus, it is the volatility of our numbers. There is a little bit of in the notable items side, we mentioned some things about 23 million, but that's not material in that space. So as I look at that, I do see the strengthening of that performance given that FX we know, we expect to be more volatile this quarter, given the change in that."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "As I go then onto margins, I think certainly, we're at 313, for this quarter 320 for the half, we're saying 315 for the full year, in terms of that the average now rather than the 320, we had originally said. So that I definitely do see some stabilization in terms of that piece. What will happen in terms of that piece is subject to a number of different factors as you'd be aware of. The timing of the U.K. base rate, and we're assuming a 50 basis points increase at the August MPC meeting, if that comes through in August and September, that will have a little bit of an impact on it. Obviously, the pass through to customer deposit rate, both the timing and the quantum, as well as the customer behavior. And I've talked about that already in terms of that move from the NIBS to the IBBS and then from instant access to fixed term as well has an impact on it."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I'm not going to give you the exact what I think on Q3 and Q4. But I think you're in the right kind of space, it will move around a little bit as we move forward from here. And then, in terms of 2024, I do see the mortgage pressure easing, as we sort of see the roll through of the kind of COVID piece come to the end. We'll start to see that at the end of 23 and into 2024 as we move forward in that piece of that that is a benefit, certainly to NIM."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And I think my last point, I just need to hit on your question. And Jonathan, if I've missed anything, let me know at the end. But in terms of the roll off yields, for 2023, we're rolling off it kind of 1.1, because our hedge is so mechanistic, it's easy for you to kind of work this out, look at what the swap is what recurs where it's going five years ago, and you can get a feel for in terms of what's happening. So 2023 roll off is 1.1. And then 2024, the roll off rate is lower at around 80 basis points. And 2025 is even lower, again at around 50 basis points. And so that means that even as a five-year swap rate reduces, we do expect through to 2025 that the uplift from the hedge activity remains sizable, particularly with our narrative of this kind of stabilization of deposits."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "That's really helpful. Thank you. And sorry, just one follow up to that. If the hedge excepting the hedge itself may get smaller, but of course, then you'll just be rolling into floating rate assets anyway. Given the strength of the hedge tailwind, and the easing of the headwinds into next year, is it in your minds reasonably plausible the margin could start going back up a bit and maybe accelerate into 2025. Is that a reasonable scenario?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I think the other thing to think about in terms of the margin of courses we'll also have is, so the hedge will work certainly, but we're also in our own economics, assuming that they kind of rate start to fall a little bit as well. So in terms of that piece, probably not going to try to give you know, I don't like giving you quarterly views on them. So I'm not going to try to give you one into next year, sort of six or nine quarters away from here. But I do think often we talk about, are we at peak NIM? I actually think it's -- for me, as I look at my kind of income as I go forward from here, I think there are reasons that, you can feel sort of quietly positive about that, in terms of that strong income tailwind, we've already had from the hedge. The unwind of the mortgage piece, I've spoken about already. And that is a positive for us as we move forward."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I think the level of lending we are in our economics, predicting growth, it's not huge growth, but we are certainly forecasting that growth within there. And I do think the deposit stabilizing is there. So in the medium term, feel comfortable that we got real growth in that kind of income. I think the short-term dynamic of customer behavior, we're watching very closely. And the exact timing of when that moves in 23 into 24. Is something I'm sure we'll talk about more in Q3 and Q4. But certainly in the medium term, those other things are quite positive for income. Thanks, Jonathan."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you very much. Our next question comes from Guy Stebbings of BNP Paribas Exane."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "One, on mortgages, then one back on deposits, that's right. So I guess you're growing quite strong, actually mortgages relative to many of your peers in what is quite a tough volume and spread backdrop. So can you talk about your approach there and how you weigh up, spreads versus volumes, whether you're driven by return hurdles, or volume metrics, or market share or a combination of all three. And also, what you're seeing in terms of customary payments of balances right now and sort of mix of lending between internal refinancing versus new-to-bank."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "And then on deposits? Thanks for the comments. And thanks for Slide 8, not everyone gives that kind of granularity and it is appreciated. I just wonder if I could maybe push you on that, dip movement from 40% to 37%. Do you have any updated views as to where that might eventually settle? Thank you."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Sure. Thanks. So I'll contact. Let me start with mortgages. So if I look at our mortgages, clearly, we manage this Group on income and royalty. So therefore, we will make decisions and given if you think the mortgages, we try to manage on 80 basis points. So as we write more mortgages, that's going to pull your NIM down a little bit. So we're comfortable on that, because we're very much looking at the income and the royalty aspect of that, and the team would be very much looking to manage that piece. What we do see is that during the second quarter, the [indiscernible] curves did remove really quickly. And so therefore, there would have been a period we were writing below where we'd necessarily wanted to write, overall, still hurdling our metrics, but not kind of at that 80 basis point level that we talked to. By the end of the quarter, we were back up to where we wanted to be. And in fact, at the moment, we're probably a little bit ahead of there. So that which is fine with that."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "If I look at customer repayments, we have seen our increase in terms of the customer repayments, what we work with our customers is, since mortgages have started to rise at Q4 last year, more than 70% of eligible customers have taken the opportunity to refinance early in the six month window that we give them. So that they can take advantage of those lower those lower rates by securing them early in the process. We can see that about 35% of customers are making an overpayment at the point of refinancing. In absolute terms, we saw lump sum repayments in Q2 of about £500 million, which just to give you a feel for that would be about double what we would have seen in Q2 of last year. So people are definitely looking to pay up a little bit more on that."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "But I think it's also important to know that mortgage balances grew by 1.9 billion in the quarter net of this elevated lump sum repayment number. A bigger factor for the overall mortgage balances from here, I think, is the macroeconomic outlook. And then, we do see that people are using some of their deposits to make that payment. Incredibly logical thing for people to do, as we move on from there."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then in terms of NIBS and IBBS. We do expect the NIBS to reduce a little bit further, it's very hard to be definitive of where they settle. I think there's not really a historic narrative that we can look at to help us guide that. So we are watching different customer cohorts very closely, a couple of kind of supporting factors on them, we do see wage inflation. And we do see people reengaging with savings of course, which kind of makes that move and as well as the deleveraging of growth. But at the moment, we've made some assumptions as to where it will go from here. But we're comfortable with in terms of that 14.8 million income that we've guided for this year and being at the upper end of that 14% to 16% royalty as well. But I think there's a lot of different moving parts, but hopefully that Slide eight is helpful to you. So I'm glad you like it. Thanks very much Guy."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thanks. Our next question comes from Andrew Coombs of Citi."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "I had one question for Howard, and for Katie, please. Just for Howard, just on permanent CEO succession planning? How would you envisage the process playing out from here and any thoughts on timing? And then for Katie, as someone asked about liquid asset buffer, given that the AIEA is excluded from the bank NIM, [indiscernible] it's gone from 162 to 152. So any thoughts on the trajectory there going forward as well, please? Thank you."
+  },
+  {
+    "person": "Howard Davis",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, thanks, Andrew. Let me take you through it as clearly as I can. And I've been here for just over eight years. So if you look at the corporate governance code, which says that nine years is pretty much effectively the maximum norm. We decided to begin the search, we announced in April, the senior independent director would begin the search. So they appointed headhunters then. And that's a matter for them. I'm not directly involved in that. So that's underway. This, of course has come in the middle of that period. Therefore, since I think the replacement for me in due course will need to be behind a choice of long-term CEO. We decided that we would implement what was already our contingency plan and asked Paul to take over as Chief Executive."
+  },
+  {
+    "person": "Howard Davis",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "A good few months ago, we reviewed our contingency arrangements, and the board agreed that Paul was the short-term successor, then a sort of Number 11 Bus scenario hasn't been a number 11 Bus exactly, but something a little bit similar. And we -- that was all agreed with the regulator. So we implemented that. Paul and I agreed that the sensible way of doing it was to say he would be CEO for 12 months. So an initial period of 12 months, which could be extended, which would allow time to find my successor, get my successor in and that successor, then to decide how he or she wants to proceed, whether they want to have open contest, looking at external candidates or what they want to do."
+  },
+  {
+    "person": "Howard Davis",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So I think the position is quite stable for 12 months. And thereafter, my successor will have to take a view. Very grateful to Paul for agreeing to do it. On that basis, he's very experienced in the bank. And the mood in the Executive Committee and elsewhere is positive about this. So I can't say it's exactly what one would normally have done. But I think it's a pretty good interim solution."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thanks, Howard. And then, Andrew in terms of that liquid asset buffer question, the labs, average interesting assets reflect changes in the customer funding surplus. So of course deposits, we think the deposits are broadly stable. So you should see stabilization in the lab, AIEA as well as a result. Thanks, Andrew."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Our next question comes from Chris Cant of Autonomous. Chris, if you could please unmute and go ahead. Chris just double check that you're unmuted and go ahead, please. And in the meantime, let's move on to Fahed Kunwar of Redburn."
+  },
+  {
+    "person": "Fahed Kunwar",
+    "role": "questioner",
+    "position": "Redburn",
+    "text": "I just had a couple of sort of follow up, I think on the Guy's question on the loan growth. I think one of your peers talked about the remortgage spread being a lot lower than the new business spread. Could you give us the completion margins on that? Are you seeing similar trends right now? And I guess looking forward now on mortgage, it probably does shrink from here if people are paying off and if you're talking about a macro being an effect, is that the right way of thinking about it?"
+  },
+  {
+    "person": "Fahed Kunwar",
+    "role": "questioner",
+    "position": "Redburn",
+    "text": "The second question I had actually just on the NIBS question, if I look at your NIBS, it's always been the mix off like 40% now, 37 is going well ahead of your peers. You sit about 25%, I've always assumed it's because of your SME business. So the drop off from 40 to 37 in the mix, was it retail customers or was it SME customers? What differences in behavior are you seeing and I'm going to sneak in a third question if you don't mind. In 2024 your costs are sitting at I think 1% year-on-year growth and consensus. How realistic is that given wage growth is running at 7% in the U.K. Thank you."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, sure. Thanks. Thanks so much, Fahed. So I'll deal with the cost one first. What we've said on costs is that this year, we are looking to hit a cost income ratio of lower than 52%. We're currently sitting I think, 49.6, that's a little bit lower than reality because of that FX recycling game, we've got an income. So it's better to think of it as a 51, 51.5 kind of number. What we then said to you is, that we'd expect to get to a cost income ratio below 50, by 2025. And expect that 2024 would be something on the journey towards that."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I think we do manage our costs incredibly carefully, we've got a long history of that in the bank. And we'll continue to make sure that we do that. So cost is always a challenge, but comfortable in terms of the direction that we're kind of heading on that."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "If I allude to kind of the loan growth piece, the remortgage spread is a bit lower than the new business. As you know, we manage around 80 basis points over time on a combined basis across the book. But I think that remortgage piece is obviously part of it, but then it's lower LTV. So it's also very good returns in terms of that piece just because of the amount of capital that it is doing."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "As I said earlier, in my speech, we were a bit lower on spreads at the beginning part of the quarter, just because of the move of the swap rates. But we're back to where we wanted to be by the end. I do think you're right, that the volume is a bit lower, most likely in sort of Q3 and Q4. But I think it's really important to remember on mortgages, these are multi-year products for us. We have sort of retention that's in that 75% to 80%. So actually, the first year is important, but what's really important is the second, the third and the fourth kind of renewal as well, which is there."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then if I just move on to NIBS. We are seeing some migration across the piece in our financial supplement, I show you the split of current accounts versus savings accounts across retail and private. I don't show you that we are knowingly on the main section, but on the commercial section but you can kind of get a feel for that. But what we know that in the commercial piece is, you're absolutely right. We've got very strong transactional accounts within there. So therefore they are themselves quite stable as we looked through on that piece, but you can see the kind of the fall off that we got in retail and private. And then, they average the commercial piece of a bit more stable just because they're so embedded in that kind of transactional saving piece. I think I've got all of them, Fahed. Let me know if I missed anything. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. [Operator Instructions]. And we're going to go across to Chris Cant of Autonomous."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "Good morning. Thanks for taking my question. Sorry, I was struggling with my other device. Can you hear me okay, now?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. Perfect, Chris. That's great. Thank, I'm glad you got through."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "Two sort of follow up questions, really? Firstly, there was an earlier question around trends on deposits during July. I'm just conscious you did also hike your fixed term deposit rates in response to the swap moves in June. And just keen to understand whether what we're seeing as we look into the third quarter is a continuation of trends you'd already been seeing during the second quarter or whether you are actually seeing accelerating terming out obviously, you've given us the sort of deposit split at the end of 2Q, but conscious that could be sort of accelerating potentially into 3Q. So any further commentary there would be helpful."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "And then, I also just wanted to return to a comment you made Katie around peak NIM. I mean, the idea of peak NIM has sort of, I think been plaguing the U.K. banks broadly for a little while now. And I guess it comes down in part to the timing of the different pressures puts and takes on the NII line. In the short-term, you're obviously seeing this beat catch up you've referred to during the second quarter. But as we look into '24, I think you're sort of indicating actually the net of forces may then become a net positive relative to where we're exiting this year, just in terms of fewer mortgage pressures, deposit trends stabilizing, and then this very material structural hedge benefit still to come through."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "I think I asked you a similar question on the one 1Q call. But if I could invite you to talk about that, again, based on sort of stable-ish base rates or something close to your trajectory into '24. Is that the right way to think about it that actually, the structural hedge benefits should be outweighing the mortgage pressures and the deposit forces at least the sort of short-term deposit forces around beat is catching up to a more sensible level sort of a bait. Thank you."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. So if I look deposits, the easy kind of answer is, let's say Q3 is behaving as we expected it, two there's nothing unusual within that we're seeing good performance in the fixed term account, which is nice, is we're pleased with. We've just also launched our into instant access, which is using our Ulster Bank, Northern Ireland brands, we're expecting that to play a positive part in the mix, as we go through it's literally been launched in the last couple of days. So I invite you to have a look at that. As we see, and we'll talk more about that performance when we get to kind of Q3 but so far, it's been very much in line with the messaging I've been kind of talking about."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Chris, I'm probably going to give you a very similar answer that I gave you in Q1, I don't really want to get drawn on our quarterly Q4 NIM forecasts. But I think the things that we need to consider is this as well as I, what's happening on base rates, the timing of them, is our assumption around the 5.5, right, will it go higher, pass through to customer deposit rates, if we are at that kind of peak kind of level. And then also just the mix and balances that we'll see kind of going through?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I think the hedge and the kind of marry more closely of the mortgage market margin is helpful to us that I think let's talk more about '24, when we get into '24, if you don't mind. So going to avoid giving you any views on that. Lovely. Thanks very much, Chris."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thanks. Our next question comes from Robin Down of HSBC."
+  },
+  {
+    "person": "Robin Down",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Just one really quick question. I would have asked this on Monday, but I've got to be wall crossed on HSBC. So I can't ask them. The mortgage bank book spread, you've given us that number in the past, and this is quite useful to compare with kind of new business spreads. I can't see it."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I mean, let me give it to you. It says the Bank Group margin is 102%, down from 115 in Q1."
+  },
+  {
+    "person": "Robin Down",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Great. And the new business, I think you were saying you were kind of [indiscernible] --"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I'm not going to give you that exact number. We can try to manage over time and given this is a multiyear product, I can get too obsessed by kind of quarterly moves. So managing to AT, I said we were a bit lower in the beginning of the quarter, we're a bit better at the end. I think you can also, 102 I've given you, you can also calculate it on the fence up if you want. But that's what the bank book is at the moment."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions]. Our next question comes from Ed Firth of KBW."
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "I had two questions, if that's okay. I mean, the first one was just to explore. I think you made a comment about a 50% deposit beta was where you are running at today. I mean, if I look at your savings, by far and away, the biggest pool of savings is instant access. And I guess the biggest pool of that, again, by quite a large margin, as I understand it is less than £25,000, which you're currently paying 1.4% on, which is so you're making somewhere around a 3.6% spread on that, wish I've gone back 20 years, I don't think I've ever seen a spread that big on customer savings."
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "So I'm just trying to think in terms of your thing, I'm not asking you to tell me whether they -- exactly how that's going to move. But if we forget about rate changes, and just assume rate to stay flat here, or that you'd have 100% beta going forward, but is your general thinking that that 1.4% is a fair rate, and is sustainable, I guess, in a market where I mean, the biggest bank in the world is offering 3.8 today. So I mean, I'm just trying to get a sense as to, culturally, do you think that is a good read for your customers? Or do you think even without rates changing that may have to start moving up given the current environment? I guess that's the first question."
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "And then the second question was, I'm going to tackle the Farage question, because people generally avoided it. If I look in the press, people talking about sort of 10,000 subject access requests. And Twitter's going bonkers with people closing accounts and stuff like that. I mean, is it possible that we could see some sort of a charge in the second half in terms of the cost of managing all that? Because I do remember things like PPI, even if you don't ever have to pay anything else, just the sheer administrative burden of dealing with some of this stuff can be quite onerous. So any thought and it's early days, but any thoughts you might have around that will be will be very helpful. Thanks."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, no, sure. Thanks. I'll do that. So what I would say is, you shouldn't always believe everything you read in the paper. With some counsel to you that we have had an increased number of [indiscernible], they're still in the hundreds in terms of that piece. Clearly, that will bring -- giving us a higher number than we normally have, we'll have to put a little bit more money away to kind of manage them, I'm not worried about that we've kind of calculated that number at this stage, it's not something that's a concern within there. So on that piece at the moment, given that they're in the kind of several hundreds, where it's in the manageable kind of space, I'm sure we'll see some more continue to come through."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "If I look then at your thoughts on the deposits, and pieces, I would actually probably push you a little bit and say that the majority of our balances aren't in that 20, less than 25,000. It's important, and there are significant balances. But as I kind of look up, I would see more of them across my instant saver and flexible kind of saver products being in that 25,000 to 100,000, and still significant balances in the 250,000 plus, so they're kind of 210, all the way up to kind of 310 in terms of those amounts. I think that there are different rates that are available. I think you need to consider that portion of these balances are hedged. So the upside in terms of that change in the between what we're paying, and what we're receiving, it comes through over time. So the margins are a little bit low, you can't just take b3 minus that because of the hedging that we've done over time on that. There are a wide range of deposits available, that people can go to look. And I think what we're all doing more on and what certainly the regulator is encouraging us to do is to make sure our customers really know the different variety of rates that are available to them."
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Great. I mean, just going back on that a little bit, I sort of get the logic of that. So I mean, it seems to me quite plausible, that as the hedge matures, effectively, the savers will get the benefit of that. Because if one of the reasons you're paying 1.4 is because I can see the asset side of it is hedged, that is completely plausible. Is that a sort of -- I know they are not directly related, but is that a way we should think about it going?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I think it's really interesting. So I think, what you're paying to depositors that you're handed depends a little bit on market as well, in terms of what the kind of what's happening elsewhere, when I would say that sort of about 80% of our balances are actually above 25,000. So actually, I think the rates are being passed through are much higher than you probably realize, and the competitive dynamics. And I think, importantly, the system liquidity and what happens is we approach things like TF SME, all kind of play their parts to how this evolves."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Our next question comes from Adam Terelak of Mediobanca."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "I just had a follow up on deposits. You mentioned in your forward planning assumptions, at Bank of England rate cuts, just an update on how you're thinking about deposit pricing in the face of cuts given, you're still, a lot of your products are priced well below Bank of England rates. So could that in terms of numerator going down and the denominator going up, mean that increase in beta even when we've kind of got to the end of the rate cycle. Thank you."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I think the end of the rate cycle is going to be an interesting time. And I think there's a lot of different things going on. So the moment our rates are looking to sort of mid-2024, that we start to see them come down. We've taken probably relatively conservative view on this. In the documentation on the structural hedge, we show you the kind of sensitivity on that we've given you a kind of a 60% pass through rather than our historical 50% pass through. And we've been you're kind of 25% up and down. But why would say that if the pass through was kind of 10%, higher or 10% lower that we'd have about on a static balance sheet that would have about a £50 million impact on income. Obviously, that's an annual number in terms of that piece. So you can kind of prorate that through. But I really think at the moment, it's quite early to be talking exactly what that might do to our numbers. But I would guide you back to, for us as a bank is that the sustainable 14% to 16% return. We have clearly built in some views on that. And we remain very comfortable with that as our medium-term view on returns. Thanks."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you very much. I will now like to hand back to Katie for any closing comments."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Lovely. Thanks very much. And thanks, everyone for your questions and participation this morning is very much appreciated. We have had a strong performance in H1 is demonstrated the strategy is working. And we have a robust balance sheet growing lending to support our customers. We're on track to meet our 2023 cost guidance. We've distributed £2.5 billion to shareholders in H1. And we continue to target a sustainable medium term royalty of 14% to 16%."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "And with that, I'll thank you for your ongoing support. And I look forward to talking to many of you as we meet you over the next couple of weeks. Take care. Thanks. Bye-bye."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "That concludes today's presentation. Thank you for your participation. You may now disconnect."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

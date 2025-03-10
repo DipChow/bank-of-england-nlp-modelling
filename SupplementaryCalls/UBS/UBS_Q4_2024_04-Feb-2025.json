@@ -1,0 +1,548 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] The first question is from Chris Hallam from Goldman Sachs. Please go ahead."
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Yes, good morning, everybody. So on integration, on the one hand, you run ahead of plan in 2024. Clearly, the RoCET1 has ended up much better than expected. But on the other hand, you're also guiding to around an extra $1 billion in cumulative integration cost by year-end '26 with an unchanged exit rate on returns."
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "So I guess, to what extent can we characterize this as essentially the easy part of the integration has now come to an end and now the hard work on decommissioning and data integration begins, i.e., have we seen -- have we sort of front-loaded the integration? Or is there still scope to outperform here over the next couple of years?"
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "And then second, on capital, you have the caveat in the buyback target that this is on the basis of no material and immediate change in the current capital regime. What's your assessment of the likelihood that such changes could be both material and -- yes versus the potential for them being material, but with a long phase-in or smaller than expected, but with immediate applicability? And what is your best sense on when we might get final clarity and resolution on this topic. Sergio, I think you mentioned earlier that the public consultation begins in May. Thank you."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "Let me pick up the second question, and then I'll pass it to Todd. So I think in terms of the caveating on our capital returns is quite consistent with previous language being -- staying at 14%, delivering on our financial plans, but also reducing the risk of the execution of the integration. So in that sense, I just want to remind that the massive migration of data we're going to go through in 2025 creates potential operational risk. So we have to be prudent about how we also look at share buybacks. I can say that I'm stay confident that we will be able to do that."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "Now I have no more visibility than you have in respect of how things are going to develop other than what is publicly presented. I can continue to say that is for us, not appropriate to speculate on any outcome. And so we will engage until the last minutes to make sure that whatever proposal is put on the place is reflecting of the concerns and topics that I raised in my remarks."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "And Chris, on the first one, just to point out a few things that no, it's not -- the change is not reflective of what we consider to be more complex versus less complex. Important to note that when we developed this view a year back, this was seen as a very low multiplier when you look at $13 billion of cost to achieve versus the gross cost saves that we anticipated. And we're still, even with $14 billion at a very low multiplier. And so it should be seen in that light."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "But it's also important to highlight that the changes were invited by certain assumptions we modeled a year ago or we saw changes which I highlighted in my comments earlier. But also importantly, we've identified incremental opportunities as we work through the integration to unlock additional shareholder value and that's taken some incremental cost to achieve that."
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Okay. Thanks very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from Anke Reingen from RBC. Please go ahead."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC Capital Markets",
+    "text": "Thank you for taking my questions. Two questions, please. On the first one, coming back to the too-big-to fail rules. I mean you stressed a few times the potential impact on your return currently -- your current assumptions based on '14. I know there's a lot of uncertainty, but do you think considering depending on the outcome, you will have room to offset your ROE dilution from more capital requirements?"
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC Capital Markets",
+    "text": "And then thank you on the U.S. wealth management operation, a few details here. Just wondering, obviously, you talked about improving the performance of U.S. operations a few times before. So what's really different this time that this will work out? Thank you very much."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "Thank you, Anke. Unfortunately, as I mentioned before, there is no easy fixes and there is no potential offset on the table that is not already planned and communicated. So no easy fixes, no low hanging fruits, whatever comes is on top of our plans, and it will be dilutive. Todd?"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Yes. Look, in terms of what's different, we wanted to highlight the things that we're doing now and demonstrate the initiatives we're undertaking and the plans that we have that will help us chip away. We're being realistic in terms of what we think the margins can be over the midterm, and we have a very comprehensive way at that. There is no silver bullet where there's one thing where you say that's going to effectively transform the pretax margin."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "What I think you heard me say and Sergio alluded to in his opening is that we're very focused to execute across these various levers. We're implementing them all, and they're in the collective, we're going to contribute to improving the efficiency of the business. So I'd say that's our focus and that's where we're looking -- that's the outcome we're looking to drive."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC Capital Markets",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Jeremy Sigee from BNP Paribas. Please go ahead."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "Yes, morning. Thank you. Two questions, please. Firstly, just a sort of revenue in the quarter, the capital markets growth, so ECM and DCM was a bit less than some of the peer groups, 11% year-on-year. Just wondered if there's any mix reasons for that or if there's any sort of delay still in Credit Suisse teams becoming fully productive. So just a question on capital markets revenues."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "And then second question, is on the foreign subsidiaries topic. It sounds like you've reduced the UBS Americas CET1 ratio to around 20% from the previous 27%. In the past, you run that anywhere from 14% to 22%. Is it realistic to think about going back into the mid-to high teens in that subsidiary on a say, five-year view?"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Jeremy, just on the second one. So we are targeting and as you acknowledge from the capital repatriation, the CET1 capital and the IHC has come down significantly. We are targeting a lower CET1 capital ratio, say, in the upper teens level. But on a like-for-like basis, under the Swiss standards, that's more in line with the 13% to 15% CET1 capital ratio. So that addresses that."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "On the IB question. Just to point out, on DCM, clearly, we're underweight versus peers. So you're seeing that manifest in the -- in our performance in ECM, as I highlighted, we're building, but the timing of our pipeline build is likely to yield more payback later in 2025 into 2026."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Kian Abouhossein from JPMorgan. Please go ahead."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Yes, thanks for taking my question. I really only have question regarding the key Slide 32. Sergio, I get the message, don't get over excited in terms of how capital would be repatriated and solved potentially a capital issue. But if I look at Slide 32, and I got very excited when I saw the $30 billion, but clearly, it hasn't ended up in the parent bank. It has been further upstream it looks like it."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And I'm just trying to understand the rationale of the upstream and also trying to understand if there is room to downstream again, if necessary. And in that context, we're also trying to understand how much more capital is there in CS international. It should be something like $5 billion to $6 billion from what I calculate, and if there's any other subsidiary that you would highlight was there's room for potential further upstreaming into the parent going forward. So really just trying to square the process. I'm a little bit confused in that sense. And if you could help me, I would really appreciate."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "Thank you, Kian. I'm sorry. And I really appreciate your enthusiasm, and I'm sorry that you started with an enthusiasm and then you ended up being confused. So in that sense, I can only reiterate that we don't really have some so much low-hanging fruits here. There is no short fixes. There are technicalities that I think that Todd can explain you now but that's essentially the situation. So we have been quite coherent and consistent in saying and planning for capital well ahead of the curve when we started to plan for the 2026 targets."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Just to add, I'm a bank analyst, I can get excited very quickly. So..."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "Well, don't tell me."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Kian, I think it's worth just pointing out that remember, we acquired Credit Suisse and the capital ratios at the parent bank were distressed relative to what UBS AG's fully applied capital ratio was and the strength and resilience of our capital on the UBS side, also to consider the equity double leverage that was there on the Credit Suisse side. And as we inherited that, the pressure it put on our own, just given what we had to address and pushing up that double leverage."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "So taking out the capital and rebalancing the capital from former Credit Suisse subsidiaries in, say, the U.K. and the U.S. up to the parent and fundamentally at group level, as you say, has been part of the plan but also helps to alleviate the pressure in the equity double leverage. And I think that's an important point to mention. And that's why we made the comment that if there's going to be onerous capital imposed on the parent bank, it's going to be funded with the retention of future profits."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And just on double leverage, how much of the $13 billion do you actually require for double leverage? And how much do you allocate for payback to shareholders. So we just get an idea how much is potentially access in the holding, if there's any?"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "It's -- look of that amount that we have repatriated. It's a significant part of it that is used to support moving to a more normalized equity double leverage level. A significant portion of it."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Okay. And just on the $6 billion in the CS International, roughly $5 billion to $6 billion, is that correct? That's what's remaining?"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Yes, I highlighted that in my comments as well that that's what we see. Naturally, it's a function of timing and ensuring that we continue to run down the positions in that entity, and get the support from the regulator to repatriate the remaining capital in that entity as we transfer our positions, as I mentioned, and there could be leakage between now and then if we have losses in the entities. So conservatively, I mentioned around $5 billion that would come from CSI from here."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Giulia Miotto from Morgan Stanley. Please go ahead."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Yes, hi. Good morning. Thank you for taking my question. I have two. Going back to Slide 31 on the noncore deleveraging. How is it possible that -- if I exclude op risk, which I understand is driven by a formula, that's fine, but create a market risk, risk came down by $42 billion since Q2 '23. And now you only plan took up $7 billion in '25, why wouldn't we expect a faster deleveraging there, given that the market is still very supportive?"
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And then secondly, thanks for all the additional detail on the GWM in the U.S. On the NII discussion in that division, which I look forward to the disclosure in Q1. I guess having operating under a national charter rather than Yota would help. How quickly do you expect to get that license, please? Thank you."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Giulia, so on the credit and market risk ambition in terms of the levels taking it down, I think this goes really to the point I highlighted in my comments in the context of the underlying PBT we see in '25 versus '24. I made comments that the positions at this point are much smaller than we've seen. They're hedged. At times, they could be -- could have transfer restrictions associated with them. We have to ensure the counterparty is willing to terminate. There could be exotic security types with bespoke features that limit potential buyers. So there are a lot of issues as you get down into the portfolio and you have much smaller positions in these books that's going to take an extensive amount of work to see chip away at progress."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "So a lot of the big rocks and larger positions that generated significant RWA reduction, but also invited an ability to exit at levels above book value are going to become further and farther and less likely as we move forward. So I think it's just important to understand that in the context as well of the RWA rundown."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "In terms of the -- to your second question on the national charter and the timing. Look, we're working on moving forward with getting the application in. It's a lot of work being done, and we're going to work as quickly as we can to get that rolled out and to enhance our banking product offering. I mean, we're not standing still at the moment. We're doing a lot of work in that respect now also to go live. But certainly, the -- having that license will unlock certain product capabilities that just aren't possible until we have it."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Got it. But is it fair to expect, I don't know, three years longer, shorter?"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Giulia, I think that's just something we'll continue to update you on. I don't want to predict the process because we're working, obviously, also with supervisors to get that -- get the license approved. So the time line is something we're working actively on, but we'll keep you updated."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Understood. Thank you."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "And maybe just to add on, on non-core, we always say that at the end of the day, of course, if we really want to take down market and credit risk overnight, we broadly find the price at which to do it. But now if that price is well in excess of our cost of capital and expected return, that would be a stupid trade. So we are constantly looking to optimize shareholder interest as we wind down this asset. So it doesn't really make sense to create new capital at a cost that is well above how we expect to deliver in terms of returns."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Got it. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Stefan Stalmann from Autonomous Research. Please go ahead."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Yes, good morning. Thank you very much for taking my questions. I wanted to ask about the U.S. wealth management plans, please. It looks like you're tilting away the business mix from the high end of the market towards more affluent and lower wealth brackets, which is pretty much the opposite of what you've been trying to achieve over the last 20 years, I would say. What has changed? Why are you coming to this different assessment of the relative attractiveness of different wealth brackets in the U.S.?"
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "And the second question, I just wanted to make sure that I understood this correctly. The share buyback plans and aims that you outlined, they are not yet accrued and deducted from CET1 capital at the year end, isn’t it? Thank you very much."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Yes, Stefan. Yes, with respect to the $2 billion that we aim to buyback based on the conditionality that Sergio described that is correct. On the U.S. wealth side, I think it's just important to point out that it's not a shift in strategy. What we said was we're looking to rebalance more into the high net worth and affluent client segments. And the reality there is that, one, we're quite overweighed in Ultra, which is, of course, our strength. But it's also important to point out that the return on assets in that segment versus as you move down client segments is, of course, lower. And so the profitability as you move down segments is higher."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "And so what we're trying to do is rebalance so to stay, obviously, very -- to stay very penetrated in Ultra, but to increase our penetration in high net worth and affluent so to create a better balance in line -- more in line with the market a bit more in line, although, of course, we want to stay more overweight at the top end because as I said, that's our strength and our -- what we bring to the strength that we bring to the table. But it's just really important to emphasize that yes, that -- versus the market, you could see that as we have on Slide 26 that we're looking just to shift and rebalance more into high net worth and affluent where the profitability has improved. And the point is that it's a rebalancing as opposed to a strategy change."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Okay. May I just quickly follow up on the first part of the question? Is the $1 billion share buyback plan also not deducted from CET1 capital? Or is it?"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "That's in."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "That's in. Okay, thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Andrew Coombs from Citi. Please go ahead."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citigroup Inc.",
+    "text": "Good morning. One follow-up on GWM Americas and then perhaps I can touch on P&C, NII. On the GWM Americas, you highlighted a couple of times how you are adjusting the FA incentives to align them better with your strategic goals around net new money by acquisition and NII growth. I don't know if you can just elaborate a bit more there on exactly what changes you are making? How do you think those changes compare to your U.S. peer group especially given your comment in the near term, it might lead some FA attrition and lower net new money? So that's the first question."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citigroup Inc.",
+    "text": "Second question on the P&C NII. It obviously has been one of your biggest headwinds. You're guiding to -- I think your exact words, we're a much more pronounced drop this year than last year, but you're still expecting it to plateau after the second quarter. So can I just ask what are your rate assumptions to the SMB rates? And I think you made a comment that it should plateau regardless of where the rate trajectory is there are perhaps you could elaborate on that? And then also what are your loan assumptions, given that your loan balance has shrunk by another couple of billion this quarter. Thank you."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "So first, on your first question with respect to the FA comp changes. I think the changes that I highlighted that align better with our strategy also are more aligned to what we believe or observe are the comp models at our competitors as well. We had certain features. We think that we're perhaps off market, and we are looking more to align with what our peers do."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "But I think the more important point, though, is that in discussing this with many financial advisers and getting their take on these changes, it's clear that those who are very aligned with our strategy of bringing value to their clients and growing their books of business. And as I said, bringing more solutions to their clients from essentially across what we can offer, those FAs will benefit in this model, and they'll get paid more, and I think that's the key point."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "My comment about FA attrition is just that those who may have benefited from features that we have eliminated may decide that they would be better off trading away and we have to cater for that prospect in our modeling. And so that's why I mentioned that. But it's important to keep in mind that the changes we're making are really not intended to reduce compensation but to increase it as long as it's being done in ways that are very aligned with our strategy. And I think that's the most important point."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "On P&C net interest income, you had several questions. I mean in terms of rate assumptions, well, first of all, the current rates are at 50 basis points having come down 125 basis points over the last three quarters of 2024. There's an expectation if you look at implied forwards that the rate curve will approach near 0. So there is really a lack of deposit margin room for maneuver as we look out, which is why we think that the full year 2025 NII, especially if rates move down further, will be even more pronounced than the Q1 guidance."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "I talked about plateauing once we inflect because if you look at the yield curve, it's actually quite flat, if not even inverted, but it's certainly flat. And as such, we don't see movements in it. So therefore, if it's effectively hitting a trough, I see it plateauing. And then I commented, which was your other question, if rates move, obviously, if they move up, it gives us a bit more deposit margin room for maneuver. If they move down into negative territory, that is also helpful because we can typically charge certain clients and also drive greater lending NIM as well."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "As far as the expectation around loan balances, we have a stable outlook for lending in P&C, and also a stable outlook for deposits in P&C. So we're quite focused continuing to do balance sheet optimization, ensure that the pricing reflects the appropriate cost of risk and capital. And on the deposit side, we've been very thoughtful in how we have moved pricing down in relation to the central bank dropping rates in order to retain deposits where possible."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citigroup Inc.",
+    "text": "Very helpful. Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Amit Goel from Mediobanca. Please go ahead."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Thank you for the clarification on the capital. I've got just a couple of questions again on the U.S. business. So I guess, one, I was just -- I just wanted to understand a bit better as you get to the 15% PBT margin in '27, what is the kind of plan or thought process in terms of getting to kind of peer levels or 25%, 30% operating margin in the future. I don't know if you think peers are over earning. But what the step is there and is building out a more comprehensive banking offering and delivery model is part of that, but what cost is involved in that?"
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "And then secondly, also, just curious, in terms of the PBT margin that you're targeting the 15% in '27, I think previously, you were talking about mid-teens in '26. So just to check, is that slightly later? Or is it the same basic expectation? Thank you."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Yes. In terms of the expectations, we haven't really articulated that other than I've said in the past that expected mid-teens in the midterm. We talked about the business and Sergio and I have been doing this. So I don't think it's inconsistent. But we're talking over the next couple of years to continue to build, and we think by 2027, we'll be at that mid-teens level."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "I mean as far as comparing to peers, I mean we don't -- this isn't a comparison to peers for us -- or sorry, narrowing. It's not about effectively catching peers, but it's more about narrowing the gap. That's what we've said consistently in order to improve the overall cost-to-income ratio for the business overall. And in the U.S. to put us in a position where we're contributing significantly more to the overall profitability of Global Wealth Management."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "In terms of the banking capabilities and the other capabilities I talked about, those investments are catered for in my comments, I did say that we're making incremental technology investments and also investments in our capabilities. And in the collective, that's also being priced into our 2025 pretax margin expectation, but also as we guided looking out to 2027 as well."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Can I just follow up just in terms of that investment in terms of points of operating margin, would that be kind of 2, 3 or 5 percentage points of operating margin that you're investing in those years? Or just to think about thereafter, how much could potentially drop out? Or how much is just ongoing investment?"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "I'd just say the investments that we're making we already -- we've been investing in the business. So it's important to keep that in mind. But we are making now we're ensuring that the investments that we make in technology are done in a way where the payback is improved, as I mentioned, improved ROI. We are also funding incremental investments as I say, and that is captured in the pretax margin expectation for 2025 and as we grow it. So I wouldn't model it falling out. I mean this will be technology investments we're going to continue to make for the business to help it grow."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Antonio Reale from Bank of America. Please go ahead."
+  },
+  {
+    "person": "Antonio Reale",
+    "role": "questioner",
+    "position": "Bank of America Merrill Lynch",
+    "text": "Good morning. It's Antonio from Bank of America. Two questions from me, please. Actually, two follow-ups really. One on capital, one on the P&C. So you've repatriated $13 billion capital at the parent company this quarter. And despite that, your CET1 ratio at the AG level was only up 20 bps or so Q-on-Q to 13.5%. Now could you please explain why that was the case? And maybe talk us through the moving parts. I'm sorry if it's a repetition, but I think it's important."
+  },
+  {
+    "person": "Antonio Reale",
+    "role": "questioner",
+    "position": "Bank of America Merrill Lynch",
+    "text": "And the second question is, again, a follow-up on your Swiss business. You've talked about your NII guidance. Can you just remind us your sensitivity to rates and hedging structure in Switzerland? And more in general, what flexibility would you have to mitigate some of this trend on NII with the rest of the P&L. You've alluded to more cost synergies. So if you can share a little bit more about the moving parts of the P&L that would be super helpful. Thank you."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "So in terms of the mitigants a bit to the headwinds, we're definitely focusing on driving, as you saw in 4Q, continuing to drive where possible non-NII revenue growth, improve on recurring revenue in P&C and also on transaction revenues that will be a focus to partially offset the headwinds that we see in P&C."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "I mean as far as abilities to effectively hedge or extend duration, I mean, that's just not when the rates are this low and with a flat yield curve, extending duration, for example, on non-maturing deposits doesn't offer much of an advantage at all. In fact, it could lock in funding costs and rather than allow us to benefit from future rate cuts, including if they go below 0 and also creates some mismatched risk -- mismatch risk as well. So if the rates are going to near 0, as I said, we have very limited room for maneuverability, and we just have to wait until we see some daylight in terms of changes in that yield curve."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "On the capital question you had in terms of what you're missing. I think in terms of the CET1 capital ratio at UBS AG after it received the capital from the subsidiaries, we are accruing a dividend to the parent to address the point that I made before in response to Kian's question. So it's a dividend accrual that will serve as an offset to the -- sorry, dividend accrual to group. To be clear, to offset the capital repatriated to AG, its first tier subsidiary."
+  },
+  {
+    "person": "Antonio Reale",
+    "role": "questioner",
+    "position": "Bank of America Merrill Lynch",
+    "text": "Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Piers Brown from HSBC. Please go ahead."
+  },
+  {
+    "person": "Piers Brown",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Yes, good morning, everybody. I've just got two follow-ups. One, I just wanted to make sure I got the message correct on client risk appetite. I mean you've talked about the move into sweep accounts and obviously the fourth quarter NII was much better than we anticipated. But then on the transaction side, you're a little bit below Street expectations. And if I look at the loan number, that's still declining. So just appetite for releveraging and sort of look forward on client activity into the first quarter, can you comment on that, please?"
+  },
+  {
+    "person": "Piers Brown",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "And then just a technical question maybe on the Basel III final outcome. I mean that's -- it's basically no change to CET1, I think you had guided to a 30 basis points impact originally. So what's moved in your favor on implementation of Basel III final that's caused that delta? Thanks."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Hi, Piers. So on -- I'll just take your second question first. So in terms of the Basel III, look, I guided down last quarter to a lower level than I had been guiding as we started to get more visibility and make progress. The team has done an excellent job at ensuring that we were able to mitigate where we can, and some of the aspects that were at work are infrastructure improvements, model alignments, also exiting positions and running down risks. So all of those things contributed to our ability to be able to ultimately print a day 1 level that's far inside where we had guided."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "In terms of releveraging opportunities, for sure, in Global Wealth Management with rates potentially higher are not going -- coming down as quickly as perhaps we anticipated a quarter ago or certainly 2 quarters ago, that's going to be helpful. That's going to be helpful for deposit margins, as I mentioned, but probably will have a little bit of a chilling effect on releveraging, which is something that with rates coming down, we expect to see both in all parts of the wealth business, which involves really where we have U.S. dollar exposure in the U.S. business naturally but also in our APAC part of the business. And so we -- if rates sort of back up, then we'll have positive effects on deposit margins, but the extent of releveraging that we're pricing into the outlook, we may see that come in less aggressively."
+  },
+  {
+    "person": "Piers Brown",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "That's perfect. Just on Global Banking, you mentioned a 20% change in pipeline. Was that up or down? I didn't catch that."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "What we mentioned is not our pipeline. What we said is that according to market data, so the industry is down 26% year-to-date -- so for the first month. So our pipeline is building up. We are very confident about the ability to generate new business and build up our market share. But if you look at according to market data, January on January, the amount of fees and activities down 26%, if I remember correctly."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group CFO",
+    "text": "Yes, it came in. The final number came in. Yes, sorry, Piers, got your question. It's the fee pool is down around 21% for January."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group CEO",
+    "text": "So in any case, a 2 handle in front. That's industry and not UBS, just to be clear. Okay. So there are no more questions. There are no more questions. So thank you for calling in and for your questions. So we'll touch base next quarter. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Ladies and gentlemen, the webcast and Q&A session for analysts and investors is over. You may disconnect your lines. We will now take a short break and continue with media Q&A session at 11:30 CET. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

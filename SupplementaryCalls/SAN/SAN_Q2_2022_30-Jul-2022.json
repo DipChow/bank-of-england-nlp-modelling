@@ -1,0 +1,584 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] We already have our first question from Ignacio Ulargui from BNP Paribas Exane."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is coming from Alvaro Serrano from Morgan Stanley."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Hopefully, you can hear me. I've got two questions, one on Brazil and another clarification on your last comments on capital. On Brazil, I heard Jose mention that you keep the 4% to 4.5% cost of risk. But if I look at Q2 stand-alone, cost of risk, I think, is 525 basis points. And it looks like to achieve your guidance for the full year in the second half, you'd need to be below 400 basis points. So I just want to make sure I've understood the guidance correctly, and maybe you can give a bit of color what's going on because it's probably a steeper increase than we were expecting, although you had flagged that the peak will be in Q2. But maybe a bit of color on what's going on, and if I got those numbers right."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And the second question on capital, the 50% you mentioned Jose Antonio, is that -- can we expect that already in 2023? Or another way to ask it, is there anything we need to take into account that might prevent you from raising it to 50%, i.e., remaining capital headwinds. I think for 2023, you already said there isn't any left. But I don't know if there's anything in the second half. Conscious that Banamex is no longer on the table, so I just can't see any reason why you shouldn't increase it to 50%."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Okay. Thanks, Alvaro, for your questions. On Brazil, well, Jose already elaborated on this, let me to go in more detail. As Jose said, we are seeing an increase in cost of raising the consumer mass market portfolio. You rightly said in the second quarter was higher than in the first quarter. Having said that, we remain comfortable with the guidance we gave to you. It's true that if we go -- we saw already in June better results than we saw in the third -- in the 3 or 4 previous months, and we remain constructive, and we think that we are in control of this, and this to remain in this range."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "As you know, we reduced the lending last year. Jose already mentioned that our exposure to the most -- the overdraft that is the part of the higher cost of risk has been reduced, and we feel comfortable with our expectations for the year, mainly taking into account that Brazil has been one of the few countries in which expectations for GDP growth have been improved by the IMF, yes? So the situation in the country is that we face elections by October. But in general, we see the situation for a more constructive point of view. And we think that with the measures we took and with the trends we are seeing, we're going to stick with this 4%, 4.5% cost of risk for the whole year."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "We are not seeing any sign of deterioration other than the ones we saw before. So we are seeing the corporate book performing very well. We are seeing -- including SMEs, and it remains related with the individual portfolio consumer. And inside the consumer, auto portfolio improves already. It is more unsecured consumer that is still causing this spike in the cost of risk."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "And second question, well, it's true that we don't -- we said that we don't have headwinds going forward in our capital. What I'm stating here is what we stated in the AGM, the intention of the Board to go to 50%. When is this going to happen? Well, it's up to the Board. I am not in a position to anticipate a decision that is going to be taken by the Board, but this is the clear intention of the group is to go back to these levels and continue to use the buybacks and the combination of buybacks and cash dividend as we've done in the last year."
+  },
+  {
+    "person": "Jose Garcia Cantera",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "If I may give you a bit of color about the regulatory charges in the second half. In the first half, we had 5 basis points in the first quarter. The plus 3 basis point in the second quarter has 2 components. It's plus 7 basis points from the nonperforming loan backstop difference and minus 4 basis points from models. So from pure regulatory, we have around 9, 10 basis points already accounted for, and we would expect another 10, 15 basis points in the second half. So very much in line with the guidance we gave you at the beginning of the year for 20 or 25 basis points total regulatory charges in the year as a whole."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is coming from Ignacio Ulargui."
+  },
+  {
+    "person": "Ignacio Ulargui",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "You hear me now?"
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Very well, indeed."
+  },
+  {
+    "person": "Ignacio Ulargui",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "Okay. Perfect. Sorry for the problem before. Just have one follow-up question on Mexico. Just following the sort of like the outcome of Banamex, what is the strategy that you plan to follow there? And what are the priorities for the bank, in terms of organic growth, in which segments you think that you can gain market share?"
+  },
+  {
+    "person": "Ignacio Ulargui",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "And the other question is on cost of risk at a group level? I mean, you have given a bit of a comfort about Brazil. I mean, is there sort of like any other market where do you think that there could be sort of like would you envisage some deterioration that could total risk but below 100 basis points cost of risk guidance for 2022?"
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Okay. Thank you, Ignacio, for your question. Mexico, what's the strategy? Well, as you say -- rightly said and we communicated to the market, our strategy is organic growth. When we look at our franchise in Mexico, we have overall 13%, 14% market share, enough scale to compete efficiently in a market and no doubt about this."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "When you look in more detail where we're going to focus more on individuals. So when you look at the market shares all across, it's true that we -- our market share in the corporate space is higher than it is in the individual space, particularly on the -- for the reason the organic growth is going to be focusing growing the customer base, individual, that should fit through in the balance sheet through a larger deposit base, individuals deposit base, I mean, and through a larger share, particularly on the consumer."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "We are growing in auto. We started 3 years ago. We got already 14% market share, and we're going to continue to grow in the consumer space, but also in credit cards, where we launched in September last year a new car that is selling 100,000 cars a month, and we are growing well there, and we expect the growth to accelerate -- is accelerating. If you look at the numbers, at the balance sheet at the P&L is accelerating, and we continue -- we expect to continue to do this acceleration. So in short, we're going to focus more on the individual side, where we need to grow the deposit base and also in the consumer finance space and credit cards."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "In mortgage market, market share is around 18%, 19%. We are well above our average market. We are doing well there. But those are going to be the focus. It remembers me a little bit the situation we faced in Brazil a couple of years ago when Bradesco bought HSBC. And on the back of this, we were able to gain 2 or 3 percentage points market share in Brazil in a very difficult time in Brazil at the time, Brazil was in recession at that time, and we were able to profit from this situation. And we expect -- we are doing already on the back of the process now, and we expect to continue to do in the coming years."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Second question, cost of risk, more general question, not that much focused in Brazil as your colleague, Alvaro, I already elaborated on Brazil. You mentioned other markets, other markets. The cost of risk is going up in Brazil for the situation I explained and is going up also in the U.S. It's back to normal in the U.S. In the U.S. in 2021, the cost of risk was abnormally low, well below expected across the cycle, and we are in some kind of normalization."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "It's going according to our plans in -- well, you know that the cost of risk largely depends on the auto market, and the auto market remains in a situation that is not -- I don't know how to qualify, not normal, in the sense that the availability of new cars is not there, and the used car prices remain at all-time highs, I think. And this situation creates a market where the cost of risk is still unemployment is very low."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Well, inflation helps to pay the bills in the short run, and this will keep the -- for the time being, the normalization is going to happen little by little in the U.S. But this, the other market, if you go to the numbers, you see the cost of risk going up. In all the other markets, I don't see any sign of deterioration. Quite the opposite."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "In Spain, we are trending down. We expect to continue to go down this year and next year, while the in consumer, we are not seeing any sign across the board. I'm referring now to consumer in Europe. In Mexico, we feel very comfortable with the portfolio."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "In Chile, we also feel very comfortable with the portfolio. So I don't see any deterioration in the portfolios. And in fact, NPLs are trending down. Remember that the NPLs now around 3%, taking into account that there is a change in criteria within the definition of like-for-like, we are, compared with last year this period, are around 2.80%, at 2.80% something. So -- and still trending down, we are not seeing signs of deterioration there."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Well, maybe I should elaborate because I mentioned in the previous quarters around loans. Remember that in the previous quarter, we were discussing uncertainties surrounding ECO loans with extension we did last year for 1 year. Those loans mature, start to pay normal installments in April, May. And I should say that it came, I should say, significantly or much better than expected. So arrears -- initial arrears were below 3%. And this is significantly better than at least my expectations, and the uncertainty, why I was showing you this. So that's the situation. Our models are -- have high sensitivity."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "As you know, we provide based on IFRS, and the models apply in IFRS rules, 9 rules. I mentioned that provisions in the first half, €600 million, were due to macro conditions to change -- to pick in the new macro conditions for the future. And these were mainly in Spain, like €100 million due to market conditions; in U.K. like €200 million, €250 million; and the €130 million. So those are provisions that are there due to change in the macro conditions, not reflecting any kind of deterioration in the portfolio. I think I expect to clarify a little bit the issue of the cost of risk."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is coming from Pamela Zuluaga from Credit Suisse."
+  },
+  {
+    "person": "Pamela Zuluaga",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "The first one is, again, around capital. So most of the organic capital that you keep on generating has been offset by fair valuation adjustments from your bond portfolios. Are you thinking about maybe changing your risk allocation strategy, shifting your accounting towards held to maturity for bonds in order to somehow shield capital better? How should we think about this risk moving forward? Because thinking about the pending regulatory impact that you were guiding for, could we, therefore, expect some further risk to capital if market dynamics continuing on valuations?"
+  },
+  {
+    "person": "Pamela Zuluaga",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "And then the second question is on Poland. Do you have any estimates on the potential impact from mortgage moratoria in Poland because we already have confirmation that 4 of those months are going to happen this year and 4 next year? And then should we continue to expect further provisioning in Poland related to the FX-denominated mortgages?"
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Okay. Thank you, Pamela, for your questions. In capital organic, your question is related if can collect on the sale. Well, what happens with this portfolio where our portfolios are relatively short duration. So the portfolio is in the region of €50 billion. I think the duration probably you have, you can give the duration of the portfolio. We are not -- we took a chance on our capital of 25 basis points in the first half of the year due to the held to collect and sale mark-to-market portfolio. We are not a hurry to change this reclassification."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "We know that if we reclassify, you get back 25 basis points. But while at the same time, the duration is short and is going as long as -- if the rates remain stable, it's feeding through the P&L, yes, month after month and quarter after quarter and will get reduced significantly if rates remain as they are today. Naturally, if they go one way or another, well, this affect the P&L, but we are not -- we don't feel that we are not in a hurry given the size of the portfolio and the duration to do something, as you suggest. I don't know, Jose, if you want to comment something."
+  },
+  {
+    "person": "Jose Garcia Cantera",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes, just a bit more detail on this. Of the €75 billion ALCO portfolio, €53 billion is held to collect on sale and only €20 billion, €22 billion, €21.5 billion is held to collect. So we have most of our portfolio in mark-to-market. Of these, as Jose Antonio said, 75% has a duration of less than 2 years."
+  },
+  {
+    "person": "Jose Garcia Cantera",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So for instance, in Poland, it's 1 year; in Mexico, it's 1.7 years. So very, very short term duration, 70% less than 2 years. So the impact of this potential -- if further deterioration with this duration is going to be significantly less going forward than it has been so far."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Okay. The second question is in Poland, if I understood you well, you are asking 2 questions. One is about mortgage moratoria and the other one is a FX Swiss franc provision for mortgages. In relation with the first one, what has been published recently and what we've done is assuming 50% take up of all the portfolio is going to be an impact of PLN 1.3 billion, yes. So that means in euros, I don't know, €200 million to €200 million-something, but likely not. Once we have destinations, this is going to be charged in the third quarter in our P&L in Poland. So the figure is slightly below €300 million."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "For FX, we are now at 32%, if I am right, coverage. Well, do we need to top up? We'll see. The market is around 35%. So we are there, is not going to be significant, but maybe that we need to top up depending on how the litigation, how the litigations go, how many customers go to court and how many customers we negotiate directly with them a potential compensation here. But I don't rule out to go to 36%, 35%, 37%. So -- but in any case, it's 3% of a portfolio of €1.9 billion or something like that. So in euro is like €50 million, €60 million, yes. I hope I answered your questions."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is coming from Sofie Peterzens from JPMorgan."
+  },
+  {
+    "person": "Sofie Peterzens",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Here is Sofie from JPMorgan. So my first one would be on the proposed Spanish banking tax. Do you have any additional comments that you can make what the potential impact on you will be, and will it only be on your Spanish operations or also on your international operations?"
+  },
+  {
+    "person": "Sofie Peterzens",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And then my second question would be a little bit a follow-up on the auto portfolio. Could you just remind us how much ALCO bonds you have in Spain, and kind of over time where you need to build up that ALCO portfolio level to. So how much can you potentially increase the ALCO by?"
+  },
+  {
+    "person": "Sofie Peterzens",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And then just a follow-up question on Mexico. Could you just clarify why you walked away from the Banamex transaction?"
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Okay. Spanish banking tax, unfortunately, I have no idea at this moment, at this point of time. So I was told that the rumor in the media is that this morning, the same morning, we're going to have a kind of presentation because this is a presentation for -- in the parliament for the [Indiscernible] - coming from the [Indiscernible]. This is the way they manage this. And we're going to know this the same morning. If this affects the Spanish operations or global operations, I have no idea. I do expect this to affect the Spanish operations, but we'll see what happens when this is presented to the parliament today."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "ALCO in Spain, we don't have ALCO in Spain, zero. We don't have bonds. You are asking me for the level of potential ALCO portfolio. Well, if I look at the -- we have a relative duration of 5 years in the balance sheet in Spain. If you were to offset all of this, the portfolio will be very, very large. So you can do the math on your own, but it will be very large."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "But since to me is a reasonable ALCO portfolio for Spain is to put the duration of the balance sheet between the minus 2 and plus 2 years, yes, that is normally where we imagine the portfolio is set in extraordinary times when the rates were well into negative territory. We're going to reconstruct this portfolio little by little, depending on our view on the market and trying to put the balance sheet with a less negative duration. We haven't started, but we will, for sure, start at some point when we think it's the appropriate time."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Banamex. Well, as you know, we've been very transparent on this. We're interested in the asset. We put the conditions. One of the conditions was the price, naturally, the price. The return on investment was in condition, not to issue shares. So we told you openly. We submit a nonbinding offer. And well, we were told that we are not going to continue in the process. That's it."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "That there is no more to add, yes? So we were disciplined. And well, as I said before to your colleague, before, we think that we have -- we put a price asking for a return on investment attractive for our shareholders, knowing that we have a good chance of gaining market share in the new situation and growing organically and adding several percentage points of market share in Mexico with our existing franchise."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is coming from Benjie Creelan-Sandford from Jefferies."
+  },
+  {
+    "person": "Benjie Creelan-Sandford",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "I had three questions on the revenue outlook, please. First of all, just on the Digital Consumer Bank. I guess looking in the quarter, volumes are going up, but margins are going down. So just wondering if you could discuss a little bit about what you're seeing in terms of consumer loan demand across the European business, how are clients reacting to cost of living pressures versus what are still very good employment trends. And in terms of margins in the Consumer business, is there a lag effect in terms of asset lead repricing that is weighing on margins? Or are you seeing increasing pricing competition in that segment?"
+  },
+  {
+    "person": "Benjie Creelan-Sandford",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "The second question was just a clarification on Brazil and the NII outlook in the second half of the year. So I understood that you expect sort of the rate repricing to sort of level out in the 4Q. So should we assume that NII will be down sequentially in 3Q again? And perhaps if you could just be a bit more precise or offer any more guidance around kind of the rebound as the lag effect and the rate repricing runs off into 2023. I know you gave us guidance on the rate sensitivity on a year 1 basis. Can you give any indication of what that rate sensitivity looks like on a year 2 basis in Brazil?"
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Okay. The first question, let me elaborate on Digital Consumer Bank, consumer loan demand in Europe. The consumer loan demand is not bad, I should say, it's good, yes. So the problem with our portfolio here is basically €120 million, of which 85 -- sorry, €120 billion, of which €85 billion or north of €85 billion is related with auto and the remaining is basically direct lending and point of sale. We are seeing good trends in both business, but lead times in the auto industry are getting very, very long."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "To give you a proxy of this, normally, we have a stock finance in that we found the inventory of the car dealer is normally in the region of €13 billion to €15 billion. Now this is running at half of this, is €6 billion, €7 billion. This tells you an indication where the industry is in the capacity to deliver the demand they have."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "On the other side, I mentioned for the U.S., but the same happens in Europe. The activity in used car markets and the price in used car market is strong. Our origination this year, we're going to go to the €50 billion mark. This is where our initials are growing 10%, but this is because we are gaining share, okay? It's not -- the market is not there. Car sales are falling, are falling significantly. What happens is we are gaining share all across on for the reason we are growing 10% originations."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "The second question, this is the situation of the market. The second question was more margin on pricing. This business, let me do start with the balance sheet of this business. This business is, as I said, close to €120 billion loan book. The majority of this fixed rate normally with a duration of around 2 years, yes. Funded, it's a combination of deposits in the region of €40 billion, and the rest is wholesale funding, normally issuance and securitizations and other things, while we tend to have relatively very low interest rate risk in this business."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "What is happening with the margins? Yields are going up, not at the speed of the -- what is happening in the swap year, but this is the usual pattern that this business follow, normally started to go up a couple of months ago, more so in countries in which the rates went up faster before, like the U.K. and the other markets are following. And I don't see a pattern now differently than the ones -- than the one I was expecting, yes. So normally, this business suffer a little bit, not that much because the combination of 40% deposits and 60% wholesale funding the majority of this with 2 -- around 2 years duration. We can accommodate the majority of this and not to suffer that much on the margin side."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "The fee income is doing well. On the other side, on the back of activity, and if the activity recovers, I do not expect to see significant margin compression. There are the days we cannot pass 100%. In the very first day, we passed -- so over a period of 3, 4 months, the new prices to the new origination."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "In Brazil, you mentioned outlook in the fourth quarter and rebounding -- Brazil, when rebound is going to happen. Jose gave you some indications of this. Basically, what happens in Brazil, as long as rates go up -- so let me explain the NII in Brazil. NII in Brazil in the loan book is going up. It went up, has been going up. And the market-related activities collapsed and went into negative territory, remain -- the rates went from 2% to 12%."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "When this is going to turn around? So normally, when you finish the tightening cycle, it takes around 2 quarters, yes, to go up, okay? So we think that we are close to the peak, but we will see. We think that there's a couple of basis points still to come from the Central Bank of Brazil, probably 75 basis points, probably 100 basis points, I don't know, in this region. And 2 quarters afterwards, we're going to show up this in NII. Yes, Jose mentioned 2023 for the rebound, expecting that with the Central Bank rates, the official rate in Brazil picks in August, September this year, okay? So this is our outlook for Brazil."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Having said that, the customer business, so the loan book, the spread of the loan book is going up, but the financial activities went from positive territory to negative territory this year and is the main swing we have there. This is going to fade away as long as the portfolio mature and renew, all these things, yes. Those are the dynamics in Brazil."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is coming from Ignacio Cerezo from UBS."
+  },
+  {
+    "person": "Ignacio Cerezo",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "I have two questions on the U.S., both around asset quality. So if you can kind of let us know your view about what we need to monitor to gauge when and how quickly asset quality can start deteriorating, if it's unemployment, like you were mentioning the European consumer finance operation or you're also concerned around collateral prices going down and reversing the pickup we have seen in the last couple of years?"
+  },
+  {
+    "person": "Ignacio Cerezo",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "And the second question around this is I mean, obviously, the units will, a, it has been blended into one. I mean, we don't have the disclosure between SCUSA and the rest of the bank any longer. There has been significant changes on the mix of SCUSA in recent years as well, so it's difficult for us actually to have a kind of a realistic view through the cycle cost of risk for the unit. So if you can share your -- with us basically the view you have on where can actually cost of risk in the U.S. land in a normal environment?"
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Okay. The first question about asset quality, what we are looking when this starts deteriorating, naturally unemployment rate is one of the key drivers also in the U.S. You mentioned what is going on, let me guide you a little bit what's going on in SCUSA in terms of the dynamics of the business. Now we are seeing significant -- we are generating in the loan book with a FICO that is 35 points above what we were generating 1 year ago. So this is -- we are generating this. The pricing model is quite sophisticated and goes along with the FICOs we are generating. So this explains a little bit the trends in yields there."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Second, leasing business, now the dynamics are different from any time we have seen before. Normally, leasing businesses works in a way that the customers take the car and 3 years later or 4 years later, they give us back the car and we dispose the car in an auction to the market. And this process in normal times is a process that produce very little profits, very little losses, yes. What has happened on this period is in 2021 -- this was a very profitable business in 2020 on the back of very high second half used car market price."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "But in 2022, what we are seeing is the customers are not returning back the cars to us. They prefer to sell in their own, given the high prices prevailing in the used car markets. And this changed the dynamics in the P&L. Is not the reason you see -- that I think is in the other income, you see a significant decrease in the other income due to this phenomenon. Last year, we made, out of this €200 million, yet we are making very little out of this process."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Asset quality, we expect we -- traditionally, we were around 4%, 4 something percent in SCUSA. In the cost of risk, less than 5%. And now the cost of risk in U.S., the whole U.S. is 1.5%. So what the bank is you split between the bank, the bank is very low cost of risk, I mean less. And all the cost of risk you are seeing now, the 1.5% comes from SCUSA, okay?"
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "This normalization will happen over time and depends not necessarily bad in the past. As we are generating higher FICOs, we also expect lower cost of risk when the unemployment deteriorate. I think unemployment continues to be the main driver, not as much interim rates. Remember that we are lending a very high yield, and the impact of additional 100 basis points or 50 basis points or 200 basis points in the yield is not meaningful when you are lending at 20% or something like that. So you go to 21%, it's not as important as it is in the prime space where the changes in rates can produce more significant changes in the monthly installments. I think I answered your questions, yes?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is coming from Carlos Peixoto from CaixaBank."
+  },
+  {
+    "person": "Carlos Peixoto",
+    "role": "questioner",
+    "position": "CaixaBank",
+    "text": "So a couple of questions from my side as well. I was just wondering, well, the first one is really just a follow-up. I believe I missed exactly the guidance that you have given for NII in Brazil in the -- for the full year."
+  },
+  {
+    "person": "Carlos Peixoto",
+    "role": "questioner",
+    "position": "CaixaBank",
+    "text": "And the second question, I was wondering on the outlook for cost of risk in Spain. I believe that in the past, you have mentioned something in the area of 50 basis points. Right now, cost of risk is still trending a bit above those levels. I was wondering how you see it for the second half of the year and possibly [2022]."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "So in Brazil, you have -- so it's single digit -- mid-single-digit growth in Brazil is what you should expect for NII in Brazil for the whole year, yes."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "While the cost of risk in Spain hasn't changed our expectations, we set 50 basis points to 60 basis points for the whole year, probably this is what you should expect for Spain this year."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Well, naturally, this means, as you know, the cost of risk now largely depends on the macro synergies, yes. And well, I told you that €600 million in the first half came from the macro. Well, the second half, the macro is so uncertain in these days that, well, we will see what kind of macro we introduce at the end of the year. But if the macro remains as it is today, let's take IMF expectations that they published yesterday, the day before yesterday, it should stay in this levels, yes. So as I said to you before, we do not expect a big deal this year on the ground coming from the cost of risk."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is coming from Andrea Filtri from Mediobanca."
+  },
+  {
+    "person": "Andrea Filtri",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Two questions. One on rate sensitivity. This is the flavor of the moment, but the visibility you're giving is still quite low compared to other names. Can you please give us for each main area your 12 months rate sensitivity, assuming 0 deposits beta, I think, you plugged in the forward curve that we can all see just to add some transparency on that front. And I didn't understand quite well before, Jose Antonio, your elaboration around the reason not to have any Spanish bonds ALCO portfolio in Spain and how big the ALCO should be in a normalized scenario."
+  },
+  {
+    "person": "Andrea Filtri",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "The second question is on Brazil. Again, on the rate sensitivity. You elaborated quite a lot around this, but I wanted to understand in Brazilian reals term, what you would expect then to be the tailwind on a full phasing when the liability repricing stops and the asset repricing at the current rate level is completed, to understand that the swing depended on from the negative headwind to the positive tailwind. And hence, how much can this pay in terms of cost of risk."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Okay. Let me elaborate. Jose will guide you through the specific details on the numbers you see. Rates -- sensitivity to rates. So we're going to give you and is in the presentation the parallel shift from the yield curve. But you asked for areas. High level, I should say that with the forward, normally what happens is this is a process that is accelerating. So if I take the whole 2023 with the forward rates, probably in Europe, we should think in all our business in Europe, €2 billion, north of €2 billion, probably. This is a figure that, well, you know there is plenty of numbers there, but this is a figure that sounds reasonable to me."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "You asked for the Spanish ALCO, well, I may in terms of ratio, having an ALCO between €20 billion and €40 billion is something that sounds to me reasonable. ALCO does not necessarily mean one single sovereign, means a portfolio of fixed rate assets that we do not generate in commercial terms."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "In commercial terms, as you know, while the majority of our 80% of the mortgage book, the majority of the lending to SMEs and corporates and 100% of the lending to CIB or almost 100% of the lending to CIB is floating rate. So on the other way around, is a limited asset that we generate a fixed rate. And for that reason, the need of having a significant ALCO portfolio."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "In Spain, we don't have, because our view about interest rates was that they should go up. And that's the reason why we don't have this portfolio. Jose, you want to clarify any specific data?"
+  },
+  {
+    "person": "Jose Garcia Cantera",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes. The reason we give a parallel shift -- well, parallel shift really it is from 1 day to 12 months. The sensitivity we have doesn't go beyond 12 months, obviously. So when we talk about a parallel shift, we are talking about a movement between overnight and 12 months."
+  },
+  {
+    "person": "Jose Garcia Cantera",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And the reason we gave a parallel shift is because today, for instance, the market is expecting rates in Europe to stay at 1%. While just a month ago, it was much higher than that. So it's much better to look at sensitivity. And then for a parallel shift, which is again a movement between a day and 12 months, and then you put your own outlook of rates. But for a parallel shift of 100 basis points on a 25% beta, the sensitivity in Spain is €750 million, in the U.K. is €300 million, most of which we have already seen, by the way."
+  },
+  {
+    "person": "Jose Garcia Cantera",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So in the U.K., we would expect further sensitivity in the second half of this year and then probably some stabilization in 2023. €140 million in the U.S. For the second year, this is relevant for Brazil. And in Brazil, in the second year, we would expect a positive sensitivity of around €150 million. So if we are right and then the last interest rate hike takes place in August, September, and then we start seeing the positive sensitivity flowing through the P&L in Brazil towards the end of this year, beginning of next year, then we should see this sensitivity in the P&L in Brazil, which is around €140 million, €150 million. This sensitivity to a parallel shift is in the presentation."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] The next question is coming from Carlos Cobo Catena from Societe Generale."
+  },
+  {
+    "person": "Carlos Cobo Catena",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "A couple of questions for me. One is on M&A appetite now that you've ruled out Mexico, there's been some reports in the media about you exploring some agreements or expanding the agreements with car makers in Europe. You've always been very interested in your European Consumer Finance business. So could that be an area where you could do some bolt-on deals? And how material, if you could quantify that they might be in terms of capital consumption, if it's possible to give some view."
+  },
+  {
+    "person": "Carlos Cobo Catena",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "Then I understand there is been some top up in the macro provision's overlay. Can you elaborate on which countries you've been -- in which countries you've allocated that provision because of you've seen how the Spanish peers aren't really topping up that COVID overlay. So it will be interesting to see what -- if you defer from them? And that's it, that's my 2 questions."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Thank you, Carlos. Well, M&A appetite, well, we are not looking -- what you mentioned is agreement with OEMS. Well, we look at this as almost as a BAU. If I look backwards, in the last year we signed 3 important deals. The main one was Stellantis, that was a restructuring of the previous deal that will bring to us our portfolio, as a result of this, will grow in the region of €5 billion with the agreement with Stellantis."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "We reached another important agreement with Mitsubishi to be the provider in the U.S., and we've done another agreement, very important this one, with Honda in Mexico to be the provider for Honda in Mexico. Naturally, we have plenty of discussions in some cases for one country, in some cases for the whole Europe. And probably we have several of those open, but nothing that I can communicate at this stage because -- but I see this as a BAU for the division of Digital Consumer Finance."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Reaching agreements with the OEMs means, in some cases, that we establish a joint venture with them in which we match the financial side and they match the commercial side of the joint venture or having white label, providing white label to them and provide our services there. We agree, and this -- I forgot to mention that we also reached an agreement in Greece last year with a main importer in Greece for -- that has 30% market share, but this is, as I should say, business as usual and is in our projections that we gave for the business as usual in the Digital Consumer Bank space."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "The provisions overlay, I said before, well, this €100 million is roughly speaking numbers, €100 million in Spain, €260 million in U.K. and 130 million in U.S. So those are the [€600 million] that you have embedded due to macro in the first half results."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The last question is coming from Britta Schmidt from Autonomous Research."
+  },
+  {
+    "person": "Britta Schmidt",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "I've got 2 questions, please. One is on the rate outlook for Brazil. The consensus expects that there will be rate cuts in 2023. And maybe you can help us walk through the dynamics of your NII outlook then. Would we see even wider spreads, at say, in the second half of 2023, depending, of course, on the timing?"
+  },
+  {
+    "person": "Britta Schmidt",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "And my second question will be on Poland. Do you have any update on the WIBOR issues there. Do you expect this still to become a legal case and drag on? What's the latest from the ground?"
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "In the retail look for Brazil, we expect the rates to pick rather sooner than later, maybe in August, maybe in September this year. And well, when those -- the rates start to go down, more difficult to say. But as you know, in the very short run, the CFO already elaborated on this. Normally, you should expect 1, 2 quarters negative or positive. And afterwards, the commercial dynamics prevail, yes? But overall, those are the dynamics and what you should expect from NII. And this is the outlook for rates in Brazil, well, still highly uncertain next year, yes."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Poland, you're asking me if it's a legal case, it's too early to tell. While we, naturally, we're as of today, we are analyzing the situation, I provide you the impact. Assuming a 50% take-up on the mortgage moratoria, this is a significant damage for the system as a whole. And while our colleagues, the financial system in Poland, we'll take a view on this, well, this is not an individual case. This is a whole financial community in Poland that should take the appropriate view on this when we finish to analyze the proposal from the government."
+  },
+  {
+    "person": "Jose Garcia Cantera",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "If I may add in terms of the WIBOR, we just know that there is a proposal to change it, but we don't have the details. It would start next year, but there are no details at all with regards to the change in the way. It will be very difficult to change the index. I don't know if you want to elaborate. But it would go against recommendations for index regulation in Europe. So it would be very difficult to change. But we have no news."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "The proposal is difficult to execute. As Jose said this, European regulations prevent to go this way. And that's the situation. We do not expect any news soon, yes, on this? No. Okay?"
+  },
+  {
+    "person": "Begona Morenes",
+    "role": "answerer",
+    "position": "IR",
+    "text": "Jose Antonio, there are no further questions."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Thank you guys, and take care. And have a good holidays, those who take holidays in the next couple of weeks. Thank you. Bye."
+  },
+  {
+    "person": "Jose Garcia Cantera",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Thank you, everybody. Bye."
+  },
+  {
+    "person": "Jose Garcia Cantera",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

@@ -1,0 +1,740 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions]. The first question is from Stefan Stalmann from Autonomous Research. Please go ahead."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Good morning gentlemen. Thank you very much for the presentation. I have two questions and they may be linked. The first regarding outstanding SNB funding. I don't think there's any update in the disclosure material on where the number has moved to. I think the last disclosed number was CHF38 billion at the end of August. Could you provide an update here?"
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "And possibly related to this, it looks to me, looking at SNB data, that there has not been a lot further reduction of SNB funding after August in September. Is that a good interpretation of the data? And is there any connection here between your management of the SNB funding and the new liquidity ordinance that will come into place in January?"
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "And is it possible for you to give us the guidance on how your liquidity ratios will look like on the 1st of January under this new liquidity ordinance in Switzerland, please? Thank you."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Todd Tuckner"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Hi, Stefan. Thanks for your questions. So, in terms of the outstanding SNB funding, no, we still have the – that funding levels are still unchanged at this stage. We are working through our business plans and as well as our funding plans, and we'll consider the ability to repay some or all of that over the course of the coming months, but your read was correct."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "In connection with that funding and the liq ordinance, no, I'd say there's no specific connection with that, and we're not maintaining that funding, particularly in respect of satisfying the liquidity ordinance per se. That said, the LCR guidance that you're looking for, as we say, will remain prudent, so you can expect it to remain at levels not terribly far away from where we finished 3Q at."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Stefan Stalmann"
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Great. That was very helpful. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Giulia Miotto from Morgan Stanley. Please go ahead."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Yes, hi. Good morning. Two questions for me. The first one on capital distribution. I know it's very early. I guess you will comment on Q4, but what are the stepping stones that we should look out for before you can resume a buyback? That's my first question."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And then the second question is with respect to costs. In the quarter, there was an excellent delivery on costs, and the $3 billion target by year end has already been achieved. So basically, where do we go from here? Can we assume that this steady path of cost saves can continue or will there kind of be a pause until there is the legal merger, because you have already basically extracted as much as you could of the low-hanging fruit? Thank you."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Sergio Ermotti"
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Okay. Thank you. So in respect of the capital distribution plan or capital return plans, as you pointed out, you're going to have to be patient. For the time being, I just can't reiterate that we are still looking to have a progressive cash dividend policy that will be implemented. And for the rest, what you need to see is the visibility with the plan. So we are finalizing the three-year plan, and that will allow us to really calibrate capital returns."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "I just want to reiterate that I still believe at this stage, although the plan is not finished, that capital returns and share buybacks is not a matter of years. In my point of view, it could be a matter of quarters, but without having the final plan, it's difficult to really make a final statement. But that will be addressed in February."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "And somehow, it's linked to your second question, because of course, I'm not so sure. I would define the progress we've made so far as low-hanging fruits. But I think that it takes effort and time to go through this. I do believe that we still have costs that can be taken out during 2024, regardless of what you are pointing out being the critical issue, is the legal entity merger."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "The legal entity merger is the triggering point that allow us to go to the next level of cost reduction and synergy realizations from an operational standpoint of view, but also from an IT standpoint of view. So 2024, as Todd mentioned, and I also remarked, is a pivotal year. It's probably the one time in which we're going to incur the most cost in order to achieve the synergies that we'll achieve in 2025 and 2026."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So, you see how the two questions are somehow linked."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Andrew Coombs from Citi. Please go ahead."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Good morning. Two questions from me, please. Firstly, on the GWM net interest income trajectory, thank you for the commentary in your pre-prepared remarks. I think you said, after a 3% decline in Q3, you expected mid-single digit percentage decline in Q4, and that was an ongoing deposit mix shift. So that seems to be accelerating rather than decelerating. So can you give us any indication of how much longer you think that trend could continue for?"
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Do you think now that we're at peak rates. If anything that should slow as we go into 2024? And also, if there's any implications from your broader deposit pricing that's also influencing that sequential NII decline? That's the first question."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Second question, there's been quite a lot of media commentary over the past week ahead of the “Too Big to Fail” review coming out in spring next year. I think there's been some explicit discussion around potentially introducing more exit fees or more notice periods around deposits. Is there anything you could say with regards to that? And also, what that means for your competitive positioning versus international peers? Thank you."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Todd Tuckner"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yeah, thanks. Thanks, Andrew. On the first, in terms of GWM NII trajectory, I think you captured it right in terms of guidance around the mid-single digit decline owing to deposit mix shifts and whether that seems like an acceleration. I'd comment that I think what we're seeing is a bit of a broadening of that dynamic more across the globe. We saw in most of 2023 that dynamic being very significantly driven by moves from sweep deposits into higher-yielding deposits in the U.S., and we saw less of that in Europe in APAC, as well as in Switzerland."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And so while we're seeing the U.S. taper now, both in the current quarter and as we look ahead, we're seeing a bit of an expansion of that dynamic in other parts of the globe, and that's what's sort of driving that. As I look out into 2024, we're doing that work now. We'll come back with a view during February with a view on full year 2024."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "I would just conclude on the point saying, no, I don't see pricing having an impact. I mean, this is just a response to the current rate environment as clients are undergoing cash sorting across our client base."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Sergio Ermotti"
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So in respect of what you mentioned, changes in the law and/or regulations around liquidity, I think I can only say that it's pretty difficult to track all the rumors, speculations, and ideas that are coming up almost daily on the Swiss media. I think that I can only tell you that at this stage what stands is that even the finance minister took an official stance on the matter."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "I mean, those are speculations. I don't believe this is going to be part of the package. I think that I'm convinced that Switzerland will keep its standards in terms of allowing the – responding to the crisis in March, not only the one in Switzerland, but broadly speaking with a following recommendation that will be set by the FSB and other bodies. And in that sense, I don't see us being particularly disadvantaged compared to any other jurisdictions in terms of liquidity ordinance."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So I guess we will follow-up, and I think it's going to still take months and months before the full analysis of what happened will translate into concrete actions."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Adam Terelak from Mediobanca. Please go ahead."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Good morning. Thank you for the questions. I had one big picture question on revenues and then a follow-up on the operational risk RWA."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Big picture, your revenues at the minute are annualizing to low $40 billion or so. Clearly your target has a number which is probably $50 billion plus. So, I just want to understand how you see the revenue bridge from here through to 2027 and what the key moving parts should be, particularly in the context of some of your GWM trends, which at the minute seem to be down before we go back up."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "And then secondly, on operational risk, I just want to understand some of the assumptions that are going into your Basel IV guidance there. Clearly, there's some uncertainty around ILM. There's a bit of uncertainty about what losses to use in that standardized calculation. So what losses from the Credit Suisse business are you having to carry forward and how does that impact your operational risk RWA?"
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "And then finally, can I just clarify on the Basel III AT 1 finalization guidance, that 5% ex any moves in operational risk? Thank you."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Sergio Ermotti"
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Thank you, Adam. So in terms of revenues, I'm not so sure we ever indicated that we have a $50 billion plus revenue. I don't know where this figure is coming from. What I remember saying back in August is that our targets, our ambitions for 2026 are not based on blue sky scenarios on revenues. So if anything, I guided to the contrary of that."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So we are definitely focused on costs and we are definitely also focusing on the denominator. So we need to basically focus on managing and utilizing in a better way the resources and the risk weighted assets that we have right now."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "I have to go back to the critical point. The mission number one we have had in the last six months and in the foreseeable future is to restructure Credit Suisse, okay. And then we're going to talk about synergies and then we're going to talk about growth. But before we talk about growth of the top line, we need to restructure and reset the basis. And in that sense, believe me, we are not counting on blue sky scenarios and that figure is not really our figures."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Can I ask for a better landing point then?"
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Sergio Ermotti"
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Well, the landing point you will see in February."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Thank you."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Todd Tuckner"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Adam, on your second question in terms of op-risk RWA and modeling, as I mentioned, we did an initial impact assessment. It was quite dynamic. We've had only initial discussions with our regulator at this point in time, naturally ahead of the formal introduction of Basel III final for op-risk RWA. There will be much more extensive interactions with the regulator to agree on the particulars around the ILM."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "As you say, we made certain modeled assumptions for now, as well as the loss history. We made certain assumptions about the loss history and the roll off of certain legacy matters. So, it was a thoughtful analysis, a good initial view, but it's going to be one that requires more work and more engagement with our regulator over the coming months."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "On the 5%, actually no, it's not ex-op-risk, it's inclusive. But given that op-risk, we're saying, as I said in my remarks, we see that as broadly unchanged for now. The maths are the same either way."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from Flora Bocahut from Jefferies. Please go ahead."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Yes, good morning. I'd like to talk about the net new money, especially at CS this quarter, because if I look at extrapolating the quarterly changes in net new money at CS that we've seen over the past two quarters, it seems to point to a run rate where you gain $20 billion $30 billion of net new money per quarter. But then if I try and reconcile just the month of September from what you had disclosed with Q2, it looks like there's been a slowdown actually in net new money at CS with just $2 billion in wealth this month."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "So what should I consider as a more normalized level from here? Is it going to be still the pace we saw over a quarterly basis or there is a slowdown because the environment is tougher? You probably have visibility there with what happened on October."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "And the second question is actually following up on this. I know you are going to provide us with the strategic update at the full year, but any hints as to what kind of assumptions you've made in your RoCET1 target towards 26 regarding the AUM level, especially considering the fact that the market effect is turning further more negative now? Thank you."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Todd Tuckner"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Hey, Flora. Thanks for the question. So on the net new money for Credit Suisse Wealth, I appreciate you're doing a fair bit of the extrapolation math, but a long time in this business tells me that extrapolating net new money trends is probably not necessarily the way to go, certainly not from a month or so."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "The point we've made is that we've stabilized the business. We're seeing inflows after massive outflows. And that for us, as Sergio highlighted, was really objective. Number one was to stabilize the business and that we've achieved."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Look, going forward in any case, we're going to be reporting these metrics on a combined basis. We're just giving an indication, because we talked about that in the second quarter. We gave an indication even up to the late publication date towards the end of August. So Sergio and I wanted to follow through on that and offer that perspective. But the expectation going forward in any case is that wealth management, which is how we manage the business, will be providing a combined net new money plus dividend and interest figure going forward."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And in terms of the ROCT1 assumptions, in terms of AUM levels, we're doing that work now. Naturally, when we develop the landing zone targets that we articulated in the second quarter, we had a view on growth. But now we're validating that in our business planning process. And we'll come back and offer specificity around that in February."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Flora Bocahut"
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Jeremy Sigee from BNP. Please go ahead."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP",
+    "text": "Jeremy Sigee"
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP",
+    "text": "Good morning. Thank you. I'd like to ask two questions about non-core, if I could. The first one on the RWA outlook, you had a great start already reducing that balance down quite effectively. The runoff you show in the slide is effectively the natural runoff with no action, but clearly you are taking action. So is it reasonable for us to expect that rather than being down 50%, it could be down 75% or 100% within that sort of three-year time frame? It seems that you're on a more aggressive trajectory than that passive runoff that you are showing in the slide."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP",
+    "text": "And then the second question is also about non-core, about the P&L. So you're annualizing in this quarter around $1 billion positive revenues and $5 billion of costs. I just wonder, is that a representative starting point for us to sort of model non-core going forward? And linked to that, how much could that change in 2024? Could we see – will we still see positive revenues in 2024 in non-core? And how much could we expect the costs to reduce in 2024 in non-core?"
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Sergio Ermotti"
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "I think that – Todd, let me start with taking the one on – we are giving as I mentioned last time, we just give you a flavor for the natural decay in order for you to understand that what would be the leftover in case we do nothing. And as you pointed out, we have been pretty active."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Having said that, I don't think it's reasonable to assume that we're going to take down 100% or 75% to 100% per se, because it all depends on at what terms we will do it. The very critical topic here is that we have to do it in a that creates value and not just headlines. So, we can get rid of probably many of those positions, but destroying a lot of value. And this will be in conflict with capital accretion and the ability for us to return capital to shareholders."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So, I think that it's very clear what is the framework we are using. And I think objecting number one around non-core is not necessarily just to accelerate the wind down of assets, but it's to take down cost. That's the much more critical element of freeing up capacity and resources."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Todd Tuckner"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And Jeremy, on the P&L question, for sure, on the revenue side I would not annualize the current quarter's revenues. The revenues are a function of the market through which we would exit these positions. It depends on the nature of the positions we're talking about. It depends on market conditions will be opportunistic, and everything Sergio just said that actually informs the dynamic about the speed, the timing, the intensity of when we get out of positions is of course what governs in that respect. So, I would put no sort of target or certain extrapolation, certainly no extrapolation to the current quarter's revenues in NCL as saying, well, that's a run rate."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "On the cost side, I would argue that's different because there you're looking at on the underlying OpEx. You're looking at this point, the run rate costs to support the rundown of the business. So, as that business runs down, you would expect that the costs associated, the underlying OpEx supporting the portfolio will also run down."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Now, that may not be linear and I wouldn't expect it to be linear, but it ought to be in some way, shape or form correlated with the size of the balance sheet as it starts to diminish over time."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP",
+    "text": "Jeremy Sigee"
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Andrew Lim from Société Générale. Please go ahead."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Société Générale",
+    "text": "Hi, morning. Thanks for taking my questions. So, just turning to tax, obviously we saw some nice RWA reduction, but it was negated by the high tax charge. But at the same time, you're talking about mergers of the divisional structure to enable you to reduce the effective tax rate. I was wondering if you could give us more specificity on when we can expect that to happen and would that be a gradual process for the reduction in the tax, effective tax rate, or would that be actually a step down, change there?"
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Société Générale",
+    "text": "And then my second question is, you've done a good job on costs. Well done there. The exit run rates for the end of the year, I was wondering if you could update us on that."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Todd Tuckner"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Thanks, Andrew. So, on the tax question, in terms of timing, as I mentioned in my remarks, certainly the elevated tax rate is a function of the fact that the expenses that are weighing on our pre-tax at the moment, in particular, the integration-related expenses are being incurred in jurisdictions where we're not able to offset, even within the jurisdictions, necessarily offset profits and losses in different entities, just given where they fall out."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So, there could be expenses or losses in one entity that's not tax group with an entity that is generating taxable profits, and that's indeed what's happening really across the globe, because the Credit Suisse entities, in particular, as you'll appreciate, under Credit Suisse AG, which is not yet merged with UBS AG, those are separate chains of entities. So, therefore, anything happening on the CS AG side that you would otherwise ideally shelter with profits of the UBS side isn't happening until we start the mergers."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Now, once we do that, your question was, is it a step or it's gradual? We'll see both. I mean, certainly, we'll see some immediate benefits by bringing together certain entities. Others are going to be harder work and harder planning to unlock some additional tax value and get the rate to a lower level. So, you'll see, once the mergers take place over the course of ‘24, you'll see some step down, but you'll also as I said, gradually see the rate come back in."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "In terms of the update for year-end, we did say that as of the third quarter, we see the run rate saves in excess of $3 billion and expect to make further progress. We're undertaking actions at present. We haven't quantified that, but you can expect that there will be further progress in the fourth quarter before we exit 2023."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Société Générale",
+    "text": "That's great. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Amit Goel from Barclays. Please go ahead."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Hi, thank you. Two questions for me. So, the first is, I mean, so clearly the legal entity mergers are pretty important in terms of the kind of the cost and the tax and so forth. So do you mind just reminding us exactly the main pieces in terms of the timing? So, would you be expecting some of that to happen within the first half of the year or is that kind of second half? And just things that we can monitor to check the progress there."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "And then secondly, just in terms of the revenue picture, just into Q4, obviously there's the commentary on the transactional income and NII. Just thinking, are you thinking the underlying revenues Q4, X NCL are likely to be in line with what we've seen in Q3 or slightly better or due to seasonality slightly worse? Thank you."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Todd Tuckner"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Thanks for the questions, Amit. So, on the legal entities in terms of the main pieces and the timing, obviously the big groups to address are the parent banks that will take place, the two Swiss banks and then the U.S. IHCs and the subsidiaries below. I mean I'd say those are, and in the UK as well. And those are going to be the biggest chunks of course across the globe."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "There's also a lot of undertaking in Europe and in Asia, but the big, I highlighted the big pieces because that's what you were looking for. We are working hard on developing plans for all of those. I think it's fair to say over the course of 2024, I won't at this stage speculate on exact timing, but we'll provide more updates as we go and as we enter the year and as we go through the year, we'll give you more specificity around timelines."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "In terms of the revenue picture in the fourth quarter, I mean as you mentioned, repeating back that I offered some NII guidance for our core businesses in terms of underlying NII. We do see the potential for transactional activities. I mean, the market for transactional activities is a bit clouded at the moment."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "We are seeing some risk off, even though earlier this month, certainly some of the less hawkish sentiment, coupled with further rate hike pauses and seeing bonds and equities rally more recently, that would suggest perhaps more risk on, but I think that's all counterbalanced as well in our clients' minds also about what's happening in the Middle East."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And so we do see the potential for TRX in our asset gathering businesses as well as transactional activity in our IB to potentially be affected by that. And as you mentioned, seasonality will for sure in any event be a factor."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So I'd say the revenue picture is a bit clouded, but I at this point wouldn't necessarily expect it to increase quarter-on-quarter significantly at this stage."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Got it. Thanks. And just on the legal entity piece, so just, sorry from my understanding, it's like getting the legal work done and getting the regulators to kind of sign off and just in terms of the main things that obviously have to get done to do the mergers. Is that right?"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Todd Tuckner"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yeah, that's correct. There is a lot of planning to be done. The planning manuals are incredibly extensive. And of course, it needs to be approved by the regulators. And when you think about the parent bank and how many jurisdictions they operate in, you're talking about regulators across the world. So these are not simple transactions by any stretch of the imagination."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Benjamin Goy from Deutsche Bank. Please go ahead."
+  },
+  {
+    "person": "Benjamin Goy",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Hi, good morning. Two questions, please. The first, if you could maybe speak about the profitability of the recovery of funds and assets of Credit Suisse and how it's going, the discussion with clients there. And the second is, it looks like in particular non-core significantly outperformed your expectations, you said in Q2 in the third quarter. So just wondering what does it mean for the budget? So to say you have to accelerate a rundown in Q4 and beyond. Thank you."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Sergio Ermotti"
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Yeah. I mean, in terms of the non-core, I don't think that extrapolating a quarter is meaningful. I do, as Todd mentioned before, we need to look at. In some cases, we were able to dispose that assets above marks in order that we will need to make an assessment about what we think is the value of those positions. But I would pay attention to – not to use the third quarter numbers and extrapolate and call it is better than what we expected, because we didn't really give any guidance on that."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So I mean, I think that we are confident that the quality, broadly speaking, of the assets is there. They are non-core assets per se. The vast majority is not problematic and therefore I'm not overly concerned about the revenue or the cost to exit. As I mentioned before, it's more of a matter of addressing the cost to sustain those assets than it is about managing out the asset themselves."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "In terms of recovery of the funds, we see the win-back strategy still in place. We have been – it's very focused. Probably what I can offer as a comment is, as time goes by, we saw it already in the second quarter of the year after the announcement of the transaction and definitely has been confirmed in the third quarter."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Basically, the third quarter is a year after you started to see departure of assets and client advisor from Credit Suisse. Despite the massive outflows that you saw, the amount of assets that were able to be moved by the people that were serving those assets has been within what we expected."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "On average, no more than 20%. So the first big issue is to say that we have been able to keep the vast majority of the assets. So it's very difficult for people that move out to be able to bring the assets with them."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So if you look at the numbers, it’s quiet – I can give you maybe a bit of anecdotal evidence. Credit Suisse in the last 12 months lost around 500 client advisors. They moved so far $20 billion of assets. Let's say that we're going to lose further assets, because some of those people just left more recently and we're going to see some outflows later on. But we are totally convinced that it's not going to be a multiple of that $20 billion, the future outflows, so. And we are working hard to recapture some of it."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "I think that our strategy now is more focused on regaining the clients that left because of fears of the instability of the system. In that sense, we maintain our ambitions. As we say, most likely we're going to formulate these ambitions as Todd mentioned as a combined wealth management business going forward. Because it's not really an issue any longer Credit Suisse versus UBS. It's one team. We are working on maximizing the outcome. And so we're going to just outline our many money growth ambitions in our three-year plan in a way that reflects win-backs and organic growth."
+  },
+  {
+    "person": "Benjamin Goy",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Good color. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Christopher Hallam from Goldman Sachs. Please go ahead."
+  },
+  {
+    "person": "Christopher Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Yeah. Good morning, everyone. Just two for me. So on profitability, clearly better than expected in the quarter. Previously, you'd guided for positive underlying PBT and H2 and breakeven in the third quarter. So given the third quarter is already quite positive, does that change how we should think about Q4? I guess the old guidance implied a sequential improvement in the fourth quarter in terms of PBT. So just wondering whether that's still the right way to think about that."
+  },
+  {
+    "person": "Christopher Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "And then second, and I appreciate it's a bit of a follow-up to some of the earlier questions on CS net new money. You've given the regional disclosure on a combined basis, but I just wanted to check whether the combined regional picture, sort of Asia strong, EMEA strong, Switzerland more balanced, is that consistent across both the CS and UBS wealth franchises?"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Todd Tuckner"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Thanks Christopher. Yeah, on the second question, it is consistent. Obviously, ex the U.S., given CS doesn't have a wealth presence there, but across it is. I would say the APAC and EMEA proportionality holds, obviously, on the smaller base that we were talking about in terms of the net inflows this quarter compared to the UBS side. But yes, that dynamic does hold."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "In terms of profitability in the fourth quarter, I would say that we certainly accelerated a bit of what we were forecasting back in August in terms of 3Q, 4Q, where we said roughly breakeven in 3Q and further progress in 4Q. I think we've seen the progress that we've been able to accelerate, so really undertaking and executing integration and pace, and you see the results of that."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "I'd say 4Q, in a way, standing alone relative to how we saw it back in August is still around the same. So I would look, meaning I would say we expect 4Q to come in better than break even, which is what we said was the case back in August. And I would say balancing the execution on the cost side, but also considering some of how we're guiding on the revenue side, I think that number, you have an idea of where we at this stage expect that number to come in."
+  },
+  {
+    "person": "Christopher Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Thanks, Todd. Very helpful."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Sergio Ermotti"
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Okay, I think this was the last question. Let me thank you for dialing in and by just quickly reiterating, as you can see, we are in full execution mode, but also at the same time we are planning for the future and the next milestones other than the operational one I just – we just described is to prepare the three-year plan that we will present in February."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "In the meantime, we are very focused really on, as I said, on execution, and I'm totally convinced that we are in a good place. And of course, in our missions to really create something that will not only be a huge restructuring story, but also something that set the base for future growth and ambitions that we have."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "We look forward to present you the three-year plan in February, and I'm sure in the meantime, we're going to be in touch either directly or through my colleagues for the follow-ups of this goal."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Thank you for calling in and enjoy the rest of the day. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Ladies and gentlemen, the webcast and Q&A session for analysts and investors is over. You may disconnect your lines. We will now take a short break and continue with a media Q&A session at 10:45 CET."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

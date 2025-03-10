@@ -1,0 +1,614 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] Your first question comes from the line of Joe Dickerson, Jefferies. Please go ahead. You’re live in the call."
+  },
+  {
+    "person": "Joe Dickerson",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Hi, thank you for taking my question. I have – is there a way to dimension the downside on impairments to take kind of the severe scenario; and then add a remaining kind of quarterly run rate, call it a couple GBP100 million to a couple GBP150 million a quarter, over three quarters, and think about that as kind of the downside of a range, assuming that we don't have – assuming some sort of recovery in the back end of the year. That's the first question."
+  },
+  {
+    "person": "Joe Dickerson",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then secondly, on the call it roughly GBP2 billion credit allowance on other retail, can you give us some color on how much of that is allocated towards the card book versus other portfolios? Thanks."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you, Joe. I'll take your questions in turn. Maybe just to start off and to give you some context on the IFRS 9 charge that we've taken: The IFRS 9 charge is, by design, a forward-looking charge. The charge of GBP1.43 billion that we've taken this quarter is predicated upon three inputs. One is the underlying charge, which as you know is GBP368 million. Second is for restructuring cases that have been blown somewhat off course by coronavirus-related difficulties, which is GBP218 million. And then the third is the modeled forward- looking charge, which is GBP844 million. So the total charge is a combination of those three and the last of which is forward looking."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "By definition and by design, as I said earlier on, it's a front-loaded charge, so as we look forward, there are two factors that we need to pay attention to. One is whether the economics change and whether our base case changes with it. And clearly, if it does, then you will see that forward-looking charge be modified accordingly. And the second is the absence of perfect foresight. When we look forward, we don't have perfect foresight about what will happen to our restructuring cases, for example; about what will happen to our Stage 1 cases, for example, including the payment holidays; and about the success or otherwise of government schemes that we see."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So as we look forward to Q2, Q3 and Q4, I'm not going to give you a precise number, but I will say that the IFRS 9 charge again is, by design, front loaded. I would not suggest that you annualize that charge. And then as we look forward to Q2, Q3 and Q4, we'll have to take both the economic factors and the absence of perfect foresight points I mentioned just now into account."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On your second question, as to unsecured. The charge today – perhaps this is the better way of addressing your question. The chart today has, as you know, a component that is related to Retail which is close to GBP900 million and a component that is related to Commercial Banking which is about GBP550 million. If you look at that spread in the commercial – in the, sorry, Retail charge today, much of that, probably 2/3/ to 3/4 of that, is around the unsecured book. And that's not surprisingly, because the unsecured booking is likely to be first hit by unemployment, whereas our secured business, as long as we see some sort of recovery in the context of 2021, should be proportionately less hit. So I hope this gives you a sense as to the elements of unsecured and secured in our overall Retail component, Joe."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Your next question comes from the line of Aman Rakkar, Barclays. Please go ahead, Aman. You’re live in the call."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good morning guys. Thanks for taking my questions. I have three please. First was on capital. 14.2% CET1 ratio, I says, I was just interested in how much IFRS 9 transitional relief you may have benefited from in Q1. And to that effect, are you able to disclose a kind of fully loaded, a proper fully loaded for IFRS 9 CET1 ratio? That will be the first one. Second, thanks for the disclosure on ECL coverage. Forgive me if I have looked on the wrong page, but I'm unable to find it. I was wondering. Have you told anywhere what your coverage is on Stage 2 loans? That would be really helpful."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And I guess the third is a kind of follow-on to the prior question about the ECL charge, just about how likely you think you are to take that additional GBP2.1 billion charge that you've laid out on Slide 9 if the severe – sort of the downside scenario were to manifest. I totally appreciate the comments regarding that you're not thinking about a V-shape recovery in 2021, but I guess when you do look at things like your assumption around unemployment, you could argue that it looks a little bit less conservative than perhaps what we've seen at some of the other banks. There was a bank that reported a base case which looks fairly similar to what your downside scenario is for unemployment, which would suggest that there's a pretty decent chance that perhaps we could get that charge in Q2. I mean, do you think that's a fair observation? I'd be interested on your thoughts on that."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Okay, thank you. Maybe I'll address your first point last because it's an important point. When we look at our economic – or rather, when you look at our economic assumptions and when we look at them, it's important to bear, to take into account both the assumptions in year 2020 but also the assumptions in year 2021 because both are very important drivers of the IFRS 9 impairment charge that we take. And if you compare them to the outside world – and I'm obviously not going to comment on other banks, but if you compare them the outside world, it is very important to take each of those two years into account, both the deterioration in 2020 and the pace of the recovery in 2021; and look at that on a net basis."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I'd also add that, if you look at our base case, all right, while we've a 5% down – GDP down year-on-year average in 2020, within the year, there are significantly worse outcomes. So if quarter 2 GDP, for example, is 7.4% down, HPI and unemployment similarly are down below the averages that are stated in the numbers that we have given you today. So look within the year, if you like, again for comparative purposes. Then I would also add to that the weightings. We have weightings in our MES, which are 30% for base case, 30% for downside case and 10% for severe downside case. And each of that downside case and severe downside case have some, frankly, pretty pessimistic assumptions built into them."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So severe for example, has 7.8% down year-on-year 2020 GDP and within that has 11% down within Q2. We're taking a waiting for that within our overall MES charge. So it's important when you look at our charge and when you look at the assumptions on which it is based that you take into account not just the base case projections, but also the downside and the severe downside because that's what's informing our charge. So they're a couple of points there which, hopefully, are helpful. And again, maybe just to finish off on that: Don't just look at GDP. Look at, look at HPI as well, and looking at unemployment as well. And again, build that into your comparison."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "To come back on one or two of your other points. The capital – the first of your question is capital. The IFRS 9 incremental benefit that we took in the first quarter was about three to five basis points or so. The IFRS 9 component of our overall CET1 element, it's not terribly much. It's about 20 basis points to 30 basis points, but as you know, it's diminished in 2020 down to 70%, and it's expected to diminish further in 2020 down to 70% and it’s expected to diminish further in 2021 down to 50%, in accordance with the regulatory guidance to phase out reliance on transitionals."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then finally, your third question, actually your second of your list, on Stage 2 coverage: The way in which we construct the MES modeling is we do it from a bottom-up basis at all times with an overlay approach. That overlay approach during the quarters does not change Stage 2. It does not change Stage 3. Rather, the progression – or deterioration, I should say, of loans into Stage 1 and Stage 2 and Stage 3 is assumed within our overall GBP1.43 billion impairment charge. So we don't, as a result, disclosed to you the Stage 2 and the Stage 3 numbers. It is assumed and built up. The deterioration of the asset is assumed and built up in our overall GBP1.3 billion charge."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Okay. Alright, thanks for that. Just one quick follow-up. So if you were to take the GBP2 billion top up in QC from the macroeconomic assumptions, would you expect significant transitional by first line transitional benefit with regards to capital on that GBP2 billion?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, I mean, again, I think, the first thing to say is, when you look at our assumptions within IFRS 9, please pay attention to the earlier points around the base case, the downside case, the severe case. Please pay attention to the fact that the IFRS 9 charges deliberately front loaded by design, so again, do not annualize it on an annual basis – on a quarterly basis, I should say. And so when you were reflecting on that point, I would just draw a bit of caution to the way in which you reflect upon it. As of Q2, if we see a deterioration in our economic base case and if we see any kind of impairment change to that the needless to say that will impact upon our ability to take advantage of transitional, but as I said, we're only very modestly relying upon them right now, and it will be phased out according to the plans currently applicable as a party phased out as of 2020 moving into 2021. So, I hope that answers your question."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Your next question comes from the line of Raul Sinha, JPMorgan. Please go ahead. You're live on the call."
+  },
+  {
+    "person": "Raul Sinha",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good morning, António. Good morning, William. Maybe if I can have a few questions maybe starting with on the guidance. Do appreciate there's a lot that's unknown in terms of the outlook. But I was wondering if you might be able to help us on the drivers for both the NII as you see it, and other income, as we head into the second quarter. And in particular, if you could draw upon within NII, is the sensitivity to interest rates going to increase as selling rates have sort of hit the lower bound? And so is there any change? Or could you update your sensitivity if there's any change in terms of what you've talked to us about previously?"
+  },
+  {
+    "person": "Raul Sinha",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then on the other income line, if you could address the impact of the high-cost credit review; as well as the sort of impact of the measures, the relief you are providing to you customers such as free overdrafts. How much of that is going to impact the other income in the second quarter? And perhaps a run rate. That would be really helpful."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you, Raul. There's lot of questions there, but I'll do my best to answer each of them. The first point on guidance. Our approach on guidance is that we can give you a picture as to how the business operates in a lockdown environment, but we can't give you a picture as to how long this crisis is going to last. And so we deliberately stepped away from giving you full year guidance, but we're happy to comment on how the business is operating in the current lockdown scenario, and hopefully that can allow you then to make a judgment as to how long you think the crisis is going to last, and plug-in whatever numbers you would like to from that basis. So just to get some context to your questions Raul, the NII point first of all."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "NII as you know, ended up in Q1 at 2.79%. That did not include much of an impact from all of the various coronavirus-related disruption that we've seen, including the base rate change that wasn't – it was in evidence, if you like, in the last couple of weeks in March. But obviously the weighting of that in the overall Q1 results was not significant. As we look forward, there's a couple of different things going on in NII. First of all, the rates change. We've moved down from 75 basis points to 10 basis points. In doing so, we've experienced liability-related floors. We will also reduce the ability for these structural hedge reinvestment to make as money. That in turn is sensitized in the annual report as you're aware. So, we see in the annual report parallel shift to 25 basis points costing us GBP150 million, parallel shift of a 100 basis points, costing us GBP700 million."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I would stress that that is not a linear relationship. And so by the time you get to a 65 basis point cut, you've already absorbed most of that hit. So that's one piece going on. Second piece going on is mixed change. You've got mixed change here whereby retail unsecured balances are lower. You've got mixed change here whereby the new mortgage market is largely closed. And as you know from the year end discussion, we were experiencing new mortgages coming on at more favorable prices relative to the old mortgages that they were replacing."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And I finally, we've got an exchange going on, which is around the commercial bank and the drawing down of RCF portfolios, which has diluted to margin. That's the second area. Third area interest-free overdraft. Interest-free overdrafts, as you know we are giving interest-free overdraft to the extent of GBP500 pounds to help tie people through this crisis, which is an important job that we can play or role that we can play to help this crisis be easier for many of our customers. So that's the third area."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then the fourth area is that we've also got natural progression of the book. I mean, we talked about that a bit at year end, the natural way in which the book churns over time. So there's a lot of things going on there, four points that I've made in relation to what's going on within the net interest income. To give you some sense: in a lockdown context, what does that mean for our Q2 two margin? It means around 30 basis to 40 basis points. Now, we're not going to give you an annualized margin off the back of that because again that would imply that we have a knowledge of how long this crisis is going to last. But we can tell you the end Q2 the impact on the margin is around 30 basis points to 40 basis points coming off that starting point of 2.79% that I mentioned earlier on. And it's a function of those four inputs that I just commented on."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "OOI. OOI, a couple of points to make. One is there is a core stability to OOI. And then the second is that there is some variability around the margins. So, if you look at it and OOI in Q1 first of all, if you took away the market volatility that we saw in particular in relation to LDC, the net OOI would have been about GDP 100 million higher, which is pretty much what we told you at the year-end results just a couple of months ago. Challenges that we see in OOI in Q2 and again these are lockdown comments, so this is what we may see in Q2 rather than necessarily what we will see for the full year. But the challenges that we see within OOI for Q2 are at the margins on top of that core stability. We're going to see less payments revenues within Retail, so net interchange fees. We're going to see car sales, so less Lex-related fees, which is comes in our other income line."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Moving down, Commercial Banking, we're going to see fewer transactions. So some of that market softness that, frankly we've been talking about for the while now unfortunately that's going to continue. We're also going to see less transaction mandates. Global transaction banking was one of our growth areas as a business. We're not going to see so much movement within Q2 as long as the lockdown persists."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And the third area of Insurance. Insurance has a few gives and takes in it, but just to give you some context: we're going to see an a very low interest rate environment. We're going to see less bulk activity than we had expected to see. Trustees not surprisingly are going to be reluctant to place bolts in what is a low reward environment for them. Workplace, another growth area of ours, we're going to see less transfers of schemes and therefore less opportunity. However, there are some areas in insurance that are core products so they don't go away. Home insurance is a good example and by the way, we are seeing and hope to see further mitigation of some of the claims experience within that area."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Protection is another example. Again, these are products that don't change. People need them, and most of them are accessible even in a lockdown environment. So in other income, the way I would look at it is to say there is a core stability to it, but we are going to enjoy – we're going to enjoy is the wrong word, obviously, but we're going to experience and high degree of pressure in the margins beyond that. So we’re going to see less growth than we might have hoped within ROI. We may see some pressure at the margin around it, but it shouldn't be particularly significant versus where we start today. So again, these are lockdown comments and they're not comments that that persist once a lockdown is lifted."
+  },
+  {
+    "person": "Raul Sinha",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Sorry. Go ahead."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Well, I was just going to move to your impact of HCC, high cost of credit question, Rahul, as the final point that you raised. I'm not going to comment too explicitly on that. What I will say is that overdrafts roughly speaking of down 15% by quantum, but I would also add to that that the chargeable balance by virtue of that GBP500 interest-free component chargeable balance overdraft is down about 50%, 50. So, you can say that chargeable balance, again in lockdown period for the three month duration of those things last has a significant impact, which is coming back to the guidance I gave earlier on or the NII sensitivity rather than I gave earlier on gives you an idea as to where we get to where we do."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Your next question comes from the line of Andrew Coombs, Citi. Please go ahead. You're live in the call."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes. Good morning. Perhaps a couple of follow-ups. Firstly, just coming back to the previous question on NII obviously some of the four points you made in terms of the hedge rollover and the rate sensitivity and the mix effect, the interest-free overdrafts and then the churn on the book. Some of it is obviously very temporary in nature during a lockdown. Other parts are you can extrapolate to a greater extent. So perhaps, you could just provide us with some idea of how much overdraft income that was contributing to the NII previously. I would thought it was in low single digits, but that would be a helpful start. Secondly, on the OOI there’s this GBP600 million charge that you’ve also drawn out on LDC from a private equity mark. Can you just give us a feel there for the size of that portfolio and any additional risk that you see there? And then finally, on the economic measures, I think you’ve alluded to this already, but I just wanted to clarify. Obviously, majority of the charge you’ve taken thus far has been on cards and commercial. When you do look at the difference between your probability weighted annual severe, that GBP1.8 billion increase, GBP1 billion of that is on mortgages. And I think you alluded to it earlier, but I’m assuming that’s because of your 2021 assumptions in a severe downside, more so than your 2020 assumption. Is that fair?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, thanks, Andrew. I’ll take each of those in turn. The first one, I’m not going to disclose much more than what I’ve already said. The only point that may be useful to you as you think about this is to give you one indication within that overall sensitivity on NII. And as I said before, it is subject to many uncertainties. I hope I gave you that impression earlier in my comments, but subject to those uncertainties, the rates component is probably around half of that overall 30 to 40 basis points that I mentioned earlier on. And then the incremental points that I mentioned, mix change, interest-free overdraft, natural progression of the book, that’s kind of the other half, if you like."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, that’s on that point. On the LDC point, LDC experienced, as I said in my script, around GBP100 million charge that came in through the other income line. I would also add that there is a further cushion for LDC within the PVA charge that we have taken. And so we have undergone a revaluation of the assets that LDC has, and that entered into the other income line. We also have a further cushion within the PVA charge, which takes it to the 90th percentile of certainty, as you know; and that provides a further capital cushion, if you like, against further potential adverse experience in that area."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "The point on LDC that you ask is around the size of the portfolio and the risk. Size of the portfolio, it varies, obviously, but it’s typically between GBP1.5 billion to GBP2 billion. The point I would like to stress with the LDC is that clearly the decline in equity values presented some challenges. The lockdown environment may present some challenges to some businesses, but we hope we’ve embodied that in the GBP100 million charge that we’ve taken because, again, we did it on a look-forward basis. But equally, LDC is presented with many opportunities in this environment. It is an environment which we would help – which we would hope the LDC is able to take advantage of going forward, and we have no doubt that they will."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Finally, your question on the charge and the probability weighing of severe and why does it gravitate towards secured. Your observation is exactly right. When you move from the base case to severe case, what you’re looking at is a continued negative GDP environment and indeed HPI environment in the course of 2021. If that happens, and obviously we very much hope it won’t, then what it does is it pulls down asset charges. And as asset values come down, so the ability to restore asset values in the context of secured assets gets worse. Again, we are on a average LTV within the portfolio of 44%, so we have a very considerable cushion before we have to worry about that, but as in line with every other mortgage provider, it does get impacted if HPI comes down. And in our adverse case – or our severe case, I should say, you do get a longer and more protracted downside, which in turn drives asset values down through the HPI change."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And Andrew, just to complement what William just said. So, we have 90% of our mortgage portfolio with an LTV lower than 80%. And this is the outcome of many years, as you know, of having underplayed on the mortgage market, because we were concerned about – especially in London and South East, about high-value properties. And that’s why we have 90% still with LTV below 80%."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On the downside scenario, we are assuming over the two years a 20% decrease on house prices. So as William was saying, you will have an impact on the margin. And those properties, if repossessed, would increase the losses that we will have to incur. So you’re absolutely right on your point."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Next question comes from Jonathan Pierce, Numis. Please go ahead. you’re live in the call."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Hello. I got two questions, please. The first, sorry to come back on this transitional relief points. The Pillar 3 shows that your IFRS 9 add-back, went south by only about GBP71 million in the quarter now. I guess it would have fallen GBP100 million, all else equal, but in the context of what looks to be about an GBP800 million, GBP850 million Stage 1, 2 charge, it does suggest that you had very little transitional relief in the first quarter on the EL build. So just to confirm that’s right. And again to come back to what would happen if there were to be further Stage 1, 2 builds in the second quarter and beyond. Have we rebuilt the IFRS stock now to a level where any additional Stage 1 and 2 would get the full 17% relief? So that would be question one. Question two is on car finance. I mean 85,000 holidays strikes me as quite a lot given these were only launched a few weeks ago. And I don’t know what the average balance is, but the securitization data suggests maybe in the order of GBP27,000 per customer, which would suggest maybe over GBP2 billion in the car finance book is already under some form of payment holiday. Is that correct? And if not, could you give us a number by balance, please?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thanks, Jonathan. Maybe, I’ll take the last and then the second of your two questions, first. On the motor finance book, it’s an important business to us. And it’s one that we have targeted effectively over the last few years in a cautious and prudent way, but nonetheless it’s an important business to us. In terms of the numbers that you mentioned, the motor business that have taken payment holidays, by a number of customers, I’m not going to give you balances, but I’ll give you a number of customers, is about 8%."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, it’s considerably lower than the type of number that you were talking about. And hopefully, that gives you some basis for figuring out the answer to your question. In terms of risks there, a couple of points I would make. I mean one is it is a secured asset. Two is that the pricing assumptions for the motor business have been and continue to be very much through-the-cycle and risk-adjusted pricing assumptions that we’re making. And then third is, before we came into this situation and certainly again in the GBP1.43 billion charge that we have taken, we have increased the provisioning level within the residual value component of the motor business that we have."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, we had some coming in. It is also a component of our forward-looking model charge, and that, hopefully, gives us a further cushion to work with on the motor book. So we feel comfortable with where we are on that. On the IFRS 9 charge – sorry, IFRS 9 transitionals. As you know, it’s complex and something which deserves a more detailed conversation in due course, but to give you some idea: If we take out IFRS 9 relief in – and it’s disclosed, I think, in the Pillar 3 document, then we’re looking at a CET1 ratio of about 13.9%. That’s about 30 basis points lower than the 14.2% that I just mentioned earlier on, which is consistent with my earlier number."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Hopefully, that gives you an idea. And then as we look forward into the context of 2020, the change to provisioning that we may take if we have cause or recourse to change Stage 1 and Stage 2 should come into the transitional relief, but we’ll see how that progresses at that time."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question comes from the line of Martin Leitgeb, Goldman Sachs. Please go ahead. you’re live in the call."
+  },
+  {
+    "person": "Martin Leitgeb",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good morning. I just wanted to touch on the payment holidays. And it seems like one of the industry bodies is suggesting that as many as one out of nine mortgages has been impacted by those payment holidays, and I was just wondering if you could shed a bit of color. Are you surprised by the quantum of take-up? And what is the expectation from here in terms of how many of those clients might potentially struggle going forward with their mortgage payment? And the second question is just related to the government guarantee schemes, so the various government loan guarantee schemes, but I was just wondering if you could give us a sense on what portion of the loan book going forward might potentially be covered by those schemes. Looking at the volumes we have, so far, it seems like that a comparatively small proportion of them might be covered, so I just wanted to check whether that is right. And related to that, how much an impact, though, can those schemes have in terms of the NPL side? I was just wondering, looking at your severe downside scenario with the GBP7 billion expected credit loss. That seems, compared to Bank of England stress test losses, comparatively mild. Is the reason for that those guarantee schemes? Thank you."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. Thank you, Martin. I’m going to take your first question, and William will take the second and third. Look, just to start by saying we are very comfortable with our mortgage portfolio as a whole. As I just mentioned in a previous question, we have an average loan-to-value of 44% and we have 90% of the portfolio with an LTV of less than 80%, which results from our prudent stance in the last several years in terms of participation in the mortgage market and the different segments."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, this is the first point I wanted to raise. The second point I wanted to raise is, if you think about the customers on the Retail side as customers, which is the way we look at them, and not as customers per product, you will realize that mortgages is no doubt the best product on average. I mean each case is obviously a case, but on average, mortgage will be the best product to help customers go through shorter-term financial needs. Why is that so? Because as I just said, we have an LTV of 45% on average. That means that our customers have more than GBP300 billion of wealth on their homes unencumbered."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, if they have a short-term financial need either be in credit cards or a personal loan or the mortgage itself, the best way and in our advice to them is mortgage is on average, I repeat, the best product for them to consider in terms of addressing shorter-term financial needs. Third point, we have on our portfolio of the 880,000 payment, repayment holidays that I mentioned to you."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On the mortgage side, the percentage of our book in terms of customers, as William was saying, in relation to motor finance is 17% of the customers. So, 17% of the customers have asked us to do this. We think this is, as I said, the right products to help them with the most secured as well for the bank in terms of facing potential shorter-term financial needs."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Martin, on your second and third questions as to the potential emergence or evolution of payment holidays. It’s just too early to say really with any conviction as to how this fares. What I would say is reiterate some of António’s comments there. The stance that we’re taking is to facilitate customers through what we see as a temporary income interruption, that clearly some customers who have asked for payment holidays are those that are affected or those that are worried, but also many customers are doing so out of precautionary concern. And likewise, some of the government policies that are being adopted, in turn, will help address any payment holidays issues that may occur in the context of mortgages. So there’s a number of offsetting factors. It’s also fair to say that the income split and the vintage split of payment holidays within mortgages shows no particular bias or skew. And so we feel pretty comfortable about that, combined with the fact that the LTV of those payments holidays is 50%."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So as we look forward, it’s clearly early days, Martin. And everything is going to depend on the severity and the duration of this situation, but the mortgage payment holidays are an area where we feel comfortable doing what we’re doing, and we believe that it’s the right thing to do. Your final question was around stress tests. There are – I think it’s important to note there are some quite big differences between the ACS stress tests in the Bank of England and what we’re experiencing right now. And just to draw a couple of those out: First of all, the Bank of England stress test was a high-rate stress test, and that has very different consequences for much of the customer base and the borrowing that we have in our portfolio. This is clearly a low-rate stress, and as a result, again we expect to see different asset price performance off the back of it. Two, the government activity is now very significant. We’ve just been talking about one aspect of it, but that really should lower the consequences for unemployment, lower the consequences of corporate defaults and accelerate the recovery that we would hope to see in 2021. And that’s the third point, that the longevity of this stress, we hope, will be shorter. And as you can see in our cases, it is shorter versus the Bank of England stress which is a multiyear stress that are in the assumptions."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then finally, conduct. Conduct in the ACS was a big part of the stress. That in turn, you can know where we are on PPI, we hope, is substantially at least behind us. And so that is another difference between this stress test – sorry, between the ACS stress test and the stress that we’re experiencing right now. And the final point I would make is that the Bank of England stress test is predicated upon perfect foresight. We don’t have perfect foresight. And so there’s a methodological difference and difference in approach that is there, but I think the substantive differences between the Bank of England stress tests versus what we’re going through right now are really very considerable and worth taking account of."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Next question comes from Claire Kane, Credit Suisse. Please go ahead. you’re live in the call."
+  },
+  {
+    "person": "Claire Kane",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good morning. And two questions please. The first, on the NIM guidance you’ve given on the call. Of the 30 to 40 basis points impact, which suggests a low point in Q2 of about 240 to 250 basis points for NIM, the 15 to 20 basis points from rates, do you see that improving as you reprice deposits later in the year so that, that should ease up? And then regarding the other 15 to 20 basis points, can we also see that – the majority of that ease up if you do then start to charge customers on overdrafts, providing that doesn’t get extended by the government? That’s the first question, please. Then the second question, just to follow up on the ECL around credit cards. Of the GBP889 million Retail charge you took, and GBP729 million for other retail, could you split out the GBP729 million please, for credit cards and explain to us really the overall driver you think credit cards will be for the ongoing outlook for ECL charge going forwards, please? And can you just clarify that all your payment holiday customers are still in Stage 1?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, yes. Thanks, Claire. Just dealing with each of those questions. First of all, on the net interest income, the 30 to 40 basis points I mentioned earlier on, whether or not that the component of it that is relating to the rate pressure is alleviated by repricing of deposits later on in the year. It may be is the answer. I think it’s just too early to call exactly how that will come out. There are two factors that I think would be important there. One is the competitive environment. And does that evolve? Number one. And number two, you’ve seen our loan-to-deposit ratios today, and they’ve come down. And so we feel very comfortable from a loan-to-deposit funding perspective, which in turn gives us the ability just to think carefully about how we might price the liability side of the balance sheet going forward. As we do that, it may create opportunities. We’ll see, but I think we’ll just have to see how the market evolves. The second part, how will the other pieces of that interest income, net interest margin comment that I mentioned earlier on evolve?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Again, it’s early to say. And as I said, what we’ve tried to do is give you a picture of how the business in lockdown works and therefore in Q2 but not do too much work about estimating how long that lockdown and the associated social distancing measures will last. What I think is fair to say is that the reason why we’re experiencing that pressure in Retail, less spending, for example; the reason why the mortgage market is closed, for example, largely closed; the reason why corporates are drawing on RCFs is all because of the lockdown. As you see the lockdown ease and provided that the social distancing is not too aggressive, if you like, then one should expect to see some alleviation in that pressure. How substantial that is and how quick it is, I think, is very much going to depend upon what the government allows the economy to do and allows people to do."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "The further point I would make on that net interest income comment is I’ve talked very much around the 30 to 40 basis points in terms of the margin effect. Just bear in mind there’s another piece of the puzzle here which is around average interest-only assets and what they do in quarter two. And we’ve seen some expansion in that regard off the back of the drawing from corporates in particular. We just have to see how that fares in the context of quarter two. That is an outstanding balance right now. We can see it in the numbers. Whether there is further corporate drawing or not, it’s uncertain. I guess it will depend in part upon how the economy fares. That corporate drawing has slowed down in April. I think we have to see whether or not it picks up again at the quarter end in Q2. It may or may not do."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, just bear in mind the average interest-only assets at the moment are a little ahead of where they were because of that change in activity. The ECL in cards. I think the one point that I will make on cards without going into too much precision is, as you see the ECL play out over the course of the year, the ECL in respect of the unsecured balances has a relatively linear relationship to the variables that are within the MES. So you would expect to see that has a very – a relatively linear relationship to unemployment, for example. It also has a relatively short life, which in – which means in turn that if you have a more protracted economic scenario in regards, in respect of this recession, i.e., if the recession is more protracted, then you should start to see unsecured play a relatively lesser role in the overall ECL charge, partly because it has a short life."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So hopefully, that gives you some context, if you like, as to how it plays out in the context of the charge. And then Claire, forgive me, but I – your third question, I didn’t note properly. Or at least I can’t read my own handwriting."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "All payments [indiscernible]"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes is the answer, Claire. There is, as you know, a general practice amongst all of the banks that a taking out of a payment holiday in and of itself does not cause a stage deterioration in respect of that asset. Now I should say before being too categoric, if there are other signs that do indeed suggest that there is a impairment in the asset, then now it’s treated just as we would normally treat it. It doesn’t matter whether there’s a payment holiday or not, and it’s treated just as we would ordinarily treat it and take it from Stage 1, into Stage 2 in the ordinary course of business. And that isn’t changed by payment holidays."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question comes from Guy Stebbings, Exane. Please go ahead, Guy. You’re live in the call."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good morning. Thanks for taking my questions. I have two please. Firstly, on risk-weighted assets, we haven’t really seen too much negative credit migration as yet, so I’m just trying to understand how much of a headwind that could be for the rest of the year. I know your mortgage book is quite through the cycle in terms of modeling, so hopefully, that helps. And you’ve called out the fairly high risk weight density on your undrawn commercial balances, but if say the base case or the downside scenario were to hold true, sort of what expectations are for RWAs over the course of this year? And the second question, on costs. I’m just trying to understand the balance between the headwinds from COVID-19 actions like lower headcount reductions, et cetera with potential flexing in the investment spend. I think you had about GBP1 billion of discretionary investment spend last year, of which around about 40% of that was expensed. So can we assume a large chunk of that is pulled on? And then there was a quite sizable non-cash spend for regulatory issues last year as well. With some of the regulatory announcements in terms of delays on various model changes et cetera, does that help much this year? That would be very helpful. Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. Thanks, Guy. I’ll take each of those questions in turn. RWAs, the RWA experience that we have seen in Q1 is nothing to do with procyclicality really, so far. We’ve seen securitization changes, which are regulatory inspired as of January. That’s about GBP2.3 billion out of the GBP5.3 billion we have seen in terms of RWA increase. We’ve also seen counterparty credit risk and CVA risk. That is market determined and has impacted every bank, obviously, including ourselves, but because we’re a smaller market player, it’s probably lesser from a proportional point of view. And then we’ve seen one or two things, like the threshold deduction in respect of insurance assets has moved to a risk-weighted asset basis because our CET1 base has expanded."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, I guess that’s a good thing, but it does increase our RWAS. So that’s the RWA picture to date, so far, in this quarter. The moving forward, how do we see it? It obviously depends upon the extent of the downturn. We don’t know how long it will be and we don’t know how severe it will be, but having said that, we’ve got a range of models within the business. Those go from through-the-cycle, to a hybrid, to point in time."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "As you pointed out, the main mortgage model is through the cycle. The – some of the other retail businesses, other retail models are point in time, but importantly, all of those retail models are set to a regulatory calibration of downturn on the loss given default, which in turn makes them less procyclical than they might otherwise be. The commercial business is, as you probably know, built upon a foundation IRB, and that means typically less sensitivity versus other advance models. And if you look at it in the context, as you just said, of the RCFs, it means that we have a weighing for undrawn facilities. And so we’re proportionately less impacted by that."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Moving on from the models. The other piece of the question on RWA as we look to the year looking forward is what happens with client demand. So far, we’ve seen Retail contract a little bit. We’ve seen Commercial Banking build a little bit. We’re very much planning to be there for our clients in the context of this downturn. And so we’ll just have to see how client demand fares, but you’ve got a bit of a picture of it, I think, as of the close of Q1."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, if you wrap all of that up in terms of the range of models, the client demand, what happens with the downturn, I – we may see some modest movement in RWAs, but we really don’t expect to see it be significant. We don’t expect it to be particularly material in the context of the balance sheet as a whole."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Right. And I will take the question on costs, so to let you know, as you mentioned several of the drivers. So, what do we have versus the previous situation and again, as William said, assuming the lockdown situation continues? We have – on the positive side, we have been supporting customers through the lockdown, as we said on our speeches, in terms of addressing the needs that they have, evolving needs, at pace as they need it. So we have been putting more people to have and processing civil loans. People have been working extra time in terms of designing and implementing the proper products and supporting customers at pace. So that has obviously a cost to us, as we mentioned."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And on the other side, we have – as I mentioned in my speech as well, we have stopped any job losses, which we thought was absolutely, the right thing to do in these circumstances and which we will keep. So both of them, versus our previous guidance to you, have additional costs, for the right reasons, to the benefit of our customers and our colleagues. What do you have on the other side? As I have mentioned before and you alluded to it, we have the discretionary investment spend, very significant, GBP1 billion a year. Again, we are assuming that this lockdown is temporary, and therefore we have taken actions in terms of decreasing the discretionary investment spends. And we are assuming at the moment a two, three-month. So, we have decreased the investment spending accordingly and also given the less capacity that we have of implementing change, working from home. So that has a positive impact on costs. And I would remind you that has a full impact on capital because all of the investment spends either cash or even through P&L goes out of capital immediately given its most intangibles. The second positive point on costs is travel costs, which by definition are decreasing very significantly, and they are important. And the third one is variable pay because, as our results, as we showed, go down, obviously variable pay adjusts accordingly."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, all of this will, in my opinion, reasonably balance out each other, so you should not have any significant difference to our previous guidance. And a final point I would add is that you know very well our culture of full attention to costs and our track record in this dimension. This will absolutely continue. And I would also add that this is very helpful in the sense that it allows us to have a GBP2 billion pre-provision profit as a consequence of the low cost of income that we have, which is an additional buffer in terms of the support we are giving to customers and in case adverse scenarios, not our best case scenarios, indeed materialize."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And Guy, just to pick up on your final question. You asked about regulatory delays in terms of – I think it was in terms of RWA changes and so forth. We don’t expect any regulatory impact on RWAs during the course of this year. We had our initial GBP2.3 billion in respect to a securitization in January, but on a look-forward basis, we don’t expect impacts from any regulatory RWA-inspired changes this year. If we look forward beyond 2021, it obviously gets less certain, but I would note the commitment to delay the phasing in of some of the so-called Basel IV changes in the years thereafter."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, let’s see precisely what comes out of that, but that suggests a fairly benign regulatory view on the RWA environment and a determination on behalf of regulators to ensure that banks do not feel under pressure on an RWA basis going forward. And as I say, certainly for this year we don’t see any pressure. For the years ahead, I think we’ll just have to see how things evolve."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Next question comes from Edward Firth, KBW. Please go ahead. you’re live in the call."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes, good morning, everybody. I’ve just got a very quick one. And apologies if it’s a slightly dumb question, but just to be clear on the impairments and the ECL charge: So if your assumptions are correct, your base case is correct, then for the rest of the year, we should assume a quarterly charge of around GBP300 million to GBP400 million a year. Is that correct?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Okay. I don’t want to put precise numbers on it, Ed, so I’m going to be a bit careful in terms of what I say. If we – I mentioned that the charge was subject to two factors. One is any change in base case economics, and the second is the absence of perfect foresight that we have. Your question says let’s assume that the first of those two is stable, i.e., no change in base case economics. And then what are the perfect foresight issues that come about? And I mentioned three. One is any change in restructuring cases that we have. Two is progression out of Stage 1 and into Stage 2 and 3 of assets, both corporate and retail. And three is the extent to which government schemes and our assumptions around government schemes, as to their success in mitigating the economic outcome, is correct, those assumptions are correct. The – I’m not going to put precise numbers on what we’ll see in Q2, Q3, Q4. All I will say is again, you should not annualize the GBP1.4 billion; that the GBP1.4 billion is closer to 50% of the overall charge than it is to 25% but somewhere in between those two, with the point being closer to 50% than it is to 25%. And hopefully, that gives you some idea."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes, that’s very helpful. Thanks so much indeed."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Next question comes from the line of Chris Cant, Autonomous. Please go ahead. you’re live in the call."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good morning. Thank you for taking my questions. Two, please. I understand your reluctance to guide on 2020 given the uncertainty around the duration of the lockdown, but perhaps I could invite some comments on the shape of the business longer term given the shift to low rates and the pretty dramatic impact on NIM that you’ve talked about in 2Q just from the rates piece. So on ROTE, I know you’ve dropped the guidance, but for 2020 you’ve talked about 12% to 13%. That included about 1.1% add-back from your amortization, so basically you were looking for an 11% to 12% apples-to-apples ROTE versus peer definitions, but with a far more bullish rate outlook than we now see. If we’re now stuck in a lower rate environment for the foreseeable future, what do you think the medium-term, say 2022, ROTE looks like for this business? It feels like it could be dipping below 10% as the structural hedge rolls over the coming years. And second question related to that, just trying to think about the NIM development. Throughout 2019, you talked to us about the structural hedging. You told us that about GBP30 billion of the structural hedge would roll in 2020. Now that we’re in 2020, could you please give us a number for how much will roll in 2021? Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thanks, Chris. As you say, we’re not giving guidance on 2020 because it would imply that we know exactly when this crisis and the lockdown and any social distancing associated with it change or end. Your question as to the shape of the business longer term: 2022 is obviously quite a long way away. I would – without giving guidance, if you like, as to the expected ROTE at that point, I would say that the business has never been satisfied with \"sub cost of equity\" returns, has never been satisfied and has never delivered on a consistent basis \"sub cost of equity\" returns absent market aberrations. I really can’t see a scenario where we’re in 2022 and that assumption changes."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, I think that’s probably all I can say in terms of the outlook. The business will adapt to the circumstances that it finds itself in to produce a consistently superior return and certainly one that is above the cost of equity. The NIM development point that you mentioned, the structural hedge question. We’ve actually taken advantage of some upturn in the markets earlier on in the year to take account of some of that structural hedge roll-off within 2020."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, within 2020, as you can see from the slides, we’re about GBP173 billion invested. And we have about GBP16 billion roll-offs during the course of 2020 having done the action that we took in the course of the first couple of months of this year. So, it’s down from that GBP30 billion that you mentioned. It’s looking more like GBP16 billion. I’m not going to give you a roll-off assumption for 2021. I think you have a sense of the profile of both the invested structural hedge and the weighted average life of just shy of three years, and I’ll kind of leave you to work it out from there."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "If I could just check on the numbers then. Could you remind us how much of the structural hedge rolled last year? Because I think it was relatively modest in the context of the GBP170 billion, GBP180 million notional; and obviously relatively small numbers rolling this year in the context of the notional given the three-year duration. So could you just remind us how much rolled last year? And maybe that can help us fill in the gap. It feels to me like quite a large chunk of your hedge rolls next year, noting that it’s the first year beyond the GSR3 planning period for which you gave us that resilient NIM guidance. So, I do wonder how much the three-year hedge you put on sort of 2017 is coming off next year."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "As to how much exactly rolled off last year, I don’t have a number in front of me, but we can certainly get back to you on that…"
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And Chris, I think you should bear in mind that, as you know and we have been very open with you over every quarter when we discuss this, we do this in a dynamic way. And therefore, for example, as William just said, of the GBP30 billion that we’re going to mature this year, we have already rolled in the first two months of the year GBP16 billion of those. And we rolled them to maturities that we thought were the most appropriate given the interest rate environment. And this is just an example."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "This is a dynamic process, so what needs to mature next year is not necessarily the difference, in terms of your three years, from what matured last year and this year because we are doing it dynamically according to circumstances. We are a very big bank operating in the retail and commercial banking space in the U.K., and we think we have an advantage in terms of sterling. And that’s why we believe we provide and we can provide our shareholders with a sustainable advantage. By the way, we manage the structural hedge over time instead of just doing it mechanically."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question comes from Robin Down, HSBC."
+  },
+  {
+    "person": "Robin Down",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "I guess, this is one of the disadvantages of coming on late, but most of my questions have been answered. But can I just ask you a couple of quick ones? Firstly, in terms of the margin guidance, I – what are you assuming there in terms of TFSME drawdown? Are you planning on drawing down the full kind of GBP39 billion? And is the benefit of that kind of almost free money included in that 30 basis points to 40 basis points? And the second question, probably a slightly cheeky one, and I appreciate you probably, won’t answer this, but if I look at your Slide 18, the economic scenarios that you’ve got, the base case assumption for 2020 is minus 5% GDP. Unemployment is at 5.9%. That seems to be the same numbers that you’ve got in your upside case. And my understanding was that your base case is built on a sort of effectively you’re kind of looking at sort of probability-weighted versions here, but your base case does seem to be the same as the upside case for two of the most important numbers. And I don’t really quite understand why that should be?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. Thank you. Thank you, Robin. On the first question TFSME drawdown assumptions, the point that I would make there is that, as you’ve seen, loan-to-deposit ratio for the bank is now very healthy at around 103%. So, we are seeing a high level of deposits in the current environment come into the bank. That’s both from retail where we see seen current accounts go up by GBP3 billion during the quarter. And it is also in the context of commercial where we’ve seen them come up by about GBP15 billion in the quarter. So, we’re seeing a very healthy, positive inflow into the business, which in turn means our desire or need, if you like for further money from TFMSE or any other source ready is quite limited. We will be asset led. I mean that is to say, if our customer needs are such that we need to build upon the balance sheet in retail or in commercial, then we know that we have the TFSME there and available to fund that as you say, relatively low cost."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We also will take that into account in terms of our overall wholesale funding strategy where we have typically annually around GBP15 billion to GBP20 billion needs. As I mentioned in my earlier comments, we’ve taken care of a decent chunk of that in the course of the first quarter with TFSME there you had expected just to be judicious about how much we use the wholesale markets versus how much we use TFSME to fund the balance sheet and ultimately client demand, client and customer demand. So, we’ll take a view on TFSME based upon each of those two points Robin."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Your second point, the question is to the upside versus the base case. You’re right to point that out. And we had a discussion with our economists on that particular point and any particular reason why that. I think the key point to bear in mind there, Robin, is the GDP is only one of a number of factors in the overall forecast. And the scenario take account – takes account, rather, of severity across all of the impairment drivers, whether that is unemployment, whether that is the bank rate, whether that is CRE prices. GDP in isolation is just not the most important driver in every case. And so when you look at the discrepancy between the upside and the base case, it is at least as important to look at some of the other drivers in the context of the comparison as it is as the GDP number."
+  },
+  {
+    "person": "Robin Down",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes, I totally agree with that. But the unemployment rate is one of the key drivers, particularly, as you say, said earlier, for consumer credit. So, I’m just slightly surprised that the base case, if you like, isn’t worse than the upside case?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. But I think that’s because you’re looking at it on a year average basis, Robin. So, if you actually take the quarterly numbers within the year average, you’ll see that there is a significant difference within a quarter between the base case and the upside case. I mentioned earlier on, for example, in 2020 base we’ve got Q2 GDP is down 7.4% in Q2. We’ve got unemployment of 7% plus in Q2. That is not the case in the upside, and so I don’t have the quarterly upside in front of me to quote to you now. I’m not sure that I would do if I had some, but there is a difference there within the year, which is hard to see in the current scenarios for the year averages that you have here."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I think the second point that I would make is you also I need to look across the years, so don’t just look at 2021. One of the points that we’ve been trying to emphasize in this discussion is when you look at our IFRS 9 and impairment charge, you have to look at 2021 as well as 2020. And there when you look at base case versus upside, you’ll start to see some of the differences. GDP, unemployment for example, in 2021 base case versus upside, a different, but more importantly the point at the beginning of the call when you look at IFRS 9 assumption, again, look at it versus others, so the macro forecasts not just into 2020, but it’s a 2021 as well."
+  },
+  {
+    "person": "Robin Down",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Right. Thanks."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Final question comes from the line of Rohith Chandra-Rajan, Bank of America. Please go ahead. We have no questions."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you very much to everybody for joining the call. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you ladies and gentlemen. That concludes the Lloyds Banking Group Q1 2020 Interim Management Statement Conference Call. For those of you wishing to review this conference, the replay facility can be accessed by dialing 0 800-032-9687 within the UK, 1 877-482-6144 within the U.S or alternatively, use the standard international on 0044 207-136-9233. The access code is 53291055. Thank you for participating. Have a good day."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

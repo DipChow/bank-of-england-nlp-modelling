@@ -1,0 +1,842 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] The first question comes from the line of Daniele Brupbacher with UBS. Please go ahead."
+  },
+  {
+    "person": "Daniele Brupbacher",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "Thank you. Good afternoon. I wanted to firstly ask about the European Commission package announced yesterday, you briefly mentioned it during your remarks. Is it already possible to somehow quantify the impact of that? And I'm really thinking about the IFRS 9, NPL dimension, the leverage ratio dimension, and those are probably software intangibles."
+  },
+  {
+    "person": "Daniele Brupbacher",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "And on the leverage ratio side, when I read the release from the EC, it sounds like these are temporary measures. So, how do you look at it? I mean, if Central Bank reserves are being taken out of the ratio, really, the requirement goes up. What's really then - how do you look at that? What's the benefit of this?"
+  },
+  {
+    "person": "Daniele Brupbacher",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "And secondly, you briefly mentioned group revenues and the revised expectations as well. You expect IB revenues to be up? Consensus for the group, I think at this point is down 10% for the year. So, there seems to be a bit of a different view there. And I was just wondering, you obviously expect sequential declines. But what kind of market environment do you need to meet a flattish group revenue picture more qualitatively, I guess, and versus Q1 and probably just volatility levels and all that?"
+  },
+  {
+    "person": "Daniele Brupbacher",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "And then lastly, the MDA trigger level going from 11.6 to 10.4, but you don't really change the 12.5% target, longer-term. Why not? Why do you keep it at that level? Do you disagree with this approach that you that basically you can use some AT1 for P2R, or do you want to just be at the reassuringly high-level for your AT1 holders? Thank you."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Thank you, Daniele. It's James, here. I'll take the first and third questions on capital and then ask Christian to speak to the IB revenue. So, first of all, the EU package announced yesterday, just to quantify the impact for us, we would see that as - and this by the way would be a conservative estimate, as delivering, say 20 basis points to 30 basis points into our CET1 ratio. The largest part of that would be the treatment of software intangibles. And I think we've talked about that, in the past that that's a significant drag for us or deduction in our ratio. It's about 80% today, or 80 basis points, I'm sorry, in our ratio today."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So, with the 20 basis points to 30 basis points I'm giving you would only be about a quarter of those intangibles coming back into capital. It all depends on how the EBA sets the regulatory technical standards. There are two other items around reduced risk weighting factors, and the reset of the transition to 100% that that deliver, maybe together 10 basis points into CET1."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "On leverage ratio, we talked about that being just the exclusion of cash about 20 basis points in our leverage ratio. As you're saying, it's temporary. I'm not sure it changes, necessarily our strategic thinking about the balance sheet. But certainly, it helps us report higher ratios and maybe look at the use of the leverage balance sheet a little bit differently, but obviously, only over a temporary period."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So, in short, we welcome this package. If implemented, it would certainly help the ratios. Our announcement on Sunday night anticipated that there may be some changes in definitions coming, but noted that we weren't essentially building those into our outlook. So we think about the 12.5% ratio still as a good, you know management level, a good target to hold. So I want to be clear, we're not abandoning the 12.5%, but rather feel that it's a sensible place, but we may dip as we say, moderately in temporarily below. The regulatory changes would certainly help us to sustain a higher ratio."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "We think that'll remain the case about the 12.5%. You mentioned, with the wider gap to MDA, we simply view it as creating a better gap. And at least for now, we would not contemplate changes in our targeting reflecting the 104A."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So, with that I'll hand it over to Christian."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Yes. Thank you, Daniele for your question. Let me start with the Investment Bank. First of all, I'm confident that we have kind of at least flattish revenues in the Investment Bank, because that's what we have seen now is to continue development since our restructuring in the third quarter. It started actually with management changes and the focus on the key businesses, be it in fake or debt capital markets in September went through Q4, and the same development we have three through Q1 but also in April."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "And the key is really that this bank has decided to focus on its strengths and the Investment Bank. Don't forget, there we are operating. We are in 75% of our revenues. We are in the top five market positions. And hence, we simply can see clients are re-engaging, re-entering with us and that's our focus."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "And in this regard, I do believe, with the basic understanding that I think the heat of the crisis we will see, obviously, in Q1 and Q2, but looking at the revenue development of the first four months, I'm confident that we can achieve the goal which we outlined before."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "If I go for the overall group, I do believe also there we have a lot of resilience. And also here, let's not forget, we have 40% of our revenues in Germany. For the time being, we are the kind of go-to place in Germany for corporate clients, for private clients. This is the time where it's not all about only the digital capabilities we have, but in particular the advisory."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "We are talking actively to private clients about their investment advice, how we can do it better, the same on the corporate side. And in this regard, I do believe that with the programs we have in place, with the financial health we have in Germany, we have a very, very good chance of actually capturing market positions here. And that overall, with the focus on these four businesses makes us confident that we can achieve flattish revenues, or slightly below 2019. So, I'm confident there."
+  },
+  {
+    "person": "Daniele Brupbacher",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question comes from the line of Jernej Omahen with Goldman Sachs. Please go ahead."
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Good afternoon from my side as well. I have three questions please. So, Christian you kicked off the presentation by saying that the path of this public health crisis is not really known. But I got the sense if we continue the presentation by giving some pretty strong assurances on the outlook for credit losses, and then the outlook for revenues as well. I'd just like to take a step back and ask a broader question. So, you have been in European banking for a long period of time. How likely is it in your mind that the nonperforming loan formation and the credit loss cycle this time around, will be better than what you've seen in 2008 and '09 and '11 and '12? So that even with all the government support, that would be my first question."
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "My second question would be, just staying with the loss guidance of 35 basis points to 45 basis points. So just looking at the EBA stress test estimate for Deutsche Bank, which was based on German GDP contracting 2% in year one, 3% in year two. They had the peak loss at 82 basis points. And your guidance, Deutsche Bank’s guidance seems to be targeting boldly half of that. Again, what gives you the confidence that that will materialize?"
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "And my last question is just on the ability to restructure into what seems to be a deep recession and a spike in unemployment. To what extent, do you feel that, particularly the headcount reduction that have already been agreed with your partners and stakeholders in the bank, still hold true, and you'll be able to execute on that? Thank you very much."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Thanks, Jernej. Let me take number one and three, and James can talk about the details of the calculation of the 34 to 45. Now, first of all, I do believe actually that, and I think I can speak for most of the banks, but obviously best for Deutsche Bank, we will see less lowness provisions then in the crisis of 2008 for three reasons. Number one, in particular in Germany, the program which has been done and the umbrella which has been provided by the government is far stronger, because it actually contains two elements. Number one, immediate liquidity support. Number two, there are programs in place, which actually already addresses the long-term solvency questions of corporates."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Also, when you look at how the take up of the - what is the English word for that this short-term worker support, Kurzarbeit, I guess, is actually taken up now by 4 million people, almost 4 million people, that provides actually a scheme that people are in the capable of controlling their financials, repaying their financials."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Do we need to potentially also go for a one, two or three months of moratorium? Yes, we have for the time being 50,000 individual clients asking for that, but we have 19 million clients. So, overall, even after six weeks of times, that is a manageable number. And I feel with the robustness of this umbrella given by the government with KFW, structured also by ourselves in combination with the government, that is the first safety net."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Secondly, I think the entry point corporates went into this crisis is completely different one in 2008. When I was at that point in time, in the credit risk management team, the average equity position, the average liquidity, which was on the balance sheet of the corporates is not comparable to the one we see right now. So, overall, I would say the resilience of our clients is higher."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Number three, now the best person to answer that one is obviously Stuart Lewis. I think, we also learned our lesson from the times in 2007 and 2008. When I look at the structure of the portfolio, you have seen James references, but also my slide, with regard to concentration risk, with regard to active hedging, with regard to trying to actually allocating the risk out, we are doing a far better job. And in this regard, I do believe that the three items plus the healthier balance sheet of banks to absorb losses is a major difference, at least for Deutsche Bank. And that makes me confident that the numbers which we have given out for the 2020 lowness provisions is a number which we will and we can achieve."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "With regard to the ability to restructuring, this is not impeding us at all to do that what we want. We are clearly discussing that with our partners. There is no stop at all in the discussions with the Workers Council on our restructuring plans, and that means we will continue. Therefore, James and I are so confident that we are achieving the €19.5 billion cost of gold for the end of the year. So, there is no stop to it."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Also a journey, let's not forget, the last four weeks have indicated to us where we can save costs on top. And we will do everything in Q2 and Q3 to implement that. And that is not only cutting costs in terms of FTE or personnel, that is cost with regard to travel, that is cost with regard to real estate. We will change the way we are working, absolutely. And hence, we even have further ammunition actually to reduce our costs. James?"
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Thanks, Christian. So, taking the comparison with the EBA stress test, it's always hard to compare sort of theoretical stress test scenarios to the real life stress we’re living through, but we’ll give it a little bit of try."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "If we focus on credit provisions, I think the starting point is actually picks up on two points that Christian just made. First of all, what’s different in this cycle? Government support is potentially a significant difference. Secondly, we’re a different company, smaller balance sheet we've exited certain areas. And so the some of the credit exposures that we would have taken losses on, if you go back to the December '18 balance sheet, simply aren’t here anymore."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "I think further, there are some just more technical differences in how that comparison works. To begin with, it’s a three year total loan loss or credit number. And we’re talking at this point about 35 basis points to 45 basis points this year. And there is also an ECB add-on to that number, so that goes beyond what we calculate our provisions to be - the ECB add-on represents 10%, 12% on top. So some real differences."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And I think the last point I'd make, I'd go back to a point Christian said. The stress tests essentially assume that management does nothing to manage sort of credit outcomes or the portfolio. So it takes what I would call a static balance sheet. And that's also clearly not a real world scenario, so a lot of differences. We're obviously alive to the comparison, but we think again, looking at our detailed modeling, they're very good reasons to see this as quite different in terms of likely outcome relative to that stress test."
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Can I just maybe just ask one follow-on. So, the EBAs peak one year loss is 82. The one that they've calculated, the one that you are guiding for is 34 to 45. EBA for that one year loss assumes GDP contraction of 2%. I mean, we're looking for Eurozone GDP contraction of 10 plus this year. And I just want to say that optically, it just looks odd, but I think the question is different."
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "So, the Deutsche Bank was breakeven this quarter on what is a very, very strong revenue. If I take the average revenue of the previous four quarters, the bank would have made a loss of broadly 400. So I was just wondering, let's assume that you're wrong, and the credit loss is not 45, but it's closer to EBAs estimate of 80, what are those dynamic actions that the bank can take to offset this event?"
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes. So, let me again just let me again start with the comparison. The environment that we're dealing with, we would see as much more severe in the quarter one GDP decline than most scenarios that we do stress testing on, which typically are over much longer periods of time, with the recovery starting still in our estimation already in Q3."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And so the length of this downturn is a critical determinant in what the ultimate credit losses will be. Of course, they will be a diminution in the credit position of most corporates, as they put on some debt to cover expenses in a period of time, while revenues are suppressed. But I think the length of this downturn is a significant difference to others."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "I don't want to go into lots of downside analysis. As you know, one of the benefits of all the work that has happened over last 10 years has been that banks are very capable of doing their downside work, and also understanding what mitigants are at our disposal to offset both profitability and capital impact of more severe downturns."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So, it's something that we're very conscious of, that we keep well refreshed. And we're comfortable with our position navigating through this environment."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Jernej, potentially one more sentence to that what James just said also on the mitigants we have. Don't forget if you quote the Q1 that this is the quarter of the majority of the bank levies, so that we also had to digest, plus the mitigating measures we have. I would say, that there is a cushion for us also to handle that situation."
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question comes from the line of Christoph Blieffert with Commerzbank. Please go ahead."
+  },
+  {
+    "person": "Christoph Blieffert",
+    "role": "questioner",
+    "position": "Commerzbank",
+    "text": "Good afternoon. Two questions please from my side. There were articles in the press recently that foreign banks are pulling back from the German market. How much do you see this as an opportunity for German banks and for Deutsche Bank in particular to gain market share? And related to this, what is your view on margins in corporate lending during the COVID-19 crisis?"
+  },
+  {
+    "person": "Christoph Blieffert",
+    "role": "questioner",
+    "position": "Commerzbank",
+    "text": "Secondly, on the KFW support scheme. Here, it would be helpful if you could share the economics of the program from a European P&L perspective. And here in particular, whether there's a fee from KFW for banks passing-through the loan to the client. Thanks."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Well, thank you. Let me take these questions. Obviously, as we said, there is an opportunity for us. A, it is our understanding that in particular in your home country, with that background we have, we have to use this time and have to make sure that we are at our client side. And yes, we are seeing a certain development of other banks reducing their commitments, also to German large caps but also to mid-caps, where we feel we have the understanding. And as long as our risk appetite is there, because we will not water down our risk standards for these clients. Then, we are there and we jump in."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "And I have to tell you, it is not by incident that we are back number one in corporate finance in Germany. You have seen that also with regard to the DCM issuances. If I look at the market share, we have with the KFW applications, we're in the user programs, 80% of the risk is with KFW or even more and the rest is with us."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "We have actually a market share, which is above our normal market share in the business. That means that clients are actually looking for advice from Deutsche Bank. And hence, I think it's an opportunity with the balance sheet we have, with the market positioning we have that we take the opportunity. And again, I think in this regard, it's a fortunate that we are in Germany with the backdrop of the government support."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Secondly, on the KFW program from a profitability point of view. These are actually well-designed programs in terms of the margin set out. You can't actually now do a one size fits all, because it depends on the underlying program. We have various programs. But overall, from a profitability point of view, this is not below our threshold. And hence, actually we are supporting these things."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "And again, it also shows that in the setup of the programs, this was not only a program which was set up by Berlin and KFW, that were active participations of the German banks, including us. And hence, we are happy to support these programs also from a profitability point of view."
+  },
+  {
+    "person": "Christoph Blieffert",
+    "role": "questioner",
+    "position": "Commerzbank",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from the line of Jon Peace with Credit Suisse. Please go ahead. Mr. Peace, your line is open. Maybe your phone is muted. We'll move on to the next question. The next question is from the line of Andrew Lim with the Societe Generale. Please go ahead."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "Hi, good morning. Thanks for taking my questions. So you talked about your capital ratios. But if you wanted to focus on the leverage ratio, which has dropped back to 3%, 3.5%. I was wondering if you had the same expectation with the expansion in the balance sheet that this fall a bit further, and if what one level? And I asked this question, because back in early 2018, this ratio was only 3.36%. So not too different to where it is today. And at that point, we had to undertake a restructuring plan at Deutsche Bank. So just wondering about your thoughts in that regard."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "And then my second question is, in your financial report you talked about loans in moratoria. So I guess this is also one factor why, maybe your loan loss guidance is maybe more benign than some people might expect. But, could you give us a bit of color as to how much of those loans are in moratoria across the whole group?"
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "And then going forward, what would change your accounting treatment of those loans, such that they might be regarded as non-performing on the IFRS-9? Thank you."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Sure. Andrew, let me take, I'll start with your leverage ratio question. So, first of all, the ratio that you cited, I think has to be in your planning, or your modeling, not ours. So, we feel comfortable that even with the expansion in the balance sheet in the core businesses, we can sustain the leverage ratio, more or less where it is now, without changes in the definition, as the growth in core is offset by the deleveraging in the Capital Release unit. So we feel comfortable with the stability of the ratio from here."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Of course, the change in definition helps. It's been a sort of ongoing question why clearly risk free assets should be part of that ratio. And I think the 20 basis point helps in measurement. Remember, also the pending settlements comes out of the definition in I think 2021. So, within sort of a year that that part of our leverage exposure would also settle down. So, again, we're comfortable. I think we've often communicated our comfort, not only with where our leverage ratio is, but with the path and improvement over time."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So, as it relates to moratoria, you're correct. The guidance in some cases, the way the programs are structured, we would not treat an otherwise credit worthy obligor as going into stage 2, based on the indication of seeking the forbearance of a moratorium as the sole indicator. That does not mean that if there's credit deterioration otherwise, that that loan would not deteriorate from a staging perspective or rating perspective. Certainly, for a period of time, this will help individuals and corporations, typically small corporations, dealing with the cash flow implications of this crisis."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And again, assuming the economy begins to recover in the third quarter, they would then re-establish their normal operating rhythm, normal cash flow profile. And you wouldn't expect much deterioration in the credit core quality of the obligor, other than the additional debt that's taken on over that three month period."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Frankly, it goes to the point that Christian made a moment ago about the design of the KFW or government support programs. It really provides from the individual all the way up to the large corporation, an ability to manage the cash flow implications of this crisis without a deterioration necessarily of their credit standing, including at the very low end. These are forgivable loans. They're essentially grants to small businesses, which of course, is very helpful to the economy. I hope that helps."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "That was really helpful. Thanks for that."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from the line of Piers Brown with HSBC. Please go ahead."
+  },
+  {
+    "person": "Piers Brown",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Yes. Thank you for taking my call. Just coming back to the provision for credit loss, just looking at the composition, I mean, you've obviously booked more in terms of stage 3 loans, and you have stage 1 and 2, which I guess, at this point in the cycle is sort of noteworthy. I wonder if you can just share a little bit more in terms of economic inputs into how you've assessed the stage 1 and 2 provisions? I think you've given some economic forecasts on Page 19 of the of the reports, in the output statement, but I don't know whether those are the same as what you're actually using in terms of the ECL modeling. So, maybe you could just expand on that?"
+  },
+  {
+    "person": "Piers Brown",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "And the second question is just around the restructuring and severance charge this quarter, which I think was €88 million. I'm going to hear everything you're saying about not having any issues in terms of implementing the restructuring as you'd plan. But just in terms of that number being below the run rates of the €500 million full year target, I wonder if you could just give a little bit of color on that. Should we just expect there to be catch up in coming quarters on in terms of what you're booking for restructuring and severance? Thanks very much."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Sure. Thank you. So, a couple things. You mentioned stage 3, we think it's very natural, frankly, that the stage 3 bucket is relatively moderate at this point in the cycle. And naturally as we see defaults in this credit cycle, you would expect there to be more stage 3 exposures and hence, loan loss or the allowances traveling, migrating if you like from stage 2 to stage 3."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "There's been, as you saw in our disclosure Page 12, is very little that we would see as COVID related stage 3 provisions taken this quarter, which we think is entirely natural for the very short-time elapse between the onset of the crisis and the end of the quarter."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "To your question about the macro assumptions, we use consensus estimates in that, build those into our models. And as I mentioned, we use the 31 of March, a consensus estimates. Clearly, things have moved on since the end of March and the outlook today is more severe than it was then. And hence, as I mentioned about a €100 million of additional provisions, had you walk that forward to the end of April. There is a difference between, therefore what is built into the model there, relative to our firm outlook. So, we think about our forward planning more bearing in mind the outlook that we described in our earnings report as distinct from what is built into the IFRS modeling."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Restructuring and severance. It's actually often the case that you see much higher restructuring and severance charges towards the end of the year than the beginning. As we're actually executing in many cases on the measures against which we built reserves at the end of last year. And in some sense as the pipeline refills and then we recognize new reserves as new actions become essentially defined to the level where we can recognize them under the IFRS standard."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "In this quarter for example, the restructuring and severance was largely to do with the savings we expect to extract from the German legal entity merger, as an example. And we'll continue to see some level. And I would think increasing towards the end of the year as more and more of the actions that we expect to take in '21, are then reflected in the reserves that we take in 2020."
+  },
+  {
+    "person": "Piers Brown",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Okay. That's perfect. Could I just have a quick follow-up on the expected credit loss? I mean, you've talked in the report about following ECB guidance on deriving adjusted inputs, based on longer-term averages. I mean, could you just explain exactly how the mechanics around that work? And what sort of trough GDP numbers you might be using in terms of some of the more adverse scenarios you'd be running?"
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So the scenario is the same. It just extended the horizon to three years and removed some of the - what I would have been significant procyclicality that would come from the early quarters of the event. So if you think about it this way, you'd look at an annual GDP number as the driver of the IFRS-9 provision rather than the very sharp first quarter event. We think that's appropriate. We think the guidance from the ECB made perfect sense, particularly given the shape of this crisis and the expected path of GDP going forward."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Had you not done that? It would've brought in, I think, some excessive procyclicality that would have seen us build excess reserves or provisions in each one and the first-half of this year and then release them in the second-half of this year, which clearly makes no sense."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So that's how I think about the averaging as it was applied here. And again, we think that was a very sensible outcome. It didn't suppress the reserves so much as make sure that the timing of the reserves makes more sense, against the likely path of both ratings’ migration and ultimately obligor defaults."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question comes from Adam Terelak with Mediobanca. In the interest of time, please limit yourself to two questions. Please go ahead."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Yes, good afternoon. I had a couple of questions, one on capital and then back to reserving. On capital, I think a bit surprised by the lack of an increase in market risk RWA. And I just want to know, whether that's an averaging thing and whether that could come into the second quarter, and beyond? And then how sticky some of this RWA inflation is likely to be? I know there's a lot of uncertainty involved, but whether we should really thinking about some more permanent COVID-19 impacts through the denominator of your capital, before you get some relief, it sounds from the commissions package from yesterday?"
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "And then on the provisioning, I just wanted to understand a little bit more on the build and some of the moving parts. The stage 2 assets have gone up by or doubled almost by €19 billion or so, but the provisioning attached to has been very, very modest. And I just really want to understand what's driving that? And why the number is so low at this stage? And what sort of forbearance is coming through on IFRS-9 guidance or what might be driving? Thanks."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Sure, Adam. Thank you. So, on capital and this is why we pointed to the 40 basis points and the likelihood it comes back. You're absolutely correct. On each of their own schedules, if you like, I would expect the components of the capital drawdown to come back. So, if you take the three major ones PruVal, market risk RWA and then committed facility drawdowns, over two, three quarters we'd expect those drawdowns to get paid back. So, that comes back to us over time."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "The market risk RWA, as you point out did not move in the quarter. We do expect increases to come in Q2 as the volatility feeds into the averaging. And then that'll wash out over a one year period after that. An equally PruVal will reflect as we've now done in the first quarter accounts will reflect the higher market dispersion. But that again will wash out of the PruVal and that should normalize the capital comeback over a period of time."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So, our view is that it is really almost all temporary. As markets normalized, the only thing that wouldn't be temporary would be those of the either the ratings that have migrated, that become non-performing over time or the new drawn facilities that potentially become non-performing over time."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Incidentally, some of the provisions given the kind of forward looking nature of IFRS-9, some of the provisions that we built in the quarter were provisions against the new lending that took place. So, there is, if you like, a forward look there as well."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Can you just repeat your second question, so I make sure I cover it?"
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Yes. It was on stage 2 loans up €19 billion, but the reserves attached to it kind of €100 million or so. So, just why that number is so small? Maybe it's to do with the nature of the IFRS-9, three year averaging and pay down assumptions?"
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes. So, one thing you need to remember as you think about the state, the asset sizes in each bucket and the related allowances is, as you are seeing a migration, you're not just seeing migrations of assets into the stage 2 bucket and the associated provisions. You're also seeing a migration from stage 2 to stage 3. So, ultimately, you need to look at the net of those two things."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question comes from the line of Magdalena Stoklosa with Morgan Stanley. Please go ahead."
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Thank you very much. And good afternoon. I will come back to the to the previous question around market risk weighted assets, because I have to admit that I kind of struggle a little bit, with the lack of inflation in that particular line. Because, we've seen quite a significant inflation in market risk weighted assets in a couple of your peers. And so my question really is, have there been any kind of significant changes within the modeling of your market risk weighted assets? Or would you be able to maybe quantify the relief that the kind of ECB has put through on the 16th of April on that calculation, maybe? So, that's the question one."
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And question two. I know we've talked a lot about kind of revenue side expectations this year. But is there other risks that you see maybe particularly in the kind of retail commercial bank, where the level of activity the level of spend potentially, the level of lending may actually fall off impacting revenues negatively, given how huge the disruption is in the second quarter from the perspective of macro? Thank you."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Thanks, Magdalena. So the market risk RWA is pretty simple. If you look at Page 47, of our deck, you can see that the increase in VaR driven by the volatility, so not portfolio, but volatility, really only spiked at the end of the quarter. So it didn't really feed into the averaging to a significant extent. That's why we'd expect to see that now come through in Q2."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And ultimately, you've heard some talk about VaR outliers in the marketplace, and so for us, which may be different to peers. What happened is the ECB action to reduce the multiplier was offset by some increase in the multiplier that came from the VaR outlier. So, those two things offset. And all you had was that relatively limited amount of volatility at the end of March in the averaging."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "With regard to the Corporate Bank and the Private Bank on the revenue side, overall, I think we have offsetting items. Of course, in the Corporate Bank, for instance, the reduction in the U.S. dollar interest rate is an additional headwind for us. On the other hand, what I said before in particular by our strategic growth initiatives, but in particular by the fees of the additional lending which we are doing here in Germany."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Also now the benefit of the ECB decisions from introducing the deposit tearing. The good work which has been done in actually repricing the deposits. And we have done that throughout the first quarter and that program will be continue in Q2 and Q3. We believe that this offsets actually, obviously, certain headwinds you have in some other subparts of the business."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "In the Private Bank, we do believe that in particular in some areas, there could be less engagement. For instance, Italy and Spain, you will see that in the consumer finance business, there is less demand. On the other hand, you will again see that the ask of people and the clients coming to us asking for investment advice, reallocating their portfolios is one of the mitigants. Secondly, also they are obviously, the deposit tiering introduced at the end of Q4 helps. And hence we see also there good chances to mitigate the reduction of revenues in some parts."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "So overall, we believe that in both areas Corporate Bank as well as the Retail Bank and Corporate Bank, we can stay almost flattish, and Retail Bank only a slight decrease."
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question comes from the line of Kian Abouhossein with JPMorgan. Please go ahead."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Yes. Thanks for taking my questions. First of all, I think you have produced the best earnings report of any of your peers, because it actually discuss the COVID-19 issues, which a lot of the peers don't do. So thank you for that."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "In respect to that, since you're doing a more longer-term scenario of economics in your numbers, in your IFRS-9 numbers, and you highlight clear on Page 19 the base case. Can you just tell us also, since you're doing it three year rather than just one year? Can you tell us in that context, what GDP assumptions you have for Eurozone and U.S. as well for '21 and '22?"
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And in that context, I don't fully understand why your provisions will change - oh sorry. How a three year scenario will impact your stage 1 loans, because stage 1 loans only assume 12 months forward-looking expected loss? So I don't fully understand how that works, if you could just explain that."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "The second question is on your leverage loan book. Can you tell us on your bridge book or leveraged loan book, whatever you want to focus on, what the markdown was? And also you mentioned in fixed income some credit write-down if you could explain that?"
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Sure. Actually a lot to go through, I'll try to be as brief as I can. First of all, again, I'll refer you to sort of Bloomberg at the end of March to see the economic assumptions over the three year period. They have annual GDP numbers that are down in the first two years and then up. They're clearly not as severe as I suspect a little go into the models this quarter, and hence, the incremental provision number that I cited in my prepared remarks."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "An interesting point is brought out by your comment on stage 1. Interestingly, part of the posted procyclicality is in stage 1, because the very sharp - as the procyclicality of using individual quarters rather than an annual average. Because the very sharp movement in GDP in the first period, actually creates a significant multiplier of the probability to fall in the stage 1 bucket, that suddenly, even with that one year expected loss that you build for stage 1, it actually creates some of the procyclicality in the earlier methodology. So interestingly, and perhaps counter intuitively the procyclicality is in the higher quality buckets."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "In terms of leverage lending, as we noted, we had about €4.1 billion commitments. At the end of the quarter, we were I think conservatively positioned. And in the leverage lending space, our hedges almost entirely offset the markdown on those, the mark-to-market if you like are the bridge commitments. And when I say almost entirely, I'd say four-fifths of the amount that was the initial mark-to-market loss. So, I think it shows you how conservatively we were positioned going into the crisis. Thank you for the callout on the earnings report. We appreciate the feedback."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from the line of Stuart Graham with Autonomous Research. Please go ahead."
+  },
+  {
+    "person": "Stuart Graham",
+    "role": "questioner",
+    "position": "Autonomous Research LLP",
+    "text": "Hi, thanks for squeezing me in. I had two questions please. First, what's your assumption for credit risk RWA inflation due to ratings migration this year please? And second, it's another question on provisions, I’m afraid. What would your 35 basis points to 45 basis points guidance be if you'd stuck with your old eight quarter and model and assumes government support measures were wholly ineffective? So basically no management overlays. You just let the models do their thing. Thank you."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So, Stuart, actually I don't have the - to hand the exact number of credit risk RWA increases that we see for the balance of the year. We do see some additional sort of inflation if you like, coming from both book extension and further ratings migration. And we built that into our forward look on the CET1 ratio."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "One thing that I just remind you of though, as you think about both the credit risk and the market risk RWA increases that are coming at us. In our planning, they will now be offset by some of the changes that the ECB announced around reg inflation that's no longer coming at us. So you recall, we had about 60 basis points kind of expected for the year, we've seen 30 basis points of that out of the gates. The RWA associated with the rest, which is sort of €8 billion or so. Well, we don't think any longer materializes, which is why you may wonder why our outlook shows a relatively moderate change in the RWA relative to our earlier expectations."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "I don't want to go into the extent of sensitivity, if you like, of the loan loss provisions to all of these other assumptions. It's frankly sort of irrelevant to the world we're actually in, in the sense that that government support does exist."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And the modeling, interestingly, as I say, from a very granular bottoms up approach that IFRS essentially requires. What you do is, get a great deal of insight in terms of how the book is expected to perform over time. So we think that that central case is a good one for now. And again, I'd just point to the procyclicality that would otherwise have been created. I don't think investors or frankly the clarity of bank capital ratios would have been helped by a strongly procyclical degree of build at this point in the cycle."
+  },
+  {
+    "person": "Stuart Graham",
+    "role": "questioner",
+    "position": "Autonomous Research LLP",
+    "text": "No, I accept that point. I guess, what I don't, what I struggled with, how do you know if the government support measures are worth 5 basis points, 10 basis points, 15 basis points? How do you know? I mean, there's no precedent. How do you calibrate that?"
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Well, they're only - they're built into the ratings that our credit officers assigned to each obligor. So, it's again, very granular. It's not an overlay that we applied to the determination of the provisions. But rather each credit officer in assigning ratings and looking at the migration, assessing the likelihood that each that that an obligor would benefit in some way from the government programs."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "I honestly think we've probably stayed on the conservative side of that in how we assigned those ratings changes. As you'd expect, the credit officers are minded to be conservative at the beginning of a crisis. And so I would think of that ratings migration or the, if you like, again, I'll use the word suppression of ratings migration as having been moderate in our judgment at this point."
+  },
+  {
+    "person": "Stuart Graham",
+    "role": "questioner",
+    "position": "Autonomous Research LLP",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question comes from the line of Amit Goel with Barclays. Please go ahead"
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Hi, thank you. Thanks for the presentation. So, two questions. I guess, one just again, following on the asset quality point. So I guess, in my head what I'm trying to reconcile is still, you show the key kind of focus industry exposure, about €52 billion, and then the incremental provision being the €260 million, so roughly 50 bps on that. So, I mean, how are you managing that kind of key industry exposure?"
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "And the second question I had was relating to the assets, which were reclassified to level 3. And so I think that was about €2 billion. And so I just wanted to get a sense, I mean, if you had used the observable, I guess, parameters what would have been the potential marks on those assets? Thank you."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So, let me go in reverse order just to hit the level 3. So, it was €4 billion in total. The way you should think about our guidance here is that there was relatively little that happened in terms of portfolio changes over the quarter. The increase in that balance was mostly driven by changes in the environment, their fair value assets and liabilities. And so, the change in any evaluation is fully reflected in our accounts. I can't speak too specific, what on that population of assets were the liabilities, were the gains and losses, but it's really reflected in the first quarter results."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So, the observability just had to do with the dispersion. And in some cases, the observability of parameters that go into those evaluations. And so, in our judgment assets were migrating from level 2 to level 3 in that, so they ensured they're marked. Sorry, the first part of your question, Amit?"
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "I can do this, James, if you like. I mean, I think actually Page 13 is in this regard to a good page to again through the sub pockets. First of all, that is as James laid out before, obviously, an individual name-by-name review we are doing in that portfolio, because these are the larger names which are fully under the scrutiny of the credit officers. And if you then go into the individual sub-portfolios in the oil and gas 80% of the limits or net limits we have is to investment grade names."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "We have on the other portfolios, for instance, in the commercial real estate, but also aviation when we talk about sub-investment grade ratings, you have a high-degree of collateral with loan to value, so where I would say, this is rather conservative. And then in sub-portfolios where I would agree with you where the biggest risk is like leisure. We are very small with hardly any concentration risk or towards absolute industry leaders."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "So, looking at that, and there I come back also to the times I know from my risk management time, I think this bank really learned to deal how to manage concentration risk, how to actively hedge it or collateralize it. And hence, I think we have good handling on this €51 billion portfolio in total."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And, one just thing to add to what Christian said. Remember that the expected credit loss which, frankly, moved relatively marginally in the quarter on our total portfolio of loans. And in fact, moved by less than our provision in the quarter, reflects also all of the credit mitigants that are in place whether that's hedging, CLO cover in addition to the rating of the obligor and the collateral valuation."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So, there's a lot of protection here that just that goes beyond what we're focused on the slide that Christian referenced to."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "We have time for one more question. The last question comes from the line of Andrew Coombs with Citi. Please go ahead."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Thank you. I'll ask quick question on cost, and then just a follow-up on the reserve build, but from a bigger picture perspective. And on cost, you're obviously very confident that you can still hit the 2020 target or potentially even beat the target. And that's despite some of the announcements about suspending redundancies in this environment."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "I know when you previously talked about the cost walk, the biggest component of that was coming from compensation. And I know when you drill down in Investment Bank at your Investor Day, of the €1.2 billion, I think only €0.2 billion was coming from the front office kind of duly done. The majority is coming from a back-office cut, still had to do."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "So could you just elaborate on what exactly give you the confidence on the cost save target? And what is substituting in for the lower compensation cost that you would have otherwise had, have you found cost saves elsewhere to achieve it? That would be the first question."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "And the broader question on reserving. I appreciate everything you said, I appreciate the position you've been put in between what the auditors request and what the EBA has requested. And I have a lot of sympathy for the point on avoiding procyclicality. But obviously, the approach you've adopted is very different to your peers, especially the UK and U.S. bank, but also a number of European banks."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "So, given the huge amount of subjectivity we now have not only on scenario assumptions disclosure, but now even the approach that's been adopted. Is there any discussion with the ECB, with the EBA about trying to get more consistency between the banks on this, because to some extent, showing the credibility of bank reporting at the moment? Thank you."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Andy, potentially I start with the cost one and then James is following. So, where do we take the confidence from? To be very honest, from various items, number one, we have achieved now for nine quarters our costs target. And that tells you that we have full discipline, full control and a management visibility into comp cost but also non-comp costs, which was simply not available 24 months ago. So, the work finance has done in order to allow deep dives to find where additional cost savings are, is brilliant and helps us actually to navigate, that's number one."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Number two, I think we need to a little bit potentially clarify what we said with the pausing of the restructuring. We said that in the first phase of this crisis where everybody was personally affected, we don't want to communicate, for that time, additional individual layoffs. We started that end of March, beginning of April, and we are now actively reviewing when we are actually regaining that, because with the lifting of the restrictions in the regions also here in the home country, where a lot of restructuring is done, we will also resume that. We are committed to this transformation and the restructuring."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Thirdly, we have 70 individual initiatives underway. Out of those only 30 initiatives are actually tailored at comp related issues, we have 30%. So, the remaining 70% are non-comp related. So, of course, even with a potential temporary pausing of new individual discussions you are full steam on and we are full steam on implementing the other cost measures."
+  },
+  {
+    "person": "Christian Sewing",
+    "role": "answerer",
+    "position": "CEO",
+    "text": "Fourthly, the last four weeks have shown us, as I said before, have shown us opportunities to cut additional costs. If we look at our travel costs, if we look at our entertainment costs, if we look at the real estate costs, all this is underway. Therefore, we have a Chief Transformation Officer who is doing nothing else, and looking at the chances and opportunities of that what we have experienced over the last four weeks, and actually thinking about what can we implement now long-term and that will also result in cost reductions. And that, combined with the track record this Management Board has built makes us confident to achieve the €19.5 billion or even be better than that."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And I'll take the question about reserving. Actually, I share your concern about the comparability, and that's something that we talked about both internally and with our regulators. It is interesting that this crisis came upon the industry at a point in time where U.S. GAAP filers switching to CECL. So the starting point is even the comparability across periods for some of our competitors was hard to establish."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "I think if you go back to first principles, you've got to start with, you compare each bank on the basis of the portfolio risks that they have. And a big starting point is, does the bank have a credit card portfolio? For us, our consumer unsecured is a relatively small part of the book overall. And so, I think it's entirely natural that you'd expect significant differences in the total provision level that we would take relative to some of our peers."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And I think also geographic spread is a piece of that, in addition to some of the things we pointed out about our portfolio, specifically related to the most effective sector. So that would be the first point that I'd make."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "I think secondly, it's worth spending some time looking at the resulting allowance level. So rather than looking at P&L provisions, look at where banks have ended up in terms of their allowance for loan losses or their allowance for credit losses against the portfolio. And interestingly there, you would actually see us pretty well in line with a number of our peers, once you exclude the credit card portfolios. Suggesting in a way that if our underlying portfolio is in fact less risky as we think it is than at least some of the comparables, our allowance is in fact on a relative basis, at least in line if not relatively more conservative."
+  },
+  {
+    "person": "James von Moltke",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So as I say, share your view on the challenges thinking about accounting standards and changes in methodologies, but I don't think that undermines an ability to assess the appropriateness of both provisions and ultimately allowances."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Thank you. I appreciate your comments and for all the details on the call. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "In the interest of time, we have to stop the Q&A session, and I hand back to James Rivett for closing comments."
+  },
+  {
+    "person": "James Rivett",
+    "role": "answerer",
+    "position": "Head, IR",
+    "text": "Thank you, Emma. Thank you all for joining us today. We appreciate your interest. We've realized there's also several questions that we didn't get to. The Investor Relations team will reach out to follow-up. We look forward to hearing from you all, to speaking to you all soon. Be well."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Ladies and gentlemen, the conference is now concluded, and you may disconnect your telephone. Thank you for joining and have a pleasant day. Goodbye."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

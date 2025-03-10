@@ -1,0 +1,1646 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you sir. [Operator Instructions] We have one first question from Mr. Stefan Stalmann from Autonomous Research. Sir please go ahead."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Hi, good afternoon gentlemen. Thank you very much for taking my questions. I have two please. The first one is you hint in the presentation at potential additional cost cutting and cost reductions. Could you maybe talk a little bit more about how much we could possibly expect here and by when and then which divisions those cuts would primarily affect? And the second question relates to the equities business. I think the impact from the dividend traits that you highlight can certainly only be part of this story that drove the weakness during the quarter. Could you maybe break down further drivers of the weakness whether it's the cost of hedging or counterparties defaulting or valuation adjustments or anything else that may have played a role here? Thank you very much."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Cost cutting -- additional cost cutting could be between 300 to 500 let's say on average 400. It's the order of magnitude we are targeting depending on the way of the business is moving. We can easily understand that accordingly to the activity of the bank and the different businesses there are some, I would say our marginal cost that can be avoided. So marginally a kind of low activity will help reduce the global cost base of the bank. So we were starting with kind of minus plus 1 billion. It could be up to minus 1.4 billion, even 1.5 billion. So this is a total cost base. For equities maybe Lars or Phillip can talk in more details the way we are splitting the €189 million that each the platform at the very – at the end of March."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yes. So in the equity derivative, I think we had indeed three elements of negative results. One is the €184 million due to the dividend restrictions that we are imposed in very harsh way, very swift way by the authorities. This is easily understandable. We are selling structural product that are mostly indexed on the indexes, on equity indexes and we hedge them by holding the underlying shares, underlying equities and of course in the pricing and in the economics of the business we take into account the dividend that we are going to receive while holding the stocks, while the indexes themselves I’m not taking into accounts dividends."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And so we are structurally long dividends issuer and we count on them to mark for the economics of the business and here it's about the 2019 dividends which were announced, which were in certain cases about to be paid and that retained at the end because of the strong recommendation by the authorities. And so this is a very isolated one-off loss which is clearly understandable."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Then apart from that as you have observed even apart from that the equity derivative business had a very flattish result over the quarter which means that they have loss in March roughly what they had won in January and February and this is due to two factors that occurred in March. The first one is the heavy volatility, very high volatility. We are showing the curves in the slide and of course when you sell structured s products with options embedded in it, the hedging consisting, adjusting the amount of underlying instruments we held in order to be delta neutral as much as possible throughout the life of the product and this dynamic hedging is of course much easier when the volatility is not too high and it becomes extremely difficult when the volatility becomes very high and hectic which happens in the quarter."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And hence we had this kind of losses due to the dynamic hedging always a little bit lagging compared with the very high activity, very high volatility in the stocks. And then the last one is about the price I would say reserves. At the end of each month and each quarter we adjust the mark to market according to the accounting standards and it entails a certain number of reserves which were indeed significantly increased in this period of uncertainty at the end of March. Just one example which is really understandable the mark to market, the day-to-day mark to market is based on the mid price and the middle of the bid and ask price"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And in the accounting standards we are at the end of each time we close the accounts we are supposed to reserve the amount which is necessary to close the position and this close out cost is depending of course of the spread between the bid and the ask. So because roughly it represents the half if the price is marked mid-priced it's represents the half the spread a bit of fair spread and this bit of a spread is in normal time is relatively small and so the adjustment is limited but at the end of March typically the bid, ask were very wide."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Sometimes it was not very clear even though where is the bid or where is the ask depending on the price and so we had to reserve a much higher amounts at the moment of the of closing of the accounts. So those are the elements that explain that the March month was bad for the equity derivatives but at the same time and given the diversification of our business the FICC results were very good as you have seen; an improvement of an increase of 35% compared with last year and this is balancing to a certain extent the difficulties encountered in equity derivatives."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Thank you very much, very helpful."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, sir. Next question is for Mr. Jacques-Henri Gaulard from Kepler Cheuvreux. Sir, please proceed with your questions."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Yes, good afternoon everybody. Well done, great set of result considering the circumstances. My question is about the politics of the results. You've chosen to show a cost of risk of 67 basis points. When I look at your pre-provision profitability, annualized okay, it's about €11 billion."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "You could have decided to have an ex-ante which was much more aggressive and that would have put you on an annualized basis at about 1.3%, 1.4%. And you could have literally wiped out every single bit of competition in a way by saying okay we decide to really have this big ex-ante provisionally irrespective of what happens."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "We have such a great cash flow generation then in case we are able to do that. So, I was curious to know what really drove you to just be stuck in a way at 67 basis points. And if you could maybe be a little bit more precise by telling us what type of GDP assumptions were behind it. Thank you."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "There are rules, we are not free to do thing we want first of all. Second, what we are doing of course is taking into account the quality of the balance sheet. So, I can make two very simple examples."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Cost of risk had been the price of 84% to 85% at this quarter, at Sandton there it's up 80%. And if you look at SocGen, cost of risk for the first quarter is 65, Trois Vieilles have been into by 67%."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, comparing banks that can some extent compared, we have been much in line. And again there are rules and those rules when you are looking ahead kind of forward guidance that well watching the quality of the franchise and the portfolio easily. We cannot create cost of risk that just do not exist."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "And about your GDP assumption, can you share them?"
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "Yes. Jacques, yes the thing is GDP evolution related to the cost of risk is not kind of a linear link. So, what you have to look at is that saying indeed what kind of products are we in, are they collateralize products. What kind of countries are we active in and in those countries are there guaranteed."
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "So, which all make the difference. So, the idea is that we basically took into account the kind of countries where we are; the kind of products that we have; the collateral that we have; and we basically apply that in a modeling that is basically operated by teams which are combination of risk and finance teams."
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "And that use models which are also -- which are our models that are also used in the stress testing the forecasting, so that's basically what we can say about this."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Okay, thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, sir. Next question is from Madam Delphine Lee from JPMorgan. Madam, please go ahead."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Yes. Good afternoon. Thanks for the presentation. If I could just come back on cost of risk. Just trying to understand a little bit more the level of provisioning in particularly for the sector which are impacted. I mean you mentioned on Slide 40 your exposures to oil and gas, aircraft, travel, et cetera."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And would it be possible to have the level of provisioning of coverage that you have in those sectors. And also for the full-year, in terms of your guidance of 15% 20% decline in that profit what cost of risk assumption are you using?"
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And then my second question is on capital. And would it be possible to get just some color on where you think you'll end up the year at in terms of CET1 ratio because I assume you will you might have some reversal on some of the impacts you've seen this quarter."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "But at the same time I guess market risk or credit risk migration and some impact from TRIM will put some pressure by year-end. So, any color would be much appreciated. Thank you."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, again on cost of risk; I don't think we are disclosing those details. You should look at oil and gas in particular. We have an excellent franchise. We existed in 12 and recently 17 most of the sub segments that are out there today having problems."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, it's a very good franchise we have in the oil and gas environment. Second, looking at the cost of risk, we are telling you basically how far we can go in terms of cost based reduction. You can derive from that kind of excess of provisioning compared to last year."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, from that you can derive ratio you would like to derive. These are average numbers in absolute terms which are one that are relevant in absolute terms. We believe that the pricing states we'll cover an exceptional increase in the cost of risk."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And again referred to the slide we gave you, it's Page 12 on the presentation. Cost of risk it refers to the ratio of cost of risk that to gross operating income you can see that through the cycle. It's found to be extremely resilient."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "It's that very in the way this is Deutsche Bank set to a very low type of cost of risk platform and well this is it. So, well all the numbers in absolute terms. Those numbers are the one that are relevant."
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "Yes. And actually maybe on the cost of common equity one at the year-end. If you look at so we stand at 12 and so how do we look going forward. So, indeed going forward there is a fraction of the impact in Q1 that might be returned."
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "It might be returned because the market risk and the counterparty effect will reduce. It might be that the PVA which is the Prudent Valuation Adjustment which if we look at the regulation will basically be impacting much less than it is today."
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "If we look at regulatory changes like the ones impacting PVA that could be regulatory impacts aligning Europe on the U.S. on things like software and the likes. So, these are elements that could improve. So, both the reversal of those elements and the changes in regulation could be a positive effect."
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "At the same time, I mean we at the bank we are there to support the economy in this crisis period and so this means that our risk weighted assets could go up. So, that is a bit the basis. So, the starting point is 12, it could go up for the reason that I said it could be a bit tempered by our support of the economy."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Great, thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you madam. Next question is from Madam Phelbe Pace from Societe Generale. Madam, go ahead."
+  },
+  {
+    "person": "Phelbe Pace",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "Hi well, good morning, good afternoon, such as best as such done. Thank you very much for taking my questions. First of all can you comment on --."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "We don't hear you very well."
+  },
+  {
+    "person": "Phelbe Pace",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "Okay. So first of all, can you comment on the differences between the moratoria and state guarantee schemes that are put in place in each of your core retail markets?"
+  },
+  {
+    "person": "Phelbe Pace",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "Have you actually seen any disparity in terms of effectiveness from any of these measures in any of these markets? And I'm thinking actually particularly at Belgium because this is where we've seen the highest cost of risk increase quarter-on-quarter compared to France and Italy."
+  },
+  {
+    "person": "Phelbe Pace",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "So, does that reflect any difference in the effectiveness of the moratoria and state support measures in the country? Any comments on this would be appreciated."
+  },
+  {
+    "person": "Phelbe Pace",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "And then regarding dividend and distribution, would it be possible to know how firm is your commitment to maintain an official bound ratio policy of 50% for 2020? Obviously appreciate this is very early date to discuss this, you still have the little visibility on the 2019 dividend so far."
+  },
+  {
+    "person": "Phelbe Pace",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "But any color in your commitment your official distribution policy, would be helpful. Thank you, very much."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Well, the last one is very easy. The commitment is 50%, the outright show -- what we are say preparing the bank to today. Cost of risk in the first quarter, I cannot have tell of any impact at a divisional level because of the quality or the efficiency or any kind of guarantee scheme."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "France, Germany, Belgium, Luxembourg, Poland to some extent is very close in the way they are built. Belgium, it's slightly different. It's a facility that is one commissioned. There are good reasons to believe that this scheme will be a completed in six weeks."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, nothing that can be derived from the level of cost of risk from the division and link to the efficient such plans."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "In Belgium, there were mainly the cost of risk of last year was extremely low I mean close to null. So, obviously that tables for end of quarters are least with or without crisis of which can only go slightly up."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And what we have seen in Belgium is as said increasing evolution to a more normalized levels of that cycle."
+  },
+  {
+    "person": "Phelbe Pace",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "Okay, thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, madam. Next question is from Mr. Jon Peace from Credit Suisse. Sir, please go ahead."
+  },
+  {
+    "person": "Jon Peace",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "Yes, hi there. So, my first question is just back again to your cost of risk provisioning and presumably you have a full case, a base case and a bare case and you've weighted them appropriately."
+  },
+  {
+    "person": "Jon Peace",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "And I just wondered if you could give us a bit of a feeling as to what those weights are and what your net profit evolution would be in those different scenarios to give us an idea of how things might evolve if the lockdowns end up being longer than we currently hope?"
+  },
+  {
+    "person": "Jon Peace",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "And then my second question is just on your CET1 ratio targets. Do you think targeting 12% is the right metric still in the future or do you think it's better to switch to a buffer over your minimum regulatory amount? Thank you."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Well, if you exclude extreme scenarios that could extremely good stream get even. The one that is we said the base case is the one that is a -50% comparing to '19 in terms of group result. The bad one is -20% and basically the difference is very much linked to the cost of risk and the difference in between -50 % and -20% at the end of the year."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "The net result of BNP Paribas is going to be very much linked to the cost of risk. So, this is 500 prospects in between the two, which is basically a 750 or 903 pre-tax. So, it gives the order of magnitude between the two scenarios; one that is relative say a positive and one that is a more severe at the end of the year."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, you are standing between -15% looking at the net result of the company or -20% and again this is a difference of basically 400, 500 prospects which is again the range of 600, 700 pre-tax. For Q1 ratio, the target for that plan well present."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "We believe this is the guidance we can give today based on the scenario we have. Under the previous guidance at the end of the year 2020, we would have been at a much better level but 12% the level we as of today we consider the company could end up at the end of the year including paying an exceptional dividend at the end of year."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Do we have to look at the distance to the minimum? Yes, we can give that information of course; it's easy to give that. 12% is also something that to some extent give some comfort looking here and be particular looking at the so-called Basel IV or finalization of the Basel package."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "We don't know as of today yes or no this will take place. Neuf a Bordeaux is saying that maybe this ultimate stage is not maybe required or necessary anymore. To some extent, if the banking system is able to pass that crisis based on the current Basel III, one could consider that is enough."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "It's as simple as that. So, it's too early to say. Clearly 12 is not the minimum we need. It could go below but this is the guidance we have under the scenario we are and the guidance we are giving the market today and more sits slightly below what we were heading as a target internally for 2020."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "When we communicated at the beginning of that year for the year 2020. So, clearly it's slightly below. But this is the target we are holding to the current guidance."
+  },
+  {
+    "person": "Jon Peace",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "Okay, thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, sir. Next question is from Mr. Tarik El Mejjad from Bank of America. Sir, go ahead."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Hi, good afternoon everyone. Just a couple of questions please. Just I will go back on costs. The €400 million to €500 million extra savings is that for 2020 only as like kind of one off cost saving due to less trouble and so on or its parts of it could be actually as well remain as the savings in the future years?"
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "And second question is, so which come back to that on the cost of risk. I mean I understand that you applying the rules and we don't have cost of risk as target. But with the COVID-19, there were some degree of flexibility in terms of interpretation of the rules."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "And I want you to understand that how you dealt with the integrating the macro assumptions within your models and also in terms of treatments or €4 billion and so on from -- for specific file. Thank you, very much."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Hopefully travels do not represent 400 on a yearly basis; there will be other inputs. One of them is that during that period of lockdown, you will discover it's already and we say why not to discover that the way you are banking with counterpart is slightly different. I mean it's very much the online way."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "The way the bank our platforms are leveraged by our counterpart is slightly different and place that we say are cost intensive. So, most probably part of this will be I would say stable or recurrent looking ahead; maybe not all of it, most probably a part of it."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "It will have not force but the reality is that the way the bank is moving today is slightly different from I would say the classical way because it is not that we are forcing our customers or our counterpart but the way it is they take."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "For them, it's much more convenient and for everybody's much more convenient to use anything that is with the online apps, customer journeys we design -- what the recent years. So, this is less cost intensive; so most probably in terms of flexibility; in terms of efficiency, we will divide we have a number of lessons shortcut and I'm pretty sure that was probably 2/3rd even three quarters of this can be recurrent."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, the marginal part will be only we say maybe travels or gathering so on and so on but this is going to be matter on. Most of it if we're disciplined will stay the way it is and hopefully it will also accelerate to the maturity of number of business models that we've been."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "To some extent but what we're in kind of acceleration what we were considering for the two, three, four years to come. I mean when we look internally to our first internal targets for the next term plan, to some extent in a number of businesses, we are already at that levels in terms of efficiency; online; digital."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Because this is the, I would say this is the way to bank with us and instead of being part of it is all of a sudden this becomes the majority of the business. So, we will draw all the lessons business-by-business and there is my opinion a lot to come from that situation."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "A lot to learn and it will accelerate the transformation of our bank as it will accelerate in my opinion the transformation on the global sector banking hopefully. So, we are quite confident that we to deliver those cross-cutting in a recurrent way."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yes Tarik, maybe on the macro view that you talked about on the cost of risk. So, what we took into account is a gradual normalization by the year-end. That doesn't mean that GDP is back, right. It just that at that moment we will start to normalize."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "For example, we assume that GDP could be reaching in the 2019 levels but not before the end of 2022; and so that is basically the models. The only thing in our model that we had to specify is the guarantee that have been installed in the countries that we talked about."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And so that is basically how we apply and that is how those parameters will evolve. Let's be very fair the deconfination like in Paris is starting gradually only next week. I don't know where you guys are but if you are in London, it is maybe a bit later. So, we'll have to see how that gradual normalization unfolds and how that impacts going forward."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "I would like to stress at this point that you should not try and look for a function -- cost of risk being a function of the size of the recession of this year. In the stage two of IFRS 9, it's about the losses, expected losses until the end of each loan."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And so, it first it depends also on the recovery with the -- the shape of the recovery which will occur on in '21, '22; hence the comments of last saying that we have taken a scenario where the level of GDP of '19 is only back at the end of '22 and kind of U-shape scenario."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "The second thing is that, even all those macroeconomics are only a small part of the ingredients that have been put in the machine in order to get a view of the cost of risk in the future because it's obvious that with the same macroeconomic growth and conditions and two banks with very different business profiles will have very different level of cost of risk."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And so, the nature of the assets, the nature of the activities that are conducted are more important than well at least as important as the macroeconomic figures."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And to that respect, again we insist on the fact that our business model is very diversified with a certain number of important businesses which have very low cost of risk like some improved security services that's an almost zero cost of risk."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "We have the private banking which is one of our strong points, has a very low or nil cost of risk. So, we have many businesses, insurance, where there is no cost of risk at all or almost."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, those elements have to be taken into consideration and hence the fact that we have last said that we have built a relatively complex model and system which and these of this mean looked at by the SSN by the way."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And in order to answer them to be able to provide our supervisors with figures on this stress test. And that we are using for all our forward looking exercises being with the budget or it's IFRS 9 or any kind of projections in the future."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Thank you, very much. I'll just try my luck for a follow-up on the cost of risk. I mean because it's very important element in terms of your guidance overall for the next profits. Would you be willing to give a range in terms of basis points or in absolute numbers?"
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "No, the range has been given on the net, I think."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Yes."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Because there are a lot of moving I'm sorry but there are a lot of moving parts. There are some uncertainties on the revenues as well to which extent are we going to lose fees that are based on volumes or based on values and to which extend are we going to make more net interest income due to the volumes we are going to generate."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, there are moving parts in the top line because we are going to increase our savings but to which extent are we going to be able to do it within one year there is also some uncertainty there. There are uncertainties to a certain extent in the cost of risk as well."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, at the end rather than putting a lot of figures, we have preferred to give you kind of range on the net/net which we think is already relatively I would say maybe it grudges bred maybe even given the circumstances. There are not that many banks having said that and we prefer to stick to that guidance which is at the end the bottom line."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, the most important one."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Thank you, very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, sir. Next question is from Mr. Matthew Clark from Mediobanca. Sir, please go ahead."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Hi, so two questions for you. Firstly on your CET1 outlook. Can you just talk in a bit more detail about the risk of rating migrations providing headwind by something that's only at competitors, that flags. But doesn't seem to be something that's implicitly concerning you given the flattish CET1 outlook."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "So, and maybe you could explain why that's not a concern for you if that's the case. And then secondly on the cost of risk, you are flagging an increase this year."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Could you give some kind of commentary on what you expect next year so that be normalized by next year as the IFRS 9 effects were off or would you expect it to still be elevated at a similar levels in 2021 as you are expecting in 2020, if not you are in talks with that as well as. Thank you."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "For equity Q1, I mean say one of this element is the impact of its market related activity. Maybe the difference in the evolution compared to some peers is 30 bips coming from it. But if you compare the opposed option in terms of bips, the decrease is very much the same. So, I don't believe we have something that is that different."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "It's more about going forward rather than the first quarter. So, as the year progresses, presumably you have to update your modals and they will show a deterioration in the fundamental prospects of the businesses whether you allow me to."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Sure. So, Philippe will tell."
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "Now as you -- now, you're right that we are also taking into account some rating migrations. One lastly enumerated the positive and negatives maybe forgot this one but yes indeed there is this one as well. But all-in-all, we well we still consider that each the positive element should help absorbing the negative ones."
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "Indeed at the end of the first quarter, we had a range of negative impacts that are all coming all at once and that are due to the largely due to with what happened in March and at the end of March. And that normally should come back progressively. The 10 bips on the value added trades for example like Jean said typically it's due to the extreme volatility in March and by decision."
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "And as you know the way it's calculated, it's going to be progressively withdrawn of first less-and-less weighted in the calculation and it's going to disappear after one year completely. Assuming of course that there is no another, there is no other crisis in the mid time."
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "And of course this is a prerequisite of course. As the same for counterparty risk, which the counterparty risk increase which is another 10 bips, is due to the fact that because of the big changes in the values in March and beginning of April, the derivatives have moved a lot in value and hence the counterparties had increased."
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "Because of the net present value of the derivative. But with time elapsing, these net present value are going to be progressively going to zero. And given the average maturity of our OTC derivatives it's within one year it would also be quite negligible and the present value should come to zero as well."
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "Here it's for regulatory reasons and also because it's linked to the volatility at the moment of the closing. And then, hold the impact from the OCI are also partly probably going to come back or at least to be somewhat mitigated."
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "So, we have several plus the software adjustment to the regulation which is underway, which has been voted with level one techs. So, now it's just a question of put to being that being put into force and it is announced for mid-June, if I am right."
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "Because it has been while it's going to be anticipated rather relatively early this year. So, all this creates several positive impact from the common equity Tier 1 and we view the negative ones that are going to come, including rating migrations as well relatively well not overwhelming the positive ones at least."
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "The migrations, I would like to stress that we are of course according to the regulation by the way, we are our ratings are through the cycle. So, they are suppose then it's supposed to change each time, there is a hiccup in the macroeconomic situation."
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "Of course, there will be rating migrations nevertheless because this is a shock we'll necessarily have some consequences on certain companies. But again, our analysis of our loan portfolio is such that we don't see that as being a big movement in the next months."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you sir. Next question is from Kiri Vijayarajah --."
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "Just to come back on the question on cost of risk, into 2021."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Well, yes. Normally, if you assume that 2022 kind of back to normal. '21, we stay at a kind of a high level. Too early to say if this level will be just the same compared to '20. Of course, looking at the new accounting norms, normally '20 is a kind of maximum and '21 should be slightly below."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "But this will very much depend on the real scenario we'll be in. But if the 2022 is the back to normal year, '21 as a consequence we will see still a kind of high level cost of risk compared to we'd say that through the cycle normalized cost of risk for the company."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Very clear, many thanks."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, sir. Next question is from Mr. Kiri Vijayarajah from HSBC. Sir, go ahead."
+  },
+  {
+    "person": "Kiri Vijayarajah",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes, good afternoon everyone. A couple of questions on capital, if I may. So firstly, on the XMT provisions that you're taking, just what are your thoughts on taking advantage of the IFRS 9 transitional rules."
+  },
+  {
+    "person": "Kiri Vijayarajah",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Holding back some of those provisions from actually hitting your regulatory capital, giving yourself a little bit more flexibility to be more aggressive on some of those provisioning going into this cycle."
+  },
+  {
+    "person": "Kiri Vijayarajah",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then secondly, just a really clarification on your Slide 16 on capital. And the -20 bits you show from supporting the economy just some color on what's driving that -20 bips and through risk weight asset inflation."
+  },
+  {
+    "person": "Kiri Vijayarajah",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And importantly, is it there more of that in the pipeline as you presumably as you support the economy further? Thank you."
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "Yes. Kiri, first on the IFRS 9. So, what if you look at the evolution of our common equity Tier 1, we've given the main drivers and then we basically said that all the other effects basically cancel each other out?"
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "So, what we've done is that as there are some new kind of rules when it comes to securitization which are phasing in and which are increasing a bit the risk weighted assets we've also phased IFRS 9 to basically iron out all those regulatory investments. So, yes we have phased IFRS9 but the impact on all of these elements coming into play are basically zero."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And Slide 16, the 20 basis points, they are the risk weighted assets associated with new credit that we extended towards the end of March in order to support our clients. We had a lot of underwriting of new syndicated lines and the underwriting of bonds and so on and this created risk weighted assets at the end of March."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Part of that indeed has been distributed beginning of April. The pace of new and the writings has slowed down somewhat and probably will slow down further. So, part of this will be somewhat eroded I would say in June but another part is going to stay because we have also some final take."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And this fact and -- the support to the smaller companies is going to get into force during the second quarter. It has already started quite rapidly. Of course it's guaranteed by the government to the tune of 90% or 85% depending on the countries."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "But still, there is a path which is going to remain how at our risk and so that's going to feed some additional risk weighted assets. And so this is why we consider that this part of the risk weighted assets should rather go up probably in the limited way but still the trend is somewhat up probably during the course of the year."
+  },
+  {
+    "person": "Kiri Vijayarajah",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Alright, thank you, thanks, guys."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, sir. Next question is from Madam Azzurra Guelfi from Citi Group. Madam, please go ahead."
+  },
+  {
+    "person": "Azzurra Guelfi",
+    "role": "questioner",
+    "position": "Citi Group",
+    "text": "Hi, good afternoon. I have a question on the government guarantee scheme and how the profitability of this new lending will compare with the profitability of the existing lending."
+  },
+  {
+    "person": "Azzurra Guelfi",
+    "role": "questioner",
+    "position": "Citi Group",
+    "text": "And then the second one is way more general but I can see how the resilience of being your balance sheet; your capital; and the high level of provision profit."
+  },
+  {
+    "person": "Azzurra Guelfi",
+    "role": "questioner",
+    "position": "Citi Group",
+    "text": "But then you think that the lack of transparency that you are providing in terms of the moving parts of 2020 would put you in a disadvantaged position versus banks that maybe are weaker the new in terms of ownership and by provision profit but that has been more transparent? Thank you."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "I am not aware of banks that have given such a clear way, a guidance for the end of 2020 year. So, if you find one, tell me before they work."
+  },
+  {
+    "person": "Azzurra Guelfi",
+    "role": "questioner",
+    "position": "Citi Group",
+    "text": "Now, I'm talking about -- sorry I am talking about the details."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Just the part of cost of risk."
+  },
+  {
+    "person": "Azzurra Guelfi",
+    "role": "questioner",
+    "position": "Citi Group",
+    "text": "Yes, on cost of risk."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "We gave all the details within guidance, if I may you are not giving anything. So, we are among those who may be the only one that have given clear and full guidance in 2020 if I may again."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "On guarantee schemes, it's very simple. The part that is guaranteed is risk free in terms of risk weight. So, it's away from the balance sheet in terms of quality equity Tier 1 and capital conception."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And the liquidity that is behind to finance that part, most of it is coming from the central banks. So, it's a kind of spot the bank but to some extent it's away from the bank because it's a kind of free equity portfolio and second liquidity necessary to finance that portfolio is coming; we say most of it from the central bank."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, it doesn't have any effect on the profitability of the bank nor in a positive way nor in a negative way. It has obviously a strong positive impact on the underlying economies because it ring-fence those companies and most probably ultimately it reduces the cost of risk of banks that are operating locally in those economies."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, if you look at the pure P&L net banking income, no impact; if you look at the cost of risk on that portfolio, no impact; if you look at the equity side, no impact; but globally it improves the quality of the global portfolio and most banks that are operating under those scheme."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, ultimately to some extent its limits the impact of the crisis in terms of the crisis in terms of cost of it in those local economies. And clearly those things are very efficient in Germany, France, Italy, Luxembourg and this will help obviously keep cost of risk at a very acceptable level in terms of it. Its globally would say part of the game."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And so, impact cannot we do internal P&L of profitability, the regular way for the portfolio in the bank but it's an indirect impact on the quality of the franchise and the economy you're operating in locally in any country. That is a benefit from that type of a scheme. And you can say just the same in California, for Bank of the West and the federal scheme."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And you have the same in Poland, to some extent we've also seen that is equivalent in 30."
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "And to fully understand what Jean-Laurent says, I would like to add that you have to bear in mind that of course Deutsche Bank in those schemes each bank is supposed to bring its own clients. And also we are going to."
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "So, each design in order to help normal company that would be affected by the economic environments temporarily and that’s all I have to be helped to bridge the bad period and to go through the crisis and resume the activities in a normal way. And we are going to bring our own existing clients."
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "And again, we feel that the client franchise is very healthy that we have in our different country. And so, it's going to help really keeping the cost of risk at a low level as Jean-Laurent said."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, madam. Next question is from Mr. Jean-Pierre Lambert from KBW. Please go ahead."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Okay, Jean-Pierre. You've left this?"
+  },
+  {
+    "person": "Jean-Pierre Lambert",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "I'm mute, and there can you hear me, sorry?"
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Yes."
+  },
+  {
+    "person": "Jean-Pierre Lambert",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Okay, apologies for that. I have questions related to the guarantee schemes, two questions. So, first one. How are the guarantee schemes integrated in your expectations for loan loss charges. Is it in the probability of the scenarios, is it in the loss given default or is it in the higher GDP or higher recover if you want of the economies. Just how you do use this from a methodological point-of-view."
+  },
+  {
+    "person": "Jean-Pierre Lambert",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "The second question is on your tactics for the use of the guarantee. If you look at the cursor of internal rating, which bank you target for the guarantee, does it make sense to get the guarantees well highly rated customers or the mid of the range which could fall into stage 2 or stage 3. How you see the tactical allocation. Thank you."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "There is no tactical allocation there. Our rules depending on the different companies and in Europe the strict control of the European commission which means you do not grown that loans to companies that where we'd say fragilize before the crisis they are seen through. So, the tactical I would say process part of the game basically through those schemes you are helping companies that were very much sound before the crisis."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Then you have a few exemption for maybe larger I would say companies in any country. But this is more like kind of restructuring and to help restructure certain situation. So, there is nothing that can be considered tactical."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Looking at the impact, for the time being but considering I'm not computing those schemes in our scenarios because it's too early to say. They be what we can say is that to some extent it's -- those schemes protect those underlying economies and instead of having case scenarios I'm seeing that is really bad. We have something that is slightly more acceptable."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "But looking at I would say our guidance, those schemes are not say computed in or factored. We know that they are existing. They are processes, they will help I would say ring-fence these underlying economy most probably to make it short. It give confidence to the fact that in '22 which can be back to let's say 19 in terms of absolute terms."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "I mean it’s a kind of a ring-fencing of the economy and most probably based on this the local economies would be less fragilized by the crisis and the ability to rebound in '21 will come sooner and down as such the rebound can be completed in 2022."
+  },
+  {
+    "person": "Jean-Pierre Lambert",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Right. Thank you, very much for that."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "The very short increase do you see the probability of seeing '22 a kind of normalize the economy compared to '19."
+  },
+  {
+    "person": "Jean-Pierre Lambert",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Perfect. Thank you, very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, sir. Next question is from Mr. Omar Fall from Barclays. Sir, please go ahead."
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Hi, good afternoon. Just a couple of questions. So firstly, specifically on personal finance. Could you give us a sense of how much state support could apply to this business line in its various forms, I mean assuming very much compared to the network. Is that fair?"
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "And how much have you put in place in terms of moratorium programs in this business so far if any. And do you plan to do so. And then second question, sorry a bit boring but last quarter you very helpfully gave us guidance on potential exceptional as is see from real-estate sales and adaptation and IT costs."
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "It seems the real-estate gains you've done a big chunk of that and maybe you're running that all slightly lower run rate for the cause. Could you just confirm that within your full-year profit target the 15-to-20 you have those initial numbers, the €500 million of gains and the restructuring costs as had before or you've made some changes because maybe you've seen some more gains that you could do? Thank you."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "For that second part of your question I mean gains looking at disposal of buildings are going to be exactly at forecasting at the beginning of that threshold. We can only come from that one and then we're seeing that restructuring cost we can only confirm should get them."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "But anything that is that which are on we call exceptional items, which are not that exceptional compared to the current crisis but those items we were. We are accustomed to describe as exceptional, are going to be very much in line or exactly on line in line with the initial guidance."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "For personal finance, Lars will give you maybe some more details. But we have to understand that it’s a multi-domestic business, the approach in that domain depends very much on the local I would say jurisdiction, moratoria or especially BancWest even on the local approach."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And the underlying business can be slightly different in different countries because the business model is just exactly the same in the country. So, maybe Lars can show more details."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yes."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "But it's more difficult to explain personal finance on average at that moment of the cycle."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yes, indeed. And so, let's say the largescale moratoria, like that what we've seen in France or what we see in Italy which is applied to the corporate and SMEs, is not something which at large let's say it's available in that activity. So, it is more something that the bank is looking at how to handle."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Then again, that depends on a country-by-country basis and depends also on the kind of product the collateral the guarantee that is in place. And so, that is why the overall impact if you look at the cost of risk of what we've taken up into looking forward is in personal finance a material part of the cost of risk outlook whereas for our domestic markets it is a minor part."
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "And just as a follow-up to that, thanks for that. I mean, I guess you're very busy looking at all the parts of the portfolio. You have concerns everywhere but specifically personal finance, the short duration at the bank. Is this scenario that you think that's very much in the forefront of your mind in terms of stress?"
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "And then how would you look at things like the used-car market which luckily it has an impact on this business as well?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yes, there's two things. So, when you look at it, indeed if you look at the efforts that are being done to reclose to the customer. It will see how we can evolve that is and particularly the most intense when you look at personal finance compared to the other domestic market given the turn over given the duration."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So, that is clearly the case. And so, that's why as I said its it is a big part of the forward-looking cost of risk. So, I'll leave it to that, Omar."
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Thanks so much, Lars."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, sir. Next question is from Madam Giulia Miotto from Morgan Stanley. Madam, please go ahead."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Thank you. Hi, good afternoon. Two questions from me. One on cost of risk and one on capital, please. So, on cost of risk, could you please quantify what percentage of your loan book is at the moment affected by payment moratoria?"
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And whether you're already provisioning for some of these or you are taking approach that you think these all depends on COVID and hence wants the kinds of these all where you will get this payment. So, you just doing awkward that ever news in the wait. And till the end of the moratoria? So, then the first question."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And then the second question. So, we have this cast potential negative movements to capital but I would like to ask you, could you please quantify the positive impacts that could come from the European commission wide ranging sort of mergers recently announced."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "So, the intangible what you're referring to, it has any an infrastructure supporting factors for example so that we could have an idea of the money to dock these as well. Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Okay, yes. And maybe when we look at the impact of the moratoria, it is if you look at the picture of our balance sheet at the end of the first quarter, it's it that too early to basically see those movements. It depends also a bit country-by-country."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So, if you take for example Belgium where there has been a big flux when it comes to mortgages which fall at the same time, which have been done. There is a high number of that being applied. So, but it's a bit just at that too early to give that number."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "But you're right, when it comes to how we see the moratoria and how to evolve, it is of course we're looking at the period thereafter. So, that is why we and when we look at the cost of risk, we look at the sectors in which they're active. Some sectors will probably rebound post COVID, stronger."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "There are orders that will rebound slower and that our elements that of course we take into account provisioning of the cost of risk as really as I said earlier it's just not mechanical, we look at all of these aspect."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "When I go through your second question on the potential positive impacts of what Europe is doing and what it means for us. So, if you look at what we have guided depending on what the exacts, the final shape and form will be when it comes to aligning Europe when it comes to software on the U.S., so no longer deducing that from the capital."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "For us, that will be something like the equivalent of 20 basis points. When we look at the SME supporting factor, that would be in the range 5 basis points to 10 basis points, and then there I also I think called the IPC, they revoke all payment, which could be up to 10 basis points."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So, that is a bit the effect that these kind of measures would have on BNP:PAR."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Thank you, very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, madam. Next question is from Madam Anke Reingen from Bank of Canada. Madam, go ahead."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "Bank of Canada",
+    "text": "Yes, thank you very much for my question. I'm just following up on the capital question. Just to come from the 12% thus, then not include any assumption of a term hit. And should we basically assume the 12% is the target and you basically adjust your payout with respect to financially a 2020 and potentially '19 dividend regarding where you land well up to the 12%."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "Bank of Canada",
+    "text": "And then just lastly, I guess on the capital by far you could helpfully the slides on the different levels to MDA and obviously its business in thus a 2:1 ratio. That's the constraint but on the Tier 1 and total capital ratio. Am I missing something or you're considering closing the gap so that the CT1 becomes the binding constraint."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "Bank of Canada",
+    "text": "And then maybe just lastly, do you have any thoughts about the recent announced TLTRO and if you would be interested in picking any more orders rolling over them? Thank you."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Just to start just briefly. TRIM up to now has not considered that much. We have gone through a process. TRIM is a multi-tier process, who is inspections going on the different types of models. So, we have already gone through set number of TRIM visits."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And up to now, the impact has been in total relatively limited. And so we have never been you remember we're not really afraid by the TRIM consequences and up to now we've been right. And in any case, TRIM visits have been stopped by the ACD in that moment which will prove probably also for operational reasons because it's scientifically to have the TRIM inspection without being onsite."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And so, and we don’t expect that to resume really in a significant way before the end of the year. For the TRIM question, anywhere would be a result question for '21 I believe. And then, I would like to provide something on the payout ratio. We stick to 50% payout ratio."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "The only thing is that the SSN doesn’t agree with that. They have stopped us. And so, at this stage we are there. We say that we would like to distribute 50% of our results and our '19 results and then our '20 results and we wait for their decision in October."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Because I understand that they have said that potentially in October they will review their recommendation. And so, we are we cannot give you we don’t know more than and we exactly everything. We want to pay a 50% payout ratio for the 2020 plan. And the only think is that we have been prevent from paying it this time."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "We're basically being prevented. And so, we postponed on the 2019 but as you have seen in our presentation on the first quarter results of 2020, we set aside 50% of the earnings for dividends. So, that is to confirm that we remain on that trajectory."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "When it comes to your question on the MDA, so the MDA is the distance into. So, in Euro's that if you would drop that amount of capital, you would be prevented from paying coupons and the like. And so, that MDA has to be calculated on common equity on Tier 1 and on total capital."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And so, indeed in the past it was measured on the common equity Tier 1. What you see now is that with Europe advancing the rule of part of the P2R which used to be fully in common equity Tier 1 as that have now removed into the Tier 1 and the total capital."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "But the calculation of the binding concern on the MDA is now on total capital and that is the €15 billion distance that we have. So, we are very comfortable on that."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "Bank of Canada",
+    "text": "On TLTRO, please. Thank you."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Yes. Well, TLTRO was till through -- we well each type of such I would say window, new windows, is carefully looked at. As you know it is not bank loan, it has to be collateralized with certain type of collateral. We try and factor the best of each type of windows that kind."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, we don’t exclude to indeed to use a new TLTRO of additional TLTRO that has been opened. And yes, trust plans, we don’t seem to use the TLTRO which is less survival."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "Bank of Canada",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, madam. Next question is from Madam Lorraine Quoirez from UBS. Madam, please go ahead."
+  },
+  {
+    "person": "Lorraine Quoirez",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "Hi, hello good afternoon. Thank you, for taking my questions. Just a few things from me. The first one is as you said it's quite remarkable and a pretty move to provide us with the guidance for this year net income. And given there is so much uncertainty and it's also not so easy to cut cost in such a period of time."
+  },
+  {
+    "person": "Lorraine Quoirez",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "I would, wondering what else you could do to reduce and the P&L if needs be. You already announced some real-estate disposal you share and I was wondering if there were already some of the options you could have identified, again if needs be."
+  },
+  {
+    "person": "Lorraine Quoirez",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "Also, with regard to the equity performance. I was wondering whether these could lead you to review your project offering. In equity there is achieved. And finally, on the leverage ratio, just wondering how low are you going, are you ready to go to sweep out the economy. Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "We could? Can I sit here?"
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you for your comment on the quality of the guidance. Lars?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yes. If we look at if I start from the leverage. So, let's not forget, leverage today the regulation says that we have to be at 3%. We typically hover around 4% during the first quarters of the year given the additional production that we have done this first quarter, we are at 3.9%."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So and don’t get me wrong. But so, the leverage is not the metric by which we stay at the bank, we do it on common equity Tier 1. And we are structured in such a way that the leverage remains where we did. So, that is basically that point."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And when on that brave guidance of 2020, as we said the main thing that give us a bit of comfort is that in the moving parts you have the cost of risk. On the one hand a bit on the other hand you have the cost. And the cost it is not a magical bullet that we fire."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "It is something that we have been doing, it is part of the plan or the plan ending in 2020. So, that is the kind of levers that we are putting in place and that we are strengthening. So, that's basically that."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "When it comes to equity. What you know is we are in the process of equity and prime services of diversifying further that activity. So, that activity that we have is fine, we're strengthening this with bringing on board the activities that we have acquired from other players."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So Lorraine that would be the three answers."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, madam. Next question is from Jean-François Neuez from Goldman Sachs. Sir, please go ahead."
+  },
+  {
+    "person": "Jean-François Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Hi, good afternoon. I have just one question and you see it relates again to your outlook. In a sense if I take a step back and I look at what the market thinks of your share. In a sense, this is trading at less than 40% of tangible book. Going into the results, we are probably compenses expectation are for much higher provision than what these guidance seems like."
+  },
+  {
+    "person": "Jean-François Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "And it's not taking much notice on the new elements of measured cost of risk increase. And of a potential redemption of dividend in particular following the suspension but were decided earlier due to the COVID crisis."
+  },
+  {
+    "person": "Jean-François Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "So, obviously you have a unique perspective of your own business and of the quality of your book. And I just wanted to know what you think you can share that could have break on side, essentially these. These two extreme views one of which essentially your cost of risk or your profitability implies something which we know were close to what's bedded in 2008."
+  },
+  {
+    "person": "Jean-François Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "While the market is taking a completely different view. Or maybe in converse what that make you think if you have to think a second time about but we all through can take into account what the market implies for BNP. Thanks."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "But you are very much to look at Page 12. We got numbers on that. And right in guidance of long-term observation. So, it's we believe that was a group of breaking in so many businesses that roughly is moving for use in a very disciplined way and then you believe this is real."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And it seems that so really should look Slide page 12 or you believe that we are very much on that which you should have -- should believe that we're very much on average. It seems that you are not looking at BNP Paribas."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "That's in poll of that, there is no other point that there is no other point."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "This is the basis of the difference and it seems that any bank a certain region, and talking of now is considered the risk side basically on average. I mean, everybody as long as I can look to read, understand comments coming from experts, analysts, and so on and so on."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "They are all looking at the situation on average. In fact, there is no difference made but in between platforms just to so we're commanded with those."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, you consider that is a certain discipline that is derived from a very decertified model which puts the group in a situation which allows everyday to balance one loan against another one coming from different geographies and business in terms of quality."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, and so you've been lived this discipline that really exist at group level and in our businesses or you believe this just as doesn't exist. So, if you considered the group on average, which you get an average I would say results, this is basically the difference."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And if I made a very much say the there's 12 that you can measure a certain difference. And I am not saying that this will stay forever, plus I'm just telling you that this discipline within place of group level for a number of years and we never lost that discipline."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, most probably again in that crisis, we should make a difference. So, this difference will explain a certain I would say a positive impact in our favor compared to average looking at cost of risk."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And is familiar, been aware for a certain fund in Singapore that is costing at the range of $2 billion to potential banks where we are not part of it. We are not part of it because back in ‘12 we exited that counterpart because we are just lucky."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, and there are so many situations while giving up revenues nice margins because we tend to grow a kind of low risk approach to our different businesses. Of course, this is a new crisis, this is a crisis of new light. It's kind of and it’s precedented situation. So, you never know."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "But this is discipline ultimately will be represented in the cost of risk."
+  },
+  {
+    "person": "Jean-François Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Okay excellent, well done."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Maybe another way to look at it Jean-Francois, is that when we last said that already but I will tell it another way. When we say that the guidance for this year now is minus 15% to 20% and it doesn’t mean that the impact of the crisis is 15% to 20%, because it's rather 25% to 30%."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Because we were supposed to improve in that last year of the 2020 plan and given what we have said about our target. We are supposed to improve from ‘19 to ‘20 before the crisis to improve by 10% roughly the net. And so, instead increasing the net by 10%, we are seeing that we are going -- is going to go down by 15% to 20%."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, the gap is bigger than it seems if you just compare ‘19 and ‘20."
+  },
+  {
+    "person": "Jean-François Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Okay, excellent. Thanks, that's a good classic answer."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Element of reconciliation, maybe."
+  },
+  {
+    "person": "Jean-François Neuez",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Thanks."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thanks. Thank you, sir. We have one last question from Mr. Pierre Chedeville from CIC. Sir, please go ahead."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Yes, good afternoon. Can you hear me?"
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Yes."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "One question regarding insurance, as you are a creditor insurance leader. I would like to ask you whether you see the combined ratio evolving on this specific line of product. And also, what is your if you give it I don’t know, your solvency ratio in insurance but generally you don’t give it, but regarding the second stance maybe you will make an expectation? And my second question relates to the cost of risk and more generally to this specific situation where you have more than 130,000 people working remotely, do you think that you will have a come back to a normal situation after the crisis. Are you engaged in – I would say a longer term reflection regarding the way you manage your organization and in terms of working organization [indiscernible] to understand and that could result in a additional economies? Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Shall I start on insurance, so you are absolutely right, when it comes to non-Life combined ratio, it’s a very important metric and what we are living today there will be an impact of course. And when it comes to Solvency, as you know, Solvency as insurance as part of the group, there is a total aspect and so in particularly the Solvency indeed on [indiscernible] is not a metric in particular, but as you can imagine it is well positioned as you know, and so we are well above where we have to be at minimum. So that is being the key – the two points on insurance. On remote working?"
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "On remote working, we believe that, while first we have surprised by the – our capacity to extend the work from home as fast as we did and as successfully as we did. And not only our sense, I mean it was I think most probably the industry as has always done the same, which shows that well – we probably we could do more in normal times. We had introduced work from home to the tune of maximum two days per week before the crisis and in practice it was rather on average one day per week that was chosen by our team members."
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "And then in the progressive freeing up that we are going to leave, we intend to put back people at work in the office only very progressively, very gradually and probably we will not come to the back to the previous situation. At the end we should very slightly that we will find the balance with more work from home and even in normal time, for me not five days a week like today but probably more than one day a week like before probably some seen in between, I don’t know exactly whether it would be the right balance we see probably the difference from one business to another, it has to be tested I would say in a very decentralized way, but eventually I agree with you, we will end up with probably more work from home than in the past which will entail certainly new savings especially in terms of buildings and premises."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "To give you one example today we are gathered in the Board room of the bank, so we are four in between us there are let’s say two to three meters distance usually we are 12. So we have a good potential in terms of cost cutting. Not a joke, I mean it’s just a fact that, in the digital universe we can deliver a number of services that are much more fluid as long as the counterpart like you, I would say can accept that kind of an interface and clearly this happened, I mean this was basically at a very center of the next term plan how we can push – how far we can push the digital model, the online approach and get rid of the formal, I would physical face-to-face type of interaction that is useful from time to time but cannot be anymore the bulk of the relations we progress. And provision is that trades, payments, everything, day-to-day banking is delivered on nights through automats, through --."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, where -- we have to take the measure of that the full measure of that situation and businesses-by-businesses, processes-by-processes, we have to deliver. In three weeks, throughout Europe; from U.K. to Nordic's; through Poland to Southern Italy."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "We delivered 50% of all the underwritings for large companies; 50%. And we were the lead bank for in 70% for bond origination. Well, it means that we've been extremely efficient. As always it I would say doesn’t comply with the regular way of delivering the bank."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, we've experienced a very unique situation and we have to draw the lessons, of course this situation cannot be I would say the model. Because clearly it can be a system to some extent in a limited for a certain limited period of time. But I would tend to say that most probably half of it even to show the week could be I would say mid-term."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "In the mid-term meaning the two three years to come. And this clearly will have an effect impact on the efficiency of the bank. To be reinvested most probably in as of value at that type of services or products."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And clearly, because that was so true that, that moment we have measured. I would say the satisfaction of our colleagues working from home. We have developed I would say to stress to keep track the satisfaction at home. The results were getting much better that to one we're good thing usually."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, we think also something is that, that way of moving and delivering the bank is also to some extent more efficient also for our staff and our colleagues. And from that you can also deliver additional level of efficiency, that satisfaction, quality and so on and so on."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, nothing can be I would say built in just two months such, this parenthesis gives us my opinion a unique view. Unique observation; unique experience of what we could stabilize for the years to come in that new universe of banking and online services knowing that of course face-to-face relationship instead very heart of the design."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Because there are number of as a service is a situation, you can only I would say deliver or consider that kind of face-to-face approach. So, well this is the to some extent this is also a unique opportunity of this industry for banking, insurance, financial services."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And it will push us the direction with an extremely strong momentum. And transforming -- because we have seen that situation every day. So, the question is not to be convinced, the question is not to believe yes or no we can deliver, yes of course we can deliver clearly."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "We will have to adapt some systems, some processes to make it happen on a regular basis. But what we've seen recently and what we currently see for us and I guess for a lot of other banking platforms is full of potential."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "I'm not saying this is going to be easy but the potential is there and now we'll have to deliver it in a more say a recurrent way. And again, I'm not saying it's simple but the day you can see the potential I would say a better stance to deliver."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Thank you, very much."
+  },
+  {
+    "person": "Philippe Bordenave",
+    "role": "answerer",
+    "position": "Chief Operating Officer and Member of the Executive Board",
+    "text": "It’s a good question anyway. A Very good question, anyway."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "A good question to wrap it up. And there are no further questions?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "We have no further questions."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, thank you. We'll close the call. And thank you for having there with us. This is a remote time. And well, we hope to have an opportunity to see you in person soon. And take care of yourself in this period. All the best."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So much, take care. Stay safe, bye-bye."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Ladies and gentlemen, this concludes the conference call. Thank you all for your participation. You may now disconnect."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

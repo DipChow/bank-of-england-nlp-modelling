@@ -1,0 +1,668 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. [Operator Instructions] The first question is from Jacques-Henri Gaulard with Kepler. Please go ahead."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler",
+    "text": "Yes. Good afternoon, team. Just a question about the involvement of the regional banks in the capital of CASA. By enforcing them more closely, don’t you run to risks basically? The first one of materially reducing the liquidity of the shares. And at the same time, you’re actually keeping the option of taking the company private at a potentially low price because in any case, [indiscernible] would have no commitment to maintain any sort of price. If that was the case, then wouldn’t that make the long-term investment case of CASA a little bit pointless, basically? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Well, Jacques-Henri, I think that considering what we’re talking about, I think your fears are, to a certain extent, overstated. Materially reducing the liquidity, we are talking about an operation that could represent up to €1 billion up to the middle of next year. So it’s not very significant considering the size of the liquidity and the free float of CASA. And so I think that the fear of seeing a reduction in the level of liquidity is not very material. I just remind you that back in 2021, we ourselves developed two share buyback operations, representing all in all, more than €1 billion. So we know what it represents €1 billion for CASA and it’s not changing significantly the liquidity."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "And the second point regarding the intention that you, I would say, that you’re referring to of possibly taking the company private, I think the shareholder made it very clear that they don’t want to exceed whatsoever the threshold of 65%, which is quite far away from any kind of take private. So definitely, I think it’s not the intention of the majority shareholder. This is not going to change anything in the governance. They will not have any additional governance rights or whatever. So it’s really a technical, financial and even if I may say so, opportunistic operations considering the financial capacities of the regional banks and considering also the market condition."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler",
+    "text": "Thank you, Jerome."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Delphine Lee with JPMorgan. Please go ahead."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Good afternoon, Jerome. Thank you for taking my questions. My first question is on net interest income. If you don’t mind just sharing with us the benefits that you’re going to lose or what you have booked maybe so far in the first half on TLTRO, just so we understand a little bit how much is going to fall away next year, both in French retail, NII can grow next year because of those headwinds and also because of the Livret A, which is likely to go well above 2%?"
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And then my second question is on capital. So you mentioned that the headwinds would reverse, and I understand what you mean by – with the OCI and the pull to par effect. But could you maybe share a little bit of timing of that? And also on market the way inflation because of the volatility, can we see some reversal of that in coming quarters or years? I mean, just trying to understand a little bit the speed at which capital could go back to where it used to be. Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Okay. So regarding your first question on NII, benefits of the TLTRO, Livret A and so on and so forth. Let me start with a very important reminder. On the perimeter of CASA we are talking about half of the NBI at LCL. So globally, we are talking about 10% of the global revenues of CASA. So it’s very important. But it’s not the biggest part of the revenues that we book at CASA. Of course, it’s much more important at group level because the regional banks, they all in all, represent roughly 5x or 6x CASA – LCL, excuse me. So clearly, what is important is it’s very important to understand what is going to happen regarding the NII, but it’s going to impact much more the regional banks than CASA."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Second point, TLTRO, it’s public that the group globally has drawn around €160 billion at the TLTRO window. It’s very difficult to – and I have always been very reluctant to give you exactly an amount of the benefit of the TLTRO, because the goal of the TLTRO was to improve the financing conditions in the European economy. So of course, a significant part of the benefits of this low-cost resource has been passed on to the customers in the pricing of the loans."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Nevertheless, on the contrary, when we are going to lose this cheap resource because it’s going to become a resource at the price of the deposit facility. Then we know exactly what we are going to lose because we are going to have to replace this resource either by another category of resource – market resource or simply by reducing by the same amount the deposits that we make at the ECB. So we are going, of course, to progressively repay this €160 billion of TLTRO. And this is the basis on which we benefited up to the end of Q2 of the 50 bps premium."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "And again, as a reminder, because I already explained it, the benefits – the amount was split more or less evenly between the regional banks on the one hand and CASA and its different activities on the other hand. So globally, if you assess €160 billion, 50 bps on a yearly basis, this would represent around €800 million, so €400 million in ‘22 and zero in ‘23. That’s very clear."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "In terms of Livret A and all the likes of Livret A, like the LDD and so on at LCL, the global amount after the centralization at the [indiscernible] represents around €10 billion at LCL. So in ‘21, the cost of this resource was 0.5%. In average, in ‘22, it was 1.5%, 1% in the first part of the year, 2% in the second part. So it’s a difference of €100 million globally concentrated on the second half of the year. And in ‘23, our best guess is that in average, probably Livret A is going to cost us 3.5%. So it’s an additional €200 million of cost for LCL. So of course, this is going to have a negative pressure on the net interest income in the different retail banks in France globally at LCL with the amount I was mentioning at the regional banks and in all banks that have significant amount of Livret A and products of this kind. In terms of capital, the timing of the pull to par is difficult to assess because it’s going to depend, of course, on market movements. But if we assume that the rates are now stabilized, and rate is not the only question because, of course, you have the equities market in a much smaller proportion, but they play a role. And we have also the credit spread because part of the bond book of Predica is not only made of sovereign bonds, but also of corporate bonds. And so the credit spreads play definitely an important role."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "So – but we can assume that the duration of the bonds of Predica is rather long. So it means that the effect is going to be spread over the coming several years, I would say, probably 5, 6, 7 years, so it’s not something we expect for tomorrow morning clearly. But up to now, we have – up to now, we had a I would say, an overhang on our solvency. In connection with this unrealized capital gain component, we now have an engine that is going to fuel progressively our solvency going forward. And if I now take a look on the short-term, what I can say is that the end of September, I would say the rates, the risk-free rates are more or less at the same level, so no significant change."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "But corporate credit spreads tightened quite significantly actually since end of September, probably around 20 bps. And equities market improved by around 10% or 12% since end of September. So I’m not pretending this is going to be the situation end of December. But of course, we monitor this on almost a day-to-day basis. And what I can tell you is that it’s been clearly rather improving over the first part of the quarter when it’s been deteriorating steadily over the course of the first three quarters."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And on the market risk?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "And on market risk, there are different components in the assessment and the calculation of the market risk. We have a VaR, which is built on a historical methodology. So it means that progressively, over time, we are going to see the events, the market events that triggered this increase fading away, I would say. So this is going to take time, probably 1 or 2 years, but it’s going to progressively fade away at least partially over time."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Thank you very much."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Tarik El Mejjad with BOA. Please go ahead."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "BOA",
+    "text": "Hi, good afternoon, Jerome. Just a couple of questions, please. I’ll come still on the capital. I mean, I understand the reversal of this negative impact due to the volatility in the markets and rates. But is that – I mean, it creates a lot of stress in the market in terms of your capitalization adequacy and so on. Is it not now clear that given – I mean we had two rate cycles that it’s better that you increase your buffers as a target, it’s more than 11%? So you just basically absorb this volatility and people are comfortable that you can stay above 11% at any time. I would like your view on that. And second question is on the costs in France and maybe in general. If you can update us what’s the latest negotiations you had for next year and the year after? I know you’ve – in France, you’ve anticipated next year’s cost, but you can maybe detail a bit where you see costs evolving and also maybe the windfall taxes in any jurisdictions where you operate? Thank you very much."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Why do you want us to be permanently and at any time above 11%? I always stated that 11% was a target, not a floor. So I think that we’ve said when we presented the medium-term plan that actually where we put the floor is buffer of 250 bps above SREP. We are now at 310 bps. Of course, we know that the SREP level, which includes the countercyclical buffer is going to modestly, but really increase in the beginning of next year, I think, in the second quarter in April, but it’s going to represent only 20 bps, I guess, of increase. So we are at 310 bps of buffer above SREP. We have a floor at 250 bps. We have more than 800 bps of buffer at group level. So definitely, there is absolutely no need of modifying our guidance, modifying our target, and we are perfectly happy with that."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Regarding costs, the negotiation with the social partners are not completed yet. But we are standing on our position, which is that with this general capital increase that we have granted middle of 2022, we have – did a significant part of what we intended to do beginning of ‘23. So now I don’t want to in advance crystallize the issue, the end point of the discussion. But definitely, we stick to decide that we’ve did in advance part of what we wanted to do beginning of ‘23. So it means that beginning of ‘23, it’s going to be only a part of what you could expect."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "BOA",
+    "text": "Can I follow-up just on the capital? I mean I completely agree your – sorry, I understand your explanation. But there are some elements that are out of your control where rates go, where equity market goes and that creates very high volatility in our capital. So I’m not saying you’re not sufficiently capitalized at around 11%, but it just creates these big swings that for your equity story can be a bit helpful. That was my point."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Yes. But actually, we haven’t had swings, because the swings swing goes in both directions. It’s been a one-way movement since the beginning of this year, and we’ve been able to accommodate that. Of course, we all know that rates are not going to increase by around 100 bps every quarter in the coming three, four, five quarters, it’s not it’s not possible, it’s not rational, and it’s not in line with what we could expect from an economic viewpoint because if we expect a slowdown of the economy, it’s going to somehow slow down the increase in long-term rates. That’s absolutely clear. And what we are seeing since now 6 or 7 weeks is precisely this, I would say, ascertained in the evolution of rates."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "BOA",
+    "text": "Thank you, Jerome."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Giulia Aurora Miotto with Morgan Stanley. Please go ahead."
+  },
+  {
+    "person": "Giulia Aurora Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Yes. Hi. Good afternoon."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Hi, Giulia."
+  },
+  {
+    "person": "Giulia Aurora Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Two questions from me as well. The first one, I just want to go back to the 2019 dividend, 20 bps catch-up. I understand all your point that you just made on being well capitalized, well above SREP, but I was wondering if you keep seeing some OCI pressure wouldn’t that be would it be possible for you to consider that one? Or it is out of question, you will definitely pay that? So that is my first question. And then secondly, I was wondering on the investment banking performance. I think your FICC was quite a bit weaker than peers. And I was wondering if there were any marks or any specific negative impacts in the quarter that you would call out? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Thank you, Giulia. Now on the €0.20, I think it’s again mentioned in our slide this time and we reiterate that permanently. We have the intention to pay in ‘23 this additional €0.20 per share. That’s absolutely clear. This is an intention because you perfectly know the difference between an intention and a commitment. As soon as I talk about commitment precisely, I have to reserve the amount in my solvency ratio. And of course, I don’t want to do that too early. I want to do it as close as possible to the moment I will be paying this amount. So I will translate the intention into commitment exactly at the time when it’s going to be necessary, but we clearly have this intention and this is a discussion that we will have with the Board when we will close 2022 accounts, so probably in February next year."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "In our investment banking performances and FICC precisely, it’s very difficult to compare FICC-to-FICC, if I may say so, because the breakdown of activities that each bank is putting either in capital markets or in FICC or in corporate banking or in global banking or whatever, is very different. So FICC, we haven’t had any specific hit of any kind in our activities. The muted performance of our capital market activities this quarter, which is not the case for the first 9 months, is absolutely explained by customer behavior with a weakness on the DCM market, especially in Europe. And I think you can assess that it’s perfectly a market a trend and not only a trend at CACIB, levels and volumes of activity of issuance of new bonds and especially corporate bonds this quarter were very weak. On the other hand, the credit demand that was addressed to us was quite significant. This explains the good performance of our financing activities. And really, there was nothing specific and nothing worrying in our performance this quarter."
+  },
+  {
+    "person": "Giulia Aurora Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Guillaume Tiberghien with BNP Paribas. Please go ahead."
+  },
+  {
+    "person": "Guillaume Tiberghien",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "Thank you. Good afternoon, Jerome. On the front of capital, please. So can you just remind us, in Q4, we will have plus 10 bps for Credit du Maroc, minus 15 or 16 for the dividend catch-up, minus 28 for IFRS 17. Can you confirm whether you’ve got any other moving parts, and beyond the capital build, obviously? And then the second question is on Stellantis partnership and relationship. My understanding was that towards year-end or maybe I’m wrong on timing, but you would consolidate the loans. And so can you just explain to us what would be the impact on revenues and maybe PBT, if any? And on capital impact, I think Stellantis the idea was to not impact the capital. But is it an impact on RWA offsetting an impact on equity Tier 1 or is it really no impact at all on both sides of the ratio, please?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "On capital, in Q4, you got it right with Credit du Maroc. You got it right with the €0.20 catch-up. You are a little bit in advance for IFRS 17, because IFRS 17 is going to be Q1 ‘23, not Q4 ‘22. And we haven’t finalized completely the amount, but it’s going to be much less than the 28 bps you were mentioning. In – regarding Stellantis, again, it’s going to be beginning of ‘23. And I have in mind, but I have to check exactly mechanically how it’s going to work, that it’s going to be more or less neutral in terms of solvency. But clearly, I have to call a friend to check if it’s, I would say, natively neutral or if it’s – because we have effects both on the RWAs and on the capital. So we will check that, and we will go back to you very soon."
+  },
+  {
+    "person": "Guillaume Tiberghien",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "And that’s Q1?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "That’s Q1, even H1, I’m not sure if it’s going to be Q1 or Q2, H1."
+  },
+  {
+    "person": "Guillaume Tiberghien",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "Okay, thank you. And there will be an impact on P&L as well?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Yes. After that, going forward, it’s going to improve the P&L. That’s clear."
+  },
+  {
+    "person": "Guillaume Tiberghien",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "Are you quantifying that?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Not yet. We have some ideas, but we haven’t disclosed any kind of quantification."
+  },
+  {
+    "person": "Guillaume Tiberghien",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "Okay. Feel free to disclose if you want. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Stefan Stalmann with Autonomous Research. Please go ahead."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Yes. Good afternoon, Jerome. Thank you for taking my question. I wanted to come back to the capital markets point, please, because you are flagging some value adjustment effects on revenue. You also have this market risk-weighted asset impact. And you also had quite a bit of growth in fair value assets through the P&L almost 10% during the quarter. And I think we have not seen this from any of your peers. So I’m wondering if there is anything else that would explain these relatively unusual moves? And the second question goes to a point that comes out of the proposal of the EU Council on the implementation of Basel IV, where it seems that proposing that the output floor would, in effect, apply at solo entities, but there could be a national discretion not to do it. Have you actually ever disclosed what difference it would make to CASA if the output floor were to be applied for you? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Thank you. As far as the assets valued through P&L are concerned, I don’t have anything significant or specific in mind. So I can see two points regarding that, either it’s a ForEx effect because obviously, considering the fact that the euro-dollar parity has changed quite dramatically this quarter, many, many elements in the balance sheet have moved significantly simply under this effect. And the second possibility would be also the fact that we have some assets within the balance sheet of the insurance company that could be also valued through P&L. But we have to check exactly. But there is nothing, I would say, noticeable or remarkable or no change in the scope of activities that could be signaled by this evolution of the volumes of assets valued through P&L."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Output floor, we have been, since the very beginning, convinced that the only relevant level to apply the output floor was the highest consolidated level. We have been steadily confirmed in this thinking by the French public authorities. What we see in the different documents published by the Commission, by the Parliament and even by the Council where you first – you know that within the council, we have several countries that really want – because they are host countries, really want to have a direct grip on the solvency of banks subsidiaries in their jurisdiction. Even in the document of the Council, there is this possibility of applying the output floor at the highest consolidated level i.e., at group level for Crédit Agricole Group. And we know that if this is the rule in principle, we are going to apply it and if this is an option, the French authorities are very clear. They are going to apply the option and allow us to apply the option. So no doubt that it’s going to apply only at group level. And so it’s – there is no need for us to disclose any impact if it were applied at CASA level."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Okay, thank you. Thanks, Jerome."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Matthew Clark with Mediobanca. Please go ahead."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Good afternoon. Two more questions on capital, I’m afraid. Firstly, coming back to Guillaume’s question on IFRS 17, and you kindly said the impact would be less than 28 basis points. Could you clarify whether you’re talking about the gross impact of IFRS 17 being less than 28 basis points or whether that’s including an expectation of further upstreaming of capital from Crédit Agricole Insurance? And then second question also on capital, on Basel IV, is that the size of your insurance operations in terms of risk-weighted assets, and I guess, the book value or carrying value of your investment in them has shrunk quite a lot since you gave your negligible Basel IV impact guidance a couple of quarters ago. So do you need to update that Basel IV guidance for the fact that you’re not going to have such a strong gross benefit from the Danish Compromise as maybe you might have thought a few quarters ago given insurance has shrunk in regulatory balance sheet terms since then and if not, why not? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "IFRS 17, we are not thinking neither of the gross amount or of the net amount when we disclose the figure because we haven’t disclosed any figure. But clearly, when we will be more precise on that, and we will probably be able to do it when we publish Q4 accounts, we will give you the gross and the net figure. But what I expect is that the net figure is going to be very, very tiny, if any, because we have again, certain flexibility. And the idea is that we don’t want to have any net impact coming from the transition to IFRS 17, as we’ve said since the beginning. On Basel IV, I’m not sure I fully got your point because what I read is that the 370% is going to become 250% whatsoever, and there is nothing that is – that seems to be changed from this viewpoint. So of course..."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "When you gave your original guidance, at that time, your insurance risk-weighted assets were about €50 billion or up in the €40 billion. The impact of going 370% to 250% would be greater in euro million terms than it would be now when your starting point is..."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Yes. Okay. Excuse me, I didn’t get you right. No, when we say that excluding the output floor and after all the TRIM that we went through since now, 2 or 3 years. When we said that beginning of ‘25, the implementation of Basel IV is going to be net-zero, I would say, globally for CASA. It’s taking into account, of course, the update of the carrying value of the interest activity, which we applied at 250% and also the update – regular updates that we have to make the other aspects of Basel IV. So net-zero takes into account the fact that we have less RWAs within the Insurance business division."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Okay, thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Amit Goel with Barclays. Please go ahea."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Hi, thank you for taking my questions. Just some follow-ups. But do you mind just talking a little bit about some of the revenue trends for the main businesses going into ‘23 in terms of some of the moving parts that we haven’t already kind of covered? And secondly, just maybe holding in a little bit more on the insurance business. I’m just kind of curious on the kind of revenue growth and for example, on the unit-linked sales whether there is an impact there in terms of savings behavior going forward? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Well, thank you. You know that in the insurance activities, once translated in banking accounting system, it’s always very difficult to look at the level of revenues, and we perfectly know that on a specific quarter, we have – we can have a significant volatility regarding the revenues stemming from the insurance activities, whilst we continue to have a very steady, regular and positive evolution of the bottom line. And actually, where we guide the activities, the insurance activities is more on the bottom line. And I think that a few quarters ago, we have presented a historical series of data regarding the profitability of the insurance business, showing that more or less, the bottom line is growing around 5% a year, which is rather aligned with non-life activities that grow at a higher pace, around 7% a year and life insurance activities that grow at a pace, which is regarding the outstanding in the region of 2% or 2.5% or 3% a year. So, maybe if rates stabilized at a higher level than before, the capitalization effect on life activities is going probably to improve a little bit the pace at which the outstandings are growing in the insurance activities. So, this could possibly improve a little bit the evolution of the bottom line. But keep in mind that what we had in the past in terms of bottom line for the insurance activities has been around 5% a year. And what we foresee going forward is the continuation of this trend. And again, talking about IFRS 17, we are now quite confident that even if it may be a little bit more volatile because of the mechanism of the contractual service – the clients – contractor service margin and so on and so forth, we are not going to change significantly the profile of the profitability of the insurance activities. So, this is more the type of guidance that we have in mind rather than the guidance that would be focused on the top line."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Got it. And just in terms of any other kind of notable kind of changes we should think about for next year versus this year in terms of top line for the businesses?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Well, it could take a long while if we want to assess business-by-business, considering that each business has its own drivers. But I would say that, of course, at Amundi, the main driver is the evolution of the valuation of the assets, because the main part of the revenues is made of management fees. And the good news is that management fees are holding well for the time being and even more than well because they have improved between ‘21 and ‘22. It’s the performance fees that declined. We have talked a lot about the net interest income at the retail banking entities at CACIB, at the consumer credit business. When we use the balance sheet, it’s more a spread business. So, of course, we can have some temporary difficulties to pass to the customer the increase in refinancing cost. It’s the case for the time being at Sofinco in France. But those businesses are spread business. And at the end of the day, when it stabilizes, it stabilizes at a spread that is covering all the costs, all the cost of risk and so on and so forth. And so we foresee that improving going forward. Of course, CACF is going to positively benefit from the acceleration triggered by the inclusion of the leasing activities coming from the deal with Stellantis. And CACEIS is clearly going to be also a growth engine for the future. Already now with the benefits that CACEIS is growing from the better remuneration of its cash activities. And also going forward, with progressively once the acquisition is completed with the integration of RBC Europe."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Flora Bocahut with Jefferies. Please go ahead."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Yes. Thank you and good afternoon Jerome. The first question I wanted to ask you is going back to capital again, but this time more from a technical point of view. When I compare the 10.7% fully loaded to the 11% phase-in, that’s a 30 basis point difference, which is more than peers and which seems to have actually been increasing year-to-date. So, the first question is just to try and understand what’s the difference between the phase-in and the fully loaded for CASA? And when this is going to converge, at which speed, basically, given it’s quite a notable difference, 30 bps? The second question is regarding Russian risk. You have had around €200 million of decline in the exposure to Russia in the quarter. Can you just update us there? Is the exposure still performing? You are not seeing an increased risk from that exposure? And maybe can you remind us the provisions that you have set aside on that exposure, please?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "The difference between the phasing and the fully loaded CET1 ratio is actually 25 bps, not 30 bps. It’s the rounded numbers that we provide that make you think that 30 bps. It’s 25 bps. It’s going to be divided by two between now and end of ‘23. So, it’s going to be all things being equal, around 12 bps, end of ‘23. And again divided by two in ‘24, so probably a negligible 6 bps, end of ‘24. And then it’s going to disappear completely in ‘25."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "And just to be clear on this one, it converges towards the fully loaded, right?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Yes, all things being equal, again, it’s converged towards the fully loaded. Yes. So, it’s a negative impact that we have to progressively absorb."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Okay."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "On Russia, I think that the bulk now of the exposures that we have kept are medium to long-term exposure, so we don’t expect a rapid further reduction or significant reduction going forward of these exposures. We booked a provision, S1 and S2 provision of around 300 bps, if I remember correctly, in the first quarter of this year. And what we have said at that time is that we were done with I would say, this political provision. So, now we are back on the normal life of each of these exposures on an individual basis. So, it may happen that on a specific quarter, one of this exposure has to be reclassified from S1 to S2 or from S2 to S3. And of course, at that time, there is a modification in the level of provision. And as we never comment individual exposures, we are not going to provide additional details on the evolution of the portfolio. It’s now part of the, I would say, normal cost of risk, if anything happens on this portfolio on a specific quarter. So, the initial provision going back to your question was to book. I don’t remember the exact number, was it €300 million or €400 million. I will give you the figure right away."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "But there has been no change in Q2, Q3, basically?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "No."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Okay. That’s clear. Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Pierre Chedeville with CIC. Please go ahead. Mr. Chedeville, maybe your line is on mute."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "I take the advantage of Pierre being silent to say that effectively, the provision we booked in the first quarter was close to €400 million, €389 million to be precise."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Mr. Chedeville, your line is open, maybe you muted yourself."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Pierre, we are going to take the next question and we will go back to you afterwards."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Anke Reingen with Royal Bank of Canada. Please go ahead."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "Royal Bank of Canada",
+    "text": "Yes. Thank you very much for taking my questions. And the first is on cost control. And obviously, your cost/income ratio is well within the target at the jaws, a negative year-to-date. I am just wondering going into ‘23, should we expect that the markets play a key role given your business mix? But I was wondering, do you think you can keep your cost/income ratio in line with your targets? Is it cost/income ratio, or do you also – your focus on the jaws? And then secondly, on your consumer finance book, I was just wondering if you can talk a bit about asset quality going into a potential in recession and cost of living crisis? What are you watching? Are you a bit more restrictive in your lending? And how concerned are you about what level of interest rates do you think is a bit more alarming? Thank you very much."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Thank you. On the cost part, clearly, the commitment that we have is to maintain the cost/income ratio below 60%. So, the commitment is in terms of cost/income ratio. But the forecast that we have made in the medium-term plan is that we could be all things being equal. And of course, it can vary on a yearly basis or on a quarterly basis. But all things being equal, we could target to further improve the cost/income ratio by posting in average, a positive jaws of 0.5% a year. It’s an average over the duration of the medium-term plan. It’s not a commitment to sustain this positive jaws each quarter after the previous one. And we are presently – when it comes to ‘23, we are presently in the budget process and you can be confident that we are having, and we are going to have very precise discussions with the head of every business in order to really assess their capacities to reach their individual cost/income ratio target in a context where there is going to be a certain volatility in their capacities of reaching their revenue target. Of course, we must admit that there is some inflation and actually inflation even in France, where it’s lower than elsewhere. It’s in the region of 6%, 6% to 6.5%. In this context, managing the evolution of the cost base at around 3%, it’s not bad. But we also want to preserve our capacity to respect our commitment regarding the cost/income ratio. So, this is part of the present budget discussions we are having with the heads of the businesses. At CACF and the asset quality in the consumer business, it’s clear that it’s a business in which we are very reactive, and we have tools that provide us the capacity of adjusting with – through the pricing, adjusting the credit standards very rapidly if we see some deterioration that would be excessive of the cost of risk. We perfectly know that the cost of risk we had in this business last year was below the average, below the level we target across the cycle. We have now a cost of risk, which is around 130 bps. But actually, it’s better than that if you reallocate all the components of the P&L of the prior JVs, which are equity accounted. If you take into account the fact – if you really take into account their cost of risk and their assets, you would be closer to 100 bps globally. So, it definitely is not an alarming level, but we monitor very carefully the cost of risk in this business, and we will not hesitate to adjust the pricing and the credit standards if we think at a certain point in time that the situation is too hot and leading to a potential deterioration of the situation."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "Royal Bank of Canada",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Thank you. Pierre, maybe?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Yes. The next question is from Mr. Pierre Chedeville, CIC. Please go ahead."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Hello, can you hear me now?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Yes, Pierre."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Okay. Sorry. I am sorry, I am going to ask another question regarding OCI, which is the subject of the day and IFRS 17, because this week, we had a presentation for AXA regarding IFRS 17 transition. And they clearly, like you did explain that there will be no major impact regarding P&L. But they said something really interesting. They said that mechanically IFRS 17 tends to make OCI to zero because if you replace mathematical reserves by best estimate, best estimate liabilities is evolving in the same way, more or less, of the asset side in IFRS 9. And then OCI is neutralized. So, my question is, at the end of the day, if you implement IFRS 17, the day of your implementation, clearly, you have an impact because your OCI is going to be reduced by the increase of liabilities. But at the end of the day, you will not have any more volatility as far as I understand if you apply IFRS in the same way as it will be applied in a pure insurance company. Am I wrong, or is there something I missed there? At the end of the day, it’s a very good news for you, the implementation of IFRS 17 between, because it will make disappear the volatility of OCI."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Yes, it’s true that the volatility of OCI is going to be reduced, but it’s a little bit more complex than that because there is some exception on IAS 39 or the implementation of IFRS 9 for the time being. So, it’s not, I would say 100% what you say, but globally, it’s true that we are going into more stable environment with the implementation of IFRS 17. What is going to be interesting is that you will have – I don’t like IFRS 17, so it’s a little bit perturbating for me to have to find the good aspects of this regulation, but you have an indication of – with the CSM, an indication of the amount of future profits that are here, that are available for the future. So, it’s going also to be a reassuring element."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "No, I am okay about CSM. But for me, the most important fact, at least for AXA, but I can translate for another company is that the volatility of OCI disappear more or less. And my second question was about – can you disclose the combined ratio? And lastly, you mentioned the impact, the negative impact of TLTRO. But at the end of the day, you said that part of this TLTRO was used to grant loans to SMEs, but the re-pricing of SMEs is much more easy – easier than the re-pricing for mortgages. So, at the end of the day, you mentioned a negative impact of €400 million in 2023. But at the end of the day, part of this negative impact should be balanced by the quicker re-pricing on SMEs. Am I wrong here again?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Let me start with the combined ratio. It’s deteriorated a little bit at Pacifica, the P&C activities. It’s now at 98.7%. The year has been a little bit difficult from a risk point of view, especially with some climate events, of course, all French population has heard about the different events that took place this year and especially this summer. So, nevertheless, it continues to be significantly below 100%. And of course, in the context where we are, the pricing policy of 2023 is going to be, of course, a very important element. When it comes to TLTRO, well, when we have set the rate for a loan for any customer, be it an SME or be it a self-employed professional or be it a household for home loan, it is set, and we are not going to modify, post the rate because the cost of the resource has increased. So definitely, all things being equal, the increase in the cost of this resource that is represented by the TLTRO is going to impact us directly. But of course, going forward, and this is why we think that we must look at this situation with a dynamic view going forward, there is a progressively re-pricing – progressive re-pricing of the loans that we grant to our customers, and you see that we haven’t talked about this precise point in the call. But since the beginning of this year, the pricing of home loans in France and at our different networks has increased quite significantly. What I have in mind, for example, is that at LCL, the pricing of the loans – of the loan approvals that we have given in October was in the region of 2.2%, 2.3%, which is not the case for the loans that are implemented presently, because there is always a time lag between the approval and the implementation. But it shows that there is a re-pricing of the loans. But this re-pricing will have taken place even without this hit on the cost of the TLTRO. So – and the other way around it is to say that the cost of the TLTRO is a hit, the increase in the cost of the TLTRO is a hit in itself."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Yes, but mitigated by the re-pricing we should not put minus €400 million..."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Yes. Pierre, even the re-pricing would have taken place even if the ECB hadn’t changed the pricing of the TLTRO. That’s the point."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Kiri Vijayarajah with HSBC. Please go ahead."
+  },
+  {
+    "person": "Kiri Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Hi. Good afternoon Jerome. Thanks for taking my questions. I have got a couple of just coming back on the share purchasing with the regional banks. So, the press release – in the press release they say their ownership won’t go above 65%. But given they are at kind of, whatever, 56% at the moment, could we see kind of more purchases by the regional banks in the future? Because as you said, today’s transaction is only 3% of the share count. So, at least actually, if the self-imposed cap is 65%, could we see more transactions like today’s announcement? And then secondly, should we think about this transaction as really potentially just a timing thing that the regional banks are temporarily warehousing those shares for a time when it’s better or more convenient to say, Crédit Agricole S.A. to actually do a proper buyback, say, for instance, when your CET1 ratio is back above 11%, and then you can then buy those shares directly from the regional banks at a time that more suits you? So, is this kind of a stepping stone towards a proper buyback, or am I kind of reading too much into the situation there? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "First point, I think that, of course, at the present market price of the share, €1 billion doesn’t lead the regional banks to 65%. That’s very clear. But I think that the idea for them was to say, we set a target or a ceiling, which is here to stay, and we don’t want to reassess potentially this level if there is another operation. And also 65% has a virtue of a round number because depending on the share price, €1 billion above 57.1% could have led them to 60-point something. So, it was difficult for them to say we don’t want to go above 60% because they could be a little bit stretched with this €1 billion. So, I think 65% is a round number. It’s easy to articulate. It’s a reassuring number because it’s whatsoever, below two-third of the capital. So, it has many virtues. It doesn’t have any specific meaning of signification. It has simply the virtue of being simple, a clear cut, round and so on and so forth. So, I think you shouldn’t read too much behind this number. And are the warehousing stocks before CASA itself buys back the shares on the market, I think this is going very fast in terms of subtility. If we were to undertake a buyback, which we are going to do, by the way, regularly because as we have said every time we are having a capital increase for the employees, we are going to buy back the shares on the market in order to eliminate this newly created shares. So – no, there is no link between any buyback that would be undertaken by Crédit Agricole S.A. And this will of the regional banks to make a good use of some extra capital that they have."
+  },
+  {
+    "person": "Kiri Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Got it. That’s very clear. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Benoit Valleaux with ODDO. Please go ahead."
+  },
+  {
+    "person": "Benoit Valleaux",
+    "role": "questioner",
+    "position": "ODDO",
+    "text": "Yes. Good afternoon. If you can start on my side on insurance? Maybe firstly, on life insurance. Just like to understand you booked your nine-month figures and regarding investment margin on euro-dominated product. I mean did you assume a stable investment margin compared to last year or not? And similarly, I mean do you see a significant increase in lapse rate beginning of next year? And how do you protect yourselves in terms of ALM policy? And secondly, in P&C, so you mentioned 98.7% common ratio, which was, in fact, stable in Q3 versus H1. And as you said, there have been a lot of net cat loss here in Q3 in France. Can you quantify, I mean the amount of net cat losses you booked and taken into account price increase and claims inflation? Can you confirm that you plan to improve your common ratio to 95%, maybe 96% in the course of next year? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Thank you. The line was not so good. So, I tried to guess complete your question. The first one is about investment margin. You mean the investments of the life insurance activities, is that right?"
+  },
+  {
+    "person": "Benoit Valleaux",
+    "role": "questioner",
+    "position": "ODDO",
+    "text": "Yes, exactly. I mean the margin on your product. I mean if you assume stable investment margin compared to last year?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "No. Actually, we invest regularly depending, of course, of the net inflows, plus also the redemption of present assets that we have in our books. So, we regularly invest, and we invest at market prices. So, we try to be agile and to reduce a little bit our investments when we feel that yields are not as good as they could be and try to accelerate investments in other – in better period. But there is no specific forecast regarding the yield of the investments that we intend to make in ‘23. What we can say is that over ‘22 already, we have progressively improved the reinvestment rate of our assets as compared to what was the case in ‘21. And of course, we expect this to continue."
+  },
+  {
+    "person": "Benoit Valleaux",
+    "role": "questioner",
+    "position": "ODDO",
+    "text": "Okay. Sorry. Maybe I am not that clear. I mean do you – I am just mentioning the gap between investment return and crediting rate based on…"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Okay. Excuse me. No, in ‘21, full year of ‘21, the average yield of the investment of Predica was around 2.5% in ‘21. And what we paid to our policyholders was, I think 1.6% – or 1.3%, excuse me. So, we had a spread of more than 100 bps between the yield of the assets and the profit sharing rate. So, I don’t know exactly what is going to be the yield of the assets for the full year ‘22, but we expect this to be more or less at the same level as the one we had last year. The profit sharing rate, I don’t know what it’s going to be. We cannot rule out the possibility of increasing it, but you know that we have the PPE in which we can take what we need to complement if needed, the yield of the assets. So – and the PPE represents, I think 7% of – the 6.5% of outstanding. So, it’s – it’s really a very important reserves that we have and that will help us accommodate if needed, any gap or any shrinking between the yield of the assets and the profit sharing rate. The second question was about ALM policy, but I am not sure I fully got your question, excuse me."
+  },
+  {
+    "person": "Benoit Valleaux",
+    "role": "questioner",
+    "position": "ODDO",
+    "text": "Now, what do you see, I mean due to increase in interest rates, that there could be some lapse rates I am fixed or I mean some relaxation, any off share [ph] on there if you prefer. In that case, how do you protect this potential…"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Also in the insurance activities?"
+  },
+  {
+    "person": "Benoit Valleaux",
+    "role": "questioner",
+    "position": "ODDO",
+    "text": "Yes, in life insurance…"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Okay. Yes, of course, we make regular stress testing, internal stress testing in order to assess our capacity to resist to some redemption, high redemptions. And so we have a liquidity ratio that we keep at permanently at a very high level. And so we have the – we feel that we have the capacity to resist any kind of stress on redemption, if any. But for the time being, we don’t feel any kind of redemption movement. And again, this PPE is here to show our policyholders that we are ready to complement if needed, the yield of the assets in order to precisely avoid any move of redemption. And the solvency ratio is – continues to be very high. It’s above – it was above 220% end of June. We haven’t published the third quarter ratio. We will publish it on the basis of only twice a year, but it’s very high, and it’s much higher than our risk appetite framework. The risk appetite framework that we have is much lower than that, actually. So, we have the capacity to be flexible if needed. Okay?"
+  },
+  {
+    "person": "Benoit Valleaux",
+    "role": "questioner",
+    "position": "ODDO",
+    "text": "Okay."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "Thank you. I think it was the last question. So, thanks a lot everyone and have a good day and a good weekend for those that don’t work on November 11th. Bye-bye."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy Chief Executive Officer",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

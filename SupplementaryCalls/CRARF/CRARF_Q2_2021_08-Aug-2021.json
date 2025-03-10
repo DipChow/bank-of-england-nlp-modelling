@@ -1,0 +1,848 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. [Operator Instructions] And the first question comes from the line of Jacques-Henri Gaulard from Kepler Cheuvreux. Please ask your question. Your line is now open."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes, good afternoon, Jerome. Two quick questions. The first one, when I look at your large corporate, corporate and investment banking, it really is really good when you compare to the objectives you had in 2019. If I annualize your cost base, which was supposed to be 2.8, you're there. And your revenue objective, if you annualize them, again, you're at 5.3. You were at 5. So I was wondering to which extent even the targets you have, and then you have the level of provision, which is at virtually zero, whereby you're not actually completely too conservative on your CIB forecast for 2022, which leads me to another question, which is, I'm surprised you haven't actually confirmed the €5 billion net income. So I was wondering what drove you to be cautious?"
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And the second question is also linked to CIB. If we can have from the ground maybe a little bit of color about how the ESG transitioning is going on with your clients with the whole Fit for 55? Do you find them well-organized? Do you find them a bit in a panic? Any color you can actually give would be helpful? Thank you very much."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you, Jacques-Henri. Well, normally, we don't have to confirm quarter-after-quarter all our targets. I think it worked the other way around. If I had some doubt or if I felt necessary to inform one of our targets, I'd definitely run the market from that. And so for the time being, as I regularly said it, we think that we are on track to reaching our different targets for 2022. And so for the time being, we don't feel the necessity of updating these targets, but we will certainly have to do it at a certain point in time."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Regarding specifically CACIB, it's more or less the same. It's true that we continue to have the proof that the model that we've put in place to – on CACIB since now probably around 10 years is working. It's a model that has been challenged initially because it's not, as I would say, market-friendly as some models more invested into equities, for example. But we deem that this model, which is really focusing at financing our customers with market instruments and also balance sheet instruments is really coherent with the DNA of the group."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "It produces a very stable level of profitability across time, which is very important for us. And it's generating a reasonable level of profitability, which is, again, coherent with our global model. So of course, once we will review globally our targets which may happen I don't know exactly when but somewhere before end 2022, obviously, considering the fact that the present targets are aiming at 2022, we will give some additional color on all the businesses, including the CIB."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Regarding your questions on ESG and CIB clients, I think that Philippe Brassac stated to the press a few hours ago actually we intend to have a dedicated event regarding our ESG commitments probably in the fall this year. So of course, this will be a good opportunity to give some color on the way our customers behave regarding ESG challenges. But what I can tell you is that this ESG question and especially the climate change issue is taken more and more seriously by all our clients. And it's no longer a feature that you add up on top of a business model that is designed outside this preoccupation. It’s now completely embedded by us in our business model, but also by our clients. And we have also now around 8,000 business clients that are having – that have been granted a transition grade, a transition note by our internal tool."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So it's really going to be a more and more important feature. And so we'll have this press event somewhere in the fall regarding ESG issues. And we'll be able at that time to give color on many aspects of this issue in all our businesses."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thanks a lot, Jerome."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. And the next question comes from the line of Jean Neuez from Goldman Sachs. Please ask your question. Your line is now open."
+  },
+  {
+    "person": "Jean Neuez",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Hi, Jerome. Good afternoon."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Hello."
+  },
+  {
+    "person": "Jean Neuez",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "I wanted to ask you first on the achievements so far in your business plan to follow-up on Jacques-Henri's question. So you had a plan to be between 25% and 30% of revenues in asset gathering, which is the most capital-light of the businesses you have, I guess. Now it looks like it's going to be probably a bit over that. That will mechanically change your ROE in a sense and your capital generation higher in terms of the mix compared to risk-weighted asset consumption."
+  },
+  {
+    "person": "Jean Neuez",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And I just wanted to understand whether you think you have more growth opportunity than you had at the time, in which case you'll be able to reemploy that? Or whether you're going to, in a sense, you – not to compress your ROE going forward, you're going to have to rethink the capital distribution slightly, leading me to my second sub-question, which is, I have to say, I'm ashamed I had understood that the share buyback would have compensated the entire share issuance from the scrip, but now rereading the past communication, I realize as is written today, that it's also including the Switch 2. But in a sense, why not expanding this and given all the capital you have to the entire scrip dilution if you want."
+  },
+  {
+    "person": "Jean Neuez",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And lastly, I just wanted to know because today, you produced some good results in Italy with CreVal integration and so on, whether you could give us a sense as to in 2022, what you think pre-provision profit guidance could be for that business?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Many questions from Jean-Francois."
+  },
+  {
+    "person": "Jean Neuez",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Apologies."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "No, no problem. No problem. I'll try to make it short in the answers. Regarding the first question is the breakdown of our activities between the different businesses. We are not going to constrain the development of one business line before – because it's – simply because it's a little bit ahead of the curve in terms of development. And we are happy that the business in which we are probably ahead of the curve is a capital-light business."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And we're happy with that and we are not going to try and force a rebalancing which wouldn't make sense if it does not correspond to business opportunities, real business opportunities, I would say. So we have always given indicative breakdowns of our sources of revenues in the future. And we think that this indicative breakdown makes sense. But if the asset-gathering business division is ahead of the curve, no problem for us, of course. And again, I don't want to take the opportunity only of a second quarter result publication to reshuffle any kind of objectives."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We'll have, at a certain point in time, a dedicated moment to give some longer-term prospects for the whole business of the group. It's the name of the game. We have, for the time being, targets for 2022. We are on track, which is positive. And we are and we will someday give, again, longer term prospects, taking into account, of course, everything that has happened in the course of the present medium-term plan. And what I can say is that what has happened indeed is satisfactory, at least in our viewpoint. It's the case in terms of business development. It's also the case, of course, in terms of profitability, as I have explained, taking a certain long-term horizon since beginning of 2017 in terms of profitability."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Regarding the share buyback, I don't know what you understood at the time where we announced the mechanism that we had put in place for the payment of the 2020 dividend. What is true is that we are doing exactly what we had announced. And so we had announced that we wanted to eliminate, first, all the extra shares created on the basis of the take-up of the minority shareholders. And this is what we are doing now."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And as I said, I think we have completed 77% of this program, and it's going to be ended probably end of August, beginning of September. I don't know exactly when, depending on market conditions. But this will be done. And then we will add to that an extra share buyback operation that is going to take place in Q4 as soon as we have, of course, the authorization of the ECB."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And this corresponds – of course, when we presented this program back in February this year, we've made in our model some assumptions regarding the share price, which, by definition, are not exactly met. But nevertheless, globally the operation is exactly as we presented it. And this operation, the second share buyback was aiming both at generating in combination with the switch dismantling as we've said. And we are committed to fully dismantle the switch mechanism before end 2022 and we'll do it."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So the – in combination with the switch dismantling, this was aiming at improving, enhancing the earnings per share at the end of the day, all things included, all operations included. And it's going to be the case. At the end of the day, once the second operation will be completed and with a pro forma, I would say, the dismantling of the switch mechanism, and it's pro forma because we cannot tell in advance when we will trigger the dismantling, this will enhance globally more or less the earnings per share by around 1%."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then the second goal, of course, was to rebuild the tangible book value per share, which is also going to be the case by end 2021 as compared to end 2020. Why don't we conduct an additional or a wider, a larger share buyback? I have been asked about share buybacks since probably five years. And I have always been very reluctant about share buybacks for one simple reason, which is that the majority shareholder, the SAS La Boetie, is in my best understanding of its intentions – of course, I cannot talk on its account, but it's my understanding that they do not participate in the share buyback."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So if I repeat regularly share buybacks operation, there will be a permanent increase in the stake owned by the SAS La Boetie, which is not, at the end of the day, probably the best thing for the minority shareholders. So I will conduct the second share buyback operation before year-end. And then I will stick to my normal dividend policy, which is to pay a cash dividend."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "As I said also earlier, and I want to be precise on that, we consider that we haven't fully paid the 2019 dividend up to now. And we consider that end of 2021, end of 2022 when we will set the amount of the dividend that we intend to propose to the general assembly meeting to pay, we will round up the numbers in order to progressively repay this unpaid 2019 dividend. So this is the way I'm going to answer to your request of somehow boosting, I would say, the dividend yield, if I understand you and your concern correctly. And so for the end of June, we've booked exactly the normal dividend policy for half of the attributable results."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So it's already €0.39 a share that is booked, reserved in our books. And end of year, we will see exactly what we can do in order to probably round up the numbers in order to boost the dividend that is going to be paid in 2022. And if it's not enough to fully absorb this unpaid 2019 dividend, we will repeat the operation end of 2022. But it's not a commitment. It's an intention, and you know that generally, of course, we stick to our commitments, but we try also to stick to our intentions."
+  },
+  {
+    "person": "Jean Neuez",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Okay. And quickly on CreVal?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And on CreVal, excuse me, your question was regarding the NPLs, right?"
+  },
+  {
+    "person": "Jean Neuez",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "No, no. I just wanted to think what you think is an achievable run rate of pre-provision profit in the quarters to come, so the base on which to go…"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Excuse me, excuse me. It's way too early to tell because actually, we've – we are the owners of CreVal since the beginning of May. But actually, we are in the driver seat since only mid-June because you know that the general assembly meeting that changed the management took place only on June 18. So we are now conducting different due diligence operations within CreVal in order to fully assess the potential of this – of the integration of CreVal."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We are going to give more color on that in September, October, November, I don't know exactly when. But I'm very confident that this is going to be a very accretive operation. I'm very confident that we've been conservative when booking this provisionary allocation of the purchase price end of June. And I'm very confident that this operation will prove to be a very, very positive operation for the group."
+  },
+  {
+    "person": "Jean Neuez",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Okay, thank you very much. Very clear on that thing."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. And the next question comes from the line of Azzurra Guelfi from Citi. Please ask your question. Your line is now open."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Hello, Azzurra."
+  },
+  {
+    "person": "Azzurra Guelfi",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Hi. Hello, good afternoon. A couple of questions for me. One is on French retail, which has shown a very nice rebound, especially on the revenue. When I look at the NII, what are the drivers that you expect for the second part of the year? Could this be a level of sequential growth from now, thanks to the momentum in lending and maybe a little bit better margin? So if you can give us some color on that."
+  },
+  {
+    "person": "Azzurra Guelfi",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "The second one is looking at the slide where you showed the market share gain. So this has been increasing since the beginning of your plan. What are the areas where you see more momentum for growth in the next couple of years? And what are the ones that contribute more to the profitability improvement? And if I may, a quick one on the provision. You have stage 1 and stage 2 provision. Some of it might be used if there is a deterioration of economic condition. But if you will have still some left, which is probably the base case, what is the rule to release them? And what are your expectations for the release of this? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you, Azzurra. Well, French retail, it's – French retail is a competitive market. It's a difficult market. It's a competitive market. And as an example of that, you are aware that in Q2 this year, this is probably the lowest level that we've seen historically for the average price, not only with us, but on the market for new home loans. So clearly, it's a very competitive market. It's absolutely key in this market to be able to have a very, very intense global relationship with your customers. So this is where actually we think that we have an edge as compared to some weaker or less complete, less comprehensive competitors."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "In terms of prospects, what is for sure is that for the NII, the NII is, at the end of the day, it's the difference between the yield that you get on your loans, on your assets and the cost that you have to stand on your liability. So for the time being, we are seeing a further pressure on the average yield of our assets because, again, as I've mentioned, we've reached, I hope, a bottom this quarter in terms of rates for new loans. But this continues to put a certain pressure on the yield of assets."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "At the same time, we've benefited, and we are still going to benefit in the coming quarters, hopefully, for some – from some positive elements like the fact that we have a resource at a negative rate, which is the TLTRO. But this is not going to last forever. So it's very important to have good momentum in terms of volume development and volumes of good quality, of course. We don't want to relax our credit standards, of course. But it's very important to keep a good momentum in the development of the volumes. And also, it's very important to be able to generate a growing amount of fees within your revenues. And the NII was significantly up this quarter."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And it's – definitely, it's benefiting for the time being from this very specific monetary conditions in connection with the ECB policy. But even more importantly, fees are up more than 6% this quarter. And this is also a very positive element. Because fees, of course, it can be a little bit more volatile, but it's here to stay also because if our customers are loyal to us, and we do everything we can in order to keep them loyal, then products and services are going to add up, and the fee base is going to continue to grow."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So it’s very important for us to continue to develop this model, which is leading to your second question regarding market shares. Because what we are looking at in terms of development of products is, by definition, all the products that improve the loyalty of our customers and what we've noted is that P&C insurance policies improve the loyalty of retail banking customers. You know that I've been running the insurance business of the group for five years before joining this position. I've seen it from the side of the insurance companies. It's absolutely true that the customer loyalty, considering the way we do our business of P&C insurance, every time we manage to sell an insurance policy – P&C insurance policy to a retail customer, it improves his loyalty."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And even more, every time when he has a claim on his P&C insurance policy, considering the fact that we manage the claim in a very specific manner, we improve further the customer loyalty. So it's very important for us to continue to develop P&C insurance policies. Of course, life insurance because it's the continuation of the management of the assets of our customers, but P&C insurance is very important, creditor insurance as well."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And real estate is important not for all our customers, of course, by definition, because not all our customers can afford to invest part of their savings in real estate solutions, we must be able to provide the answer. And so we are working on continuing to improve the capacity of selling real estate to our customers directly. Then in terms of provisions and potential for releases, you know that, of course, Crédit Agricole Group fully applies IFRS regulation. And we don't want to be outlier from this point. But at the same time, we have been, in the past, very reluctant in terms of provision write-backs. And this is – this explains why at the end of the day, we have a higher coverage ratio than most of our European peers."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So my main preoccupation is not to wait for the moment when I will be able to release S1 and S2 provisions. I know that it's maybe not as aggressive as some of our competitors. But clearly, we feel comfortable with the idea of having ample provisions, even ample S1 and S2 provisions. And so we are not desperate and waiting to write-back those provisions in order to boost our profit."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. And the next question comes from the line of Giulia Miotto from Morgan Stanley. Please ask your question, your line is now open."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes. Hi, good afternoon, Jerome. Thank you for taking my question. Two, please. The first one on Italy. And it's actually more strategic than the quarterly performance. So CreVal is now on track, and you're looking at that new asset. But would you potentially be interested in acquiring further assets as it seems that there are other potential banks or pots of banks coming to the market? So that's my first question. And then the second question, instead, looking at trends for loans and deposits in the quarter, so quarter-on-quarter. And deposits still keep growing more than loans in France, but also at the group level. Do you have any evidence already from the July data that this trend is inverting? Or when do you expect it to invert? And perhaps what opportunity do you see from potentially lower deposits for your asset-gathering businesses? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you. Let's start with Italy. We are pragmatic, and we are prudent. So pragmatically, we are focused on the integration of CreVal. And this is going to take probably another two or three quarters because, as I've said, we are conducting due diligences in order to fully assess everything within CreVal. Then we'll have, of course, to organize the legal merger of the two entities, CreVal and Crédit Agricole Italia, then we'll have to industrially operate this merger. We'll have to migrate CreVal's operation on our platforms and so on and so forth."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So this is going to take time. And I think that part of the successes that we've had in the past in this viewpoint are linked to the fact that when we conduct that kind of operation, we are very focused. And so I can tell you that Crédit Agricole Italia's management is really focused on these operations, which are complex. Even though we are very confident, it needs to be really well prepared. We are prudent at the same time, which means two things. We don't want to absorb too many things at the same time."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And also, of course, we continue to monitor the situation because, again, I'm looking back on what we are in Italy now, €385 million of net profit in the first half of the year. We have many, many interests in Italy. And we need to permanently assess the situation and be able to protect and defend our interest in all business lines and not only in retail banking. So we are monitoring the situation. We – of course, we are aware of some movements that are taking place or may take place going forward. But for the time being, we are focused operationally on the integration of CreVal. And maybe one last point on this question, there's no need for us to grow further inorganically in retail banking activities."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We have a nice setup. It's efficient. It's working well as the figures of Crédit Agricole Italia this quarter illustrated. So there's no need for us to go further. Regarding deposits and loans. It's true that this quarter, I think that globally for the group, including the regional banks of Crédit Agricole, customer loans increased by around €28 billion all in all. And customer deposits at the same time increased by around €30 billion, if I have the correct figures in mind. So it's true that the difference between loans and deposits shrinked a little bit by €2 billion."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I think that this is going probably to reverse when our customers will have – make up their minds on what part of this excess of deposit they want to consume and what part of these deposits they want to invest long term. So what we see now is that consumption accelerates. So part of this extra deposit is really going to be consumed, but not in such a proportion for the time being as to completely, I would say, wipe out the extra savings of the pandemic. And so there's probably going to be part of it that is going to be long-term invested. And of course, both Amundi and Crédit Agricole Assurance are ready to make their propositions to their customers in order to be here and to attract these flows, these inflows. But for the time being, consumers haven't made up their mind. And when you see all the uncertainties regarding the future evolution of the pandemic, I cannot blame them."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. And the next question comes from the line of Omar Fall from Barclays. Please ask your question, your line is now open."
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Hi there. So two questions. And firstly, could you help us in modeling the insurance business, please, since it's quite volatile. That €400 million net number, is that sustainable on which to base our forecast? Or do we have to make an adjustment for the financial margin? So is that plus €100 million and €87 million positive market impact year-on-year that you quote just a normalization from a depressed return a year ago and the current run rate is normal? Or is the current run – or is the current quarter elevated?"
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then on the P&C side, I guess you will have like an elevated combined ratio with some of these weather events. Could we have the euro million impact if you've got it and if material? And then secondly, just wondering on the comments you made on rounding up the dividends for future years to include the 2019 dividend, if I understood that correctly. So number one, do you consider all of the canceled 2019 dividend as being available to be rounded up? And secondly, why do you suggest that this will be done over time when you're in a position of significant excess capital today? I mean you could pay €2 billion today, and you'd still be above 11%. And ECB doesn't seem to mind your peers paying more than 100% of earnings. Because I guess the previous question kind of asked it a bit more elegantly, but there are fears that, well, maybe you're holding capital so that you can make a larger acquisition or a larger transaction in Italy. Thanks."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Okay. Insurance modeling. It's going to be difficult to fully walk you through all the insurance modeling issues in a few minutes' time. So of course, we'll be ready to – and probably we'll have at some point in time to reorganize a dedicated workshop on insurance activities because definitely, it's a little bit less familiar to bank analysts than traditional banking issues. No, this element that we quote as a positive market effect has not to be taken out of the normal run rate of the insurance revenues. It simply is an element that we point because this quarter, contrary to what happened last year, we have had some positive market effects on – in two aspects."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "The first one is the fact that there are some legal reserves that we have to book within our books if the value of certain assets decrease the market value of certain assets, decrease below a certain point. So there is, for example, la provision pour garantie plancher, so it's provision for the floor guarantee that we provide on life insurance policies. There is also the provision pour depreciation. It's a provision regarding long-term depreciation of certain assets. So all these provisions have to be booked when some assets go below a certain value, and they have to be covered fully by the insurance company. So it's not shared with the policyholders."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So we have had some specific provisions of that kind one year ago, and part of it is coming back in this second quarter. And then we have also some positive reevaluation of assets that are marked at market value under IFRS 9. So this €187 million number that we've quoted is the addition of many events of these kinds. Some of them are being shared with policyholders, some of them being 100% for the insurer. What is for sure is that this quarter, considering the fact that partially because of this positive market effect, we have had a very – or a more – a higher level of financial revenues, we have been able to take only a proportion of the financial margin that we are allowed to take on these financial revenues."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And we have been able to book some additional provisions that are allocated to the policyholders, but that will not necessarily be paid by year-end. So you know that this accounting between participation aux benefices, so the yearly profit sharing rate and participation aux excedents, PPE, which is reserved in our books but not necessarily paid immediately and kept for the future is definitely made only by the end of the year. So what we've done this quarter is that with provisionary, again, increased this PPE because we had a very high level of financial revenues, but it's not definitive before year-end."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So this is globally the mechanics that operate within the life insurance business. In the P&C insurance business, it's true that this quarter, we have had a significant amount of weather events that impacted a little bit the P&L. But you know that there are two mechanics that really filter the impact of these weather events on the P&L of our insurance company. The first element is that part of it is reinsured outside the group. And so, of course, a part of these weather events was taken by the reinsurance companies. And then there is a risk-sharing mechanism between the insurance company and the banks that sell the policies in order to align the interest in terms of underwriting the policies."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And so part of the cost of these weather events was – is shared by the regional banks of Crédit Agricole and by the – by LCL through the level of fees that they get from Pacifica, which is the P&C insurance company. So all in all, this quarter, indeed, the ratio of costs – claim costs as compared to premium within Pacifica increased quite significantly compared to Q2 2020 from, let's say, around 62% to 72%. It's significant, but Q2 2020 was very low because of the lockdown. But in terms of combined ratio, which includes the commissions that Pacifica is paying to the distribution networks, actually, it's been very stable around 97%. So actually, the profitability of Pacifica was more or less unchanged as compared to last year."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So it's not a very significant impact that we've had this quarter despite the fact that all this mechanism, reinsurance and sharing of the risk with the distribution banks has been operating. So all in all, is this level of profitability a run rate, I'm not pretending that every quarter, we are going to post €400 million of net profit for the insurance division, but it's not an abnormal level whatsoever."
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Very clear. Got it."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Okay. And then coming to your question regarding the dividend. First, the unpaid 2019 dividend was €0.70 a share. What we've said when we presented the 2020 dividend scheme earlier this year was that this 2020 dividend scheme was covering around €0.30 of unpaid dividend coming from 2019 because the normal dividend in 2020 would have been around €0.50. So it means that we deem we have another €0.40 per share to pay to the shareholders in the future."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Then why don't we pay one-off this amount? We don't like the idea of decreasing the level of the dividend. So paying an extra dividend or paying a very high dividend in a single year is not an idea that we like. We really want to be as stable, as recurring as possible. What I can tell you, nevertheless, is that we do not intend to keep in the long run extra capital in order to have a reserve just in case we have a large M&A operation to finance. I have always said that it's better to be close to the target in terms of solvency and to ask the shareholders to provide the necessary funding of an M&A transaction because then it creates, I would say, a positive inducement to present a very convincing operation. So it's far better, and it's far more efficient."
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Just as a follow-up, I take that on board, but do you see that there's may be a clash between that view because if you don't want to pay one-off more sizable dividends yet you're in the position of significant excess capital, how do you then get down to a more normalized level of CET1 if you're not banking on that additional capital for M&A?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, of course. But just keep in mind that up to a few days or weeks, the level of capital where we stand was a compulsory level, considering all the restrictions put in place by the ECB. So the level of capital that we have now, and it's going to be the case up to the end of Q3 this year is, again, a compulsory level of capital under which it was not possible to go, unless precisely we had concluded very large M&A transactions because it was the only way to spend capital accordingly to ECB's recommendation."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So now we are going to be starting in October in a more normal situation. Regarding our intentions for the fourth quarter, we want to stick to what we had said beginning of this year. And so again, it's the idea of being very previsible. And so we want to stick to what we had said for the rest of the year. And then end of this year, we will assess exactly this rounding up the numbers exercise I was mentioning."
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thank you, Jerome."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. And the next question comes from the line of Delphine Lee from JPMorgan. Please ask your questions, your line is now open."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good afternoon, Jerome, and thanks for taking my questions. So I just want to quickly clarify on what you said on the full year 2019 dividend, the €0.40 remaining. You mentioned 2021 and 2022 to pay that. Is the intention to pay the full €0.40 amount by the end of 2022 i.e., by the end of your business plan? Or do you intend to spread that out over a longer time period? So could we expect €0.20 per year? Or is it going to take much longer?"
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And I mean, also, just sorry to come back on the share buyback discussion. But I understand the regional banks don't want to be kind of increase their stake too much, and that's why you have a preference for dividends. But you've just issued quite a lot of shares because the scrip and – that they have taken. So I don't understand why you wouldn't buy back part of – I mean, a lot more of those shares. And you're only buying back the shares taken up by the minority shareholders. I mean, in proportion that could be considered."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And I don't know – I mean, you've always run well above the 11% target. And I was just wondering if that's a real target? Or if you actually aim to maintain some kind of buffer for prudence on top of that 11%? And just on capital, and that's my last one, really. It's just a – regulatory impact from on TRIM. So you haven't taken much this quarter. Can you just confirm how much is left for the year, please? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Okay. Many questions and finally all related to capital somehow. Our intention is not to spread this €0.40 repayment on the next 40 years, to be a little bit caricatural, Delphine. So of course, we don't want to do it in too many years. But probably, if the situation is convenient, we can do it in two years. So on the back of the 2021 dividend to be paid in 2022 and then on the back of the 2022 dividend to be paid in 2023. Then regarding the share buyback, actually, we are up to finish to repurchase the shares issued with the take-up of the minorities at the end of the present share buyback operation. So it means that the second share buyback operation is going to apply to part of the new shares created for the sake of the regional banks."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So that's for sure. And so we are not preserving this number of share. And so the €500 million that we've announced is going to apply by definition to shares somehow, I would say, notionally, intellectually created for the stakes of the regional banks. What I was saying is that, in my understanding, but really, I'm not the shareholder, I'm only the listed company in which the shareholder has a stake. But in my understanding, the regional banks don't intend to sell shares during this share buyback operations. And so it means that mechanically, as they keep their shares, they are going to be diluted within the capital of CASA."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And I think that it's not in the best interest of minority shareholders to see as a majority shareholder seeing it's a stake mechanically growing and growing permanently. This is why we prefer to pay a cash dividend to our shareholders. I can ensure that the 11% is the true target. And actually, if all these events regarding the dividend payment restrictions hadn't happened, we would be much lower than the level where we stand now. That's for sure. And there is no management buffer above this 11% target. That's absolutely certain. But again, we are in an environment where we have restrictions on payments."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And we are also in an environment where there are still some uncertainties in terms of regulation because we haven't talked about Basel IV yet. And I think it's not useful to talk too much about Basel IV, because we are still awaiting for the draft proposal of directive from the commission. But we need to know exactly where it's going to land before being able to really project our capital trajectory in the long run. And then TRIM, TRIM is part of these regulatory uncertainties. In my understanding, but it's varying regularly quarter on quarter, we still have, let's say, around €6 billion to €7 billion of RWAs to take in the coming six quarters, is it correct? So let's say, between €6 billion and €7 billion in the coming six quarters."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "The calendar is not very precise because that – it depends on interactions with the ECB and specific reports. And of course, we try to discuss. And then there is a whole phase of interactions. And so the calendar is not very precise, but this is more or less what is left in front of us. Okay."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Great. Thank you very much."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. And the next question comes from the line of Lorraine Quoirez from UBS. Please ask your question, your line is now open."
+  },
+  {
+    "person": "Lorraine Quoirez",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Hi Jerome. Thank you for taking my question. Just a quick one from me, actually. It's regarding to the accounting of TLTRO. Can you remind me how is it accounted for in LCL and for how long we'll have the impact of that? And how much, please? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, it's accounted for, I would say, over time – it's accrued actually. It means that every quarter, we book a liability within LCL, but also within CACEIS, within Crédit Agricole Italia, within CASA and of course, within the regional banks of Crédit Agricole, which is – which bears a negative interest rate of minus 1%. So this was the case up to end of June this year because we had certainties about the fact that the condition related to the extra premium was going to be met. And actually, it's been indeed met. So for this first period of premium, which is now over, the accounting was really straightforward. Then since July the 1, we have started the second premium period, which is conditioned by another metric, another period of check of the evolution of the loans."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And so we will see with the accountants how we do for this new period. But for the time being, what I can tell you is that the portfolio of loans, which is the condition for being granted the second premium, is up 3% or 4%. So we are, again, quite comfortable with the idea that we are going to be able to receive the second premium for the second year."
+  },
+  {
+    "person": "Lorraine Quoirez",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "All right. And then in total, it should be over three years, right?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "No. The second period is also for one year. The first period was between June 2020 and June 2021. And the second period is between July 2021 and June 2022."
+  },
+  {
+    "person": "Lorraine Quoirez",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Okay, perfect. Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. And the next question comes from the line of Tarik El Mejjad from Bank of America. Please ask your question, your line is now open."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Hi Jerome. Just a couple of follow-ups, please. First, on the provisions. I mean, clearly, you seem cautious on releasing the provisions and favoring higher coverage ratio versus these releases. But isn't it automatic if you have to update your models and I guess you have to at least, the environment is improving and that would need to release this? Or is it your choice not to adjust the models and be contrarily more cautious in your assumptions?"
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And the question number two, sorry to come back on capital because I mean, correct me I'm wrong, but I sense some cautiousness versus your rhetoric in Q1. I mean, Basel IV, yes, this is certain, but the Pillar 2 requirement relief that you promised to update us in full year would probably offset all Basel IV or most of it and then you're left through the massive excess capital."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "So I mean, if your intention is to increase a few cents per year to keep the progressiveness of EPS, that would definitely take a long time if you don't use this excess capital to grow faster or nonorganically. So I just want to understand, if the tone has changed the impression or you sense that you want to be more cautious and progressive? I mean, I hear you about the fact that you restructured to pay dividends as the accumulation of capital. But it's fair as well to have a catch-up to basically as it was abnormal to then you pay dividend. It's also maybe unusual for you to deviate from your strategy of progressiveness and run down the excess capital faster than what you had in mind pre-COVID. Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Okay. Let me start with the second question actually. We didn't change tone as compared to the beginning of the year. What I'm just saying is that before accelerating the unwinding of this excess capital, I have, first, one tool, which is that – and one usage, which is the dismantling of the switch mechanism. It's a commitment, as I said. It's going to be important to enhance the earnings and the earnings per share. And it's to be done before year-end 2022. And this is going to consume 60, 65 bps of capital. So it's important, of course, to keep the necessary amount in order to do it exactly when we deem relevant to do so."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Second element is that, of course, we have these uncertainties regarding Basel IV. I agree that alongside with Basel IV, there is this capacity of covering Pillar 2 requirement partially with Tier 1 and Tier 2. And we don't forget this component of the package. But of course, it's better to know the full picture before drawing a trajectory of depletion of capital, if I may say so. But really don't misunderstand me. I'm absolutely not changing tone as compared to the beginning of the year regarding this issue."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "In terms of provision, of course, it's automatic. But it's automatic with many, many assessment that you can make. So first – the first assessment is the macroeconomic scenario that we use in order to calculate the expected credit losses, one year expected credit loss or maturity expected credit losses. So of course, we have to reassess permanently the macroeconomic scenario. For the time being, we are positive. And of course, we have a positive scenario. But we don't want to be over positive even though there are some indications saying that most of the official public institutions that publish macroeconomic scenarios are more optimistic than what we are. But nevertheless, we are not overoptimistic in our own in-house scenario that we use for the provisioning."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then second, you may have in mind that S1 and S2 provisioning is made of two layers. The first layer is the central forward-looking, which is based upon our global macroeconomic scenario. And then we have local forward-looking layers that are added up to the normal provisioning, S1 and S2 provisioning, either in connection with certain specific sectors or with certain specific geographies. And in this front, we have certain capacity of being more prudent than only the central forward-looking scenario. Okay?"
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. And the next question comes from the line of Stefan Stalmann from Autonomous Research. Please ask your question, your line is now open."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Hello, Stefan."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes, good afternoon, Jerome. I wanted to ask you, please, on the stress test for Crédit Agricole Group. I mean the group drawdown was more than 6%. And I guess we can back solve roughly for something around 5.5% to 6% for CASA as well. And so with that kind of stress test drawdown, is 11% really the realistic CET1 level to shoot for? And in that context, do actually Pillar 2G considerations play any role at all at your level? Or is that only an issue for the group?"
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And maybe related to this question, a very general question. It always strikes me as surprising that a group like Crédit Agricole has such a severe stress test drawdown compared to many other banks. Is there anything that you would highlight that you think is responsible for that? And are there maybe any issues maybe arising from the group structure that penalize you compared to other banks? Any color there would be very helpful. Thank you very much."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Very good, Stefan. Thank you very much. Well, first, it's true that we have a depletion, which is huge and which is bigger than the one we had previously and bigger than the one of most of our peers. Nevertheless, considering the starting point of our solvency at group level, it's not really an issue. And as you know, we end up this severe scenario stress testing with a CET1 ratio which is close to 11%, which is the second best in the European space of systemic banks, the best being exactly at 11%. So it's not really differentiating. And so we can consider that amongst the space of European systemic banks, we end up with the best resilience to this very severe stress scenario."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Then why does it happen that we are so severely hit? I think the main reason is the scenario itself. The scenario is hitting very hard on France, very hard on professionals, very hard on exactly all the businesses in which we are dominant in France. So of course, the scenario is hitting hard on our group because it's hitting hard and in my opinion, absurdly high specifically on the businesses in which we are very, very present in which we don't intend to exit, of course. These are our main priorities, and we are going to stick to these priorities. And of course, we think that the severe scenario of the EBA is not very credible, especially this idea of saying that there is – that all public support is lifted and not appliable, doesn't work like that in the real life. So we don't buy that scenario."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "But nevertheless, we've applied it. A second point, there are some specific elements that hit us particularly, which are either methodological or which are linked to our good – resilience to the scenario itself, I would say. In this second category, it's the fact that at no point in time, we cross the MDA threshold. So it means that during all the period, we continue to pay 81 coupons. So of course, compared to banks that stopped to pay 81 coupons as soon as the first year of the scenario, it's an additional capital depletion. And for us, it's around 18 bps of depletion in the period."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Second element, and it's purely – it's not in itself very interesting, but we have had in 2020, which is the reference of the stress testing, both for the starting point and for the run rate of activity, you know that we have had some specific one-offs. Like, for example, the fact that we've decided voluntarily to pay and to indemnify some of our customers that have an activity interruption insurance policy with us. That was not supposed to be called for a pandemic, but we've decided to nevertheless indemnify our customers on this ground. So to pay voluntarily, a significant amount was around €300 million for the group globally."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And the ECB or the EBA said that we had to do as if we were to continue to repeat the same every year of the stress scenario. So it's an example, but this is also a cost of around 16 bps of CET1 depletion at the end of the day. So as – this stress testing exercise is not a negotiation we have to apply at the end of the day to all their requests. We couldn't modify that. But we consider it's a little bit unrealistic again. So we have some bits and pieces of – like this. And we have also the fact that our business model is precisely in the heart of the severe scenario of EBA. But going back to your question, there's nothing regarding our structure, our organization that is contrary to the methodology and that would really penalize us."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Then how it's going to play on the P2G, we don't know exactly. The ECB, to a certain extent, a little bit of a black box regarding the connection between the results of the stress testing exercise and the SREP exercise. We'll know a little bit more about it in the fall because we have this SREP exercise meeting that is organized, I don't remember exactly, probably in September, October. So we'll see a little bit more how it works."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then regarding CASA, there's no CASA stress testing. Of course, CASA is integrated in the stress testing of the group, but we don't publish any CASA stress testing specific result. And there's no request or requirement on CASA specifically regarding the stress testing. Thank you, Mr. Stefan."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thank you very much for that, Jerome. Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. And the next question comes from the line of Kiri Vijayarajah from HSBC. Please ask your question, your line is now open."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Hello, Kiri."
+  },
+  {
+    "person": "Kiri Vijayarajah",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Hi, Jerome, good afternoon. Just a couple of questions on CreVal, if I may. So firstly, on the net badwill on CreVal, correct me if I'm wrong, but you haven't included any kind of DTA benefits in there. So really, what's your thinking there? Roughly, how much could the DTA be worth eventually on some of those adjustments you're taking? And then a related point, now you've got your hands on the CreVal business. Have those PPAs come in line with what you originally expected when you were trying to price up the original tender offer? So things like the extra provisioning needs on the loan book, et cetera. Have they come in better or worse than anticipated? Because I guess the macro has kind of yoyo-ed around a bit since the beginning of the whole process when you launched the tender offer for CreVal. So yes, just your view on how the PPAs have come in versus original expectations. Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you. You're right, we didn't book any DTA so far because in order to be allowed to book DTAs, we have to have a legally binding decision of merger in place. And the legally binding decision of merger is going to be taken after general assembly meetings, both of CreVal and of Crédit Agricole Italia that are going to take place in Q4. So it's going to be only end of Q4 that we are going to be able to book the DTAs. Within CreVal, off-balance sheet DTAs amount to around €180 million. In terms of findings regarding the CreVal situation, well, it's too early to tell. But what I can tell you is that everything we see is confirming the very good potential of this acquisition in terms of complementing very, very nicely and very efficiently, our set up in the northern part of Italy. So it really is a very, very attractive acquisition."
+  },
+  {
+    "person": "Kiri Vijayarajah",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Great. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. And the next question comes from the line of Matt Clark from Mediobanca. Please ask your question, your line is now open."
+  },
+  {
+    "person": "Matt Clark",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good morning. I just come back – sorry, good afternoon. can I come back to your comments earlier that the €400 million net profit for the insurance business is kind of not an unusual or not an abnormal number. Would you also say the same would apply under IFRS 17? So can we still expect to see that level of profitability coming through some quarters in the future? And anything else you can say to help us understand the impact of IFRS 17 on the group growth from a capital and profitability perspective? And actually, my other questions have been covered. Thanks."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Well, thank you, it’s a very good question. And definitely, IFRS 17 is going to be a headache both to apply and to explain and to live with, in the future. That's for sure. We were not – as you can imagine, we were not really candidate for IFRS 17. But nevertheless, we are going to apply IFRS 17 when it's appliable, so starting in 2023, but with the dry run that we have to do in 2022. We will have a clearer view pretty soon now on the effect. You know that under IFRS 17, the total profit generated by insurance activities at the end of the whole day is going to be the same."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "The issue is that it may be spread quite differently over time, and that's the difficulty. And we have still some arbitration to do with the first time implementation of IFRS 17 between what is going to bite on our solvency at the level of the group in order to protect as much as possible the profit-generation capacity or on the contrary, what is going to preserve better our solvency at group level, but at the price of deteriorating a little bit the revenue trajectory and delaying a little bit the acknowledgment of revenue."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So these are questions that we are working on presently quite hardly, and we are going to be able to give more clarity on that probably end of this year. But as of now, I'm not really able to give you some precise color on that. And what I told about the €400 million is really under the present accounting standard."
+  },
+  {
+    "person": "Matt Clark",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Okay. Just to follow up on that. I think in the current business plan to 2022, I mean, when you came up with that, it was still expected that IFRS 17 would have been imposed by 2022, but you chose to exclude that effect. So I mean, does that mean that really, when we think about the order of magnitude, IFRS 17 could be the order of magnitude that would have threatened your group target."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "It was much more because in 2019, we had a much less clearer view of all IFRS 17 impact, and it was too difficult for us back in 2019 to really be able to give the, I would say, the sensitivity of the 2022 P&L target to the implementation of IFRS 17. So we've preferred at that time to say that we were setting those targets under a constant accounting standard for the insurance activities. And at the end of the day, we were right because indeed, IFRS 17 is not going to really be the standard before 2023."
+  },
+  {
+    "person": "Matt Clark",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. And we will now take our last question, and the question comes from the line of Pierre Chedeville from CIC. Please ask your question, your line is now open."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Hello, Pierre."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Hello, Jerome. Just a question regarding insurance, we've seen growth in penetration rate in your domestic market and even if there are room to progress further, notably at LCL and Italy. My question was regarding the development, the international development because I understand that you were keen to develop this insurance expertise elsewhere. And I wanted to know where you are regarding this international development? And if you are also exposed to floats, exceptional floats in Germany, Belgium or Eastern Europe because I don't see…"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "If you say, exceptional floats, what do you mean by that?"
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "[Foreign Language]"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Okay. Excuse me. So the answer is no. The answer is no. Going back – of the floats."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Okay. And the other question is regarding provision. So we have all understood that the level of provision is exceptionally low. And we have also understood that even if you are reluctant to make write-backs, you will also somehow in the future. My question was, in your opinion, when do see the level of provision or a normal level of provision, we would say, around 40 basis points coming in 2023, 2024? How do you see that in your view? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Okay. Thanks, Pierre. Well, in insurance activities, it's clear that we want to accelerate the international developments of our – I would say, our know-how in terms of bank insurance capacities. And so we had in the past taken and we have in the recent past taken several initiatives. Actually, CreVal is the result of one of those initiatives because initially, we started with a life insurance distribution partnership with CreVal. This was the starting point of our love story with CreVal. We've also concluded a partnership in Spain with ABANCA. And to be clear, I'm not pretending that the CreVal scheme is going to be repeated in Spain. That's very clear."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We have also a partnership with Novo Banco in Portugal. We have also a global partnership, insurance partnership between CACIB and CACEIS activities across Europe. So CACEIS is distributing CACIB, which is one of our insurance companies products across all – the whole Europe alongside with personal finance products, consumer credit loans or auto financing loans. So we have a full range of initiatives in order to develop our insurance activities across Europe. But we definitely would like to accelerate on this front. And so we're working on several potential partnerships that could enhance the development of our activities. So of course, we are going to work on several partnerships that are not going to generate anything. So it's something on which we are not going to communicate."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And from time to time, we may have some – we may conclude some additional partnerships in order to boost our capacity of distributing insurance policies. But we very much believe in the strength of this model. And so we think that we master this model of bank insurance distribution, and so we wanted to develop this model across Europe. Regarding provisions, you were – you namely – you rightly named – quoted this figure of 40 bps because this was precisely the across-the-cycle figure that we had in mind when we published our medium-term plan, 40 bps of cost of risk. And it happened that last year, we were above. And this year, we are already significantly below for the time being."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So when are we going to reach back this 40 bps amount? I don't know exactly, but for – on the single quarter, Q2 quarter, we were at 24 bps on the perimeter of CASA. But if you take a rolling four quarter average, then you will end up with this 40 bps figure. So this 40 bps figure across the cycle is not unrelevant, I would say. And I expect that we are going to vary around this figure. And possibly, we are going to be below this figure for the coming quarters and then – at a certain point in time, but I don't know exactly when we will be back at 40 bps."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Okay. Thank you very much."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Well, thanks, I understand this was the last question. So again, thank you for your time. Thank you for your attention, and I wish you all a good holiday. Personally, this is what I'm going to do in the coming hours now and most of the team in the coming days. So I'm glad that we are going to meet again in the fall after the vacation. Bye-bye."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

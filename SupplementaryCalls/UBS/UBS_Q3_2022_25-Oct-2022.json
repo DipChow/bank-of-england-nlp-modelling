@@ -1,0 +1,554 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "We will now begin the question-and-answer session for analysts and investors. [Operator Instructions] The first question comes from Stefan Stalmann from Autonomous Research. Please go ahead."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Yes, good morning. Thank you very much for the presentation and for taking my questions. I wanted to ask, please, on your cost guidance. You had previously said that cost might be up by 2% for the year on an FX-adjusted basis. Now you are saying it could be plus 1%. Could you maybe talk about what has changed? Have you reassessed variable compensation? Have you showed – slowed your investment spending plans or anything else to consider? And the second question goes back to what you said about NII in 2023, Sarah. I missed what you said exactly, you talked about an annualization and that NII next year would be higher than an annualized number, but I missed the basis. Could you maybe repeat that for me? Thank you very much."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Sure. Stefan. Sarah, on cost?"
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yes. So on the cost, we gave the guidance that we would be up 1% ex-FX and litigation and that is in line with where we are for year-to-date this year versus a year ago. In terms of the 2% guidance that you’re referring to, this was done ex-variable comp. And on that basis, we are approximately at 3%. And we will expect to continue to work on being below 3%, so with 200, but still rounding to 3%. And what’s happening here is that you’re seeing very strong cost discipline with the reported ex-FX and ex-litigation story. And you’re seeing that we’re managing the entire cost base, but we’re, of course, seeing some inflationary pressures that were higher than those that we were predicting at the time when we gave the guidance."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Yes. And on NII, it’s – so literally, it’s as follows. So we see uptick on NII dollar rates coming through, but euro and Swiss franc and pound rates coming through also in the fourth quarter and with that increasing our NII guidance there by another $200 million. And then how to look at that from a ‘23 perspective is that we are indicating that, that will continue – the uplift there will continue in the different currencies, more so than in the U.S. dollar because we expect that to peak in the fourth quarter, maybe beginning of ‘23. And therefore, for ‘23, you should start thinking about the annualized number for the fourth quarter, so 4x fourth quarter with upside. That’s the way we guided."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Great. Thank you very much. Very clear. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Your next question is from Amit Goel from Barclays. Please go ahead."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Hi, thank you. I have one question on the NII guidance. Again, just to check. When we talk about the $200 million and the $1 billion next year, what kind of mix effects and/or deposit flow assumptions are in that? And then secondly, I’m just kind of curious, if you wouldn’t mind just going into a bit more color in terms of the costs, which are the areas where maybe you’ve kind of hand in some of the spending, what impact that has and also how you’re thinking about investment into Asia as well at present? Thank you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "So Sarah, can give you some more insights on NII. We kind of – go ahead."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So on the NII, and we already gave you a lot of information with guidance in the fourth quarter as well as additional directional guidance for 2023. And so if that’s okay, we will pick up with even more than that next quarter when we report earnings. But we feel that the exposure that we have with half of our balance sheet being in U.S. dollars, but the rest are not being in U.S. dollars. It gives us upside in those other currencies that is worth mentioning to you at this point."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Yes, on the cost and also in Asia specifically, but it’s also on the cost. And what Sarah was indicating is that we are really focused on the cost side. We have been the whole year. Clearly, we had inflationary pressures that busy at the beginning of the year, nobody had foreseen. But nevertheless, we manage a tight ship here. And also in the fourth quarter, she was indicating that where we really want to be very clear, making sure that we don’t impact the strategic investments nor that we don’t impact the good cost, but that we are very strict on non-critical hires. So we continue hiring, but only for the critical hires because we want to hold back on some that we have to be more careful around T&E and consultancy costs as well. So it will not be kind of impacting the strategic projects at this moment in time and looking at further participation in the technology budget. So those are the four areas we’re very much focused on."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Then into your question around Asia, now Asia, we know always go through bigger downturns and upturns than anywhere, but the underlying current is always positive. And specifically, if you look at it from a wealth pool perspective and a wealth pool development perspective, and that’s the underlying basis for our strategy in Asia-Pacific. We expect this to grow over time anywhere between 5% to 9%. So it is an area where we want to continue to grow where we see $7 billion of net new fee-generating assets just for the quarter. We expect some of that flows to continue as well. So it’s an important region for us to continue to invest in the wealth business as well."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Thank you. Sorry, can I just follow-up just, Sarah, just on that point then. So there are some volume and mix assumptions within the $200 million. It’s not a static balance sheet assumption? Thank you."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yes, that’s right. This is not a static balance sheet. This is guidance."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Anke Reingen from Royal Bank of Canada. Please go ahead."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "Royal Bank of Canada",
+    "text": "Yes. Thank you very much for taking my question. It’s basically just around the costs. Thank you for giving the 9-month trends on the costs, FX, ex-FX and litigation. I was wondering if you can give us the revenue equivalent on an FX-adjusted basis for the 9 months. And I hear you on strategic investments, but do you see any need to potentially – at what point of draws what you’re thinking considering of further actions on costs. And then I think you mentioned in terms of the U.S. offering, all the costs will be included in your current budget. Can you just confirm that and how you’re going on about building out the U.S. offering without the Wealthfront acquisition. Thank you very much."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Sure. On – you go ahead."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yes. So on the revenue ex-FX and the gains were down 7%, and we actually put that on one of the slides, the revenue slides. Yes. That’s revenue slide..."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "Royal Bank of Canada",
+    "text": "Is that 9 months?"
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "That’s year-on-year on 3Q ‘21 versus 3Q ‘22. For the 9 months, I can pull it for you. There was even more effects on the revenue this quarter than last quarter although last quarter, there was some, too. So we can come back to you with the exact math on what DFS was for the 9 months."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "And Anke, on your costs or investments in strategy and also as to the U.S. very specifically. So clearly, draws are important, and we will not continue to invest in areas where we don’t foresee growth to come through, right? But we are committed to the strategy as we laid it out and that foresees a continuation of technology investments as well. But we have not really increased our technology investments even this year, but we have been able to generate quite some room in terms of the efficiency of the technology investments through agile. So that’s where we create the room to continue technology investments that are underlying quite some of our strategic initiatives, both in the Investment bank as well as on the wealth side and in P&C."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Now more to your question in the U.S. Clearly, a change of tactic is not a change of strategy. The U.S. is a very important region for us. It’s the largest wealth pool in the world. We expect this to continue to grow over time by around 5%. That’s why it is a focus of our strategy. That’s why we will continue to invest there. And the investments that we are making in the U.S. are first and for all, to support our financial advisers, basically in what we call the personally advised segment where we need further digital enhancement in terms of supporting them in the work they do. The workstations, the processes behind fulfilling the needs of our clients. It is about developing more banking products and also to deliver those digitally. And you’ve seen this quarter that we’ve been quite successful in developing additional banking products more on the savings and the deposit side, that’s very important there as well. So the banking products who support that part of our strategy in the U.S."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Then looking at the higher wealth segment, the family offices to do more bespoke business there by a very good combination of what we can do from the investment bank perspective and the coverage on the wealth side. So that’s also there. And then on the digital first and remote advice. It’s a business that we do already. We have quite some remote advice and wealth management advice centers activities already. That’s for the lower wealth plan, so to say. That’s where we will continue to invest as well to support that business that we have there which has always been the idea. And that will all continue within the plans and the tech purchase that we have."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "Royal Bank of Canada",
+    "text": "Okay, thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Adam Terelak from Mediobanca. Please go ahead."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Good morning. Thank you for taking the questions. I had one on understanding the flows picture and then one on capital. So clearly, net new fee-generating assets has been very strong. I just wonder I understand how kind of the flows into money markets fits into that. You mentioned how much is being captured in asset management, but is that included within the fee-generating asset flow print in GWM. Just to understand that and kind of some of the deposit moves against some of your mandated business within GWM that would be great."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "And then secondly, on capital. Clearly, the demand for your balance sheet from your wealth clients is much lower than you may have anticipated when you put out plans earlier in the year. I just wanted to hear kind of an update on your thinking on balance sheet deployment against kind of excess capital and buybacks and how that might change given clearly there is a much lower demand for your balance sheet in the more uncertain times? Thank you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Thank you. So on the flow side, net new fee generating assets that is truly sort of $17 billion of which more than that is actually into the mandates. So that’s not the money market business of asset management. It is including the SMA business in the U.S. So for example, in the U.S., you see actually the number is $4.4 billion of net new fee-generating assets coming through in the U.S., $4.9 billion of that is in SMA business. The money market business is outside of these numbers."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "And any color on what the flows have been into in – given the uncertainty?"
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Yes. So for the fourth quarter, you can expect some continuation, for example, in Asia-Pacific, but certainly also in the U.S. on the back of a strong quarter in terms of hiring financial advisers, both in the third quarter and discontinuing also in the fourth quarter, you can assume that, that will support flows also in the fourth quarter."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So going to your capital question, maybe if I lay out our capital priorities, that might be helpful. So it’s – as it was maintaining a balance sheet for all seasons, including, of course, our regulatory requirements, investing in growth opportunities, offering a progressive dividend and then distributing excess capital to our shareholders. And so you have seen us deploy exactly like that in this year, where we have supported our clients, but also, you see, for example, this quarter a reduction in our risk RWA and in the IV RWA, which is what we believe is the right decision to make on a risk-adjusted basis. You have seen us, for example, reducing by 46% our LCM book, and we have done that. But on the flip side, you have seen us increasing some of the lending because it was appropriate to do so and done cautious but absolutely see open for business way in GWM or in P&C. And so those are things that we have done and of course, the deleveraging in Asia is affecting also the reductions in the lending. So we are open for business. We want to maintain this balance sheet, but that can also supporting our clients. And in fact, our clients are seeing us as a source of strength. And we have done 94% of capital return. If you take the guidance I have given you plus on the dividend for this year. And we continue to expect to have material share repurchase and a progressive dividend for next year."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Great. Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Flora Bocahut from Jefferies. Please go ahead."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Yes. Good morning. I have two questions on the NII again, please. The first question is just a follow-up on the guidance that you provided for ‘23. You know where you said that we basically can consider 4x the Q4 NII with upside. Is that guidance based on the group NII? Or is it based on the sum of GWM plus P&C? And actually talking about this, what’s driving the difference, whereby the group NII is lower than the NII in GWM plus P&C. Is that because of the accounting asymmetries in the group functions. And if so, how do you expect this to evolve in the coming quarters? And then the second question is on the loan growth outlook for 2023, specifically in the wealth management business. Because if I look at the trend, obviously, there is been a slowdown in the growth, especially outside the Americas. But even in Americas, whether I look Q-on-Q or year-on-year, it’s now hardly growing anymore. So what do you expect in terms of loan growth in Wealth Management from here given the environment of higher rates? Thank you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Thank you. So on the loan growth, clearly, as Sarah was indicating, we are open for business and specifically the loan growth in the wealth management business is not a very high risk perspective – doesn’t have a high risk normally. But for the moment, with markets going down, we see Lombard’s going down as well because they are a reflection of the underlying collateral. And therefore, if markets continue to be like this or go up you could expect some pickup, but I don’t expect markets to really go up very fast next year. So from that perspective, on the Lombard, I wouldn’t expect too much coming through. One could maybe see some loan growth coming through in what we call the Global Family and institutional wealth business. We’re selling that business up, as you know, across the globe. That is a little bit more chunky. That business is larger loans as well. So this may not be kind of a perfect trend quarter-on-quarter but some deals may come through there that would add to the loan portfolio in wealth. And then on the mortgage side, that really depends on – yes, on how the economies develop really. So we will see. So yes, I think the summary is overall subdued demand for loans. That’s what you could expect next year with some more – maybe a more spiky profile in terms of the quarter development on the back of these successes in Global Family and Institutional Wealth business."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So in terms of your question on NII, so the – all of the numbers we have covered were for GWM and P&C. If you look at the total group on the difference is not accounting asymmetries which is in instruments at fair value, which is not in NII but IB. So it’s really an accounting. We reported to you when we give you global markets and when we give you banking, there is a component of NII and there is a component of the other pieces. But for you to think about it, it is much easier to think about the spread businesses in terms of NII, that’s GWM and P&C. And then the markets businesses, in terms of their volatility and what we’re seeing in the macroeconomic environment as well as banking based on the wallet that we are seeing. So that’s the nature of the guidance that we have given you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "You can track it because we report as such."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Jeremy Sigee from BNP Paribas Exane. Please go ahead."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "Thank you. I just wanted to follow-up about Asia Wealth Management, please, and thank you for the comments earlier on. You talked about caution from clients in terms of their appetite for leverage and transacting. And I just wondered if you could put in context the strong net new money flows relative to that. So if clients are not interested in leverage or transacting. What’s the nature of these flows, what’s the source of strength? I mean, is it flight to safety or capital out of China? What sort of – how would you characterize those strong net new money flows against the backdrop of caution? And then sort of following on from that, you talked about caution remaining at least through to the end of the year. I just wondered if you’re seeing any signs of stabilization or improvement or really we’re just sitting and waiting for the time being?"
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "And the last question on what?"
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "The broader mood."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "The broader mood, okay, thank you. So the Asia flow see, the $6.6 billion, so almost $7 billion of net new fee-generating assets there. I mean, the real underlying trend there is that clients are seeking more guidance, and therefore, they are more open to do mandate business with us, moving away from their own transactional behavior. The transactional business is not necessary, caught by the fee generating assets. And therefore, you see the – you see clients moving to get more advice and do more mandate business with us. So it’s not necessarily a flight to safety. It is a flight to advice and guidance in the period in which it’s more about trends rather than the occasional opportunity and that’s a bit of a change of behavior that we see in our client base, and we’re very happy to be able to cater that as well. Over time, and certainly, if things kind of bottom out or at least are more predictable, in ‘23, we would expect some of the transactional business on the back of the change of behavior to come back in Asia as well. Now the overall mood Jeremy, yes, that’s a very interesting one."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "Particular in Asia – sorry, I was meaning particularly in Asia sort of whether the more the broader sort of confidence amongst the Asian clients because you said don’t expect much improvement until the end of the year. And I just wondered sort of are there any signs of improvement yet? Or is it still just too early?"
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "No, that’s too early. Maybe the kickoff has been the confirmation of she as the President for another 5 years, which at least gives us predictability around how policies will develop in China. We do expect the COVID measures to be lifted over time. Not very quickly because until the new year, that will still be kind of a moment of caution because people like traveling and see families. But thereafter, we would expect some list of measures there as well, further continuation of further support of the property sector should help as well. If we’re through that, we would expect some more positive signals to come through and support for the Asian economic development. And therefore, we do think it will go back to 5%. Asia and then specifically driven by China, as you know, but the timing of that is really the question."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "Okay, thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Magdalena Stoklosa from Morgan Stanley. Please go ahead."
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Thank you very much. I still have a question about this kind of the sources of flows, net new money flows this quarter because, of course, the numbers have been very, very strong. So can I just kind of tackle it from a slightly different perspective, when you look at those flows in the third quarter? Is it existing? Or is it new clients? Or is there a certain level of concentration in those kind of flows across geographies? Or is it kind of much more broader based, I suppose, particularly in APAC, but maybe also the underlying EMEA trends because that number was also quite strong."
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And my second question is on your kind of some IB expectations because, of course, fixed income trading, particularly on the macro side for the industry for yourself, have been kind of very strong over the last kind of 9 months in particular. And I’m just curious, how do you think that kind of higher for longer interest rate environment will look like for that fixed income trading into 2023 as the kind of – as the higher rates kind of settle in and the volatility potentially comes down a little bit. And also, I’ve heard you this morning kind of talking about advisory unlikely to return in the fourth quarter. But how do you think about your advisory business into next year because, of course, mix-wise, it’s very important for you. Thanks so much."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Magda, there is a whole slate of questions right there. Okay. I’ll try to make a beginning here. So on the flows, it’s literally a combination of existing clients being more interested in doing mandate business with us, specifically in Asia, that’s where we see that change, in EMEA and in the U.S. the U.S., particularly driven through the success of our SMA business as well. And EMEA is also new clients coming on. And Asia, by the way, is also new clients coming on. So it’s a bit of a mixed bag. This is about net new fee-generating assets, by the way, Magda, not net new money, right? So we do separate those two concepts, because net new money may not be net new fee-generated assets or the other way around. So, I want to kind of caution that we really stick to our definition of net new fee-generating assets, which basically means, it is about assets that we manage on behalf of our clients, where there is inflow coming through new money coming into a mandate or dividends being paid within the mandate and staying within the mandate. That’s the way these assets grow, and that’s important. Then on the fixed income business, specifically more on the FX business, that’s basically where we really profit. Clearly, in the second quarter, we already indicated the shift from the market and specifically for our franchise, an important shift from what we would call micro, which is more the equities business that we are really, really leading in globally as well, as you know, to more the macro, which is the fixed income and the rates business that we have a very high exposure, we have a very strong position in the foreign exchange business, and that’s where we have profited from our institutional clients being very active on the back of the volatility there."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Now, these rates will continue. They will have their effect on FX as well. So, the combination of that and with that the resources that we have moved from the equities business and some of the deleverage we use for that business, depending on how the market develops, we will continue to profit from it. Where the market is going, honestly, I don’t know. I really don’t know, Magda, on that one. And then on the banking business, more on the Capital Markets business, yes, what I said this morning was more that given where the market currently is, the volatility in the market, the fact that there is a bit of a risk off behavior on the investor side that with six weeks or seven weeks to go in this year because basically, you should – I mean we probably have the first week of December, but thereafter markets are normally closed anyway. So, we have six more weeks. I don’t think that business will perform well. The markets are just not there. And in the next year, I think it will take quite some time before the confidence to come back in the market. That’s one. And then there will be investor appetite. But then you still need also the ones who need the capital or want to sell our business from that perspective to be able to accept the fact that it will go at lower valuations because the high valuations are still fresh in their mind. So, it may take some time as well before they have turned the corner around accepting lower valuations for the capital markets business. So – and once there, yes, you will probably see the supply and demand coming back and getting a better market situation. But yes, so I would be surprised that going into the first quarter, that the first quarter would be good there, I don’t think so."
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Kian Abouhossein from JPMorgan. Please go ahead."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Thanks for taking my questions. Two questions. One is on costs, just coming back to the numbers. I am just thinking 2023. I recall undercurrent the guidance was that the cost growth of 2% plus/minus variable in ‘23 should not be too different. And I was wondering can you reconfirm that? Clearly, things have changed in terms of inflation outlook, etcetera? Does that kind of indications still hold, first of all? And then the second question is on cost income target of 70% to 73%, which you are clearly making this year, can you run me through your kind of stress scenario since you have a lot of mark-to-market revenues, how you think about the offset that you can take in order to bring yourself back towards that level or even close to that level, so we can understand how the dynamic would work on your controlling the cost."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Sarah?"
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So, first of all, in terms of how we think about expense, our primary lands is cost/income ratio. And we are currently in our planning phase for 2023. And you can be assured that we are intensely focused on being within our targets, and we are looking at that in different scenarios. And to your point, we actually are looking at actions that we would take if the environment deteriorated significantly from where it is today. So, we mentioned, for example, that we are executing this $1 billion gross expense save that we are on track for the $400 million that we had planned for this year. We have executed the $200 million of last year. And there is $400 million that is planned for next year. Those sales can be reinvested, and that’s what we have done so far, but we don’t have to. That’s one of the levers, for example. Ralph and I both talked about on the levers that we are already taking the non-critical hires, the consulting, making sure that our privatization is very intentional for the tech investments that we are doing already. And then if we need to do more, as we said, we will. But if we do it too early, there is an optionality cost to that."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And just on – should we think about the times of absolute cost guidance is not relevant anymore. We should think from now on going into ‘23 around cost-income targets."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "The primary one is definitely cost/income target. Once we give you the guidance we think that there is anything complementary that would be useful, we will. And you see, for example, that this quarter, we are giving you a guidance to make sure that you can be helped as you prepare the fourth quarter."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Alright. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Piers Brown from HSBC. Please go ahead."
+  },
+  {
+    "person": "Piers Brown",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Yes, good morning everybody. I have just got two questions. First off, on the U.S. wealth strategy. So, you said you are still investing in tech platforms and new client segments. And given that Wealthfront is not proceeding, but we have seen a very significant pullback across tech valuations. How are you thinking currently about opportunities to expand via M&A going forward? And the second question is just on a topic which came up on the 2Q call, and I see you have highlighted again in the outlook statement of the 3G report, but the change to switch liquidity requirements, which I think became effective in July. Have you got any better clarity in terms of how that may impact the P&L as we move into next year? Thank you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Yes. Thank you. So, Piers, so on the wealth business in the U.S. So, we were never really looking at getting into new segments per se, right. So, we have a lot of clients in what we would call lower wealth bands, 250,000 to 1 million and 2 million. That’s one. We have 2 million clients in workplace wealth. Those are segments that we already cater for, for which we feel that we have to be more efficient in terms of how we deliver our services but also that we need to have a service to keep those invested assets with us. Clearly, over time, if you have an appealing digital offer in view of the generational transfer of wealth from even wealthier customers to the next generation, you should also be able to keep that in-house. So, it’s not necessarily that we are looking for new wealth segments. This is about the segments that we are already in and making sure that we have the right offer for those segments as well. Now, even on the personally advised, which is the core of our business there, we need quite a lot of technology investments in order to support them in the way they advise their clients, their workstations, the back office, the banking business that we are developing is a lot of technology investments as well. So, across the different segments that we cater for, we will continue to have high technology investments in the U.S. in order to get better productivity and a better user experience."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "On the liquidity ordinance, so as you know, it became effective in July 2022, and there is a transition period of 18 months. And the way I think about it is if you look at our current level of liquidity, they are very high. And so when you think about the change in the minimum liquidity requirements that would be from – not from the levels of cushions that we have today. So, we have this level of excess liquidity. And therefore, when you think about the balance of the two, we don’t think that it should have a material impact on our profitability. And we are certainly in discussions to continue to make sure that we get the full clarity on the second phase of the implementation."
+  },
+  {
+    "person": "Piers Brown",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Great. Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Nicolas Payen from Kepler Cheuvreux. Please go ahead."
+  },
+  {
+    "person": "Nicolas Payen",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Yes. Good morning. I have two questions, please. The first one is on AWS and I wanted to know if we should expect any regulatory inflation for Q4 this year and maybe also into next year? And the second one is coming back on your stop increase in client adviser in Americas. And I would like to know whether or not this trend will continue in Americas and especially in other regions. And if you have already witnessed some flows coming from this advisory in America. Thank you very much."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So, on the regulatory cost inflation, we have all of that embedded in the numbers that we are giving to you. And so there is always additional things to do, and we are reflecting that in our cost base, but we are not pointing to specific growth in that regard. And of course, all the critical hires that are necessary for that, we always prioritize. In terms of the growth in the FAs, we did have a strong recording quarter, which Ralph pointed out. And we also have a pipeline which Ralph also talked about and we are not being more specific about what level it might be going forward. But this was a very good recording quarter."
+  },
+  {
+    "person": "Nicolas Payen",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Andrew Coombs from Citi. Please go ahead."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Good morning. Two questions, please. Firstly, on the NII sensitivity in your prepared remarks, you talked about the deposit beta being better than expected. But at the same time, you have seen quite a significant offset from a mix shift in the deposit base. So, perhaps you could elaborate on your expectations on the impact of deposit mix shift going forward into 2023 and how much of an offset that might provide? And then my second question would just be on the net new fee-generating assets, the demand you are seeing, both in asset management and wealth management, you talked about an increase in demand for CDs and money market products following the move-up in rates and the additional yield that’s providing. Are you seeing a mix shift within the existing client base as well into the lower-margin products? And anything you can say on the average fee margin on those versus the broader asset base would be helpful as well? Thank you."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So, if you look at the charts that we gave, you see the proportions are for this year, and that was related to U.S. dollars. And in U.S. dollar, we have gone very fast, very high. And therefore, you have seen across the industry a fair bit of both volume and mix impact. So, that’s a normal phenomenon to the extent that the rate curves in Europe are less fast then you would be at a different point there. And then we also have are very strong P&C business, which is a different type of business in terms of like having all of the cash flow accounts of our clients. In terms of retention, I talked about all of the assets we are staying in our platform and also – so this is the slips and the accounts that are going into other products. And it’s exactly what you said in terms of going into deposit products that are priced attractively. And for that, we got 60% retention and then another 25% in our own money market funds. And then the rest is going to be things like, for example, treasury, which has also been interesting in the U.S."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "I think the core message here is that it’s been a particularly strong quarter as to how we have dealt with this, the sensitivity of clients around rates and how they are looking at it. We have been really able to manage this, keep the money within the UBS business lines, so to say, right, between what we would do within the bank in terms of deposits or as invested assets in treasuries or money markets and then the money market specifically on the asset management side. So, I think the team did a fabulous job keeping it in, in the house with an approach to ensure to maximize profitability around it as well. And given the fact that we have all of these options and that we are so close to our clients that’s why we can do this. So, a job really well done."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "And it’s been good for your retention, what does it imply in terms of margin mix shift?"
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "We are not sharing that type of information at this point."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Andrew Lim from Société Générale. Please go ahead."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Société Générale",
+    "text": "Hi. Good morning. Thanks for taking my questions. So, the first one, just a point of clarification on the NII for 2023, so, you said that prior guidance of 4Q annualized with a bit of upside. Is that on a static balance sheet basis, or is that actual guidance, which takes in account deposit outflows and mix shifts and so forth? And then secondly, on your buybacks, you have guided to €5.5 billion for the full year. So, that marks a bit of a slowdown on the quarterly run rate for buybacks despite your CET1 ratio in Qinghai this quarter. I am just wondering why maybe you are slowing that down a bit. And then looking towards 2023, you are still signaling a lot of excess capital. I am wondering whether you would consider having a payout ratio of above 100% to try and bring that down a bit? Thank you."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And so on the guidance that we have given – all of the guidance that we have given both the fourth quarter guidance as well as the indication directional for 2023, all of that was guidance. It was not on a static balance sheet. In terms of the buybacks, it’s simply what happens at that time of the year in terms of the liquidity in the market and also, obviously, it’s based on the level of our stock price. So, our stock price went up, it might be more. But the guidance we have given is based on our current stock price and the liquidity expected. Remember that December is going to have a lower liquidity than other months. In terms of 2023, we expect to have material share repurchase, but we are not being more specific about the levels."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Société Générale",
+    "text": "That’s great. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Benjamin Goy from Deutsche Bank. Please go ahead."
+  },
+  {
+    "person": "Benjamin Goy",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Hi, good morning. Two questions, please. The first one also on interest rate sensitivity, given the Swiss franc or Swiss rates are now the major driver, I was wondering about the deposit beta you are assuming in the €700 million that you stated in the sensitivity guidance. I am particularly thinking about that deposit beta was better in the U.S. and the Swiss deposits are still growing? And then secondly, thank you for Slide 26. And I think 12% of your client cash is invested in – off of client asset investment cash and another 5% in money market product. So, I am just wondering how this looks like, let’s say, early in the year and ones would you need to change it or are there any major changes expected from here? Thank you."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So, on the interest rate sensitivity and the beta that you can expect in Europe, the first thing to say is that betas typically become higher as you go up the curve. And so in the U.S., we are towards a higher point in the curve, and we went there extraordinarily quickly on what is expected in Switzerland and in the rest of Europe, is something that is much more measured. And therefore, we are at the lower point in that curve. And so that should be combined also with the fact that it is always the weighted average of our products. And we do have in Swiss Bank also the retail bank that has lower beta products. And then in terms of like the composition, we thought it would be helpful. So, thanks for appreciating it as you try to think about the impacts of the different markets on our invested assets, both in GWM and in AM. And I think that those are things that don’t evolve particularly quickly. So, I think it’s a good place for you to start."
+  },
+  {
+    "person": "Benjamin Goy",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Jon Peace from Credit Suisse. Please go ahead."
+  },
+  {
+    "person": "Jon Peace",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "Yes. Thank you. Sorry to have one more on rate sensitivity, but just looking for still a little bit of help in sizing the 2023 benefit. You do offer the guidance that 100 basis point higher rates will add $0.7 billion on the franc curve and $0.2 billion on the euro curve, do you think those could be substantially offset by deposit beta or mix effect because I see consensus has basically about a $200 million uplift on the Q4 run rate, and we might come to a higher number if we use that sensitivity. And then second question on the buyback for next year. I appreciate that you probably won’t give us a number until the full year. But just could you help us understand the process you will go through in Q4 in sizing that buyback? Is it a backward looking look at how far your CET1 is above your management target and you paid that out, or is it a desire to maintain a higher buffer and then it’s based on a forward look on earnings with payout of perhaps 100%? Thanks."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Yes. Thank you, Jon. So, let’s not go into further details. The guidance is the guidance, right. And that’s why we give it, and that’s where we want to keep it as well. Then on your questions around the ‘23 buyback, we go through this every year, looking at what is the starting capital position, going into the year, what are our expectations as to making sure that we have a balance sheet to get through more challenging times, what kind of growth do we expect in the business? And on the back of that, how can we then manage our capital. And in the end, we manage our capital to around 13% CET1. So, that’s the way you can think about it. And whether we can kind of generate – if we generate more capital and use less for our growth, clearly that will lead to a higher payout or buyback. So, those are the components that we would look at. The point is we have a highly capital generative model. We have a low capital-intensive model to generate our income and we have a buffer to the 13% that we want to manage to."
+  },
+  {
+    "person": "Jon Peace",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "Thank you."
+  },
+  {
+    "person": "Sarah Youngwood",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And maybe before we close, I can just answer a question that came earlier, which was the 9 months year-on-year revenue ex-FX, the number is plus 2%."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Okay. Thank you. In absence of any further questions, I would like to thank you all for being here this early morning. As indicated, given the market backdrop, I think we delivered a good quarter – a good quarter, both in terms of staying close to our clients and the flows that are coming through both in the wealth management as well as the asset manager with $18 billion of net new money coming through on the asset manager. You see that both on the institutional side as well as the wealth side. We do provide for the right products and services and advisory to our clients on these while challenging circumstances where clients do need guidance. And on the other side, it shows the flexibility of our investment bank in terms of the allocation of resources to move quickly from in market that is more micro related to a market that’s more macro driven and being able to profit from that as well with an increase in our FRC revenues for 64% and P&C doing well over time, a very stable business growing both on the lending side as well as on the deposit side. So, also there very much client-focused and client-driven business and on the back of that, delivering a $1.7 billion of net profit. Thank you very much and see you next quarter."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Ladies and gentlemen, the webcast and Q&A session for analysts and investors is over. You may now disconnect your lines. We will now take a short break and continue with media Q&A session at 9:45, UK, 10:45 Central European Time. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

@@ -1,0 +1,518 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] Your first question comes from Raul Sinha of JPMorgan."
+  },
+  {
+    "person": "Raul Sinha",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "I’ve got one on strategy. There are a couple of follow-ups on numbers, if that’s okay. On the strategy, obviously, the delay in terms of hitting the top three financial planning business target to 2025 is quite understandable. But I was wondering if you could maybe give us a little bit more color on where you managed to reach currently with the JV in terms of a few numbers. And what do you think changes from here that will actually accelerate customer acquisition or, let’s say, market share gains to enable you to achieve that target?"
+  },
+  {
+    "person": "Raul Sinha",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then on the numbers, I was wondering if you could maybe comment a little bit more on the NIM trajectory and specifically whether you expect NIM to be down in the first half of the year, especially in the first quarter of the year, given the weakness in unsecured and sort of back-end-loaded recovery there. And then on numbers as well, just very quickly on RWAs. I was wondering if you could – it looks like there are quite a few capital headwinds heading towards us in 2022 for the pension contribution that you outlined, and you’ve got the 51 basis points of intangibles rolling off. I guess the third part, looking for reading any quantification on the RWA headwinds that we have to factor in 2022."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So thanks very much, Raul, for the questions. Dealing with the – well, I guess, each of them in order. On SPW, the last couple of years, as you know, has been primarily involved in setting up SPW, so it is in a position of strength to ensure the offering to our customer base. In that respect, we’ve had the asset migration to the new platform. We’ve set up 11 regional hubs. We now have increased referral volumes coming through, and we also have a new CEO in place to deliver the plan. So as your question points out, we have had a delay in meeting our ambitions, primarily because of the coronavirus crisis."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "But we think the business is now very well set up to deliver plans going forward and indeed to be a big part of that £25 billion AUM target, as laid out earlier on. So that’s what – hopefully, that answers what’s changing from here and why we expect the business to succeed going forward. On your second question, NIM trajectory, I actually suspect it will be the other way around, that is to say we’ve come out of the Q4 at 2.46%, as you know."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Our guidance is in excess of 2.40%. During the first quarter, we expect to see the NIM being relatively solid. The principal source of pressure is structural hedge in the second half. And in that context, it’s just worth pointing out that some of the rates activity that we’ve seen lately, including the somewhat steepening of the curve, has been very helpful in mitigating that pressure on the structural hedge in the second half of the year. But the balance is, as I say, somewhere along the lines I’ve just portrayed. On RWAs for 2022, the picture, as I outlined in my comments earlier on, is one of some certain regulatory headwinds."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And so we’re seeing those from a combination of CRR2, number one; mortgage scores, number two; CRD IV, number three. That is also supplemented by asset growth, and that is clearly part of achieving our RoTE targets in excess of cost of equity. So that’s clearly very welcome. And it’s also complemented by our usual disciplined RWA management approach, which is both using the market, but also addressing suboptimal returns in the commercial portfolio where appropriate. And so those are all factors that play into it. By the time we get to 2022, we think that credit migration will be relatively limited. But if we take all of those in sum, Raul, we are aware of consensus circa £215 billion or thereabouts, and we’re pretty much comfortable with there or thereabouts."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Your next question is from Guy Stebbings of Exane BNP Paribas."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Can I firstly come back to NIM? I just wanted to check what your assumptions are in terms of mix on the asset growth and, in particular, just on the consumer side. I think you hinted a drop in the first half and a recovery in the second half. I’m just wondering where you think you’ll end up and what’s sort of baked into your NIM guidance? Is it the card balance will be a fraction lower by the end of this year versus where they started the year? And are you assuming any more deposit repricing over the course of 2021?"
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Also, I just want to link to that on OOI. I just want to check the average interest-earning asset guidance to be up or flat to slightly up this year. Is that versus the FY 2020 average number of £435 billion or the Q4 number of £437 billion or where you exited 2020? Just to know where we’re sort of starting from."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then just on other operating income, in particular, in insurance, which is obviously seeing quite a big drop in the second half of 2020. If we ignore the volatile life and pension experience to other volatile items and just focused on the new business income, I think it dropped from £394 million for the full year and dropped just £150 million in H2, driven by workplace planning, retirement income and annuities. I’m just wondering how much of a rebound in some of these lines you expect to see in 2021 and then also what sort of time frame you expect to even pick back up to what we saw in prior years."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Sure. Thanks, Guy. I guess, again, to address them in order. Let’s look at the NIM first. As we look forward into 2021, we have a couple of tailwinds, and we have a couple of headwinds in the margin. So addressing each of those, the tailwinds that we see are clearly in the mortgage book. We’re seeing much higher front book mortgages margin, which in turn is replacing lower margin. And so there’s a positive effect on the margin from that mortgage’s margin differential. Secondly, I mentioned earlier on, commercial banking optimization, which is, again, is intended to address the lower-returning relationships, there’s also a certain amount of commercial banking activities such as the reduction in RCF, for example, which then supports the margin."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then I mentioned in my script earlier on some certain liability management actions that we’ve been taking, which, again, reduced our cost of funding and, therefore, lend strength to the margin. In terms of the flip side of that, what are the headwinds? Two or three back book running off is clearly one of them, although that clearly gets less as the back book gets smaller. Secondly, mortgage volumes. Mortgages at the current pricing are very welcome. And as you’ve seen, we wrote £6.7 billion of the open book in Q4, and we’ll continue to write at these very attractive prices. But as an average margin matter, they weigh the margin down a little bit given the overall spread for the average."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then finally, the structural hedge, which I mentioned earlier on, which, again, is a dynamic that has been changing a fair bit over the course of the last few weeks by virtue of the rate value that we’ve seen, number one; and by virtue of the fact that we deliberately held back from investing when the curve was very flat last year, number two, which has created capacity for us to invest in now as we see the curve start to sharpen up a bit. Now that structural hedge dynamic, again, was and, to a degree, remains a source of pressure in the second half, but the extent of that source of pressure is mitigating by virtue of the rate movements that we have seen. So hopefully, that addresses some of the questions on NIM."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "You did ask about deposit repricing in AIEAs. On deposit repricing, I will leave it up to the retail and commercial team to take the right business decisions in the best interest of customers, obviously. But I would say that our average deposit margin now is pretty low off the back of the base rate changes that we saw, and there isn’t entirely much room within the liability margin left. So it’s with that caveat, if you like. And then finally, AIEAs, that’s versus the Q4 number that we have given to you. Insurance. Insurance, as you say, has been subject to certain headwinds during the course of 2020. A lot of that has to do with both the non-recurrence of some of the one-offs that we saw in the first half of 2019 as well as one or two non-recurring headwinds that were negative during the course of 2020."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And I’ll point you out there, in particular, to the assumptions review in Q4 for insurance, which is about £151 million, and you will have seen that in our numbers, combination essentially of expenses and persistency inputs. So persistency and expenses led to a £151 million negative in insurance in that quarter. Overall, I think as we look at insurance, the year of – looking forward into 2021, we hope will be marked by a recovery in levels of activity, which should allow the insurance business to perform more strongly. I don’t want to put a number on it too much. But certainly, as we look to OOI as a general matter in 2021, we do expect resuming levels of activity, particularly obviously when the lockdowns are lifted to contribute to the OOI growth during the course of the year."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Okay. Can I just very quickly come back to your comments on balance growth? And I think just to check, you talked about the mortgage growth this year is still being returned positive, but negative in terms of mix from a margin point of view. So can I infer from that, you’re expecting mortgages to continue to grow well above consumer balances for this year?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. I think – let me address that, Guy. You mentioned it in your question. The overall outlook for unsecured balances this year is a relatively weak first half strengthening into the second half. What that adds up to in terms of net, I would expect not terribly much movement on the year. It might be a small positive, it might be a small negative. But obviously, that predominantly depends upon activity. I think some of the news from the government, as announced on Monday, is somewhat more positive than we had expected in that respect, i.e., it’s slightly earlier opening up with the national lockdown, which hopefully will lend itself to consumer activity, which hopefully will help build unsecured."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "But our background assumption, and you’ll see this in the conditioning assumptions for our ECL and MES cases, was a bit more conservative in what the government announced. So we might see a little bit better performance in unsecured than we had initially expected. We’ll see. But I think, Guy, on a particular part of your question, the open book mortgage growth is very much expected. And so if you were to take things, if you like, on that like-for-like basis, it is likely that mortgages balance outperforms the unsecured balance."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And Guy, if I can give you some more color to what William just said. As we said, by the way, in Q3, the mortgage market continues to be very strong since the first half of last year. It is not only pent-up demand relating to the stamp duty incentives, which, by the way, will likely be extended to ensure a smooth transition and no breaks on the chain, but also because many home movers are moving houses based on their preferences, given they now mostly work at home and they are moving to bigger houses outside cities."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And we clearly see a big increase in both first-time buyers and in-home movers. And to give you an idea in terms of numbers, which might be helpful for you in anticipating what William said in relation to 2021, we have grown our open book of mortgages by £7.2 billion last year, out of which £6.7 billion was the growth in Q4."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And to give you a second number, we came into the end of the year with approved mortgages that will complete in Q1 or have already completed in Q1 of around £14 billion, which is 50% above the level of the previous December, of December 2019, so with a very good momentum into Q1 and into 2021. And I really believe that this market is driven by several factors, and we’ll continue to perform well over the next one, two quarters, which is normally the degree of assurance and the degree of visibility that one normally has when we speak with you about guidance and what we see on volumes and margins."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Your next question is from Alvaro Serrano of Morgan Stanley."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "A follow-up on the structural hedge and then one on capital returns, please. On the structural hedge, William, you’ve made it clear that there’s more capacity to grow the structural hedge, I think it’s to £210 billion. Obviously, there’s £60 billion rollovers this year. You already flagged that the real sort of drag is more second half. I’m just wondering, that £400 million, which you said that it’s kind of mark-to-market to the curves, how much of the growth in the structural hedge and reinvestment are you factoring in?"
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Because with a bit of steepening based on historically how low it has behaved, I would guess that, that could grow significantly. And the second question is on capital returns. You continue to target 13.5%. Should we continue to expect all of the excess capital to be paid out? I realize there’s transition elements to factor in. The question I’m asking is more related to the change of CEO and Chairman. And is there going to be ongoing focus on capital return? Is that still going to be predominant? Or do you anticipate sort of bolt-on acquisitions or M&A or some kind of growth initiatives that could sort of temper that maybe?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thanks very much, Alvaro. To give a bit of context on the structural hedge, essentially, during the second half of last year, last quarter of last year, we were looking at around £2.4 billion of income in the structural hedge on a hedge that lasted around five to six years. And so that’s kind of how we broke it down. The numbers are not precise, but they give you a kind of a sense as to what we were looking at. When we look at the hedge today, we’ve got £60 billion of maturities in 2021. And by virtue of the hedge management strategy that we have, we’re able to take advantage of the rate curve when it steepens as well as step back from the rate curve when it’s flat. As we look at that today, the £400 million that we’ve given is an indication of the recent status for those balances that we have locked in."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Now if the rate curve stays in the shape that it is currently at and if we’re able to lock in fully the benefits of that rate curve, then we would expect some benefit from that above and beyond the £400 million that I have indicated. There is also then, on top of that, the unutilized capacity of £25 billion, as you highlighted in your total of £210 billion, there, i.e., the difference between £185 billion and £210 billion."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And that would give us further upside as well. But obviously, all of this depends upon the rate curve staying where it is or considerably increasing. But let’s see. As I say, if it does stay where it is, we should be able to lock in more benefits. That in turn should give us a little upside in the £400 million that we indicated. The capital returns question, 13.5% is and remains our capital target. We are not changing that capital target today. In terms of what the Board will choose to distribute at the end of the year, that will be very much a matter for the Board at the time. And it will be clearly based on the regulatory situation, the macroeconomic situation, the outlook for capital generation over the course of the coming years and all of these factors just as it normally is. So I think the core point here, Alvaro, is that we are not changing our capital target. As to what Charlie chooses to come in when he’s CEO, obviously, that will be a matter for discussion with Charlie at the time."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And I don’t want to second-guess that or preempt it in any sense. I’ll leave that for the day. But I do think it’s safe to say that the Board has historically recognized, and I’ve no doubt will continue to recognize, the importance of income and capital return as a key part of our investment story. I’ll be very surprised if that fundamental tenet changes. You asked briefly about M&A. The only comment I’ll make there is that our strategy is an organic strategy. Having said that, if M&A opportunities come along, that actually adds strategic value or shareholder value in a way that’s consistent with some of the tenets that I’ve set out in Strategic Review 2021. And then, of course, we’ll look at it. But we don’t expect anything major in the near term. But things that make sense, we’ll look at."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Edward Firth of KBW."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "I just had, well, two detailed questions and a side fundamental one. In terms of the detailed, William, if I heard you correctly, if you look at the hedge runoff, the next three years sounds like substantially less than half of it is running off. Is that right? And is that just because of the very long tail? Or is it because of the way you structured it and does is then come quite lumpily after that? Because it doesn’t seem quite square with a total of £2.4 billion and then the £400 million and then materially less. So that was just one question. The other one was, you mentioned restructuring charges."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Could you give us some sort of idea of what you mean by higher? I mean, obviously, looking back over the years, there’s a huge gap that higher could refer to. So it’d just be helpful to get some idea of that. And then the final question is a sort of, I guess, slightly more longer-term one. I mean if we look at 2021, it sounds to me like that’s a reasonably normal year now. I mean your provision charges sound like they’re going to be pretty normal. I guess capital will be a little bit higher, but I guess you still got a bit of a hedge to run off."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "So net-net, it’s pretty normal. So – and yet you’re targeting what is a 5% to 7% return. So I guess you’re not happy with the 5% to 7% return as a sort of – as people think about as normal. But what are the big drivers that could make that materially different over the next two or three years, assuming the interest rate environment today is roughly where it is?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. Thanks, Ed. Right. On each of those questions, on the hedge profile, it’s a very fair question. Essentially, the pressure is reduced in 2022 simply because 2022 has a number of – a large number of short maturities maturing. And so the income pressure in 2022, in particular, is relatively modest. As a result, you see the profile that we’ve kind of called out here, which is 2021, as I’ve just discussed, we then have a significantly lower tailwind – or sorry, headwind in the course of 2022 because it’s predominantly short-term maturities that come up during that year. That number is likely to increase a little bit further in 2023 as some of the longer-dated stuff comes up for maturity at that point."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So hopefully, that gives you an idea, Ed, of that point. The other points, bear in mind here, is that over the course of the last year or so, we have typically avoided investing at the short end of the curve, where, frankly, returns have just not been worth investing in, and invest a little bit more in the long end of the curve, particularly in the second half of 2020. And so that’s what’s given rise to a slightly longer weighted average life in the context of the hedge and a shape that is a little bit less even, if you like, or more elongated than we would have discussed before. That’s point one. Point two, restructuring charges. I won’t put a precise number on it."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "But somewhat higher typically means 10% to 20% in our parlance. Third, 2021, normal year, I hope not. I think if you describe a normal year as being one where we have half the year in lockdown, I really hope that isn’t a normal year. I think there’s a couple of points that I would make there. One is just that, therefore, when we don’t have 50% of the year in lockdown, we would expect activity levels to benefit each of our three main business lines in a way that is proportionate, if you like, to much higher levels of activity. Second, cost. Cost remains an imperative on a BAU basis. We think there are also coronavirus-related opportunities. And then finally, it’s also a strategic matter as our technology R&D describes."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And so the cost focus is pretty relentless at Lloyds, and it will continue to be so over the course of the coming years. And then finally, impairment through the cycle impairment charge is typically 30, 35 basis points. In fact, I think it struggled to make those levels actually in the recent historical past. It’s typically been lower. And so all of those factors, I think, mean that 2021, I would say, is a transitional year and definitely not a normal year."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Absolutely."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Your next question is from Andrew Coombs of Citi."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "As we were turning to capital return, there was no mention of buybacks at any point in your report today. Can you just remind us of your thought process on buyback versus dividend and where you stand on that debate? And attached to that question, the new pension contribution has a link to 30% of capital return. Can you confirm, is that 30% of dividends or that’s 30% of dividends and buybacks? And then my second question would be on the £400 million management overlay. What would you need to see to be comfortable in beginning to release some of that overlay?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thanks, Andrew. Again, I’ll take those in order. On buybacks, as you know, Lloyds has historically done buybacks, and they remain an interesting tool, I think, at the disposal of the Board in situations where there is surplus capital. The point that I would make there is that the capital position of the bank, as we’ve discussed, is exceptionally strong with and without, frankly, regulatory assistance in the form of software or transitionals. There is also, alongside of that, a commitment to capital return at the Board level, which, as I’ve mentioned before, I think, is enduring. It’s clear what the stock price is today."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And off the back of that, it’s also clear what the benefits of buyback might be. But then I think at that point, I have to say, it’s really up to the Board at the end of the year to take a look at the situation with respect to the final part of the ordinary dividend and with respect to any surplus capital return above and beyond that, that they might think appropriate. As I said, that will depend upon macro, upon regulatory, upon the business performance, clearly, and the outlook at that point. The underlying point, though, is that the Board is committed to capital return. Buybacks are an interesting tool in the context of the valuations that we’re seeing today. You asked about pensions."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "The pension commitment is to 30% of in-year capital return. And if we did a buyback, that would include buybacks as well as dividends. It’s worth just adding a couple of comments perhaps on the pensions point. Why do we think this is an attractive structure? First of all, we think it’s fair. It’s a fair distribution of excess capital between the company’s various stakeholders. Second is it gives us the benefit of less stress capital. And that’s because essentially we have got now downside flexibility where, essentially, our pension contributions are derisked. So as you’ve seen, we effectively will pay out £800 million."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "If the business does not perform, we will only pay out in excess of that as a function of in-year capital contributions. And then the final point which I’ll make there is that bear in mind that term in-year. And so think about the 2021 capital distribution based on in-year 2021 capital distributions to shareholders as opposed to the necessarily the final year dividend and do your numbers, if you like, on that basis. The overlay, it’s an important topic, Andrew, and one that, obviously, we have spent a lot of time debating and considering and governancing within the firm."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "The £400 million overlay, as I said, it’s an offset to model releases that are otherwise generated by the experience that we have seen. The reason why we have done it is because essentially, the IFRS 9 model that we take has a set of conditioning assumptions, which are basically the input assumptions around progress of vaccination, around end of national lockdown, around government policies or that sort of thing. And it takes those set of assumptions and then shocks those and creates a distribution of outcomes around that central outcome around the central base case. That’s a powerful model that produces outcomes that are reliable and something by which we set great store. Having said that, it doesn’t accommodate a change in those input assumptions. Now if the virus mutates or if the vaccine program is exceptionally slow, doesn’t appear to be the case, at least the latter, but if those happen, then that constitutes changing condition assumptions, which is what we’re trying to capture with this £400 million uncertainty overlay that I described."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "What that means is an answer to your question, if and as those uncertainties recede, i.e., the vaccination program is clearly successful today, let’s hope it carries on that way, or the virus mutations appear to be under control or, to a degree, lockdown experience differs from our expectations, then we are able to look at that £400 million again and figure out whether that uncertainty overlay is still appropriate at that point. But it’s – that’s the timing. That’s the evidence that we’ll need before we take it off."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. And Andrew, just to add a little bit to what William just said. I mean you should put this into the context of what we have been doing over the years in terms of building a low-risk bank, and we have discussed this over the years several times. So we want to build, and I think we have built a low-risk simple bank based on the real economy of the UK"
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And you have seen the track record that we have in that regard relating to write-offs when you can go backwards a series of years, and you have seen sustainably that we have had write-backs after those provisions have been made. You see our coverage levels. You see the level of asset growth. So you should include this management overlay, as William described, but you should include it in the broader context that we want to build a prudent bank. IFRS 9 expects you to have an average case. And we think, given the huge uncertainties, we should be on the prudent side as we have been building this low-risk simple bank."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "I assume we’ll still get your company on the first quarter results on the 28th of April as well?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. And was that a question as to whether António will be at the first quarter results?"
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "For António."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, I will be at the quarter 1 results. So you still have to bear with me one more quarter."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Very good. We’ll state the farewell until then, then."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thanks."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Your next question is from Chris Cant of Autonomous."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "I had two on numbers and 1 on cap gen, please. So other income in the fourth quarter is like this negative one-off from the insurance changes. But I think LDC in previous years has been about £300 million a year, and you had £122 million there in the fourth quarter in isolation. So it looks to me like the sort of clean 4Q annualized run rate for other income is about £4.3 billion. Is that a fair assessment of where you’re at, at the moment as we look into 2021 and think about normalization effects of activity?"
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then on costs, your £7.5 billion guidance, the slide seems to say £150 million allowance for COVID and variable remuneration effects. I think your variable remuneration pool in 2019 was north of £300 million. So are you expecting a further normalization of variable remuneration to be a headwind to cost again into 2022? And then finally, on cap gen, the 7.5 – sorry, £7.2 billion actuarial deficit is obviously going to be paid an ongoing by terms of your capital generation, flagged the headwind you expect to come from the IFRS 9 transition unwind, flagged the RWA inflationary effects coming in 2022."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "You used to talk about cap gen, you used to give guidance on that. What is your expectation for the level of cap gen in basis points going forward relative to the 170 to 200 you used to guide us to expect?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. Thanks, Chris. I’ll go through them in order. First of all, OOI 2021, you mentioned a couple of moving pieces in Q4. And you’re absolutely right, we got a bit of benefit from LDC. We got a headwind from the assumptions review within insurance. On balance, I think the assumptions review within insurance was larger than the benefit from LDC. And so that’s the way I’d look at it. I won’t give precise numbers on that."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "But in essence, I think the assumptions review headwind was bigger than the LDC benefit. Looking at 2021 OOI, it’s one of the few areas of our P&L, actually, that we do not give guidance on. So I’m going to stay away from changing that, but I will give you a sense as to the run rate as we look at it. If you take a look at Q4, as we just discussed, you might look at a run rate, not just Q4, but also Q3 once you take account of asset management market review charges and one or two other things, it’s around £1.1 billion or at that level. Now that’s in a coronavirus lockdown situation."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And as I’ve said a number of times in the course of our calls, we do expect to see activity recover and benefit OOI. How much? I think it’s safe to say that in 2020, we think we lost somewhere around £350 million to £400 million by virtue of three quarters of lockdown. Now if we see 2021 experience two quarters of lockdown, we’d expect to get a lot of that £350 million to £400 million back. So I think the way that I would look at the run rate for OOI is, as I said, activity dependent and also investment dependent, as we’ve outlined in our SR 2021 pieces here. But importantly, look at it as £1.1 billion plus, as I say, the circa £350 million to £400 million of activity that we lost in a year that hopefully has a bit more activity in it than we saw in 2020. Costs."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "£7.5 billion guidance that we have given, as you say, that does look at the costs taking account of the headwinds that we’ll be seeing from both their variable remuneration and also coronavirus-related costs. The reason why your maths are not quite right is because variable remuneration is built in over a period of time even though it delivers better outcomes in the first year. And obviously, that then leads to a lagging effect in terms of the building of that variable remuneration build taking place in the successive years."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Now at one level, I do hope the variable remuneration does go up because it’s linked to profitability within the firm. So if we see improved RoTE and profitability in the firm, that will be a good thing, and it will benefit our employees. Third, capital generation. There are a number of moving pieces within capital generation, and that’s part of the reason why we’ve stayed away from being too categoric. You’ll be familiar that the experiences in 2020 around this topic were prone to error, not just from ourselves, frankly, but every bank that reported really. As we look into 2021, there’s a couple of pieces that I think are worth looking at. Historically, as you – as your question points out, we’ve seen 170 to 200 basis points of capital generation in the past, clearly, pre-pandemic days."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And that was associated with a kind of low- to mid-teens RoTE. This year, our RoTE, as articulated, is roughly half that. And then, as we’ve discussed also, we have about half of our dynamic transitionals rolling off. Now there are one or two other moving pieces that are going on that kind of gives and takes in that equation. But nonetheless, if you take account of those two things, you’ll be at least in the right ballpark for 2021. For 2022, I’m not going to go into. We have given guidance for 2021 and not beyond. But I think the building blocks that you’ve identified, Chris, in your question around RWA movements, for example, around the remainder of the transitionals, for example, are the correct building blocks. And then you might also add into that both asset growth and also our continued RWA management."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "That’s really helpful. If I could just ask a clarification on your remarks on other income. The £350 million to £400 million, you’re saying that activity loss per quarter relative to pre-COVID levels because when I look back at 3Q and 4Q of 2019, both pre-COVID, quite clean quarters, you were £1.2 billion, £1.3 billion. So is your £1.1 billion in the second half of 2018? Was the £350 million to £400 million a quarterly comment, an annual comment or half yearly comment? I just wanted to clarify."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. Sorry, Chris, I should have been clearer. It is an annual comment, but bear in mind that there were only three quarters of lockdown. So essentially, what I’m trying to say is £350 million to £400 million was lost over the three quarters during which we had lockdown."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Aman Rakkar of Barclays."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "A few questions, please, if I may? A couple of points of clarification on NIM. Can I press you just for one additional bit of detail in your mortgage application experience? I think you called out 190 basis points completion experience in Q4, which was in line with your prior kind of applications comments. I was wondering, where is your current applications experience? Where is that completing? And if you’re able to give us some sense of what you’ve assumed in your NIM guidance 2021, that would be great."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Second one was on hedge. I was just thinking a bit longer term. I mean in terms of your hedge capacity, from what the Bank of England is talking about, that the historic kind of excess savings inflow that we’re seeing is set to take a big step higher in the first half of the year, albeit maybe we’re opening up a bit sooner that the Bank of England was talking about. I mean you may very well see a significant deposit inflow in H1."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "I mean, how should we think about that affecting your business? Does that free up some additional hedge capacity for you? Or is it a pain in terms of what it might mean in terms of some of your asset markets? And a question on RoTE as well. Just the 5% to 7% guidance that you’re giving for 2021, I guess that’s a reasonable enough range. I think it implies a kind of £800 million net profit kind of range. I was kind of interested in what you see that kind of uncertainty as. Is that around the impairment charge and other operating income? Or what kind of – that would be helpful. That was it."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Okay. Thank you, Aman. On, first of all, on NIM and mortgage applications, I mentioned earlier on that we have seen mortgage pricing very favorable and, hence, the activity that we have undertaken in that market. The completed mortgage margins that we’ve been doing is circa 190, as mentioned in my comments earlier on. There’s been a little bit of softness in that recently. I don’t – wouldn’t want to overstate it. But essentially, what’s been happening is that 5-year swap rates has been going up, and pricing has not been keeping pace with that 5-year swap rates. And so you can see a little bit of compression in that mortgage margin."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "But still, the important point is very attractive levels from both a historic and a return on equity perspective. So that perhaps gives you a bit of guidance there. In terms of what we assumed, it’s – we’ve assumed a gradual softening in mortgage margins over the course of the year, both as a function of some of the cyclical factors, e.g., the stamp duty ending. And to a degree, we expect that demand, if you like, to be predominantly or rather significantly in the first half and still there, but dampening down in the course of the second half, and that then is aligned with our pricing assumptions for mortgages. On hedge capacity, it’s a good point."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We increased our hedge capacity this year, as I mentioned in my comments earlier on. But importantly, of the £25 billion increase that we took, £11 billion of that was from effectively reclassification of our commercial deposits, which is essentially just trying to manage the existing business that we have in a smarter way and make those deposits more stable and, therefore, more eligible for the hedge. So of that £25 billion increase, £11 billion of that was commercial and not related to the deposit inflows that we saw. The £14 billion was, but contrast that to £40 billion of deposit inflows that we saw during the year. So there’s still, as you can see from that, quite a bit of gap that we have not taken into account for our hedge capacity. And at the moment, while we just try to figure out how that developed over the course of 2021, we’re essentially just keeping it on short-dated investments so that if there is a customer reaction, that we’re able to respond to that. We don’t necessarily expect it."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We think many of those balances are here with us to stay, but we are not banking it at the moment. The turnaround for that is clearly, if they do end up staying and if we do end up in this environment where, frankly, customers have greater precautionary balances in the past, then that does have or rather will have implications for our overall hedge capacity. And we’ll look at that as we gather more evidence over the course of 2021. RoTE, as you say, it’s a 200 basis point gap between 5% to 7%, and that is deliberate. It is deliberate because we’re clearly still in a highly uncertain environment. One of the moving pieces that might take us – move us around within that gap, I think I would highlight 2."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "One is activity, and we don’t yet know whether the government plans will be held to target. We sincerely hope they will, and clearly, the vaccine program is testimony to the potential success there. But there’s a degree of caution, if you like, around the speed at which customer activity resumes. If we get more customer activity, we’ll be at the upper end. If we get less, we’ll be at the lower end. And the second is clearly impairment. As we’ve discussed, we are very well provisioned for the uncertainties that lie ahead. We have our ECL modeling. We have where we think the ECL modeling has come up short because of the unusual circumstances that we’re in. We have put in place management judgments on top of that, as you can see in our disclosures. That puts us in a very strong provisioning position. If it turns out that the macroeconomics do not unfold in the way that we have predicted, then you would expect to see some implications for our impairments line and releases associated with that."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "We provide additional time today for Q&A, but still have questions left over. So the Investor Relations team will be happy to pick up any remaining questions. The final question we have time for today comes from Jonathan Pierce of Numis."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "One for the models, please. The share count, it was up 786 million last year, but obviously, some changes last year on the staff bonus plan, as you pointed out. Can you give us a sense as to what you expect the share count to go up by this year, please, as you see it today? Second question, I was wondering if you could give us a little bit more help on the RWA inflation you speak out in 2022 because it sounds from what you’re saying that we’re looking at £10 billion to £12 billion possibly coming in, in 2022."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "I missed whether you said some of that was credit migration or whether you weren’t expecting much credit migration, but maybe you can give us a slightly better sense of the component of things like best estimate, expected loss, mortgage risk weight, those sorts of things. And then finally, could you maybe give us a sense as to why the pension deficit hasn’t budged at all in three years? I understand the comments on RPI, but there’s been some quite big contributions going in over that period. And asset performance, I would have expected to take in the deficit down as well. So what’s happened there, please?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Sure. Yes, happy to deal with each of those, Jonathan. I might slightly defer your first one for fear of getting too precise. But the share count might increase a nudge more in 2021 versus 2020 off the back of employee compensation schemes. But I will defer that to the IR team to give you a more precise answer than I will do today. Second, RWAs, there’s a number of moving pieces in 2022, as I mentioned."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "The bottom line is, as I said, with no consensus, is around £215 billion. And roughly speaking, we are okay with that, pending resolution of a number of regulatory uncertainties that are out there today. In terms of the moving pieces, I won’t be too precise. Safe to say that we have a chunk of headwinds from a combination, as said, of CRR2; mortgage floors, in particular, the individual mortgage floors; and then finally, CRD IV, things mortgage model, definition of default, for example, hybrid models being introduced, one or two other retail bits and pieces. Those, in total, are leading to regulatory headwinds, which are there and are worth pointing out. Then we have, on the other hand, RWA management and we have asset growth. And those two factors, roughly speaking, cancel each other out. So it gives you kind of some idea, if you like. Credit migration is, as we see it right now, predominantly a 2021 phenomenon. So by the time we get to 2022, there’s not an awful lot of credit migration left. But obviously, we have to see how all of that fares. And so one of the reasons we’re not being too precise today is because there are not only regulatory uncertainties in the outcome for 2022, but also macroeconomic uncertainties, too. And as those diminish, then we’ll be able to give you more precise guidance. One further point I’ll make on RWAs, which is sometimes asked of us, is what the impact of Basel 3.1 might be in the near term."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And again, I’m not going to be precise on this, but I will say that when we get to 2023, we do not see much impact from Basel 3.1 in the near term. In fact, it’s relatively benign for us. And the reason for that is because we’re on foundation IRB approach within commercial, from which we get a significant benefit. So I’d point that out because it’s a feature, if you like, of the position that we’re in. Finally, you mentioned pension deficit, Jonathan. The pension deficit, as it’s core, if you like, has gone down since the last triennial. What’s gone up is the RPI/CPI convergence, which has added about £1.7 billion to the overall pension deficit."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So you’re not seeing there a reduction in the total number because you have the core benefit that is reducing and has reduced to about 5.6%, offset by the RPI convergence with CPI, which for us matters because we have a mismatch in assets and liabilities on RPI and CPI. And as RPI converges, that costs the pension deficit. So hopefully, that gives you some of the detail that you need, Jonathan. I think that was the last question. So I just want to say thank you to everybody for joining today, and we’ll look forward to conversations over the coming days. So thank you for joining."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, everyone."
+  },
+  {
+    "person": "António Horta-Osório",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

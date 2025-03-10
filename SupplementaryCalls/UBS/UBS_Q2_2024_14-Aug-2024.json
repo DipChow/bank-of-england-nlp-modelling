@@ -1,0 +1,416 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "We will now begin the question-and-answer session for analysts and investors. [Operator Instructions]. The first question is from Giulia Aurora Miotto from Morgan Stanley. Please go ahead."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Hi, good morning. Thank you for taking my questions. I'll ask two, please. So my first one, thank you very much for the guidance on NII in GWM, which was something that the market was looking forward to. Can I just ask a clarification? If you look at the current forward curve, when do you expect NII to bottom exactly? Do you think second half '24 and then we can grow? Or possibly first half '25? So that's the first question."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And then the second question is instead on the capital of the parent. In particular, the CSI, it seems to have a lot of excess capital and upstream impact could reduce the impact -- the potential impact from the proposal in Switzerland. Can we expect UBS to upstream some of that capital? Or how are you thinking about excess capital at the subsidiaries? Thank you."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So regarding the NII guidance, in terms of the implied forward curve, as I mentioned, we ended up pricing in, as you saw modeled for 25 basis point rate cuts through the end of the year. If you look out in terms of when the implied forward curve would suggest bottoming out, probably pricing in more like 7 million, depending on what you're looking at. So I mean, from here. While difficult to speculate, it could be sometime in mid-2025. But I spent time on what I think is really important to recognize is that in a lower NII -- lower interest rate environment, there are significant offsets and tailwinds in the business that we expect to see. And that was a point that we wanted to really ensure is well understood. Because ultimately, transaction revenues, re-leveraging and driving up NII from re-leveraging and also recurring fees from mandate sales all have upside in an environment of lower interest rates."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "In terms of the parent bank capital, you mentioned our U.K. Credit Suisse's U.K. subsidiary that has excess capital. Of course, we're working on restructuring on all of our subsidiaries where we can. And ultimately, we will, as appropriate upstream the capital in any of the subsidiaries in order to alleviate the capital at the parent bank."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Andrew Coombs from Citi. Please go ahead."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Good morning. I'd like to just drill down two of the areas where you perhaps delivered ahead of expectations. So firstly, on the non-core, another successful quarter of actively reducing the RWAs, some further gains on some of those position exits. You're now talking about narrowing that gap to the natural runoff. So based on the natural runoff, you'd be at 6%, you're aiming for 5%. So I think that is only another $5 billion implied of active RWA management in that business. And as you alluded to, the close of the U.S. mortgage servicing business will get you some way towards that. Should we assume that the active management within the NCL book is now largely complete or will be largely complete by the end of this year?"
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "And then my second question is just on costs. Previously, I think you expected to be at 50% by end '24. You're now at 55%, guiding by end '24 of the total cost save target. There's an extra $500 million of cost saves that you've realized earlier than expected. Which division is it you view those cost saves are coming through earlier than expected? And in your mind, it's purely just the timing issue, that you commented earlier, as opposed for quantum issue that you're delivering more cost saves than expected? Thank you."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yes. Thanks a lot, Andrew. So on the second one, in terms of on the cost and the performance and outperformance we're continuing to see, I mean, that's really driven, as I highlighted in my comments, by NCL for sure. NCL has driven the lion's share of the gross cost saves to date. While the other divisions have contributed, it has been really a function of their active rundown of positions, but also the restructuring of various parts of Credit Suisse's GSIB that we've highlighted in the past is an important part of taking out costs, and a lot of those costs reside in NCL."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So they've been really the benefactor of the cost performance. And as we look out towards the end of the year, the additional progress that we anticipate even though, as I suggest, we expect a bit moderate deceleration in the gross cost saves, that's expected to be yielded also by NCL. And as I highlighted, the core business divisions will then -- the ratio of core to non-core, or non-core to core in terms of cost takeout will invert as we get into the second half of the integration agenda, and we'll start to see the significant cost reductions hitting through, in particular, GWM and P&C."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And then -- and just on the first in terms of how we see the natural runoff and the success we've had in the quarter. Of course, we're not counting on extrapolating and we take economic decisions as they arise and the opportunities arise. So difficult to extrapolate the great outcome that we've had to date to suggest a different outcome than the natural roll off. And that's why we continue to disclose it. So that becomes clear."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "What is important, and Sergio commented this in his remarks, that the uncertainty delta continues to narrow. And that's what I think is important that, ultimately, while we can't count on anything in particular in terms of what can come off the balance sheet of NCL in terms of extrapolation. What we can say is that the uncertainty delta has narrowed very significantly."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "That's clear. Thank you. I guess the follow-on would be just your previous guidance, which for a typical run rate of close to zero revenues from NCL per quarter, and presumably that's unchanged?"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yes. As I said, Andrew, that we see in the long-term, that's for sure the case. In the short term, i.e., the 2H guidance that I offered, we see some modest upside to current book values on the revenue side. So some modest uptake in driving the $1 billion underlying PBT loss guidance that I offered in my comments."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Jeremy Sigee from BNP Paribas. Please go ahead."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "Hi, there. Thank you. Two questions, please. First one just follows on from just exactly what you were talking, about the guidance for the P&L drag from NCL. Obviously, it's going better than expected, which is great to see. What would we expect now? Previously, you were talking about $2 billion P&L drag exit rate in 2025, and then $1 billion exiting 2026. And obviously, it's going much better than that with sort of a $1 billion drag in the second half that you're integrating. What should we expect for 2025 and could the NCL drag be finished within 2025 rather than carrying on into 2026? Any update on that would be really helpful."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "And then my second question, just a more sort of specific one on Investment Banking costs. They drifted up a little bit more than revenues in the second quarter. It's not a big move, but the cost/income deteriorated against those strong revenues rather than perhaps you might have hoped it could have improved a little bit. So any comments on the drivers, whether there's any one-offs in there or anything unusual. Just how we should interpret that IB cost number, please."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "So, Jeremy, thanks. On the second one, in the comp on IB cost, it's -- the comp quarter, of course, only has Credit Suisse personnel in for a short period of time, just the one month when you look at the year-on-year comp, whereas the current quarter has the people we've added for the full quarter, so that's driving that variance."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "Sorry, I'm speaking Q-on-Q I think the costs are up 3% and the revenues are up 1%. So I was thinking more Q-on-Q?"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yes, on Q-on-Q, it would be just some compensation-related effects that we're hitting through driving the Q-on-Q. But I'd have to go back and look at that. But really, it's more the year-on-year that we've focused on. On the -- in terms of the guidance on the P&L drag in NCL, in terms of what we should expect, look, I mean we're really pleased with the performance we've had to date. As I said in my last comments. There's no way to extrapolate from it, it's a straight line and to assume that that's the pace of which will continue. So our guidance remains. That's where, in terms of the P&L drag at the end of '26 is right now still our best estimate. When we come back and talk about an outlook in the fourth quarter going forward, potentially, we update that and see where we are. But for now, that's our best estimate in terms of where we land."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "Understood. Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Kian Abouhossein from JPMorgan. Please go ahead."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Yes, thanks for taking my questions. The first one is related to Wealth Management. First of all, thanks again, Todd, for the disclosure. I hope some of the U.S. peers are listening, as this was very helpful relative what I heard before from U.S. peers. Sweep deposits last disclosure was $35.7 billion. I was wondering where we are roughly right now in the U.S. entity. If you could also share with us the Advisory part of that, so we can kind of understand the year adjustment factor, and what rate you are paying now versus what rate you will be paying for the sweep deposits on these Advisory mandates? And in that context, if you could briefly talk about lending, which was down ex-U.S., just to understand how much of that is related to adjustments of your offering to the CS clients versus actual losses in lending."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And then the second question is on legal entity on Page 19, it's a very useful chart. And we talk about further legal entity simplification in the U.S. as well as the U.K. legal entity going into a branch. I was wondering what capital relief you expect from that? Or maybe even in subjective terms, if you can talk a little bit about the changes that will happen, when you describe it to you on the page."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Thanks, Kian, for the question. So on -- in terms of the second one, first the simplification that we talk about is continuing in the U.K. and U.S., but also another parts of the world to continue merging subsidiaries out of existence to create and unlock more capital funding and tax efficiencies. So that's what we're getting too. So we're working all through that. We just, of course, did the big parent bank and Swiss bank mergers. We reparent to the IHC, but now there is still a lot of work that will continue to unlock these benefits. So in terms of capital relief naturally to the extent that and this goes a little bit to the question that was asked earlier in terms of the repatriation of excess capital, say, in a subsidiary. Of course, that is part of the analysis that we go through as we work through it. But it's -- there are contingencies to the timeline in terms of what triggers and what the timing could be to merge some of these entities out of existence."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "In terms of GWM, so what I could say on the sweep deposits. First of all, Advisory is about a third of the total that we have in sweeps. So just to give -- to dimension that a bit, is I think that's probably useful to understand. And then as far as the pricing goes, of course, the way we're -- first of all, it's a function of interest rates, because I mentioned we're going to introduce the new rates in advisory in the fourth quarter, because we have to change systems and go through some transitional work to get there. So we have to see also where interest rates are, so in terms of an absolute price that I can offer. But what I can say is that we will, for sure price in the value of the insurance coverage we offer on deposits that benefit from multiple programs, multiple bank programs and reciprocal programs that we've invested in, and that will feature into the price of the rate we ultimately offer."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "In terms of lending balances, ex U.S., the main driver of that, I mean clearly, we've seen deleveraging in a higher interest rate market for outside the U.S., particularly in APAC, for several quarters running. We're looking forward and seeing some signs of tapering there, but we continue to see that. As I highlighted, as rates come down, we do expect that that should taper and then start to see clients re-leverage. But so the rate environment is driving some of that, but the other part of it, perhaps the more significant driver is the financial resource optimization work we're doing that a consequence of that is that loans will roll off on our platform, which is one of the points I highlighted in connection with the net new asset report."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And Todd, just on sweep, I know that Morgan Stanley has confirmed 2% rate to be paid. Should we look at similar rates? And could you just also remind us of where we are on the sweep volumes at the moment? Last number we saw was 35.7 billion."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yes. What I could say, Kian, is that the number has come in a little bit, it's driven -- is in also some of the comments I made on mix is driving the 2Q results. So you could assume that number has come a little bit lower. And all I could say, get anything further on the rate is, as mentioned, competitive dynamics will ultimately feature in how we ultimately settle on a price for the sweep deposits. So as I said, I gave some views on considerations that we will factor in. But as far as an absolute price, that's not at this point something that we have settled on."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Thanks."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Anke Reingen from RBC. Please go ahead."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Yes, thank you very much for taking my questions. The first one is just on the Basel IV impact on -- of the $25 billion on the 1st of January '25. I guess you said you will give us a bit more detail potentially before year-end. But I mean, you previously talked about a $15 billion net of yes, non-core run down, do you have a -- can you give us a better indication of how the $25 billion will actually look on the 1st of January 2025? And then sorry, coming back on the NII guidance. Just confirming the P&C reiterating of guidance that's on the U.S. dollar basis rather than Swiss franc. And just conceptually, I mean, I see -- I mean, you now assume more rate cuts than before, but the guidance is reiterated. Can you just maybe highlight what the missing pieces that allows you to reiterate guidance? Thank you very much."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Thanks, Anke. So on Basel III final as mentioned, we still expect $25 billion impact is 5% of risk-weighted assets, so in that range. As you mentioned, we guided in the fourth quarter in our investor update that $15 billion is in the core, $10 billion is in non-core. I think for now, that split remains pretty robust in terms of how we're thinking -- how we're seeing it, and actually we'll continue to work down the NCL portfolio to make that impact lessened over time."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "In terms of the NII guidance for P&C, just to -- you asked for clarity on -- it is in Swiss francs, so we're guiding in Swiss francs. We'll offer both in the future to sort of help. As I mentioned, in 3Q, we see a low single-digit down in Swissy, but flat sequentially in USD. And as I mentioned, I think that's a good outcome that we've had a number of headwinds that we've been working through sort of reaffirm the guidance for the full-year is also a function of some management actions that have been taken, including some loan repricing actions that have helped. So those are the drivers of the NII guidance for P&C."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Sorry, just to follow-up. So on the 1st of January '25, so the '25 -- I mean, the 5% increase in RWA? Or should it be lower, because some litigation NCL rundown has already kicked in or reduced the impact?"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "The estimate is on the same basis we gave it in 4Q in terms of the impact, because it's mainly FRDB-driven. So for now, assume the guidance remains. And as I said, if we have an update before we go live with it, of course, we'll come back and provide it."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Okay. Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Chris Hallam from Goldman Sachs. Please go ahead."
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Yes, good morning and thanks for taking my questions. So first, you've guided for banking to generate almost twice the baseline revenues by 2026, assuming supportive markets. So obviously, performance was very strong in the second quarter, but then we had this period of elevated volatility at the start of August. Has that changed anything in terms of how close we are now to supportive markets? And how would you expect the recovery to progress through the second half of this year?"
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "And then second question just on profitability. At the start of the year, you said you'd expect to get to around 45% of the $13 billion gross savings by the end of '24, and you've got there by the end of the first half. And you also guided for a mid-single digit underlying return on core CET1 for this year, mid to high for next year. Consensus is at 6% for this year, 9% for next year. But in the first half, you're already above 9%. So how should we be thinking now about the path for underlying return on core CET1 through 2024 and 2025?"
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Thank you, Chris. I'll take the first question. So look, I think of course the market environment is volatile and there are elements of fragility that we see. But what is most important for us is to look through the short-term market dynamics. And I can tell you that I'm very confident that we are building up a very compelling pipeline in terms of mandate that we win, still not announced and things that can be then executed in a normalized market environment. So of course, if we see the kind of volatility we had in a couple of weeks ago, that would not be very helpful for the pipeline. But in general, I stay -- I would say that positive that in respect of our momentum. So a good pipeline and good momentum in winning mandates, but of course, it will also depend on market conditions."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And Chris, on the second. In terms of a return on core CET1 and how it relates to our guidance. So as you mentioned, we initially guided it mid or mid-single digits for '24, mid-to-high for '25. So naturally, if there's an update, we'll bring it to you when we talk about our '25 expectations later this year. In terms of where we are, as Sergio highlighted in his comments, the first six months, we generated an underlying return on CET1 of 9.2%. So obviously, we're comfortably ahead of the target of mid for 2024."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Amit Goel from Mediobanca. Please go ahead."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Hi, thank you. Thanks for taking my questions. So one, just a follow-up, just to make sure I also heard some of the previous guidance correctly. I think you mentioned the cost of the reprice from sweep to be about $50 million annually. So I mean, I guess, given the one-third advisory disclosure, that would imply only just over 40 bps of incremental cost on that portion and effectively nothing on the rest. So I was just kind of curious, I mean, in a way that you could continue to see outflows, so I'm wondering what the capacity is for the group to replace that funding at similar costs."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "And then also just linked to that, if I look then at the total sweep and the cost of sweep, it seems like that the earnings are pretty similar to what Wealth Management Americas generate. So I'm just kind of curious how you think about Wealth Management America's profitability? And with some of these headwinds, how you think you'll get back to that mid-teens operating margin."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "And then secondly, just curious on the parent. Is there any scope to shift exposure from foreign participations to domestic in addition to capital repatriation and whether that can be reflected in participation values, if there is potentially rule change coming? Thank you."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Thanks, Amit. Yes, in terms of the second one, shifting exposure domestically, whether that helps, it's way too early to speculate on how we're going to address and what actions we take. We don't know what the standards are. So -- and where they'll move -- where the standards will move, assuming they move. And so to speculate about what mitigating actions might be available to us is way too early."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "In terms of sweeps, yes, I disclosed that the impact on pretax profit is expected to be around $50 million annualized in U.S. Wealth business. I did say that that's net of offsetting factors. So that includes an array of banking initiatives and expense programs across various categories. So there -- I wouldn't take the $50 million as gross income. But actually, as I said, it is a net impact."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And I think, look, I saw interesting that you asked the question and then lead to how we're going to address the pretax margin issues. We -- nothing has changed on that. We're focused on that. We know what we have to do. The sweep deposit issue is a modest hit on that, of course, because it's something we're saying is adverse to PBT. We think it's manageable, and now we're getting on with the work of improving the margins on the basis of how we've described that in the past. So we know we have to do there, and we're taking steps to achieve that."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Benjamin Goy from Deutsche Bank. Please go ahead."
+  },
+  {
+    "person": "Benjamin Goy",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Hi, good morning. I have two questions, please. So the first one on GWM, in particular America, where the cost/income ratio remains above 90%. It was better during low interest rate times. So just wondering with the mix shift from NII and falling more towards most likely, as you see upside to year-end '26 cost/income ratio improvement target? And then secondly, on the capital side, you obviously as the group guidance of 14% CET1, but you see the 12.5% more final constrained. And that's the first half of the question."
+  },
+  {
+    "person": "Benjamin Goy",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "The second is with Switzerland being essentially only geography, introducing FRTB and not delaying, do you think that's the final piece of the hurdle in terms of higher capital requirements for you? Thank you."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Let me take the second part of the question. Of course, the 14% guidance we have right now stays as it is. The 12.5% you mentioned look through fully applied 2030 current requirements. We will see exactly how things develop in the next few quarters in terms of future requirements. From an FRTB standpoint of view, of course, as you mentioned, Switzerland will introduce that on January 1st. It will be short term, a competitive disadvantage. We don't believe -- we believe is manageable short term. Of course, if this -- should other jurisdictions not converge, not to converge to Basel III full implementation over the next couple of years. Then, of course, that would be a little bit more problematic, and we would need to think about how to address this matter. So we remain confident that we will be able to have a level playing field in how we operate and compete globally, but it remains to be seen."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "And Benjamin, here's how we think about the -- your cost/income ratio question for GWM, where we have a look through cost/income ratio presently of around 80%. Naturally, when we planned the $13 billion of gross cost saves and the less than 70% cost/income ratio, GWM factors in quite prominently in that piece of work. And that's why I've highlighted that the cost/income ratio will be benefited by the work that's just going to get going in the next quarter or two, which is the client account migration work and platform consolidation starting in APAC and parts of Europe before the Swiss booking center. That will drive significant cost down, and ultimately, which is why I believe that Wealth and P&C will benefit significantly in the latter half of the integration work. So in terms of where we get our cost/income ratio, it will GWM's cost/income ratio in the end will be a big contributor to the group meeting its target of less than 70% by the end of 2026."
+  },
+  {
+    "person": "Benjamin Goy",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Thanks. This was, in particular, on the Americas, the GWM Americas where you probably won't see much of a cost save benefits. But correct me if I'm wrong."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Question was on the Americas. Sorry, I didn't..."
+  },
+  {
+    "person": "Benjamin Goy",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Yes. Indeed, from the 90% right now more towards the 85% was it can accelerate with the different revenue mix?"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "No, look as I said also to the -- before, and I've said previously, we're working towards a mid-teens profit margin over the next couple of years. That's where we know we have to narrow the gap where we are, that's where we are working towards. And that also features into the less than 70% cost/income ratio by the end of '26 getting to that level. So nothing that I've guided to today has changed any of that. We're very focused on taking the steps to achieve that by that -- in that time frame."
+  },
+  {
+    "person": "Benjamin Goy",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Tom Hallett from KBW. Please go ahead."
+  },
+  {
+    "person": "Tom Hallett",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Hi, thank you for taking my questions. I'm just curious what do you assume in terms of loan and deposit growth in the Swiss business NII guide and GWM guide in the second half of the year? And then secondly, how do you see deposit mix shift and deposit betas evolving within that guide as well?"
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "Yes. Thanks, Tom. So in terms of volumes in each of the businesses, I expect loans in both of the businesses through the end of 2024 to come slightly in largely because of the balance sheet work that I highlighted in my comments. So I think, in both cases, loans would come in. I see deposits as well through on the GWM side as well towards the end of the year, I mean, roughly flat at this point. I see P&C growing deposits, whether through the rest of this year, but certainly as we look out over the longer term. So I would say a little bit of downward pressure in terms of loans in large part, just given the balance sheet work that we're doing."
+  },
+  {
+    "person": "Todd Tuckner",
+    "role": "answerer",
+    "position": "Group Chief Financial Officer",
+    "text": "On the deposit side, I see more sort of flat to growing in the near to midterm in terms of the balance sheet. In terms of deposit mix shifts, look, I think in the end, where we've been seeing, as many banks have, the effects of deposit mix and cash sorting and rotation for some period of time. As rates start to come down, we expect that the cash sorting will continue to taper and will be less of an impact in terms of the NII. And that's a little bit of what we're seeing. And our outlook is, just given the fact that we expect our modeling rates coming in, that we are seeing sort of in a way the last vestige of mix shifts as while rates remain a bit higher. So that's how we see the deposit mix shift is evolving."
+  },
+  {
+    "person": "Tom Hallett",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Thank you."
+  },
+  {
+    "person": "Sergio Ermotti",
+    "role": "answerer",
+    "position": "Group Chief Executive Officer",
+    "text": "Okay. There are no more questions. Thank you all for calling in and your questions. And see you in end of October for the Q3 results. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Ladies and gentlemen, the webcast and Q&A session for analysts and investors is over. You may disconnect your lines. We will now take a short break and continue with media Q&A session at 10:45 CET."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

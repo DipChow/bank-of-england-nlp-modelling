@@ -1,0 +1,890 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. [Operator Instructions] We have a first question from Jacques-Henri Gaulard from Kepler Cheuvreux. Please, go ahead."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Thank you for the presentation. Two quick questions. The first one would be, have you communicated on the impact potentially of the moratoria on mortgages in Poland? Just to have an idea of how much that would cost in Q3. And you mentioned also the hike in salaries, just to have maybe an idea about what it would represent for the rest of the year and to which extent that derail the 2025 plan, I'm sure it doesn't, but just to have the confirmation. Thank you, very much and congratulations on your appointment yesterday."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thank you, Jacques-Henri. Thank you. Let me start with the second question. The hike in salaries that we have decided, it applies only on French staff, first point. Second point, there is a cap at which this hike no longer applies. So it applies only for the lowest paid employees of the group. So, all in all, the impact is going to be moderate for CASA. It's going to represent probably around €15 million for the third quarter and maybe an additional €5 million. So, all in all, €20 million for the fourth quarter. So it's significant, but it remains moderate all in all, and it's normally only ahead of what we would have done the beginning of 2023. So it's very moderate."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Second point, the impact on moratoria in Poland, of course, it's going to depend on the behavior of our customers. But, we have as you know a very small market share in home loans in Poland. It's less than 1% of the market. So generally, we would complain for having such a small market share but actually, it's rather an advantage. And so, the impact if any and if significant could be completely absorbed by the profitability, the running profitability that we generate normally. And if needed, we will be able to book a provision in Q3 and get rid of the issue definitely."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Thank you, Jerome."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "We have a next question from Delphine Lee from JPMorgan. Please go ahead."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Hello, Delphine."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "So, two questions on my end. If I could start with capital, could you still confirm that the impact of TRIM I think, it was something like 20 basis points still to come in Q3? And also, in terms of IFRS 17 impact, would it be fair to assume that it is going to be less or around 28 basis points benefit that you had this quarter from the insurance dividend upstream or how should we think about IFRS 17, essentially is it just neutral or is it going to be different?"
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "My second question then is on costs. Just wondering if -- because this quarter you seem to have like a big FX impact, is your commitment to positive jaws in your plan of 0.5%, is that including the FX impact as well? So does the group intend to offset that FX impact or just trying to kind of understand that other than the cost trend and cost management? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Let me start with the capital, Delphine. On TRIM, what we've said is that we still have ahead of us between €5 billion and €6 billion of additional RWA to book regarding TRIM. The moment where we have to book is still not really certain, but my best assessment as of today would be that we would book the biggest half of it as soon as Q3 this year, so probably let's say around €3 billion and maybe an additional €2 million to €3 billion beginning of 2023. So that would be seen from now, my best guess."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Second point regarding IFRS 17. What we have said is that we have -- we are committed to cancel the capital effect, the solvency effect of TRIM by upstreaming dividends from Credit Agricole Assurance. So we have upstreamed €2 billion in the second quarter and we will fine-tune the level of dividend upstream depending on the latest figures we will have on the solvency impact of the IFRS 17, which is not completely fine-tuned yet."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So, yes, so for the time being, what you can assume is that if the capital impact of IFRS 17 would exceed the benefits that we have taken from the €2 billion dividend upstream then we will have -- we will upstream an additional amount of dividend coming from the insurance activities, which by the way are -- continue to have a very high level of solvency. It's in the region of 225% or 230%."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "On costs, what we say is that, we -- the commitment on cost is to remain below 60%. The second point we've said is that what we foresee is to be able to post a positive jaws effect year-after-year, because what we foresee as of now is the capacity of growing the top line more rapidly than the top line -- than the cost line."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Of course, there is not a perfect coherence between the proportion of our revenues that are generated in dollar and the proportion of our costs that are generated in dollars. But if a certain discrepancy were to happen between these two proportions, then of course, we would try to remediate to it and to either relocate activities in order to modify the proportion of costs denominated in dollars or try to hedge back the revenues coming from dollar. So, yes, what we foresee is an improvement a positive jaws effect both in euro and so both with and without the ForEx effect."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Great. Thanks very much."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "We have a next question from Giulia Aurora Miotto from Morgan Stanley. Please go ahead."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Hello Giulia."
+  },
+  {
+    "person": "Giulia Aurora Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Hi Jerome. Yes, hi, good afternoon. My first question is on French Retail, which was quite strong in the quarter, but I see a number of headwinds coming in the second half in particular on the Livret side. So, I just wanted perhaps your comments or if you can quantify what you see coming in this division for the second half of the year? That's my first question. And maybe any comment on how you see loan growth as well there?"
+  },
+  {
+    "person": "Giulia Aurora Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And then provisions, cost of risk remains benign, which is a trend in the sector I would say. But have you run any scenario in terms of Russian gas cutoff? And what -- how much could that add to your cost of risk? Some banks are quantifying it I don't know if you have any numbers to give us? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Okay. Let me start with French Retail. Of course, we have headwinds ahead of us and has indeed started because the second hike in the level of the rate of the Livret A and other related savings account has started to bite beginning of August. So it is now biting."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And what we can quantify with a certain level of certainty is that in the second half of the year, we will have an additional cost as compared to the first half of the year related to Livret A, which is around €50 million."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So, all-in-all, everything being equal, the simple effect of the Livret A in the second half of 2022 is going to be more expensive by around €50 million as compared to what it was in the first half of 2022."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Then we have several other pieces that are going to move. There is an important piece which is moving and we don't know exactly in which direction all-in-all, which is the TLTRO effect because normally TLTRO premium has stopped end of June this year. But since there has been a hike in deposit rate facilities -- deposit facility rates from the ECB, there is, for the time being, kind of, a positive effect from the remaining TLTRO drawings because the price is impacted by only one-third of the increase in the deposit facility rate when the capacity of deposits that we have is fully impacted by the increase in this rate in the deposit facility."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So, it can be positive, but you have seen as we have seen that the ECB is a little bit puzzled by this situation where they say that banks are going to have some kind of windfall profits and they are thinking of ways to alleviate or to reduce these windfall profits."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So, for the time being, if nothing changes, this will be a positive effect for the group globally and for LCL specifically, but we don't know exactly if it's going to come to an end and to which extent and when."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Third point which is moving in the right direction, it's the repricing of the home loans. Just as an information for the approval that we have granted to our customers in June and July, of course, these loans are not already in the systems. They are -- they have not started to operate yet, but we have granted approvals recently. The average rate is now 1.70%."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So, it's far better and it shows an improvement in the pricing of new home loans, which is going to progressively improve of course the yield of the loan book. But what we don't know is the volumes that will apply to that because, of course, we know that as rates are going to increase for new home loans, this is going to put some pressure on the borrowers and this is progressively going to exclude some potential borrowers from the capacity of indeed borrowing."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So, all-in-all many moving pieces. My best guess seen from today would be that in H2 revenues at LCL globally could be quite close to what they were in H1. All-in-all taking also into consideration the fact that, of course, net interest margin represents only around half of the revenues at LCL. So, we still have a good dynamic on the commission -- fees and commission part."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So, this would be my best guess for the rest of 2022. It's not as of today a forecast, a commitment, or whatever, it's really a best guess, okay?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And then, if I go to your question regarding provisions, I think, we can simply go back to the slide where we presented the cost of risk and the quality of the loan book because what is interesting to really keep in mind is the fact that since end of 2019, the proportion of Bucket 1 and Bucket 2 provision inside the total loan loss reserves that we have both at group and at CASA level has sharply increased."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "It was in the region of 25% backend of 2019. It's now close to 40%. So it means that we have the capacity to reallocate some of these Bucket 1 and Bucket 2 provisions from one issue to another one. Of course, initially these were related to COVID-impacted sectors like for example entertainment, tourism, hospitality and so on and so forth."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "We see in France, now this summer a very sharp increase in tourism coming both from France and from abroad. And clearly the hospitality tourism and entertainment sector is performing much better than what we feared a few years ago. And, of course, this Bucket 1 and Bucket 2 provisions allocated to this sector can be perfectly reallocated to other sectors that could be impacted by some difficulties triggered by, for example, a gas shortage this winter."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "You know that in France, we depend much less than in Germany, for example, on Russian gas supply. So it means that of course, it would have an impact but not maybe such a big impact as for German banks, let's say. So it's very difficult to modelize a scenario of gas shortage coming from Russia. But what we see is that in certain sectors of activity, especially, those that consume a lot of energy we could have some difficulties and we are starting to accommodate that and to book additional provisions regarding those sectors."
+  },
+  {
+    "person": "Giulia Aurora Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Perfect. Thank you very much."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. We have a next question from Stefan Stalmann from Autonomous Research. Please go ahead."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Hello, Stefan."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Hello, Jerome. Hope you are well. I wanted to ask two questions please. The first going back to French NII. I think, you mentioned at the Capital Markets Day that you saw an extension of the effective duration of home loans and that could produce rising hedging costs in your treasury? Has that actually been a noticeable factor in the second quarter? And do you expect it to be a more visible factor going forward?"
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "And the second question relates to your assets under management and insurance. The way that you report them they have hardly changed year-to-date. I think they're down by basically a 1%, but your insurance investments are down a lot more. And so I'm wondering, how you actually conceptually report these insurance assets under management whether there's some filter applied to those as opposed to what you show in your accounts? Thank you very much."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Okay. Starting with your first question, I don't really remember having specifically stated the fact that there has been an increase in the duration of home loans because actually there is a cap that is imposed since now two years by the High Council for Stability Financial in France cap at 25 years for home loans. And what we see is that since now many years in order to increase as much as possible their purchasing capacity, the household traditionally tend to go close to the ceiling of 25 years."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So the average I would say contractual duration of the home loans is between 20 years and 25 years. And especially when rates were low it was not significantly more expensive to borrow for 25 years than to borrow for 20 years. So definitely the duration is very long since now many, many years and it's not going to be shortened by early repayment because of course when rates increase the inducement to early repay is going to significantly reduce."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So all-in-all, we haven't had up to now a significant additional hedging costs for the loan books that we have. And we do not foresee some increase in the hedging costs going forward in the coming quarters."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Regarding then your second question on the -- to put it bluntly on the unrealized capital losses that we may see on our asset books in the insurance activities. It's clear that we are now in a situation where the unrealized capital gains that we traditionally had and which reached very significant level historically are now transformed into unrealized capital losses, and indeed in the solvency of CASA and even in the solvency of the group it now represents a negative component. It's about 30 bps for CASA and 10 bps for the group roughly. And so it means that as those assets are going to mature, these unrealized capital losses are going to pull to par and are going to generate improvements of the solvency of the group and of CASA."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Of course, what is important from an accounting viewpoint and you can be sure that our auditors check that very carefully is that we have the capacity to prove that these unrealized capital losses, which to a certain extent represent credits that we have on our policyholders, we must be sure that we will have the capacity to recoup these credits on our policyholders because to a certain extent, it's now a liability that our policyholders have towards us – and the pull to par, I was mentioning is clearly conditioned by the fact that our policyholder stays here and stay with us at least until these assets have pulled to par."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "What is very important to demonstrate that the policies are sticky enough is the fact that we have around €13 billion of participation reserve that is – that belongs to the policyholders but that has not been distributed yet. And of course, the financial interest of policyholders is to stay up to the moment where we have used this reserve which is not going to be the case in the coming months. We may start to use it partially, but it's here to last several years."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So definitely it's a situation that is unusual. It's a situation that we have known in the past. It's been the case for example in 2008, if I remember correctly. And it's a situation that is perfectly, I would say digestible. Of course, it deserves a very specific attention which we have."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "May I just follow up, Jerome. I was more wondering about why the assets under management that you report in the insurance business are hardly moving? Are you not showing assets under management on a mark-to-market basis but are you basically allowing for these pull-to-par effects or is there another explanation why the assets under management perspective is so different from the accounting perspective?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yes, we show the breakdown of the assets under management on a historical cost basis. And of course, there is I would say outside this presentation there is also the follow-up of the unrealized capital gains and losses that are split of course between fixed income assets and diversification assets because of course they do not behave the same way and contrary to the fixed income assets for the equities for example and real estate of course there is a mark-to-market that we have."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Okay. Thank you very much. Thanks, Jerome."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. We have a next question from Guillaume Tiberghien from Exane BNP Paribas. Please go ahead."
+  },
+  {
+    "person": "Guillaume Tiberghien",
+    "role": "questioner",
+    "position": "Exane BNP Paribas",
+    "text": "Yes, good afternoon. I have a question on the IFRS 17 again. Your solvency is 224% at the end of Q2. Presumably, if rates fall as they did in the last few weeks maybe the solvency ratio would have gone down. And so what level would you expect to fall to fund the IFRS 2017 level? And then maybe another question with regard to the fixed income business in CACIB. You've been obviously quite strong this quarter like most of your peers. Where do you see the normalized level for fixed income? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "We have a risk appetite framework for the solvency in the insurance activity that is validated by the government and that is exchanged and with the supervisor – the insurance supervisor arm so the exit there. And what I can tell you is that we have a significant room not only between the 224% level that we have now and the 100% level which is the minimum but also between the risk appetite framework that we have validated, that is I would say approved by the supervisor and the present level. So it's very, very comfortable and we have room."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And indeed, I'm not sure that if we had calculated ratio with the rates, which we see now, which are much lower than end of June, it would have reduced significantly as compared to the 224% because you have many, many different FX that play a role in the solvency calculation. It's a very complex calculation. And I'm not sure, that the present level would be reduced as compared to the 2024."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "But nevertheless, I can tell you we have a significant -- to accommodate IFRS 17 if needed. When it comes to the level of revenues at CACIB, of course, we have had in the first half of this year, a very high level of revenues. It's close to €3 billion of revenues for the first half when historically in average, it's been lower than €2.5 billion. So I'm not going to pretend, that it's a new normal discover."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "But what I can tell you is that -- and it's not only, since this quarter, but it's now since probably four, five, six years that we've been able to demonstrate to our customers, that we were here with them, I would say in any circumstances, whatever the conditions market conditions, lending conditions, liquidity conditions and we prove them for example that during the first month of the pandemic, back in beginning 2020 where we've been able to not only accept that they draw on their liquidity lines, but also we've been able to grant new loans."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And this is leading to a situation, where more and more when they want to engage into hedging operations when they want to engage into new market financing operations, they tend not necessarily to talk only to the big American bucket, but also they tend to talk to us and we have a growing capacity of being, I would say relevant on this market operations. So I really think that the new normal, is probably not necessarily at €1.5 billion a quarter, but it's better than the €1.2 billion a quarter that we had before."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Q - Guillaume Tiberghien BNP Paribas Exane Research Division - Head of the €opean Banks Team & Analyst of Banks"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thank you. Can I ask a small follow-up on French Retail? When you say H2 should be roughly stable on H1, do you include some benefit like higher benefit from TLTRO compared with H1?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yes, I include the fact that to a certain extent, the present situation regarding the TLTRO, which is positive for us is going maybe not only -- not necessarily to remain exactly, as it is now, but it will not be completely dismantled by new decisions from the ECB. Of course, if the decision from the ECB is stating that for example we are no longer able to use the deposit facility for any amount coming from the TLTRO it could change the game."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "But I don't see exactly how they could do such a thing without jeopardizing the transmission of the monetary policy to the economy. So it's of course, again a very weird situation, but I take into account the fact that we should continue to benefit slightly in H2 2022 and possibly then in 2023 up to the final maturity of the TLTRO holdings, from the capacity of putting back the money at the ECB at a better rate than the rate at, which we have borrowed the money."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Q - Guillaume Tiberghien BNP Paribas Exane Research Division - Head of the €opean Banks Team & Analyst of Banks"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thank you very much"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. We have a next question from Mate Nemes Lamas from UBS. Please go ahead."
+  },
+  {
+    "person": "Mate Nemes Lamas",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "Yes. Thank you for your presentation. I have two questions, please. The first one is still on capital. I was just wondering, if you could provide an idea to us about the several moving parts in the second half of this year on the CET1 ratio. I think you mentioned TRIM that could be 5 billion 6 billion of which with around 3 billion could come. Is there any other regulatory headwinds that we should be aware of?"
+  },
+  {
+    "person": "Mate Nemes Lamas",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "And secondly on the organic side, RWA growth was quite muted on an underlying basis as well for the group? And I noticed that especially, in the CIB RWAs were stable despite quite strong revenues. Is this a sustainable situation, where in the second half of the year we should expect more meaningful RWA growth?"
+  },
+  {
+    "person": "Mate Nemes Lamas",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "And the second question is on global banking or the financing business, as well as the corporate bank. I'm just wondering, what sort of outlook and expectation do you have going into the second half? Obviously, the financing volumes were strong and you haven't seen much weakness in that area. Is this something that could continue longer in your view, or we could see some fading in the second half? And also maybe, if you could comment perhaps on the transaction banking seeing any benefit from the rate environment or in the second half? That’s it. Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Okay. Many important points, that you're raising. First, let me start with the moving pieces on capital. The point that we have identified up to now, TRIM as you've said, it's between €5 billion and €6 billion, but it's going to be split between probably €3 billion let's say, net in Q3 this year and then the rest probably more in 2023. So it means that up to the end of this year, TRIM should represent all-in-all only “€3 billion”, which is going after many, many TRIM impact up to now. So it's a lot all-in-all."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Second, moving piece, which is going to be beneficial for us it's the disposal of Credit du Maroc. You know that we've signed the sale of Credit du Maroc earlier this year and we expect the closing to take place before year-end. And this would represent a little bit more than probably 10 bps of CET1 ratio that would be freed by this operation."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Maybe two other points. We have the intention, but it's not a commitment. And so this is why it's not deducted yet from our solvency, but we have the intention to propose to the General Assembly Meeting taking place next year to round up the normal dividend payment by €0.20 additional in order to fully repay the 2019 dividend. So this would represent between 15 and 20 bps of impact that will be taken in Q4 if we deem reasonable to do so. So again it's not yet deducted. It's an intention to do so and it's not a commitment."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Last point, it's negligible but it's a moving piece that is going to play a role. I told you that we had signed and we have now concluded and closed the sale of La Medicale de France. This is going to generate a capital gain that will be booked in the third quarter of €100 million. So it's a result that is going to generate additional capital, negligible but nevertheless it's €100 million of net income."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Then when it comes to the management of the RWAs at CACIB, you remember that the increase was quite sharp in the first quarter of the year and I told you that CACIB has taken advantage during this first quarter of a very strong credit demand from the market in order to try to satisfy its customers. And that I was expecting CACIB to monitor the rest of the year starting in the second quarter. They have different tools in order to monitor the level of their RWAs. They can buy CDS, they can organize securitization, they can increase the proportion of their assets that they sell down. So they have many, many tools and indeed they have used part of these tools in the second quarter, which comes at a cost of course but it's useful for us to really monitor the evolution of the RWAs."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Then coming to the prospects of the transaction banking and commercial banking if I knew correctly your question, well it's difficult to say exactly how it's going to evolve because we are in a very volatile situation. Every day or so there is a new geopolitical event studies either creating anxiety or creating release in the environment. So this can modify strongly the prospects and the evolution of the activity. But to now again, there is still a strong appetite of our customers to engage into different activities into borrowing into hedging. And so up to now the activity continues to be well-oriented."
+  },
+  {
+    "person": "Mate Nemes Lamas",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "Thank you very much, Jerome."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "We have a next question from Pierre Chedeville from CIC. Please go ahead. Pierre Chedeville, please unmute your line."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Hello Pierre? Maybe we can take another question and then we'll take back Pierre just afterwards."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Yes absolutely. We have Matthew Clark from Mediobanca. Please go ahead."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Good afternoon. So more questions on French Retail revenues and capital I'm afraid. So I just wanted to understand on the TRIM impact. You'd guided six weeks ago at the Investor Day for a 30-basis point impact still to come, which would imply something -- someway higher than the €5 billion to €6 billion you've talked about today. So I'm just wondering how to bridge that gap? Is there stuff to come after 2023 that was included in that 30 basis points guidance or has something changed? And maybe if you could elaborate, which portfolios make up that remaining TRIM impact because most competitors seem to impact, which has already been all digested. So just to help understand that would be helpful."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "And then second question just coming back to this I guess guidance of flat second half versus first half LCL revenues. I mean, as I understand it the first half benefited from an unquantified private equity gain in the first quarter in NII."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "We've had quite a big home savings, loan hedge gain in the second quarter. I suspect that there might be a pretty large amount of dividend in there as well if you could confirm that?"
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "But it seems like there are a lot of benefits already in the first half a fair number of headwinds coming in the second half. And the only sort of incremental positive is that, the TLTRO drop-off might not be as severe as expected."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "So I'm just wondering if I'm missing something. And why the outlook is so positive also compared to kind of the tone of your previous commentary which was towards the fact you're not going to be a big rate rise beneficiary?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yeah. Let me start with TRIM. TRIM is RWA impact. So then, when we translate it into bps of solvency impact, of course it depends on the assumptions that we make on the level of RWA overall, and on the level of the solvency overall."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So really the starting point is an impact in terms of RWA. And then, of course, in order to help a little bit the calculations we try to convert that RWA level into a bps impact. But clearly the first impact is in RWA."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And of course, what we try to do as much as possible, once we have the request from the ECB in terms of modification of our models, we try to optimize as much as possible the impact either by fine-tuning a little bit better the model or possibly in terms of rearranging the different activities to reduce the basis to which the impact applies."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So we stick to this level of around €5 billion to €6 billion RWA impact remaining for TRIM. €6 billion was probably the conservative level, €5 billion may be the optimized level, if we manage to fine-tune things exactly like we wish, but this is the starting point."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Then the conversion of this €5 billion to €6 billion in terms of bps may vary overtime. So I speak to the €5 billion to €6 billion and I speak to the idea that €3 billion would be the impact in Q3 this year."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Let me continue with the French Retail. What I've said is that, revenues at LCL in the second half should be close to what they were in the first half. And I'm not sure that there were so many positive one-offs or tailwinds in -- or I would say, one-off tailwinds in the first half."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "There were some rate tailwinds, but if for example, if I take Crédit du Maroc dividend every quarter either we accrue the value of the stake that we have in Crédit du Maroc or we have the dividend and when Crédit du Maroc is paying its dividend then it reduces the value of the stake because of course it goes into both directions."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And if I study precisely exactly the impact of Crédit du Maroc in Q3 2022 as compared to Q3 -- Q2, excuse me, 2022 as compared to Q2 2021. The difference of revenues -- overall revenues linked to Crédit du Maroc between Q2 2021 and Q2 2022 is €3 million in the net interest income line at LCL. So it's absolutely minor. Of course, it's an improvement."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "This is versus the first quarter please, so 2Q 2022 versus 1Q 2022 just to go over a full year period…"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "I don't have the figure in mind in 1Q 2022. But again, it should have been quite negligible, because at the end of the day, it behaves exactly like we account for around 15% it's the proportion of the capital of Crédit du Maroc that we have of 15% of their own income quarter after quarter."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So it goes either through the way of a dividend and then it reduces the carrying value that we have for the stake or it goes directly as an improvement of the carrying value that we account for. And so of course, as Crédit du Maroc is growing, normally quarter year-on-year, we should -- we have an improvement."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "But it's not a massive one. And it's not specific in the H1 2022, neither in Q2, nor if I remember correctly, in Q1, so nothing really, really significant. You were mentioning another tailwind in H1 that I don't remember which one were you referring to?"
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "I think you said there was a private equity gain in the last quarter. Is that right?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yeah. We have regularly because LCL has a small private equity portfolio. So indeed, there can be ups and downs in the private equity portfolio. I don't remember the level we've mentioned in Q1, but there was nothing significant in Q2."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "That's for sure. So it depends. It can be positive or negative, but it's not one way, and it's not even less one-off that would have taken place only in H1 2022 and that is not going to never repeat in the future."
+  },
+  {
+    "person": "Matthew Clark",
+    "role": "questioner",
+    "position": "Mediobanca",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. We have Pierre Chedeville from CIC on the line. Please go ahead."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Yes. Yes. Hello. Can you hear me okay?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "[indiscernable]."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Okay. Thank you. Good morning, Jerome. A follow-up question regarding your large customer activity. I was quite surprised by your comment on M&A, because you seem to be one of the bank in Europe to have good performances in M&A and I was wondering why. And is it an exceptional mandate maybe or do you have a good pipeline even for H2 in this activity?"
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "And my second question relates to the insurance business. I was wondering if you -- I heard discussing with like [ph] that there are ongoing discussions with insurers regarding measures that could be taken for customers in order to fight against inflation. And I was wondering if you had this type of conversation and what could be the impact for you? But the question is could you give me, because I think I missed it, but generally you give it, it seems to me. What is your combined ratio this quarter?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Okay. So large customer M&A is not a very important business for CACIB to be frank."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "But you mentioned it that's why I…"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yes. We mention it, because it applies on a small basis of revenues, because when we talk about capital market and investment banking, as one of the two big parts of CACIB, and then when we split this big part of CACIB between the two main business divisions, there is a massive difference between the size of FICC on the one hand and investment banking and equity activities on the other hand, because I think that there is probably a ratio of 1:6 or 1:7 between those two activities. So the smallest one the equity and investment business division post a sharp increase in revenues plus 12.8%. We just wanted to mention that it was driven by some M&A mandates much more than from derivative equity activities, but it's not anything significant at the level of CACIB globally."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Going to the insurance activities, we know that the insurance sectors and the insurers are under a certain pressure from the government as banks are by the way in order to -- and as oil companies are and as everyone is in order to try to post or to show justice towards their customers in order to help the government continuing to avoid this extra corporate tax level that they don't want to apply, but for which they have a certain pressure."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So we don't have specific elements in mind regarding the insurance activities. Just keep in mind that during the COVID, we have provided a significant effort in the direction of our customers with this gesture that led to an indemnification of our clients extra-contractual indemnification. I think the amount was close to €200 million. So it's more than €200 million actually. So it's very important. And I think that we are probably better off towards the government and some traditional insurers, I don't want to mention any name. So, clearly, there are some discussions. We don't see anything material coming now."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Combined ratio stands at 98.7% end of June. It's clearly down, or I should say, up as compared to the previous period, because of these weather events that took place end of Q2 and that significantly impacted all insurers in France, Pacifica like its competitors."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Sorry, I mean number -- excuse me."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "98.7%. It's on Slide 9."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "98, it's quite high."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yes. But it remains significantly below 100."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Yes. Indeed. Okay. Thank you very much."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. We have a next question from Tarik El Mejjad from Bank of America. Please go ahead."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Hi, Tarik."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Hi. Good afternoon Jerome. Just one question for me in terms of Banco BPM insurance yesterday the management that they will actually restrict the negotiations or the bids on the non-life business. So I want to understand is that something attractive to you? Were you ambitioning a bigger scope than that in your bid? Is that something that still interests you then? And I want to understand, your 9% stake in the bank what advantage it give you in this instance for example just to understand your power there in negotiation? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Well, we never comment on discussions that are ongoing. So there are discussions ongoing with BPM. It's not or out I would say. It's in the newspapers regularly, and we will not comment these discussions. We are interested in any kind of insurance cooperation that we can have with Banco BPM, and we will see at the end of the day what is the outcome."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "We've seen that BPM has stated that they wanted to retain 100% of the life insurance business so be it. That's not an issue for us. We continue to think that navigating a significant bank insurance – life insurance book in the present market circumstances is not going to be an easy travel. So we know exactly how to do that. We will see, if at a certain point in time BPM thinks it's useful for them to benefit from the advice of a big, big life insurance player that has not as a strategy to exit from life insurance business contrary to our competitors."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "But nevertheless, we perfectly understood and that's fine with us that they want to work mainly and to focus now on non-life activities. It's perfectly okay for us and we would be very happy to help them develop their business in this area. You may have seen that, in France, we've managed to continue this year to grow the net premium income in P&C activities by 10% again this semester."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "As far as, the stake is concerned, we've said several times that it was in appreciation of the good strategy and the good implementation of the strategy of BPM and in appreciation of the good partnership that we have already with them and there's nothing more to say regarding this stake."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "No, that's clear. And in terms of timeframe, I mean, it looks like it will make their mind at the end of the year. I mean, is that some – much earlier we had Q3. So, where – if you can share where do you see a potential deal –"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "No more comment. No more comment."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Okay. Okay. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "We have a next question from Flora Bocahut from Jefferies. Please go ahead."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Yes. Good afternoon, Jerome. The first question, I wanted to ask you is regarding the loan growth. I mean, as you described at the beginning of this presentation, the loan activity remains very strong across the businesses. Just wanted to ask you, if we should expect maybe a slowdown in H2? Is it something that you foresee and that therefore we should expect? And specifically, on the corporate side, where the loan growth has been very strong just wanted to have your view whether it is driven more by working capital needs rather than CapEx? And whether we should be to some extent a bit worried by the quality of the corporate loan growth on cash hold?"
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "And the second question is regarding the capital situation. If I make the calculation based on everything you just disclosed on this call TRIM Credit du Maroc sale, La Medicale, IFRS 17, the dividend catch-up I think I get to a cost income ratio that would land probably around 10.7% fully loaded. Obviously, this is prior to organic capital generation that you will have. But the question is, if your solvency ratio is below 11% at the end of this year is there a risk that you would reconsider the dividend catch-up that you plan to do the €0.20 on full year 2019? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thank you, many good questions, again. In terms of loan growth prospects, it's very difficult to tell. For home loans, it's pretty certain that the loan growth is going to slow down. The loan demand is going to slow down in the coming months, simply mechanically, because of the increase in rates and because of the correct implementation by banks in France of the instruction given by the Credit du Maroc sale. It is mechanically excluding some potential borrowers from the capacity to borrow, especially in the present situation, where we haven't seen any decrease in real estate prices."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So, it means that, with the same prices for real estate, with salaries that have not significantly increased in France up to now, and I think it's a good news that the employers try to be as moderate as possible in granting salary increases in order not to trigger a loop between salaries and prices in order to really make sure that, this peak in inflation does not last too long."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "It's clear that, mechanically and households are not going to be able to borrow in the coming quarters. That's probably a little bit a shame for them, but it's going definitely to slow down the loan demand for home loans."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "In terms of consumer loans, I think that there is going to be a good level of consumer demand. As long at least as unemployment does not increase and you may have seen that recently, it has continued to decrease in France. So this is the main driver for the borrowing behavior for consumer loans is the capacity to repay by having a salary. And then for businesses. I don't have the precise breakdown of the credit demand between working capital and investments, but it's not massively treasury needs, because the treasury of the corporates and businesses in France continue to be quite ample. The state guaranteed loans have not been fully repaid by far at the level of Credit Agricole Group, it's less than one-third of the state guaranteed loans that we have granted that have been repaid. So it means that the treasury of the businesses continue to be sustained by these high amounts of state guaranteed loans that were drawn in -- during the pandemic."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So for the time being, there is nothing really worrying regarding business loans. And I don't see a slowdown in the credit demand for the time being again. When it comes to capital of course, if you make the calculation without taking into account the possibility for us to generate some profits and some capital in the coming quarters, you will end up with a negative evolution of the solvency that's mechanical. So this is not our forecast. This is not our trajectory. We have a regular update of our internal capital trajectory. And what we continue to see is a solvency that will be above 11% end of this year. And in this context of course, we will be very happy to give I would say to materialize this intention of repaying the last €0.20."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Okay. Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "We have a last question from Peter Kerr from HSBC. Please go ahead."
+  },
+  {
+    "person": "Kiri Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Hello. Hi, guys. It's Kiri Vijayarajah here from HSBC. Good afternoon, Jerome. A couple of questions from my side. So firstly, turning to Ukraine, I see the deposit balance is growing quite rapidly there. So presumably there's some sort of flight to quality going on the deposit side. But my question is more, what's the risk that you might need to inject more equity at some stage into that business? Because I guess, there's political pressure to keep that business as a viable growing concern in Ukraine?"
+  },
+  {
+    "person": "Kiri Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "And then second question, just turning to the wealth management division, not a large division for you. But at the moment, it seems to be driving bigger net inflows than either asset management or insurance. So just wonder what's driving that given generally kind of tougher conditions in the second quarter? And actually not just the revenues, it looks like the -- sorry not just inflow, but revenue is also pretty strong in wealth management. So how are you able to sort of buck the industry trend what's driving the inflows and strong revenues there please? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Jerome Grivet"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thank you,Kiri. Well, in Ukraine of course, if at a certain point in time, a capital injection would be needed from our side from Paris to Kyiv. This would be I would say a truth moment at which we should consider either to inject this additional amount of capital or simply to walk away because, it's clearly -- we have organized everything to be able to cap our economic risks on Ukraine. This is why we have decided to book a provision in Q1 that is covering the total amount of capital that we have there."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "If we increase the level of capital, then it changes the game. And of course, we won't do that unless we have some visibility on what is going to happen with this extra capital, because what we don't want to do in this situation is to lose the good money after the bad to put it this way. So, we think that, we are not in this situation for the moment. And indeed having booked an additional €30 million of loan loss provisions locally, we are continuing to I would say strengthen the balance sheet locally, but that's really the key."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Coming to the wealth management business, well, several elements of answer. First, we are a very small player in this business. So, when you are a small player, you have the capacity, not to depend fully on the global trend of the business. Of course, when you are UBS or whatever, it's very difficult to post the performance that is significantly different from the overall growth of the market. When you are a niche player as we are, it's possible to maybe beat the market some time."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Second point, the last few years were complicated for our wealth management division, because we've decided to significantly shrink the portfolio in order to avoid any reputational risk, and so we've voluntarily exited from several customer segments, which is always difficult and it's now done since probably one or two, maybe one or 1.5 years. And so we are now back in an offensive mode and this is what we've been able to generate in terms of inflows this quarter shows that we are back commercially in the business."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And then of course, we continue to be able to rely on the rest of the group, for example the regional banks of Credit Agricole in order to generate new leads and to attract new customers from the -- for the wealth management division. So all in all, it's a good success of a transformation of the business model of the wealth management since five years probably."
+  },
+  {
+    "person": "Kiri Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Awesome. Thank you. Thanks for that."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Okay. Well, I think it was all the questions you have today. So again, thank you for being with us so late in the summer and I wish you a good vacation if you take some personally I will. Bye-bye."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

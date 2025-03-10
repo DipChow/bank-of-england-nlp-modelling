@@ -1,0 +1,788 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you Kirt. And of course, we will stay joined on stage with Ralph again. So I'm opening up and I think that we have our first caller and this is Jeremy Sigee from Jefferies. So hopefully -- Jeremy, good morning, we can see you. Hopefully you can hear us?"
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Perfect."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "And we can hear you so please go ahead."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Great and thank you. And thanks for the details and much appreciated. Two questions really. Firstly, on the digital Wealth Management project that you've talked about on Slide 16. Could you talk a bit more about the expected timing of that project? I think you said you got the Wealthfront acquisition closing in the second half of this year. How much time do you think you need for integration work before or after that, or for developing a new combined offering if that's the plan? So basically, what will be live when, if you can just talk through the timeline? And then, my second question on a different topic is about the share buybacks. I'm just trying to get a sense of how likely you are to do the full $5 billion in 2022. So could you talk a bit about how you will calibrate the pace of buybacks in each period through the year? What metrics that will be based on? Will you have blackout periods like last year? Would you have big variations between quarters like last year. That will be great. Thank you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Okay. Thanks, Jeremy. I'll take the first question, and Kirt will take the second one. On Wealthfront, clearly first we need to get all the different approvals that one needs working with teams, making sure it's a smooth transition to actually close the transaction, so that's stage number one. And asset, we expect this to happen more towards while in the second half of this year."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Now, from there on, there's a couple of things we will do. So we will -- it will work as a standalone operation for a long time because they are successful, they are growing fast. They're having a unique proposition and you don't want to interfere too much. On the contrary, you have to look at, okay, what are some of the easy wins here? So for example, the easy wins are that they have -- they're not only a wealth manager, they also provide banking services, they have a cash sweep arrangement. We can look at the cash sweep arrangement for our own business. So that will be an opportunity right there."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We have two million of workplace wealth clients, $1.5 million in retirement services, and a $0.5 million in equity plans. And introducing a digital wealth offering to them after their shares are facet and they sold the shares for example, we'll actually keep the money in-house. For that we don't really have to do a full integration -- we just have to make sure that there is a good connection between our workplace wealth services, ++and then for Wealthfront to be introduced. So those are the ones that you can do easily for which you don't even need integration. Now, the second opportunity, Dan, is the one for these engineers who are very good engineers and they really wanted to join UBS because we are a wealth manager, and that's what they were looking for, because they believe in Wealth Management to see whether they can actually help UBS also developing further propositions."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And as you may remember, when we discussed about the digital opportunity in the U.S., we actually felt that there was an opportunity there for a digital player with remote advice. Now, clearly that will be the next proposition for them to develop. We are basically very unique proposition, the way they go about their user experience, we can then combine with our wealth advice centers and then look beyond the current segments that are focusing on, they're currently focusing on different segments from the reactive that we can actually also tap on when we have remote advice. So it will be in stages."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Now clearly from the beginning, we will ensure that there is compliance with whatever regulation there is, etc. So it will not be an integration but it will at least be -- we have to make sure that they conform to some of our standards there if it comes to that. But we want to manage them as much as possible as a separate unit and develop that digital proposition and beyond. So that's a little bit where I see it."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, Jeremy, in terms of your second question, I think firstly, and very importantly, we actually don't intend to have any positives for the remainder of year. So unlike last quarters, when we advise on a quarter-by-quarter basis, in this case, we're actually giving you advice on what we intend to do for the remainder of year without pause. Now, obviously, still, the overall volume we can repurchase will depend on the actual volume of shares traded and the liquidity on SIX, and our calculation of up to $5 billion is based on what we've seen in terms of volumes in the past, and so we think that that's within reach. But clearly, it's going to be dependent on how much liquidity and how much volume is actually traded in our shares on SIX."
+  },
+  {
+    "person": "Jeremy Sigee",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Great, thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thanks -- Thanks, Jeremy. So, I think then we can move on to our next cooler here, I think is Flora Bocahut from Jefferies. Good morning, Flora."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good morning. Thank you for taking my questions. The first question I wanted to ask is regarding the use of excess capital. Here on the buyback targets, so this is close a bit to the question that Jeremy just asked but to give us basically an upper limit, up to $5 billion of buybacks for '22, there isn't a lower limit. Should I understand that this will be dependent on your M&A plans meaning provided you do not do additional acquisitions this year, then you would intend to distribute as much as $5 billion via buybacks and therefore maybe can you tell us more regarding your M&A plans and how you are planning to make the decision between M&A or buybacks. And then, the second question is also regarding Wealthfront."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "You give us, you know, the strategy question we're makes sense. You mentioned that this is expected to be marginally EPS [Indiscernible], can you tell us maybe a bit more regarding to financials, the earnings potential you expect from that the return on investment, to synergy potential you see from that, and maybe just also on West phones, you shiny of you see you plan to target a client reach that is a bit below your usual target client base in terms of wealth. But if I understand correctly, this is expected to be doing value-add wells from brands and not UBS brand. Thank you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Okay. Thank you. The way I think about M&A. If it comes to the capital generation that we have every year, right? We have a business that generates a lot of capital, but in the organic growth, doesn't use a lot of capital. Clearly we are -- we do lending, we have investment banking activities, they all use capital, but the growth of the use of capital is not foreseeing to needing all of the capital that we generate. On the contrary, so it will always be quite a lot of capital left over to support first growth has to set -- well first, make sure we have a good balance sheet. Second, to support the growth. And in the growth then, the opportunity for M&A."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I just want to make sure, the default is truly organic growth because we think we have all the engines in place generally to do organic growth. Now, if it comes to inorganic growth, I'm not going to manage timing here. If the opportunity is there, just like Wealthfront, we'll have to work on the other opportunity. I can't just say, well, why don't you wait for next year because we have -- we are -- it made destroy our capital return plan? That's not what we do. But we have ample capital to return. So it will not impact necessarily quickly the share buyback programs perse, Kirt can elaborate on that."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "But if it comes to M&A, just to give you a couple of ideas here, so it will be about bolt-on. It would be then on capabilities, on scale, on reaching a segment that -- or business model that we don't -- that we want to develop organically, but we can accelerate through the acquisition. That's a little bit the type of bolt-on. We're not necessarily looking, if it comes it comes. We're focused on organic growth, we're focused on making Wealthfront a success, and we're focused on making sure that we perform on the share buybacks. So maybe on that one?"
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yeah. Maybe just to add a couple of points to amplify what Ralph highlighted. And as Ralph mentioned, we're very capital generative. And you saw in 2021, we actually generated $7.7 billion of capital. And so as we look at this year and also we've included in Slide 53, the RWA trajectory, we feel we have ample capital to be able to invest. Firstly, our first priority, of course, is business growth, achieving any regulatory requirements, and then to accrue our cash dividend, we indicated we'll be progressive in our cash dividend. Our cash dividend accrual was $1.7 billion for the $0.50 in 2021 but it does give us good confidence and comfort that we can actually repurchase the -- up to $5 billion and still have ample flexibility to address other priorities as and when they come up."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Okay, Dan. Your question is on Wealthfront. There were many questions in one question. I'm not going to monopolize then. Also, there's answer to answer every little bit that was in the question. But, in general, Wealthfront is a fast-growing scale-up. Let me put it that way; it's a scale-up. It has 470,000 clients. It has got $27 billion of assets under management. It is a segment that you refer to as one that is lower than our normal Wealth segment that we cover. That is true and it's not true. It is certainly true if it comes to the segment that we cover through personalized advice with advisors. But as I was referring to the fact that we also had 2 million of customers in the U.S. alone in Workplace Wealth and they are actually within that bandwidth."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "They are kind of the upper affluent wealth clients that we need to have a more digital-led offering for. And that's why the Wealthfront is an attractive proposition for them. And therefore with us as well in order to ensure that we keep them as clients going forward. The way we develop Wealthfront, please just look at this as a growth engine for the moment. It's a scale up. So we're not going to run it for P%L. We're not. We're going to run it for growth, number of clients, assets under management, and using direct technology. Later on, we will start managing it for P&L."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "But for the moment, it needs to continue to grow create value, and deliver that value to us as well. And then on the brands, honestly, we're not there yet. We are at the same time are working on how we want to kind of develop the UBS brand from here, and see how some of these initiatives that may not be straight of our ally our, our normal ally, let me put it that way, whether we should cover them under a separate brand, or under the UBS brand, or a linked UBS brand. So we're not there yet."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Okay. Thank you. Thank you Flora. So I think we're to move on now to our next caller. I think is Stefan Stalmann from Autonomous. Hi Stefan, you're online."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes. Good morning, everyone. Thank you very much for the presentations. I wanted to follow up first on the return on CET1 target, please. I think if we take out the French provisions, you have generated about 19% return in 2021, targeting 15% to 18%. The denominator will probably not grow a lot. So it seems that you're implying with these targets declining profits. And I was wondering what conceptually would cost profits to decline and also how this jibes with the explicit target of 10% to 15% profit growth in Wealth Management, your biggest business. And a second aspect of the financial targets, in the past you have explicitly limited the capital consumption of the investment bank up to a 1/3 of the group and I think that that target is gone. Is there anything that we should read into that or is it just a cleanup effort of a target that was not really needed anymore?"
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Stefan, I will take the second one, and Kirt takes the first one. So it's exactly what you say. So we're very disciplined in managing our capital within the Investment Bank. And it has been really useful for us to really have that target out there as well. But we manage it in a very disciplined way or will continue to manage it in a disciplined way. So nothing has changed there. It's just that we don't repeat it as a target per se. But nothing has changed to the way we deal with the capital allocation to the Investment Bank. So it's kind of a target that was always there. We will always have made, and therefore it doesn't serve a purpose anymore. But be assured, we will continue with the same discipline there. With that Kirt, on return on CET1?"
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yeah. Just to comment on return on CET1. Firstly, indeed, we do need to accommodate increase in RWA. I think, again, if you -- if I reference to Slide 53, you can see there's 40 billion of additional RWA just in order to invest in the business and to achieve our organic aspirations. In addition to that, we've got another $11 billion related to regulatory requirements and right now we're anticipating around $20 billion in order to address a Basel III finalization subject to FINMA and some final decisions. I think the other factor, if you look at our performance in 2021, of course, we actually had a net provision release."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And when we model and we look at our provisioning going forward, I would say we model that conservatively but that overall target does contemplate some level of overall CET1 build that you would expect. And of course, we are leaving some flexibility just to make sure that we can deliver against our targets in all kinds of different market environments."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Great. Thank you very much for this."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Great. Thank you, Stefan. And so with that, we'll move on to our fourth caller, who I believe is Alastair Ryan from Bank of America. Good morning, Alastair."
+  },
+  {
+    "person": "Alastair Ryan",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thank you, Sarah. Good morning. First question then. Just to be clear on Wealthfront, is that what you need to achieve your stated strategy goals in the U.S. as it stands today or we long of further deals to get you there?"
+  },
+  {
+    "person": "Alastair Ryan",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Second, I think to understand Stefan's question. Actually, you do say you're sticking with the third of the group in the investment bank. I just want to reconfirm that's absolutely still the case. And then, how am I going to manage on the investment bank as well? How am I going to track the increased alignment between the IB and GWM? You know I have had issues with that in the past and would still do because you don't provide the numbers, how am I going to track that, please? Thank you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. So Alistair, as of the moment you may have to trust us. Rather than to be able to back us with the last question first. Yes, I mean, you should basically start seeing that in basically what we did already this year. We're -- if it comes through the banking activities and the sectors that we cover, and the way we collaborate with the wealth business. You can see it in some of the deals coming through. We can see it in some of the wealth that is created by some of the deals also coming through on the wealth business."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "But in order to be more successful in that one, and I think that's an even more important move there, is to focus on what we call the global family and institutional wealth [Indiscernible]. That's truly where the strength of the investment bank and the Wealth Management activities come together. That's what we truly want to manage as one under one leadership with one risk management area to focus on it."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We've allocated resources to it in order to make sure that we have a very smooth and supportive offering for our clients there. So that's where you will see it coming together. And that is a pretty important part of our growth plans, in terms of income in that segment, so that's one. Then on the capital discipline for the Investment Bank, I can reiterate -- I just did it. That nothing has changed there. And then back to Wealthfront."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We'll be need more acquisitions to make to U.S. work, yes and no in order to continue to make it more efficient and to create more scale. It is clear that in the U.S. we have -- and I discussed that two quarters ago, we have planned beyond the digital focused part of the plan. The first part of our plan is to make sure that the current personally advised proposition that where we get even more efficiency there. So this has to do with our plan, a platform that we're developing called Wealth Management Americas Platform, WMAP, that should service our financial advisers better and better."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We're investing in what we call Ada, so Analytics Data and Artificial Intelligence, in order to ensure that our financial advisers get more productive to come with the right opportunities through our clients. So all of these initiatives should help to scale. And then on top of that, as -- just to remind you all of the more broad attention that we gave to the U.S. in the past, is that we're developing our banking services to our Wealth clients as well as the mid-company services."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So companies that are close to being sold, close to being merged, where there is going to be some wealth creation for the owner because that's what we do it for. And the banking services we are working on developing in the year are lending services. So we have seen quite some pickup on mortgages on the Wealth space there, cash management services, as well as deposit taking services we are developing. So the Banking service is also a very important element in order to support our financial advisers to build an even more holistic relationship with our clients there, to strengthen that relationship and make sure that we basically get more of their business as well. So there is more to do in the U.S. than just buying Wealthfront."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Now, again, if a bold all in one of these areas could accelerate this plan not a different plan but this plan, we could look at it. But for the moment this organic growth is developing our own bank there, it is developing our Wealth Management platform and it's a digital [Indiscernible] offering through the acquisition of Wealthfront. That's what we do."
+  },
+  {
+    "person": "Alastair Ryan",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, Alistair. So I think we have anything to move on. And I think our next caller is Magdalena Stoklosa. Good morning, Magdalena. You have the floor."
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good morning, Sara. Thanks. Thanks very much. Good morning, Ralph. Good morning, Kurt."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Hi."
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Really, two quick questions from me. Of course, still on strategy random investments and one of your kind of commercial aspirations. So the first one: you're self-financing your investments in the medium-term, and that's quite impressive, and you've shown on the Slide 23 where your savings are coming from. But could you tell us from here on the marginal dollar level, where are your strategic investments likely to be? So that's question number 1. And question number 2 really, on the commercial aspirations, could you help us attribute that above 5% net new fee-generating assets growth from a perspective of the region, maybe also product, maybe any other initiatives that you think we should be aware of on that medium-term in terms of growth there? Thank you very much."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Sure. I'll take the first question, and then I'll let Kirt take the second question. If you look at where we generate the savings, it's literally -- we will generate savings across the whole first. So the real dedicated areas like the footprint optimization, the -- some other activities that we may look at, down-scaling. But in general, we're also looking at efficiency matches across the whole company, and that is driven by the efficiency that digital can bring. That is driven by the decreased layers of reporting that."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "The Agile way of working brings. And it is delivered by the efficiency, that the Agile -- our productivity, if you may, that the Agile way of working will bring as well. So that is basically a savings across the firm or wherever we introduced the Agile. You can expect savers to come out, but we'll reinvest. Often reinvest in the business itself as well, or reinvest somewhere else. so you may not see it in the P&L, but I'm just trying to describe to you where the pockets of savings are coming from. Now, there's another big saving that we are anticipating, or at least a big way to increase productivity, which is on the technology front."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "That's on how we technology -- how we run technology, how we prioritize technology. But also on further [Indiscernible] up, as what we call the quality of our engineers. So that's also -- there we're quite some [Indiscernible] is freed up to invest. Now the areas of investment are in technology itself. But from a regional perspective, you can expect us to invest over the next couple of years some $200 million to $250 million, for example, in the U.S. So the U.S. you can expect that the investments go where we have said the growth will be."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So the U.S., we will invest. Asia-Pacific, we will grow as well. We'll invest in just growing the teams, aligning banking with the wealth management proposition, getting the right specialists in order to reap the benefits for the new economy opportunity that we see there, invest in China in order to develop the broader and basically across the One UBS activities in China. So that -- you can expect from a regional perspective to go to the Americas and Asia-Pacific. Clearly, we're investing in Switzerland as well because next to the fact that we will be more efficient here and we will keep costs flat in Asia over the next couple of years, we do see areas for growth where we'll invest and the same goes for EMEA."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We do see opportunities to decrease cost but part of the savings that we make there, we also invest in growing areas in -- on the wealth side or coverage in order to reap the opportunity to deal with the mid corporate opportunity and they're owners in some of the geographies that we feel are strategic as part of EMEA. That's a little bit the picture as to where the money will be going. You can add to that as well, by the way, so go ahead."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "No I think that you've covered it all very well. I just to address the question on net new fee generating assets. I mean over I think firstly and importantly, one of the reasons we came back with this as a target versus net new money is because, of course, fee-generating assets is far more strategic and its higher quality and it's where we really drive the recurring revenue momentum. Also, very importantly, it's what the business is focused on. So we have more confidence because the business is very, very much addressing this from how we look at product development, leveraging our CIO insight, how we connect that to our clients and our product development."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Now, in terms of the products overall, of course, within fee-generating assets, the main focus is around mandates and our advisory products. And you saw that on Slide 9, our managed solutions, which are mandates that are most closely linked to our CIO overall content. In addition, from the professional client side, there's the professional market access product which has been one where we've seen a lot of inflows and that's more for the global family and institutional clients that are trying to get direct access to our trading."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then obviously private markets and alternatives is a key focus for us. And I would say, overall, you will see higher growth in sustainability than non-sustainability. Now, from a regional perspective, I wouldn't emphasize one region over the other, and really that's the advantage of diversification."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We might see one quarter where APAC is down, but the Americas is up. And so therefore, we would expect to benefit from that diversification. But just to give you the insight into what happened with a $107 billion of net new fee-generating assets in 2021, Americas; $64 billion, 8% growth. EMEA; $19 billion, 6% growth. APAC; $14 billion, 13% growth starting from a smaller base. In Switzerland, $11 billion with 10% growth."
+  },
+  {
+    "person": "Magdalena Stoklosa",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thank you. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Great. Thanks, Magdalena. And so with that, we now move to our next caller who is Adam Terelak from Mediobanca. You have to floor."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Morning?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Morning."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thank you for the questions. I had one on the cost income target, and another on capital return. Mid-term -- if I look at your kind of RWA guidance with $370 billion. It looks like you don't need to maintain much capital at all through 2025. You've obviously got U.S. DTA benefits that grosses up your capital generation. So could theoretically payout ratios be pretty high going forward. And how should we think about that in terms of buybacks beyond 2022, given you kind of mentioned some limitations on AGV on the and whether you need to kind of further up with the dividend to manage that capital in excess capital going forward. And then secondly on cost-income, the targets just look very conservative to me. If you adjust for the litigation, NII upside which should drop straight to the bottom line, I'm getting low 70s already. If you put a billion of cost savings which you are reinvesting in growth, marginal cost of growth should be low. I mean, what -- why 70 to 73? Why can't we go lower than that?"
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So, to start with your buyback question overall, and your Adam, your statement was absolutely correct. I think if you look at what we indicated this year, $5 billion and then you take the $1.7 billion progressively on cash dividend that gets you to around 7 billion. On top of that, of course, we'll deploy $1.4 billion in the acquisition that we're making the Wealthfront acquisition in the second half of the year. You just compare that to our net profit in 2021, and you can easily get to a payout ratio that's greater than 100%, which is logical because we're starting at 15% overall CET1 ratio."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then I think also as you do the math, you think about the $7.7 billion again of capital generation and you start to look at what that could mean for 2023 and 2024, while we haven't specifically guided I think the math is pretty straightforward. It shows that indeed we can continue to generate substantial capital and also have very, very high payout ratios and still manage to our overall capital ratio while addressing Basel III and the capital that's required to grow the business. Now turning to your cost-income question, again, I'll provide really a similar answer to the one I provided before. It's just as we look at the business, as we think about the investments that we're looking to make, well, we intend to continue to be -- have positive operating leverage overall as we go through the next couple of years."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Still when we look at what that means in terms of what we're going to deliver how that aligns to our return target, the 70%, the 30%; actually aligns quite well to the 15% to 18%. And naturally, we're leaving ourselves some degree of buffer just so we can manage with any kind of volatility that might come. I would also then maybe just close my comments on that point is. Last year, the results that we generated were when we probably saw the best primary banking market that we've ever seen. And also when we had a markets environment that was very, very constructive."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And I don't think any of us believe that we're going to see that repeat itself in 2022. So, we have to accommodate the fact that we're going to see a different market environment."
+  },
+  {
+    "person": "Adam Terelak",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Exactly."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Great. Thank you. Thanks, Adam. We are going to move on to our next caller and I think it's Kian Abouhossein from JPMorgan."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thanks for taking my questions. First question is regarding just Ralph coming back to your comments on costs. You mentioned potentially flat cost and I just wanted to clarify, I think you mentioned track because I don't know what context to slow it was exactly. But if I look at your cost guidance right now, plus two plus-minus variable expenses, can you assume that's a good guide for the next few years considering you still have $400 million of savings to come in '23? And as a result, is that an indication of that we can use that going forward in your plan based on what you know today."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "That's the first question. And the second question comes to Wealthfront. You used to have seen calls SmartWealth, and you closed that down quietly, and I just wanted to see what is the difference between Wealthfront and smartfront -- SmartWealth? Sorry, looks very similar to me -- to what you just acquired. And in that context, can you talk a little bit what are your long-term ambition on this business that you just acquired? I mean, is it U.S.? Is it global? And what does that mean for the future? How should we think about your digital robo -investing in the affluent after five years from now, or six, or seven?"
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I will start with the second question. I will lead into the first question and then Kirt takes over on the first question as well. Now, you mentioned Smart Wealth. So Smart Wealth for the ones who don't know it, was a Wealth Management proposition -- digital Wealth Management proposition that we once had. We closed it down. And there were a couple of learnings from that one and those are the learnings that we took to heart when considering to go with digital approaches in Wealth Management. Again, with digital-only ones."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And if you look at the learnings that we saw in smart wealth, they were really around the fact that they -- it was not a separate unit. It was not a protected [Indiscernible] that was allocated, it didn't really have a marketing angle to it. It was not focused on user experience and it was -- and we focused too much on P&L from the beginning. And honestly, if you want to build a business, you have to separate it, you have to protect it for a while, you have to have it grow. And if you expect P&L to come from a business like that in the first five years, basically, you're setting it up for failure because it's not going it's not going to happen. Because even if it is digital, you need scale. And scale, you can only have with clients. And the clients only come if you do marketing and you have a cost of acquisition."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Now, if you start cutting back on cost of acquisitions, the clients don't come. If the clients don't come, the money doesn't come. If the money doesn't come, you will not create the scale that you need. So that's -- those are kind of the high-level learnings that we have for SmartWealth and that's why my answer on Wealthfront was also that -- it's a separate unit, and we want to maintain it as a separate unit. Until it is like a grown up, and it is a scale up, and the scale of needs to be protected as well."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So that's an important one. Now, how do we think about developing similar models across the globe? It is not a global approach. Let me put that one and make it very clear. Because even in a digital world, you need to make sure that you can create the scale. And in banking, whether we like it or not, there is a couple of things that will always determine scale from a more domestic perspective. So if you go into a market, you will have local regulations, local tax laws as you buy by, investment products are geared towards that as well. So there is quite a large component of your offering that are always dependent on local scale."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And therefore, you can also on the digital front. If you look at it at the core engine, I'm not looking at the backend or the front end. Which is the user experience. You can replicate that as much as you want. But the core, the products, to delivery of the value is generally more locally driven, and therefore, you need local scale. So also, digital offerings need local scale and therefore needs to be in large economies, large wealth pools. And therefore if you were to -- if you can expect us to move in other countries with a model like this, it will be in large wealth countries."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "That's the first step. Back to your cost question. I was talking about, where do we see cost and where do we see reinvestment in my answer. And then I mentioned that specifically in Switzerland, the plan is to manage that at a flattish cost line because whatever we generate in efficiencies, we reinvest in the digital proposition and we reinvest in growth, but it will be over time, more or less a flat cost line in Switzerland. Now, the 2% is for UBS as a whole and that is what we're guiding for 2022 as we speak, and you can maybe give a peek into the years thereafter."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So firstly to clarify, when I referenced the fact that we were down slightly year-on-year in 2021, it referred to TDCs, excluding FX, excluding litigation, excluding restructuring, and we were down around 20 basis points. Now, that was versus a guidance of being up a couple of $100 million, so we actually outperformed our guidance. And as we look at 2022, again, we're guiding on that same TDC. However, we're excluding restructuring because we're acknowledging, listen, we're going to have restructuring each year so we're not going to look at that as part of what we want to exclude when we think about our cost base because that no longer, for us, makes any sense."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And if we mentioned, we expect about $200 million of restructuring next year. We saw $168 million this year. So we'll be slightly up when restructuring, but that's included in that 2% up. Now, as we look at 2023, clearly the fact that we're generating additional, in fact, the highest level of actual in-year cost save. The additional $600 million will occur in 2023. Now, we'll also use that to time and pace our investments, but you can expect us to -- in a similar way, to have a rather flattish overall TDC trajectory on that definition."
+  },
+  {
+    "person": "Kian Abouhossein",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Very helpful thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Great. Thank you. Thanks, Kian. So now working to move to our next caller. Who is Andrew Lim from SocGen. We can see you, Andrew, please go ahead."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thank you. Thanks for taking my question. Just a bit more on the wealth front [Indiscernible] question. I guess the wealth front acquisition in itself looks quite expensive at 5% of [Indiscernible]. So I know you said you are going to leave Wealthfront alone. It doesn't work the other way in the sense that you were able to use its technology and [Indiscernible] Wealth Management in the Americas sooner rather than later. And what is it specifically about that technology that Wealthfront has that makes it so attractive to pay such a high price for the acquisition? And then secondly, you mentioned as part of your strategy that you're exiting some markets."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "What markets are these? How material are these markets? are there any other financials that we should be aware of that could influence them to crude financials overall? Sure. Thank you. So on Wealthfront again, I'm not sure I said I leave it alone. We said, we'll keep it as a stand-alone entity as long as there is a scale up. And what makes them so unique is a couple of things. First, they're really driven by the same culture the same value. And they have true engineering culture. Their technology is proprietary. It is open. We can connect it. We can reuse it in parts. It will accelerate our own engineering culture as well, it's good to have that. The second thing is Wealthfront is not a robo advisor. I know people talk about it"
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "that way, but it is a digital Wealth Management offering. It also offers banking services. It also offers investment services of course, and it has two unique capabilities here; one is the tax-loss harvesting technology that they have and models that they have, as well as the direct indexing capabilities they have as well. So there are capabilities they have there that are sought after and that we like as well. Then, we will want them to grow and the synergies that we see, even if it is a standalone entity, are truly in what I was just indicating, which is that they have banking services, and part of that can come to us."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We have 2 million Workplace Wealth clients. At this moment, we don't have a really good offering for, but then we will have, so we will actually make synergies here as well for them to grow on the back of the clients that we refer. We will later on be able to introduce other UBS products to their clientele as well, like mortgages. And then and that was in the later stage, we can also look at how they do custody, clearing, et c, et c, et c. But that will be at a later stage right there. And then the synergies would be more on the operational side. But that will be later. So there's a lot of reasons why we think that what we paid for it is certainly worth the money."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Maybe I could just add just from a pure financial standpoint. Firstly, when we complete the acquisition, we expect that -- we indicate this to have about a negative 40 basis point drag overall on our capital. We expect it to be marginally EPS accretive. We do not expect to be dilutive overall to our returns. When we look at the total enterprise value we expect to create, including some of the synergies that Ralph mentioned. We do expect it over time to be accretive to our returns. So we're very comfortable with the acquisition overall from a financial standpoint and as Ralph has mentioned several times, we're actually delighted with the acquisition from a strategy perspective."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Now, maybe I can just comment on the market exits. I think you've already seen we exited -- we sold our Wealth Management business first in Austria, we've announced Spain, we'll close that this year, we've also announced our SFA business and in general we look at businesses where -- and I think Ralph has clearly articulated this from a strategic standpoint, that we just cannot achieve the right level of sustainable advantage in returns. And in general, when we exit, it's overall accretive to our cost structure and efficiency."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We are in -- we're in the process of exiting other markets. I'll give you an example. I think you saw on the press that we exited the idea, exited Mexico. So it was an onshore Mexican business. Again, we just couldn't see the competitive advantage. We're going to continue to serve our clients offshore, our Mexican clients. So we're not abandoning our clients, they're still part of our Ecosystem, but it just made sense for us to exit the onshore part of that business."
+  },
+  {
+    "person": "Andrew Lim",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Okay."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Great. Thank you. Thank you, Andrew. And so we're going to now move on to the line of Nicolas Payen from Kepler. Good morning, please do go ahead."
+  },
+  {
+    "person": "Nicolas Payen",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good morning. Yeah, thanks for taking my question. I have two, please. The first one, sorry to come back on the Wealthfront again, but just in terms of acquisition cost because you just said that you're not managing it for the P&L at least in the P&L. I wanted to know what does it mean for acquisition cost? Do you see higher acquisition costs especially in the U.S. and what does that mean in terms of competitive landscape there? Where are your edge versus competition there? And the second question, you just disclosed something very useful, I think, which is your change the bank versus run the bank IT spending breakdown. And I wanted to know, what do you expect in term of allocation going forward between those two items? Thank you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I'll start with the second one first. I think this is a little bit word will be in terms of allocation. As so clearly you have to strategic bucket and you have the bucket this as to what we call license to operate. And we come from a period here at UBS where we needed to invest a lot around making sure that we were compliant with new laws, new expectations, regulatory requirements et cetera. And we run quite some programs to ensure that we would always be in compliance with some of those -- with all of those. But it did ask for a heavy IT investment, and most of these programs have been brought to a very good end. And then are closed, and that gave us the opportunity to increase within the total, the percentage of strategic spend as we call it."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "But that within strategic spend, we have moved on from everybody to determine what is strategic spend within their own domain and their own business unit, and their own group function, to now basically the top, basically the executive team, deciding, okay, no, we collectively decide on what is strategic and not the business division. So basically, with that, we have crowded out some less strategic projects that we're maybe seeing but the division itself, as strategic, but on a higher level would be seen as marginally strategic as one, or for which we could actually accelerate some of the other projects that are just more remunerative or more important to us in other divisions."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And that is a process that we went through in terms of first qualifying all the projects, then taking budget away from some of them, and reallocate them to others, and accelerating other projects with that. And we now have a quarterly review of all of our projects in the executive team. So it's not delegated to the divisions, and the group function anymore. No, we do this really at the highest level. Now, as a bank, and just to be sure and then manage expectations, we will always have license to operate costs."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Which basically means new regulations come in we have to make sure that our systems can deal with whatever data request, whatever requirements we need. For example, in KYC, AML, whatever it needs to come from a labor transition you need the system changes for that as well. So market changes, regulatory changes, large changes always have an impact on your technology spent. Then, you also have to maintain your technology. You have to make sure that you don't run out, that out of the economic lifetime of your technology. So you have to make sure that you upgrade your technology or you decommission your technology which is often taken away in the budget because decommissioning generally is costing you but doesn't save for you directly."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "It saves by decreasing the complexity of the technology in the future. But from a short-term perspective, it's the easiest one to cut, but we should not, because we should -- you should always want to have a state-of-the-art technology environment and therefore, you will have to invest also in your license to operate if it comes to the [Indiscernible] of your technology."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So that is what we see as part of license to operate, and the strategic component is more on the businesses. That was your second question. Your first question was on that front. If you look at how most of these digital businesses are positioned in the market, let me put it that way, they each have their own value proposition. So they each have their proposition if it comes to which clientele they're after, which kind of clients with what kind of needs they want to service, and"
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "therefore, the market is so big that there is quite a lot of room to work on that."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Now, Wealthfront is certainly an offer for the young professional., it's an offer for the engineering-like types as well, and what we -- and they're successful in that. And some others could be focusing on others. What we want to build out to is the segment that we call the reactors, which are the -- all the passers, all the reactors, which are actually clients of ours or clients -- or potential clients out there in the market that do have actual investment advice needs, but they don't want to have 100% coverage by a financial advisor. However, they also don't feel secure enough to just run it through a digital offer only. And it's that combination of the digital offer and the remote advice that we're so good at."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "That can actually tackle that segment. So will it increase the cost of acquisition, not per se, but just going after a different segment. So that's where I would want to leave it. And the cost of acquisition is different per shift segment in the market. Okay?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Great. Thank you, Nicolas. And so now we're moving to our next caller who is Amit Goel from Barclays. Good morning. We can see you. Please do go ahead."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Great. Thank you and thanks for taking my questions. Two questions. The first one again, just following on the Wealthfront acquisition. But just trying to understand or just thinking about how you see the longer term outlook for margins in the U.S. I appreciate these are different customer segments that Wealthfront customers will have more access to EVS product. It looks like they charge about 25 basis points. So again, just wondering how you're thinking about that longer term. And the second question, so it definitely relates to the -- part of your trajectory. Just curious if you can go into a bit more detail into the $40 billion business growth. How you see that in terms of lending, structured product, IB related, and so forth in terms of where you're looking to utilize that what you've been in. Thank you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Okay. I'll take the first one, and Kirt takes the second one. On Wealthfront again, on the margins. The current offering that Wealthfront has that 25-basis-points fee. But they are, as I said, they're not just an investment engine or robo -advice. They are broadening their services to become more and more like an overall bank. So also, the cash of the clients is with them. So they have cash under management, we have assets under management as well, and the [Indiscernible] makes money as well. So they get income from that as well."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And that is only for -- that is for the digital-only service they give the 25-basis points, and then they make on auxiliary services that make more money as well. Now clearly, if you are going to go in with additional proposition the one that for example, would give you access to remote advice. You would charge different fee. So it's not like, this is the pricing of Wealthfront and therefore, if we have an additional proposition, we keep to that and then for the clients that want the current service in the current experience, and the current choice."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "This is what it is. This is what Wealthfront manages really, really well. But if you give further value-added services, we can also price up a bit. And I do think that the market is very well aware that that also needs to be done in those cases. And you can just go through the comparison with all the other players. And then you get an idea as to what -- what would be a normal margin in the market."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And maybe just to give you a bit of a profile of the $40 billion. I think, firstly, the majority of that is going to continue to be allocated to lending. I think you saw, of course, this year, as I highlighted, we generated $28 billion in net new loans across Wealth Management and P&C, that focus is going to continue. In addition to that, we highlighted the fact that we're looking to really scale and grow further the global family and institutional client segment. There they do require more sophisticated loans, they have slightly higher risk density. And we do plan on seeing growth in allocation of RWA to that segment overall, which is a Wealth Management segment there."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "But then, in addition to that, they do require investment banking capabilities, including structured overall derivatives and they also require prime brokerage services. So there will be some IB related overall RWA to serve and support that segment. And then overall as we've indicated several times, we're still looking to keep the same guidance that we have in terms of our overall CET1 ratio, leverage ratio, and also the use of capital by the IB."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Got it. Thank you. Try if I just follow up from just one point on the margins. Just on some because I think also the point you made earlier was that -- obviously, there's a customer acquisition cost, so just trying to put into that context. So your ability to scale-up the pricing relative to trying to grow that customer base, how do you think about that trade-off?"
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Again, it has to do with what you provide to your customers. And customers, as you say, are willing to pay up if they regard it as a better service. And for us, clearly, the pool of customers we already have to offer Wealthfront services to, we don't have to acquire anymore. And we just have to generate the leads towards Wealthfront, and make sure that our customers are happy with what Wealthfront does for them. So that would be a pretty low cost of acquisition for a Wealthfront perspective, let me put it that way."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "All new customers to be acquired outside of that scheme is a market theme, which is the cost of marketing through social media, etc., which, yes, depending on how fast you want to grow, you have to increase. You have to do it the way -- that's the way we approach it, and Wealthfront approaches as well. And then you have to look at your customer lifetime value. And you see that the customers of Wealthfront have a very long lifetime and, therefore, their lifetime value is actually very high. And then you can afford also to do more on the customer acquisition costs if you get the same profile. So there are pretty long-tenured clients there. They're very -- they have a very loyal client base, and every new client seems to have the same profile there."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Great. Thanks, Amit So I think with that we'll move on to our next caller. Here Andrew Coombs from Citi Group. Hi, Andrew. Please do go ahead."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good morning. Thanks for taking my questions. Two from me, please. One on cost, and one on the M&A strategy. Some costs if I look at slide 30, you've been very explicit on your 2022 guidance of costs, excluding compensation or should take variable compensation and litigation. If I do the compensation competitiveness, clear the key topic coming out of U.S. bank reporting, for example. If I look at your variable and FA compensation cost, they're up $700 million. If you adjust for the 2021 off relating to the deferred award acceleration, I think they're up just over $1 billion, and that compares to $3.2 billion in revenue growth, so you're looking at a marginal cost income 35% there. Do you think that's a good proxy going forward to model those compensation costs? So that would be my first question. Second question is from the M&A strategy. Wealthfront's an interesting acquisition in part because you've talked about organic being your default strategy."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "But where you can go [Indiscernible] you talk about alternate M&A. And clearly in the U.S. launched advice advantage. I assume that when that be load into Wealthfront in some capacity. If I try and think of a --not exactly the same but similar prospect that you have outside of the U.S. it would be My Way. You talked about now having $7 billion of assets. But with that being obvious areas you need to consider bolt-on M&A to accelerate that strategy?"
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. So let's go back to -- so you have completely digital wealth managers like Wealthfront. And then you have -- and we have one of those as well, which is UBS Advantage, as you were referring to, which plays in a higher wealth segment actually. It's a 9th digital wealth manager in the U.S., but it plays in a higher segment. But again, it's digital-only. My Way is a way to digitalize the mandate business. So it is one which you get a completely different client experience where the client feels that he or she is much closer to allocating portfolios, to sectors, regions, different asset category. And then leave it to UBS to manage within the boundaries that you set through My Way. and it helps the engagement of our customers."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "But in the end, these customers would still want to have the personal advisor, side-by-side to make sure that they are doing the right thing. And therefore, it caters also for our higher wealth segment. But it is a digital approach to improve our client experience. And thereafter results were digital approach, operating that platform and therefore, it is a much more efficient way to do so. So there's -- these are two different proposition space."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "One is how to digitalize the world of the financial advisor to make the financial advisor much more close to the client, have a good way to discuss with the client, but then, have a digital support so that the financial advisor or the client advisor doesn't have to go into paperwork and a lot of documentation, etc., but we can really go to the next client. So better customer experience, seamless execution, and productivity increase. So that -- My Way I would see much more -- much more as a digital improvement in what we call the personal adviser segment, and UBS Advantage, and Wealthfront are much more in the digital -- digitally-customized segments."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And that's -- that's how you can compare them. But clearly, we are trying more and more of this. As I also alluded to in my presentation, we've also launched in Asia, an app called Circle One. And Circle One is actually the whole of UBS in an app where you could subscribe -- You don't even necessarily subscribe, you download it. And there's content coming to you. And through the content, we know your preferences."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Through the content, you also see who else is on the app, that you could actually start discussing with, in order to deepen the content. Once you are so into the content that you would actually want to transact on the back of a sector or theme or whatsoever. If you're a UBS client, you can actually get into UBS, and UBS will then transact. If you're not, you would have to become a new client. So it's both creating of an open ecosystem for non-clients. But clearly, it is also an ecosystem that generates new clients for us as well, sort of as different experiments. Let me put it that way or different approaches in order to see how we can digitalize the role of wealth."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Samir (ph.), I will take your compensation question. But, first of, I didn't completely follow your math, so we can follow-up on that. However, we're very consistent in terms of how we accrue compensation, variable compensation for FAs, really that can almost be looked at as the FA's total compensation because of course it's there are higher payout, but salaries are quite de minimize. That overall payout depends on the grids; the grids are pretty public. It also depends on mix, which is aligned with the grid. So the more lending we do, more NII, the actual overall less payout, and therefore the percentage of payout to revenue, the marginal payout is lower."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Now, in terms of how we accrue for all the other business divisions, obviously with the IVD the largest in terms of the total accrual that we have for variable compensation. It consistently is based on what we call S-curves. And we also accrue after. So we accrue against economic profit. So we always look at the equity allocation to the various different types of revenue and also the costs to generate that revenue before we take into your accrual for variable compensation. And that approach is not going to change going forward."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Great. Thank you very much. Thanks, Andre. So we're going to move on to our next caller who is Anchor Reingen from RBC. Good morning. Thanks for bearing with us. You have the floor. Thank you."
+  },
+  {
+    "person": "Anchor Reingen",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thank you very much for taking my question. I have two remaining ones. First is on what steps are you taking our initiatives to change the mindset and like if incentivized staff, because we took a look at agile structure, cooperation. And I mean, you mentioned you have quarterly reviews of the investment budget. But what are there sort of like levers for you to support a more agile and operation and as well as larger cooperation. The second is on your ESG and sustainability initiatives. Clearly, a lot of banks are talking about it, but is it a net positive for you? You gave us a number of $400 billion of invested assets and compare this to the $250 billion. Probably not all of this is a net positive but using net you are one of the winners and then that positive sense given your business mix."
+  },
+  {
+    "person": "Anchor Reingen",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And where do you think you are on your journey, is a $250 versus the $400 billion a good indication? Thank you."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I'll start with the last one, end with the first one. On ESG, you're talking about the sustainability and impact investment category where we have grown to $251 billion this year out of which $172 billion is within the Asset Management. And we actually see inflows coming across, literally across, new clients coming in specifically for this offering. Existing clients moving part of their mandates, part of their business into that offering. So I would certainly say given our reputation and given the effort we put in, in being the leader, being the thought leader on the ESG side as well, and that's why we centralized all of our ESG activities outside of the business divisions because I want to get us consistent across everything we do, and that will further increase our reputation and attract new money."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So in that growth is absolutely new money, and we see ourselves as a relative winner. For the moment, but with all the plans we have, for sure we will continue to be at the forefront there as a thought leader, not only for us as a company, but also in terms of the products that we deliver and making sure that we continue to cater for more specific needs. This can be as general as, okay, I want to have a portfolio with high ESG -rated companies. It could also be, I would want to invest in water purification technology only, or in whatever new technology there is that can help the climate, for example. So we certainly see ourselves there as a relative winner. It is one of our strengths in the Asset Management business. It is certainly also one of our strengths now if it comes to, if it comes to our CIO strategies, basically we have since September 2020 already, indicated that sustainable investments are the preferred category."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So where we would advise clients to go into, are into investment categories that are more sustainable, and ought to sell. So you see that trend really in our business. They see it in our advice. They see it in our products. And therefore I do expect us to be a relative winner also going forward. The second question, which was your first question, is in agile. And how do you get everybody to go agile. It's a combination of many things. So there is a couple of characteristics in agile that you need to get right and the first one is, that you need to make sure that people see collaboration as an important element. And, that teamwork is an important element rather than individual contribution is an important element."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So for example, we changed two things here and we started at the top. Already in the beginning of last year, we changed our culture components that we actually can detect in the behavior of people. For example, the first one is I take accountability with integrity and the second one is around collaboration. And the third one is around innovation. And those are behavioral components that we basically launched as part of the three keys program that has been very successful for the last ten years. And we tweaked some of those on the cultural and behavioral side."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And these are part of people's appraisal. And therefore they're also part of people's remuneration. And collaboration, is very important. One is one of the three components, and individual accountability, which basically means I take action. When I see something needs to be done is also a very important component of the behaviors. And they are part of your appraisal, and with that part of your remuneration. That's one element and that goes through the whole organization whether we already working Agile or not. The second one is that at the top level, as I was just alluding to, we basically do everything now as a team. And therefore the financial KPIs for all of our executive team are the same. So nobody has financial KPIs for their specific division or area. We as an executive team, have one standard KPI set. If it comes to financial performance. And it's also showing to the organization that we want to manage this as a team."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "It's about UBS. It's about bringing the whole of UBS to the market, to our clients, and it is about teamwork there as well. Now, those are two high-level things that really help when you start to introduce Agile deeper into the organization, where basically you create the self-steering teams, we call them parts, multi-functional teams that have to collaborate together that basically are empowered to deliver every two weeks as to what they need to deliver. That they already have -- that they're already surrounded by some of these key behavioral components that we subscribe to -- that we have launched, as well as incentives components linked to that is right here already. So these are preconditions before you even start to talk about Agile IoT."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Great. Thank you. Thank you, Anchor. And now we're just going to our final caller who is Pace Brown from HSBC. We can see you, Pace, so please do go ahead."
+  },
+  {
+    "person": "Pace Brown",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good morning, everyone and thanks for taking a couple of final questions. Just on the coming back to the wealth Americas business. I guess we go back a few years. We used to have the pre -tax margin target to 25%, and I guess if we think more recently we've seen some of your tiers in that market, pushing the bar a bit higher, and I'm looking for margins above 30%. Given the configuration of the business currently worth and you're still sub 20% on pre -tax margin. Is that a realistic range to think about over the medium-term? The second question is, on the interest income sensitivity guidance. you've given on Slide 32 for the current forward curve, the $800 million of NII upside. I don't know if you can give any figures beyond full year '22, does that figure grow? Is it an accumulation of gains on the current forward curve once you start thinking about reinvestment further on beyond full year’22? Thanks very much."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On your first question, if you look at the performance of Wealth Management Americas, you've actually seen a very positive trajectory overall in our efficiency ratio, as you would expect. We have come down from 87%. This year, full year, we were a bit above 80%. We actually had our first-quarter below 80% in the third quarter. And so the trajectory is moving in the right direction, and we expect that that's going to continue. And it's also helped by, of course, our lending, given the fact that the payout ratios are in lending and that's something I just addressed. And that's very, very accretive to our margins."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So as we increase the banking product volumes and actually catch up where we have a bit of a gap versus competitors, we should continue to see positive trajectory overall on our efficiency ratio on the U.S. Also, very importantly, I would note that we've -- we doubled the PBT from the business. We've gone from $1 billion, we're now over -- we hit just over $2 billion this year, and we've done that over the last five years, and we're on a run rate above $1 billion overall. In terms of the interest income guidance, frankly, I find it almost meaningless to give you multiple-year guidance on interest income."
+  },
+  {
+    "person": "Kirt Gardner",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, we can model it, but the fact is there's so many developments that are going to take place in terms of our overall banking book, our asset, our liability structure, and we know that interest rates are going to move and forward curves are going to move. So I find it more useful to give you the one-year guidance, which is something that we're reasonably comfortable providing. But then, to extrapolate that into 2023 and 2024, I frankly don't feel it's very useful."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Great. Thank you. And that ends all our questions for today. So just handing back to Ralph for a few final words."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Okay. Thank you, Sarah. I -- yeah. By the way, I thought it was very good to see you all on screen because for the last five quarters, at least, that I've been here, we've been on dial, on telephone. And it's so much better to see you actually, and to engage with you. And although the screen is there, and my camera is here, it kind of sometimes confuses us as well, but it was so much better to see you on screen. So thanks for making that possible on your end as well. It just gets us to a much livelier conversation. At least that's the way it's felt on this side of the screens, I guess."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "So, as our set -- we're closing the session. We're happy that we had another strong quarter two and an absolutely record year. And that demonstrates the value that we add to our clients. I hope that our plans, the way we laid them out today and summarized all of them, and we have given them piecemeal to you, that they are clear to you. First we see that this is just the beginning. There is much more to come for our clients, for our shareholders. And so for now, I would like to thank you for watching. And I really look forward to seeing you soon. So Thank you. Bye."
+  },
+  {
+    "person": "Ralph Hamers",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

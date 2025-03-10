@@ -1,0 +1,464 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] And we will take our first question from Aman Rakkar from Barclays."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good morning, Katie. Good morning, Alison. A couple of questions actually, if I may, on income, please. I was just trying to stitch together your commentary on the net interest margin. So you’re flagging structural hedge drag. The benefit of mortgage margins in Q1 probably is going to be a bit lower going forward. So rough ballpark, a couple of basis points of near each quarter, I guess is the first part of the question. And then in terms of what that implies for the full year net interest income, I mean, if that is the case, you should probably be able to offset that with some balance sheet growth in retail and commercial, but can we take Q1’s net interest income as a decent run rate for the full year because I think that would imply a number above 2021 consensus? So sorry for asking a question relative to consensus, I know we do that a lot. I guess second was just around your expectations for NatWest Markets for the full year. I guess it was probably a touch softer than what we were looking for. Does that guidance that you gave us before £800 million to £2 billion still stand? That would be really helpful."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Great. Thank you. Well, look, on NatWest Markets, yes, our guidance for NatWest Markets is unchanged, £800 million to £2 billion. Katie, do you want to take the walk through the first question?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. No, sure. Absolutely. So In terms of the Q1 performance, as we know, fell by 2 bps. The low yield curve was 3 bps of that decline, and then that was offset by the mix of pricing in terms of a positive one basis point, which was largely driven by the higher mortgage margins. And this quarter, central liquidity was flat. So as you know, I mean, when we look at the NIM, there’s three buckets that we think about, the yield curve, we expect to continue with a three basis point decrease in Q2 through lower hedge income driven by the higher yields on such positions due to the roll-off that’s happening in 2021. You will have noted my comments that we are helped by an improvement in the swap curve in that piece, but it’s still going to be around the three basis points number."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Liquidity, of course, remains sensitive to the movements. We’ll leave you to decide what might happen in terms of liquidity. But when we get to mix and price, there’s a few things to consider. The positive mortgage trend that we saw in Q1 is reducing. The average application margin in Q1 was 180 basis points for the quarter. But this decrease to the 165 basis points kind of from March and primarily due to the higher swap rates as well as some competition in the market. We know that the commercial loan book will continue to be impacted by lower front book yields And we do also continue to see a bit of a mix effect in terms of lower unsecured balances. So I think you’re right, it does all kind of come back a little bit to what’s the volume story to make sure that we manage that margin impact as well as on the volume. And I think we’ve always done well on that in terms of mortgages. And I think we’ll then see customer behavior dictate ultimately what happens in terms of volume across retail and commercial in unsecured and corporate lending as we return back to a post-lockdown world."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Do you think then the Q1’s net interest income might be an indicator of, yes, do you think we could annualize that?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So what I would probably do with you there, I would take you back rather than give you this kind of total income guidance and kind of just refer to the revenue guidance that we gave in February, which I’m sure we’ll get into more later as other questions kind of go on. I would go in that basis, and we’ll come into that I’m sure later."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Okay, thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question is from Jonathan Pierce from Numis. Please go ahead."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good morning, both. I’ve got two actually. And anyone is on the hedge, I have to confess I’m a bit confused about the margin guidance as it relates to the hedge drag because if we’re seeing three basis points in Q1, and we’re going to see something similar in Q2, and what happens towards the end of the year. But that applies to the interest-earning assets. It’s suggesting there’s a sort of annualized impact each quarter for the next few quarters of about £150 million, which given you’re only rolling, I don’t know, probably £8 billion a quarter, something like that, it’s pretty mechanical, right?"
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "The delta on the reinvestment rate is huge. It’s sort of 150 to 200 basis points. And that’s before the benefit you’re going to get from the scaling up of the hedge that you’ve just talked about. So I don’t know whether I’m missing something here, whether you’re being ultra-prudent on the drag from the hedge that’s coming through, maybe that dragged just abates completely into Q3 and Q4. But what are I missing on the hedge, the three basis points a quarter given where swap rates are at the moment, is just – it’s very big?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So I mean I think the important thing just to really reiterate there on the hedge is what I said in the speech, it’s around £250 million impact full year on full year. Jonathan, I know you understand our hedge well, but just for the sake of others, it’s all about sort of being very mechanistic and very consistent. We’ve got the average size of £177 billion in Q1. So we added £8 billion on to the hedge since year-end. So you’re right, about £8 billion a quarter. That’s £20 billion since the end of 2020. We worked the hedge on a rolling 12-month basis. So if deposits were to stay stable as they are – broadly stable as they are today, we’d expect a further £15 billion to come on over the next nine months, which would take the head size to £192 billion, kind of further growth on that would be more upside. Clearly, some outflows would have a little bit of an impact. but given the rolling 12-month basis, it takes a little bit of time to come through on that."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "When we look at the hedge, you know it’s a blend of a product hedge with an average – with a five-year maturity, an average life of 2.5 years, an equity hedge with 10-year maturity and average life of five years. And together, they have an average of about 2.9 years. We have – we’ve given you the sensitivities around what would the 25 basis point move doing. So we know that in year one it only adds about £37 million. But by year two, you see that increasing up to £118 million. When we did our base case budget, I think we’d have seen the swap rate down at about eight basis points. The current five years about 47 basis points. So you’ve got a delta of 39%. You intend to work out what the math would do in terms of the yield compared with the growing of the hedge and within there. So I would just reiterate, we’re looking at £250 million this year as long as rates and our expected volumes stay the same. Jonathan, you said you got a second question, sorry, I didn’t give you a chance to ask it."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes. The second question actually is just much more simple, consensus income ex notable items for this year is down 3% on the income last year ex notable item. Is that within the bounds of your slightly lower in consensus as being too optimistic, too pessimistic? I’m thinking in particular of the miss in Q1 on NatWest Markets. But you’re talking around whether you’re happy with consensus income this year, that would be helpful."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. I mean there’s no change to our 2021 revenue guidance that we gave you in February. So that gives you some guidance as well. So just to remind you what we said, we’re expecting the 2021 income ex notable items to be slightly down on 2020, driven by the two factors lending growth across UK RBSI retail and commercial, excluding obviously government schemes that will be above the market rate."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We’re comfortable with our performance on that in Q1. The impact of the structural hedge we’ve just talked about, the reduction of £250 million. And I think Aman asked in the last question around the income reduction in NatWest Markets, so £0.2 billion to £8 billion. There’s then a few puts and takes. We obviously – in February, we talked a lot about the fact that we had a rate cut. Clearly, that’s no longer there. We’ve got this soft curve movements we’ve talked about. We’ve had a little bit of a longer lockdown, but then at the same time, we’re quite – we can see a scenario of a positive growth out of where we are. So I think comfortable kind of in the round."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question is from Benjamin Toms from RBC Capital Markets."
+  },
+  {
+    "person": "Benjamin Toms",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "First one is on cost of risk. I think your guidance is at or below through the cycle of 30 to 40 bps. I think to hit a cost of risk of 30 bps for 2021, taking account the buyback in Q1 implies something like excess 3 bps cost of risk, the remaining 3 quarters of the year. Given that you also need to update your economic assumptions to markets more positive outlook, can you just give us some more color on why you’re not happy to get more positive on cost of risk guidance? And then secondly, on buybacks. You’ve executed your direct to buyback of 5%. You’re right in saying that you now have to wait 12 months to do another one. But I think there’s also technically scoped to do a general buyback, although it’s not favored by investors. Can you update on your thoughts on this methods of capital return for the rest of 2021 versus special dividends?"
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Great. Well, look, on the cost of risk, I mean, I think we expect impairments to be below. We will update our economic guidance at the half year. And I think as I said, we are seeing potential for a more rapid recovery to take place. If you look at the impairments that we’ve released the GBP102."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Interim Management Statement Call million in this quarter, that’s really reflective of the low level of defaults that we’re seeing and an improvement in the book and things migrating back from Stage two to Stage one. So we would expect to be below 30 to 40 that we guided. Katie?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "No. Thanks very much. When we looked at the directed buyback, you’re absolutely right. It’s a rolling 12- month calendar maximum 4.99%. So we did the transaction on the 19th of March, which means we couldn’t do it again until the 19th of March next year. At the AGM last week, we would have sought permission and we received a permission, so it was only this week, a lot happens in a week. But to get to do an in-market buyback. Look, I think it’s something when we talk with our investors, our preference has always been directed."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I think what we did at the year-end was to be very clear in terms of the guidance that we wanted to return a minimum of £100 million, which should be across a mix of ordinaries and specials in line with our dividend policy and to make sure that we had capacity to do the directed buyback. We’re very pleased that we managed to do that in Q1, and I think let’s see how the rest of the year unfolds, but we’ve always been very clear around our preferences to return capital to the shareholders."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question is from Alvaro Serrano from Morgan Stanley."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "I had a question on revenue, which is kind of a follow-up of what you’ve already touched on and then on provisions. On revenues, I mean, I duly noted that you’re sticking to your guidance. But with the rate cut now out of the equation, bigger structural heads is steepening the stamp duty extension, you obviously bought back some of the sub debt."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "What – and you’re keeping NatWest Markets guidance. So what’s gone worse for you to keep your overall guidance unchanged? And are you building any buffer for NatWest Markets given the slow start? I don’t know if there’s any change in seasonality that gives you more conviction that £100 million to £two billion is still valid? And the second question on provisions. Can you sort of update us how much your stock of provisions related to the management overlays where it is, but I haven’t seen it. I think it was close to £100 million in Q4? And is there any reason sort of assuming assumptions aside, any reason why we – I mean you can release those over time."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Great. Thank you. Well, look, I won’t repeat what Katie has given you on the revenue guidance. I mean, as I said, it’s relatively early days in terms of coming out of lockdown. We are – as I said, we see potential for more rapid recovery to take place, and I gave you some information on what we’re seeing around debit and credit card spending and activity. I think where we’re seeing more muted recovery at the moment is in the commercial banking side where I think we’re seeing our customers be very cautious. They’ve deleveraged quite significantly and well prepared for the recovery. And I guess the degree of commercial banking loan growth in 2021 remains uncertain. I think what you will see is three real sort of dynamics coming through, and we’ll see more of that over the coming quarter. Firstly, customer behavior in relation to paying down current government schemes."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Secondly, how customers use the Pay As You Grow features as well as the new schemes, and I can give you some more information on that, if you’d like. And then the degree and speed of the economic bounce back, and that’s where we see more potential for a more rapid recovery."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Call We also see scope for growth within large corporate in areas such as infrastructure, ESG lending, all of which will recover. So I think we’re not seeing anything bad. We actually see opportunity there. On the NatWest Market side, our guidance remains the same. We’re comfortable with our £500 million to £2 billion revenue guidance as the business completes its refocus and reach its steady state."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And it’s making good progress and significant progress on reshaping the business. So I’m very comfortable in Q1 that business has performed well in the areas where we support our customers. So there’s been good growth. Clearly, we haven’t had the same volatility in the market that we had last year, but the business is performing in the way we expect it to, and our guidance remains the same. Katie, do you want to pick up?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. No, let me pick up that PMA question. Look, our PMA for economic uncertainty, it’s unchanged from the year-end is £800 million that we disclosed. We’re continuing to hold that at this stage. When we look at it, we’re looking at – we have a lot of conversations to tell about what would be the hurdles that you need to cross to trigger that release."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So if I look at some things, for example, in retail, you would reference factors such obviously as unemployment, what’s happening in your arrears trends, what’s happening in your high-risk sectors. For wholesale, you’ll be looking at variables such as the performance of different wholesale sectors as well as what the government scheme debt performance is doing in terms of take-up of further schemes and defer all of that."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We expect to be continuing to assess this economic adjustment each quarter over the next 12 to sort of 18 months, I would imagine. There’s no specific time line on when we would release it. I would say, overall, I don’t want you to go away thinking of that means they’re going to hold it in perpetuity till that time. I think it will be a number that will start to evolve as we get later on to this year, and we start to see the real impact of what’s actually happening in the economy. But at this stage, it feels the appropriate thing as we’ve literally just left lockdown to continue to hold that."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from Andrew Coombs from Citi."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "I think Alison Rose answered both of my questions actually. So let me just throw in one, which is on the FCA investigation. Obviously, you have flagged this in your annual report. Previously, there was a news flow in March, and I think the case is due to be heard on the 26th of May. In your commentary, you talked about substantial potential costs or provisions, but my understanding is that this investigation is into a single customer, and it’s around £365 million that’s being investigated. So can you just elaborate on a, if there’s any provision that’s already been booked for this case? And b, what your definition, broadly speaking, of substantial is, I’m slightly surprised by the wording in the context of what’s being investigated."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thanks. Well, look, I think as I said, we’re disappointed by the announcement, obviously, but we have been fully cooperating with that. There’s nothing more that we can say at this point. The only other thing I reiterate is how seriously we take our money laundering and financial crime responsibilities it’s an area of significant investment that we have in the business. We have over 4,000 people doing that as their full-time job. But beyond that, nothing further to add at this point."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "The only one thing I would add on to that is that there’s a confirmation is that we have not taken any provisions. And Andrew, you wouldn’t, I think, expect me to do a definition of what substantial might mean as it would be quite dangerous if a number out there as a point of negotiation. So with no provisions at this point, and we’re comfortable with all the points Alison made. Thanks very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question is from Omar Keenan from Credit Suisse."
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "I just a quick question on customer behavior. And what you’ve seen since the exit from the lockdown. Just on the Slide 5, the debit and credit card spending is very helpful. I think it was to the middle of April. Do you have any data, perhaps a little bit later than that? And just on a related question on the corporate side. So for what you’ve seen so far, what kind of clues have you got on business behavior with respect to the business loan schemes and how much they might pay down. I think you’ve given the number historically what the utilization rates were over of those loans versus what may just be fitting inactively in deposits on the balance sheet. So any color there would be very helpful."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Sure. So I think we’ve given you some sort of data on activity on debit and credit card spending that is tracking up. Let me talk about the government lending schemes and give you a little bit more color. So in terms of, as you know, our lending under the government schemes is around £14 billion. In terms of the bounce back loans, around 20% to 30% of the cash that has been borrowed under that is still sitting in the current accounts of the businesses. The new schemes that have launched, so the Pay As You Grow scheme, that launched on the 6th of April. As of yesterday, we’ve had 14,000 applications and coming through are asking for an extension where customers can extend from 6 to 10 years. Now we expect those volumes to increase quite significantly. We’ve recently written to 100,000 of our customers to give them 60 days notice that their first payment under the bounce back loan is starting in 60 days, and that would be the trigger for the application in the Pay As You Grow."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So I think the behavior that we will expect to see is something that you’ll start to see more data on, I think, initial very, very early days show a reasonable uptick in requests for taking that extension. And I think at this point, we – that’s not – that’s exactly what we would expect. If you’re a small business, bear in mind, most of these loans are average size, £37,000 extended for 6 to 10 years as you come out of lockdown, to give you a bit more breathing space. I think, is not an unexpected behavior we would expect to see. But I think as the economy and the lockdown sort of releases and businesses come back online, I think you’ll either see them paying down their loan commencing repayment or extending through the Pay As You Grow. But that’s the early data that we’re seeing at the moment."
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "That’s wonderful. Can I just ask a quick follow-up question? The 20% to 30% of cash that’s still sitting in the current accounts of the businesses. How has that changed since a couple of months ago? I think you remember a 60% number, but I could be mistaken."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "No, it hasn’t changed significantly. We haven’t – so for example, we haven’t really seen the cash burn that we’ve talked about of people spending the money. I think as businesses come out of lockdown, the question and the dynamic behaviorally you may see is them using that cash for working capital purposes as they ramp up. But broadly, that’s stable. And I think it’s really then as – the trigger point is really as the loans start falling due for repayment."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So if you think about the history, the bulk of drawdown, the big rump of drawdown application of bounce-back loans was in May, June, July. And so May, June, July is when those loans will start falling for their first repayments. And I think that is the trigger point at which you’ll see whether they will repay their loan, whether they’ll advance through the Pay As You Grow. But that’s the early data that we’re seeing at the moment."
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question is Martin Leitgeb from Goldman Sachs."
+  },
+  {
+    "person": "Martin Leitgeb",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes. Could I have 3, please? And the first one, I think along your earlier comments on excess capital and obviously, the intention to return it to shareholders. You also mentioned that you might look to pursue other options, which might be accretive to shareholder value. And I was just wondering if you could shed a bit of light what you mean with that? Are these essentially potential deals similar to the mortgage book acquisition last year in terms of size? Or could this be potentially bigger items? Secondly, I was just wondering if you could elaborate on your credit card strategy in the UK."
+  },
+  {
+    "person": "Martin Leitgeb",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "I mean, we have made tremendous progress in increasing mortgage stock share over the years, and where the market share of NatWest compared to the current account still remains markedly below is credit cards in particular. How should we think about progression and particular share gains going forward as the economy recovers? And thirdly, just to come back to the unchanged revenue guidance on the back of yesterday slightly improving the guidance."
+  },
+  {
+    "person": "Martin Leitgeb",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "I was just wondering what is driving that conservatism, if so, is this essentially a view that mortgage competition could continue and potentially mortgage growth could slow? Or the way around are you still targeting 13% flow share? Or is it simply could this be driven that NatWest Market is obviously a range of £800 million to £1 billion given the first quarter print that we might end up, what’s the lower end rather than the upper end?"
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Great. Thank you. Well, look, I think we’ve answered the revenue guidance. I think Katie went through the sort of three buckets of that, and we are pretty confident about our position and no update to the guidance. We’ve been pretty clear on NatWest Markets as well. So I don’t think there’s anything more I can add to that. In terms of capital and our position, now I’m very clear. My clear preference is to return capital to our shareholders. We have a capital-generative business, and we intend and expect to operate within a CET1 ratio of 13% to 14%. We have robust capital levels, as you can see, and we’re at 14.2% now on CET1."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And my intention is to distribute capital to shareholders, and we’ve given you the guidance as a minimum £800 million. In terms of other options, we would look at other options that we would consider would be accretive of value to shareholders. So the metro mortgage acquisition that we made is a good example of something that adds value to shareholders, is in line with our strategic priorities and aspirations and areas of growth. So we would always look at those options opportunistically and proactively, but it would be in those sorts of ranges. But clearly, preference is to return capital to shareholders."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On the credit card strategy, as you know, that’s an area where we have significant capacity to grow and we would look to grow it in the unsecured space within strong risk appetite, and we are starting to see a good uptick in that space. So I think that is an area which David Lindberg is very focused on as an area that he will look to grow, and he can probably give you a bit more detail on that when we have the spotlights later in the year."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question is from Joseph Dickerson from Jefferies."
+  },
+  {
+    "person": "Joseph Dickerson",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Most of my questions have been answered, but just – can you just describe briefly the philosophy around that? I know it gets – we ask it like every other quarter, but I suppose just in the current rate environment, why wouldn’t you be more dynamic with the hedge in terms of duration, et cetera, in addition to the amount that you’re deploying into the hedge?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thanks, Joe. I think the thing for us is we’re not looking to take puts on where rates are and where they’re going. This is about being consistent and mechanistic in our approach. It’s an approach that served us incredibly well over the last number of years rather than taking actions in one quarter that you could regret in quarters to come. So we’re very comfortable in the way that we manage this. And it’s growing nicely in terms of the size of it. And as I said, we expect to put another £15 billion on over the next five months, and that will benefit us. And if the rates continue to improve, well, we will take that upside as it comes through a bit very comfortable with the approach rather than taking punts on what won’t be happening on the interest rate at any one time."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "And our next question is from Ed Firth from KBW."
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "I just have 2 questions. The first question was the fixed income business in NatWest Markets. I just wondered if you could help us understand a little bit what’s going on there because my recollection was that the reason you were restricting the size of that business or making it smaller, was focus on customers and produce a more stable income stream. And I’m looking at the quarterly numbers in your financial supplement. And I mean, It’s like a random walk. It’s anything between minus £12 million plus £230 million a quarter."
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "So I’m just trying to get a sense what drives that business? And can you give some sort of idea of is it going to stabilize soon? Or was there something one-off in last year that was sort of throwing it around? And if so, can you roughly what sort of level might it stabilize at? So I guess that’s my first question. And then the second question was on surplus capital. You talk a lot about group surplus capital, but I guess we can all see the stack of it is, for example, in someone like Ulster. So I’m just trying to get a sense, I suppose you must know the number. So I guess, could you just tell us or give us some indication of how much surplus is actually at group and distributable today, I guess, is the easiest way I could ask that question."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Okay. Well, look, on NatWest Markets, what I would – as you know, we’re strategically refocusing that business, and the team are making good progress. In Q1, sort of the FX and capital markets income was in line with our expectations. Rates income was lower due to reduced activity levels across the market. And also,our rates income was also impacted by one-offs in the quarter from an LME exercise. But in terms of having that business focused around the areas that we wanted to in supporting our customers, it’s doing exactly what we want it to do. So and…"
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "One-off – sorry, could you give us roughly what – I mean sort of orders of magnitude, so we can sort of get some sort of idea of what our run rate might be?"
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "It was about £15 million in terms of the number that was in that piece. If I look at – how I would look at the numbers, so we’ve said £800 million to £2 billion. What we’ve also said is currencies are going to be relatively stable. Capital markets, that’s where our core work is. That’s working with our numbers. You can see the revenue share. The revenue share doesn’t impact rates. The revenue share on that given its capital intensity is not there. And then that kind of gets you to your – well, the rates is kind of the balancing number of what might go on. You know and you’re being a little bit not in looking at the numbers over the last number of quarters. We made very specific decisions because we didn’t like the volatility of this business in history."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So I think what we’ll get to is a kind of a steady-state number where the business is balancing as it should be in that £800 million to £1 billion number in terms of that place. And in terms of cash, we’re sitting with the holding company just now I mean, happy to share that with you it’s about £4 billion that was what’s sitting there today. So I mean there’s no issue at all around our capital commitments. We’ve got the cash in the right place to be able to make that. So there’s no – there’s nothing hidden in terms of the numbers there and as well as the capital commitments that we made over the year."
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "So the £4 billion, and that’s above your MDA then?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. Comfortably, I mean, there’s absolutely not an issue in terms of – and clearly, that number will move as dividends flow up within the group as well. So if you ask me in a few weeks, it would be a different number again. But I wouldn’t look for a boost in terms of the capital distribution around where capital is sitting, there are none."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question is from Chris Cant from Autonomous."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "I just wanted to come back on the hedge again, I’m afraid. And I understand you don’t want to take punts on the rates market as you put it. But I guess, do you worry that your leaving money on the table there at the moment? And again, thinking about some of the commentary from your nearest domestic peer yesterday, they have improved their guidance on the drag from £400 million to £300 million. And I don’t think previously, they were assuming a rate cut this year. And you were previously assuming the rate cut this year. You’ve gone from a more modest improvement in guidance. And obviously, you’re not being as proactive in the hedge. So Just wanted to get your view on whether that’s something you might revisit in future."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And in terms of the longer-term outlook for the hedge, could I invite you to comment on what you expect the drag to be to 2022 and 2023, again, thinking about some of the commentary from your nearest competitor, they do not expect to drag in 2022 at all, for example, year-over-year? And then on the NatWest Markets, answer to the previous question, could I just confirm, is that a £50 million negative one-off in the rates business, which you have not put as a notable item in terms of how you presented the numbers this morning. I just wanted to make sure, but it seems like a notable item. But yes, could I just confirm that I heard that correctly?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So Chris, let me deal with that last point first. Obviously, the – it’s an LME – it was an internal LME. So actually it sorts itself out for the group. So therefore, in the group result, it is not a notable item. But on that line, within their NatWest Markets results, it is obviously of interest in that line."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So it is not a notable item for the group. If I look at the hedge and Chris, you understand the hedge well, so I won’t go through the whole kind of long question. But what we know is the kind of 25 basis points kind of uplift is £37 million in year 1, £180 million in year 2. So clearly, given the spread where it is today, that will be a kind of a further benefit into year 2 as well. And that will grow a little bit given the – that we’re putting a bit more on in terms of volume. But it’s not something that we’re looking to change our approach on. We spend a lot of time looking at it, talking about it, but ultimately, when you look at it on a multiyear basis, we’re very comfortable that we’re doing the right approach. And we’re very comfortable that we provide the clarity and visibility for you so that you’re able to see what we’re doing in that space. Thanks for the question, Chris."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Could I just ask the – where is the other side of that LME just in terms of our understanding of the divisional numbers. I presume there’s a…"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I mean, it will come through the center and then it will disappear on the consolidation. And the center, as you know, is always a mismatch of many things. The number – that number is not big enough to call out anywhere particularly."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The final question for today is from Guy Stebbings from Exane BNP."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "I’ll refrain from asking another question on compliance. Can I just come to RWAs first, actually, is that £165 billion today, even pro forma for some of the volume growth, the regulatory changes at the start of next year and some credit migration, the 2020 guidance does look quite conservative. I think you said, Katie, the extent sort of where you sit in that range will depend on the extent of credit migration. But is it not possible that credit migration was quite modest, you could be even below that range? Am I being too optimistic there? And then the second question, just on India. I think you’ve got sizable middle back-office operations in India. So just wondered whether the current situation there is having any impact on how you operate any associated cost with that?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you. Well, in terms of – let me take India. So we do have back office operations. In India, we’re working very closely with our team. There are no operational impacts from what’s happening. Clearly, we’re very concerned on behalf of our colleagues in India with the situation we’re putting a lot of support in there. And have relieved some of the pressure just in order to help the human side of the equation for our colleagues there who are doing great job."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "But no business impact. And as you know, we have no direct customer call centers or service centers in India, although we do have some web chat services, but no disruption to business and all of our incident management and operational side. And our main focus is really on supporting our colleagues at the moment on what’s a pretty tough situation. On RWA, look, I think we’ve given you the guidance. I would say we’ve been surprised by the resilience of the credit environment. And I think the ongoing government support measures have clearly – they’ve lasted longer than we anticipated and the tapering off of that, I think, is really you will start to see pro-cyclicality if it’s going to come in later in the year. But yes, absolutely, it is possible that we will come in below that guidance if the pro-cyclicality doesn’t come through. I think the dynamic we’re all managing is clearly the support measures have been extended, which we think is very helpful. The economy is opening up. The lockdown is ending. So as I said, we’re seeing potential for a more rapid recovery to take place. And the opportunity for businesses to get going again and recover faster means that, that pro-cyclicality is either deferred or may not come in as much. So it is possible. And that’s something obviously keeping a very close eye on."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "There are no more questions."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Well, look, thank you very much for your questions. As always, Katie, and I really appreciate you taking the time to join us. As I said, we’re happy with the performance this quarter. We’re on track and delivering on all the guide that we gave you a strong good operating performance in our core franchises. I think as you will see, we are taking an appropriate and conservative approach to impairments, and we’ll update our guidance at the half year, but we are seeing potential for a more rapid recovery to take place. So we are cautiously optimistic. I’d like also just to remind you later on in the year, we have our meet the Exco Spotlight, and then we’ll be putting a spotlight on the commercial bank in NatWest Markets. That’s on May 20th, which will give you a chance to talk to our team more directly there. So I hope you’d be able to join us for that. But thank you very much."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

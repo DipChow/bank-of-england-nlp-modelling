@@ -1,0 +1,530 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions]"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Operator, no questions [indiscernible]?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Yes, we have some questions. The first question is from Tarik El Mejjad with Bank of America."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "So first question is, can you please provide us maybe an update in regards to the Bank of the West capital deployment. You said in fourth quarter results, that will be mostly organic, and you mentioned some key divisions that you'll focus on. Could you, at this stage, be more specific and highlight the areas where you see growth coming first? Secondly, how do you see the lending growth in the sector could be impacted by the banking crisis in the U.S.? Do you believe -- is the material slowdown of growth there could be observed in Europe as well and how that would impact your guidance?"
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "And lastly, still on the growth [indiscernible], if we want to do some capital allocation exercise of your excess capital, we can see that the €3 billion revenues uplift could be somehow underestimated. So if let's say, we take €7 billion excess capital, we deploy it, that's around €50 billion, €60 billion RWAs, the €3 billion extra revenues that you guided for would imply a 5% margin. So today, you deliver already above that at the group level and certainly much higher than that if we focus on the targeted growth divisions. So could you please help us reconcile the 2?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Thank you for your questions. When it comes to the Bank of the West redeployment, listen, we basically stick to what it is. If I say it very simple and if I anticipate a bit your next question, we will not buy anything with the word bank in it. So we are convinced that organic redeployment, so knowing we know the clients, we know our bankers, we know our platforms, we know the regions, it's basically what we want to do. And therefore, on top of that, the bottom line impact will be immediate. So there is no additional investments, there is no additional churn, whatever that we have to take. So we basically stick to that. We already redeployed a part. I mean, this is going to take maybe one, two, three years to do the redeployment, but that is what we will do. And again, in the areas that we mentioned, and so no bank. So that's on the redeployment."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "When -- on your question on the U.S., listen, in my view, what we saw in the U.S. is different from what you will have in Europe. And in Europe, I have to be even more explicit, I have to talk about the Eurozone. Why? Because if you look at the supervision that is being applied in the U.S., you have a handful of large banks, and then you have another set of banks that are governed by a different set of rules. Whereas in Europe, it's not the case. The ECB doesn't supervise the G-SIB banks, yes? They supervise more than 130 banks directly, and then indirectly, even more. And so from that point of view, the impact that you might have on the overall economy, on the overall banking environment, so the banks running into whatever kind of systemic issue, that is not what we anticipate in Europe."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And then in particular, if we look at BNP Paribas, as you know, we are a bank and particularly focused on corporates, commercial activities and the like. And what you see, look at our results, we see that activity continuing. I remind you that on the economy, we basically coined the term: it's a look through what we see, yes? So we don't anticipate a recession. We might see some sluggish growth. But if you look at our results, how business are doing, if you see what is happening to commodity prices, if you see the rebounding in China, if you see all that, for BNP Paribas, we clearly anticipate to be delivering on the growth in our plan, and the first quarter is a tribute to that."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Then with respect to the numbers that you apply, listen, I let you do the math. The only thing what I can tell you is we are a prudent stance or a bunch of people, and that's basically where we stand. And you can see that we take into account that maybe it can take a bit of time to happen. But intrinsically, if you do the math, you see what you get to."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Amit Goel with Barclays."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "So two main questions for me. The first one, just going back to the guidance on the distributable income for 2023, the kind of €11.2 plus billion. Just want to check in terms of the path over the rest of the year, given CIB seasonality, if you mind just giving some of the rationale or what gives"
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "you confidence that you should be able to maintain similar type levels to Q1 over the coming quarters. And then secondly, again, just coming back to the Bank West redeployment. I'm just kind of curious, given the current environment, I appreciate you're not going to, as you say, buy anything with a bank in it. But is there anything in terms of the pace or any changes or differences versus what you previously articulated? I think and you said something like 20 bps per annum. But just wondering if you're thinking there might be more opportunity given some of the dislocation or no change at this point?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Sorry, thank you for your questions. So if I take the first one. So what we basically said that in distributable income is that, on one hand, the run of the mill business will more than compensate Bank of the West. And then on top of that, we correct for the Single Resolution Fund. The Single Resolution Fund is basically an event of the first quarter, right? So that one fell in the first quarter, and we compensated in the first quarter. And you also saw in the first quarter that our run of the mill not only did better, but it compensated Bank of the West. And I don't have to remind you that, for example, a year ago, when it comes to CIB, we already had a record quarter. So from that point of view, I think the first quarter illustrates that the run of the mill more than compensates Bank of the West. That's what we have seen. And so there is no reason why you should anticipate that going forward, that would not be the case. So that is why we feel comfortable with the elements we shared."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And then when it comes to the growth on the redeployment coming from Bank of the West, are there more opportunities? Listen, in my view, what we have seen in the U.S. and what we have seen in Switzerland, I don't observe it as such in the Eurozone, yes? In the Eurozone, we see that there is a requirement for liquidity, capital, what have you not, and a close supervision. So I don't anticipate that there would be something that would have a systemic-ish kind of dimension. Would there be maybe banks that basically say, \"Hey, the regulation becomes too heavy.\" Or the regulation says, \"Hey, I'm not necessarily having the capital to do so.\" Yes, that's one of the elements that we could face, but there is nothing in particular that we anticipate that would be systematic in the European environment. So we really feel comfortable with the growth that we can capture. And if we can do more, we will, of course, do so."
+  },
+  {
+    "person": "Amit Goel",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Just to clarify on the first question. I guess my point was if I took €11.2 billion of distributable income for this year, the group has done €2.8 billion in the first quarter. The run rate then for Q2, Q3, Q4 is also around €2.8 billion. I guess, generally, you normally experience a bit of seasonality with CIB. So I wasn't referring to the kind of the moving parts which got you to the €2.8 billion in Q1. Just wanted to gauge what gives you the confidence, obviously, that Q2, Q3, Q4 will also deliver a similar level to the underlying distributable income in Q1."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes. Listen, if you look at -- I mean, Bank of the West is just gone, and we basically already overperform versus that. So we not only compensate, but we do better than that. So from that point of view, we feel comfortable that the rhythm at which we are, we will deliver. I agree with you. Typically, what you can have is that there are some activities that typically perform a bit better at the beginning of the year, think of global markets. But then there are other activities which do perform ramping up of the year, which can be some activities what you see in Global Banking, but also what you see in some of the other activities. So all in all, it's again, if you look at the rhythm that we had last year, it was very similar. So it's nothing particular that we anticipate, it's just the run of the mill in the first quarter confirms that overall trend."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Jon Peace with Credit Suisse."
+  },
+  {
+    "person": "Jon Peace",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "So my first question is, if you think 2023 earnings and dividend growth could exceed 12% target, are you expecting growth to slow down a bit in '24/'25 as rates and provisions and volatility normalize? Or could you also be above the target in those years as well? And then could I ask also on the cost of risk, do you think you will be able to sustain this 30 basis points run rate into Q2 or into the second half of the year? Or should we imagine it will track higher over time as Stage 3 provisions rise? And lastly, if I could just ask a quick clarification on the buyback. How quickly do you plan to complete this first tranche? And would you only apply for ECB permission for the second tranche once it's finished, so there might be a three months gap in between?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Jon, thank you for your questions. Listen, on the EPS, so what you see is -- let's look at it in two ways. So the EPS is basically -- of the more than 12% comes from the earnings of more than 9% and then the share buyback. So you know this by now, Jon, we typically overperform our commitments, but that is yours to judge. The fact that our earnings per share will be above the 12% is because the fact is that the share buyback that we will do this year is well above what we would do the other years. So yes, we have the intention. What we said is it's above 9% and it's above 12%. That's what we will do. But there will be a bit of a boost this year given that share buyback."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And let me continue on your third question on the share buyback, and then I will come back to the cost of risk. So on the share buyback, you know how that goes. We don't want to perturb the market, yes? So the volumes that we can do is like 20% of the daily volume, something like that. So if you look at it, it's roughly €0.5 billion per month, yes? So it's going to take us, I don't know what, somewhere around July to be done. Now the thing is I don't want to do it in July and August because all of you guys, they are on holiday, it does matter. So we want to do it in September. So you're absolutely right. When I say I'm going to launch it in September, that is not French for saying I'm going to ask permission in September, yes? So basically, I'm going to ask permission before that, so that really we can launch it after the summer. So that's the second question."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Then on your third question on the cost of risk. So can it be sustained? So we basically said it would be below 40, yes? 28 is probably not the level we will gravitate to, but it will be below 40. And can it be sustained? Well, let's look at two things. On one hand, you're talking to BNP Paribas. If I look at our customers, which are basically corporates and the likes. If I look at the corporates, and you will look at them when they publish their results, they basically have the ability to adapt to this environment, yes? They focus on the profitable kind of business. They can adapt pricing. So we see our customers doing well. So if you look at our Stage 3 cost of risk, it's basically doing well. And on top of that, you know that we are a prudent bunch, and so we have provisioning as well. So is it going to be 30? I don't know. Do I feel very comfortable that it's going to be below 40? Absolutely. So Jon, that will be my three answers to your questions."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Stefan Stalmann with Autonomous Research."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Two questions from my side, please. The first one, going back to cost of risk or risk provisions, could you give us a rough idea how much of -- how substantial the releases of Stage 1 and Stage 2 provisions were in the first quarter? And the second question relates to your deposit base. Thanks for the additional color on Slide 16. I was wondering, are there any meaningful guaranteed deposits in your corporate and financial client deposits as well?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Stefan, when you look at the cost of risk, you know how that goes. We are on the Stage 1 and 2, you have to look at the models. And as you know, we are a bit of a prudent bunch. So if in the models, we can see dangers on the horizon, sorry, a bit from my theatrical kind of wording, we will take that into account. But then again, these things have to realize. So if going forward, after typically six quarters, that kind of environment on which"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "we took those S1 and S2 provisions, if that kind of environment doesn't realize, well, you can no longer sustain those, yes? And so that is a bit what we had in the S1 and the S2. And so the amount of debt we've written back is around €100 million. So that is a bit on that question."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "When you look at your -- on the question of the deposits, so as you know, when you look at the deposits, we have different segments, and I told you about it, we have different clients, we have different behaviors. And if you look at the corporate side of the deposits, there is like around 20% that is operational. Therefore, while they're sticky, like you see them in the retail environment, and there is the remainder being rather financial in nature."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "So no meaningful insured deposits in that part of the deposit base?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "In that part, no. No. In the retail, that's where the big book is with 2/3 of it being insured."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Anke Reingen with RBC."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "I just had two questions. Firstly, just following up on the customer deposits, I was wondering if you can give us a bit more indication about the trends across the quarter in terms of your retail corporate, but as well, I think you mentioned in March, you actually saw like net inflows. And maybe any comment about April, although I realize you don't like to comment beyond the quarter. And then just in terms of the LCR ratio, I guess there's a debate, will the ratio potentially change over time given recent event. And I just wondered if you have a view. And if it would be more stringent, would you think you would need to run -- would like to run with the same ratio, having the same absolute liquidity buffer? Or would you think you can run this down?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Thank you, Anke. So when we look at the deposits, listen the deposits evolution in the first two months are basically at our hand. What I mean by that, Anke, you know me well, we are basically profit-based. And so -- and on top of that, as you see, we have truckloads of liquidity. So from that point of view, we are profit-based. So we're not overpaying on deposits. So if from time to time, a client tapers off into another product, that's basically what we saw. So it's on our demand in January and February. And then something a pivotal happened in March, where whatever happened around us basically triggered a flight to quality. And so corporates that were having several banks, they basically decided that they would move into us. And the same thing is true on the retail side."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So when they will be having their assets in different products or even different players, they basically had -- we had that flight of quality that brought it back to us. But Anke, you know this by now, right? And so that's basically what we do. So the first two months, it was on our hand. And basically, in March, well, it was our stance that basically brought it in. So then -- so that's on the deposits."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And then when it comes to LCR. So I don't have to remind you that the LCR is basically a stress ratio, yes? So it basically says that in a stressed environment, so when your assets go up, you need the liquidity to cover that, yes? So the 100% liquidity ratio where you have to be, it's basically saying you need the liquidity to cover your assets in a stressed environment. So that is I don't want to fly truckloads above that because that is just liquidity that we freeze. You saw the numbers of liquidity that we have, it's basically deposited at the Central Bank, yes?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "It's basically sitting on the beach, getting a suntan, and that's basically it. So there is, for me, no reason to stay that high. What you do see, indeed, when they are -- there is turmoil, you see it going up. And so that's the main important thing."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "For us, I don't want to fly high at the LCR. What we have shown again in this quarter that is when there is turmoil, basically, we step up the LCR yes? And so the thing is if the environment is normalized, there is no reason that we would fly so high and just have all of that liquidity parked at the Central Bank. It will be our pleasure to redeploy it. So if the environment is normal, we will see the LCR tapering off and we will -- again, you see it stepping up if at some point in time, there would be some uncertainty. So that's basically how we look at the LCR, Anke. So that would be my two answers."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Pierre Chedeville with CIC."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Maybe a question regarding cost. Could you give us a little bit flavor regarding the evolution of HR cost versus non-HR cost to see if there is any difference there? It could be interesting to compare with some of your peers on that point. And my second question is related to the business of BNP Paribas Real Estate, which is a quite significant part of the Asset Management business in terms of contribution. It seems to me, regarding what you said that it is a difficult time for BNP Paribas Real Estate, could you explain us in which businesses particularly Investment, maybe, I guess, promotion also maybe, how long do you see the trough lasting?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Thank you, Pierre, for your questions. Listen, when you look at the cost base, generically, if you take the cost base of BNP Paribas as a whole, then basically, you see that the cost base evolves below inflation. So that basically means we don't have an impact of HR at the same cost and the other ones not. So that's basically intrinsically what we do. Now there might be some areas where things are different. There are some areas, in particularly a country to the north of Paris, that basically has it into law that salaries have to be impacted by inflation. So yes, there, that evolution is. But overall, it is not the mechanical impact. And so on average, again, on average, you can take that evolution, which is below inflation, you can apply it to the bulk of our sectors in the costs."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Then when you look at real estate, yes, real estate, if you look at it, actually investment is doing well. That's an activity that continues, has been doing well. The point of attention is basically advisory. And particularly I don't know where you were a year ago, but a year ago, in the first quarter, we came out of the COVID environment. And so there was a boost of those kind of activities. So the level in real estate on advisory was very high a year ago. Again, I don't know where you were this quarter, but this quarter with the rates rising and so forth, the overall demand in the market in Europe for that went down. So that's basically the point. So it's advisory from a very high level a year ago to a more lower level in Europe this year. So those would be my answers, Pierre."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Máté Nemes with UBS."
+  },
+  {
+    "person": "Máté Nemes",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "I have two questions, please. The first one is on Global Banking. That's a business you mentioned that might be seeing some positive momentum also over the next year or so. Quite a contrast to the Global Markets business, which is skewed to the beginning of the year. I'm just wondering if you could give a sense of the outlook in the financing business in Global Banking and also what you expect in terms of transaction banking activity. Are we seeing peak activity levels now? Or with some rate volatility, some inflation, that momentum could carry on in the next couple of quarters?"
+  },
+  {
+    "person": "Máté Nemes",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "And the second question is on Asset Management. Clearly, you had a quite strong development in terms of AUM, good flows, yet revenues were lower, clearly pointing to a weaker gross margin and costs were very high. Could you give us a sense what is your expectation in terms of gross margin development in that business for the remainder of the year? Shall we expect some pickup? And if not, is it fair to assume that some cost action will be taken there?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Thank you, Máté, for your questions. So Global Banking, yes, so we see a very positive business. And basically, that business continues. There are aspects of it that have started to open in the first quarter, and that will continue to do so. It's also if you look back a year ago, a high yield, you needed two magnifying glasses to find it. You see there businesses opening. So that's -- basically, we anticipate that business demand continues. And don't get me wrong, it's not negatively. But from that point of view, as you mentioned, the behavior is not necessarily as seasonal as is Global Markets. It is much more steady, growing activity. So that's what we see. I confirm that, and we remain positive on that business."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Then when it comes to Asset Management, there are several things. So Asset Management, yes, the good thing is if you look at the volumes because when it comes to -- we are not an asset manager that does everything for everybody, all around the place, right? So we have some clear focus. And amongst others, everything which is CSR is things that we do. And then if you look at the evolution, indeed, if you look at the P&L this quarter versus the quarter ago, it might be a bit suggesting the evolution not going in the right way. But I remind you that in what we mentioned under Asset Management, we also include the activity principal investment, yes? So that's the demand. And again, a year ago, the demand for principal investment in that surprising literally, surprising market environment, principal investments did very well. And so that basically forms that base towards which it is compared."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And independent of that, on Asset Management, they are continuing their industrialization. And so that's what they're doing. And so we will see, if you take it on the whole, on a yearly basis, that evolution should be fine. And as always, if at some point in time, we see a business that is basically in an environment that is changing, then we adapted, yes? Point in case, take Personal Finance. We see personal finance, we adapted, we adapt the setup. So -- but at this side, we don't see anything on the horizon of asset management. Again, there is this lift for principal investment that you saw a year ago. And Asset Management, when it comes to everything that is CSR-related, they are doing very well. So we're happy campers on Asset Management. So Máté, those would be my two answers."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Geoff Dawes with Societe Generale."
+  },
+  {
+    "person": "Geoffrey Dawes",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Geoff Daws here from SocGen. Just first of all, a quick clarification and a couple of questions, clarification. Excellent comments on the retail deposit trends and everything that we've seen there across the quarter. Could you maybe also extend that out to private banking. So you had €4.4 billion of net inflows. Just if you saw any month-by-month trends there that would be of interest to share? And then a couple of quick questions. First of all, Consumer Finance, you just mentioned it, but essentially, what do you get for the €250 million-odd of adaptation spend? Where is that focused? Which regions? Which products? And what kind of return will we see on that and when effectively? And then second, another division within that area, Arval, could you give us an idea of how much of the revenue is coming from the used car benefit? And if you have any sense of how long that might last. So an idea of the duration between purchase and sale of some of the used cars that you have -- that you're currently making profits on. So that would be it."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Geoff, could you repeat or rephrase your second question? So can you -- I have your deposits. I have your other question. What was your second question?"
+  },
+  {
+    "person": "Geoffrey Dawes",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "On Personal Finance, the restructuring charge, the adaptation charge of nearly €250 million, effectively, where that's being channeled, what we get to see from those adaptation charges?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes. Thanks. Listen, if you look at -- on your question on wealth, intrinsically, that behavior, if you look at it in retail, it is basically for us mass affluent and wealth management. So that's a bit that same kind of behavior that we see. So that's on that. When you come to Personal Finance, yes, the restructuring -- maybe as a quick reminder. So what we saw in Personal Finance is that we want to focus that activity basically on the activities that are asset-backed. And so in order to be asset-backed, well, you basically also need a lever or unique position on that asset. And so for us, that is -- for a big part that is mobility. So in order to do so, therefore, you need the kind of relationship with the dealerships and what have you not, to have that. And that is what we have in basically the Eurozone and the U.K. So that is why we basically said, the activities in Latin America, in Africa and basically in Eastern Europe, we want to basically get -- sell them, those activities and stop being the owner of that."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Having said that, you basically reduce the overall setup, and you also change the way in which you do it, the way you do the typical products or those mobility products is different. Therefore, you also need at \"the head office level\", you need to do a restructuring to be ready to go from that international kind of personal finance business in that Eurozone, mobility-driven, asset-backed kind of activities. And so that is the restructuring we are doing. So it's basically activities like -- well, the costs related to moving out of those activities, decommissioning systems and the like."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "If your question would be on the staffing, basically, we -- at BNP Paribas as a whole, we keep on adding staff, adding staff in the sense of people retire, people leave and so forth. And so we redeploy those. And then when your question is on Arval, we aim not to be a one-trick pony that basically is making money on the used car sales value. And so we basically have three levers into that, right? On one hand, there is the financing of the new production. On the other hand, there is the sale of the used cars. And then thirdly, there is the \"added value\". The added value things can be like you want an electric car in the week, but you want a hybrid car in the weekend. Or like in my case, a bike in the week and a car in the weekend, what have you not. So these kind of things. And so typically, that tends to be like 1/3, 1/3, 1/3."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Now in a day -- in a period like today, when maybe the production of new cars is not as high, maybe that financing part is a tad below that 1/3. And therefore, the resell value of the cars is a tad above the 1/3, yes? But overall, it is blended. And so when the used car price will come down, the new production will come up. And so that's basically what we see. And on your question, I find you very focused on Arval, Geoff, is basically, we have the typical durations of the cars. And sometimes it can be -- as there are not as many cars available as they used to be, well, they can to be -- tending to be getting a bit longer in one year, but that is not an intrinsic trend. So Geoff, those will be my three answers."
+  },
+  {
+    "person": "Geoffrey Dawes",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "That's great. And just to follow up on the Personal Finance side. Do you think that restructuring charge taken this quarter fully reflects the change in staffing? Or is this the first of maybe one or two quarters of adaptation cost?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Listen, again, the adaptation cost, as I mentioned, is basically on the IT, the restructuring and that, because if you look at staff, we basically aim to redeploy them. Nevertheless, on the underlying question, it's what we have booked is basically the entire cost that we will have this quarter, next quarter and so forth. So we basically accrue the entire cost."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Jay H. Gaulard with Kepler."
+  },
+  {
+    "person": "Jay Gaulard",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Jacques-Henri from Kepler Cheuvreux. Two questions. First, the concept of distributable income, I guess you're just going to use it for '23 and that your net reported in '24 will be against that distributable income. Is that the right way to look at it? And the second thing is on your corporate center restatement, that's also a very useful set of slide. I guess the impact has been minus €16 million. Is there any point -- I would say, how could we forecast that? Is there any point even forecasting it materially considering that the impact is very small this quarter? Even I appreciate that there was volatility in the previous quarter."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So just to be sure, it is Jacques-Henri because I wasn't sure when you were announced."
+  },
+  {
+    "person": "Jay Gaulard",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Last, you can't possibly imagine how bad it is to spell that type of first name every quarter. But anyway, it's in the first week. I'm happy."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So if we look at it, you're absolutely right. So when it comes to the distributable, that's only in '23. That's why we always use this kind of thing like exceptional elements, like when we have costs and so forth. The exceptional ones tend to be coming back and on average, we compensate them by capital gains, yes? We have roughly some -- a couple of hundred million exceptional costs that we compensate for -- by capital gains. And so this year, we introduced something which is extraordinary. And so this extraordinary is really saying this is only applicable this year. This is the silly impacts of the TLTRO and the like. So yes, I confirm when we basically say that 60%, 6-0 percent, of earnings are going to be returned to shareholders, it's only this year that we apply to distributable. Next year, it's going to be on the bottom line point. So it's just one day that we do it."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "The way we do it is also because that the figure that we published is basically the base also for going forward. And so that's the thing. So the EUR"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "2.8 billion is the basis for what to read. So next year, you will see that the intrinsic bottom line has improved versus that, and we pay 60% on this. So this kind of distributable is only 2023. And to be even more specific, Jacques-Henri, it's basically in the first quarter and the second quarter. And thereafter, there will be no such thing as extraordinary elements. So that's basically this."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And then when you look at the Corporate Center, yes, and I take it when you say the impact you meant, the IFRS 17 and IFRS 9 on insurance. And yes, the impacts that we saw a year ago were really related because the whole thing was managed under IFRS 4 and they change it. You'll see that the amount is minimal. And the idea for us is to really keep it minimal. That means what? Yes, there is some volatility that can be from the assets that are held and the volatility goes into the P&L., but we will do everything to keep it to the minimum. That basically means if there are hedging that we can apply, we will do it. If there can be alternative products that don't have that volatility in the P&L, we will do this as well, yes? So the effect -- the larger effect that you saw in 2022 should be limited to 2022. You saw it is minimal, and we're doing everything to keep it minimal. So Jacques-Henri, those will be my two answers."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Flora Bocahut with Jefferies."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "So Lars, I have two questions for you. It's actually on things that are not directly under your control but which matter a lot for BNP Paribas. The first is on the Single Resolution Fund. The second is on the banking union. I mean, on the Single Resolution Fund, there's two things. One, just trying to"
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "understand why the contribution declined so much this quarter. Obviously, there is a smaller deposit base, but the decline this year is much bigger than this. So just trying to understand, first of all, what drove the SRF decline this year. And then if you see any risk on the fact that the contribution to the Single Resolution Fund is supposed to decline significantly from next year, is there any risk to that from what's happening in the U.S. or in Europe at the moment?"
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "The second question is on the banking union, obviously, not in your hands either, but BNP Paribas is one of the largest banks in the Eurozone. So it would benefit massively from progress being made on that front. Could -- would you say that there is progress being achieved? I think it's back on the table. Authorities are looking at it again. Could this be the silver lining from the current crisis? What are you seeing from your point of view?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Flora, thank you for your questions. Let's look at the Single Resolution Fund. So the Single Resolution Fund, why did it drop? I don't have a magical want. I wish I had one, but it is not me. And so there are basically two drivers for the amount going down. So on one hand, it is the deposits, yes? So they basically -- the law says, and I'll come back to that, at the second part, the law says that by the end of '23, 1% of the deposits -- there has to be a fund which represents 1% of the deposit. So if the deposits are lower as seen in 2022 and the 1% on the total fund goes down, that is the one thing. The second thing is that the -- that's the law, the European law, but then the operations on this is basically done by the Single Resolution Board, which is based in Brussels. And if you look at the law, the Single Resolution Fund could allow 0% to 30%, up to their discretion, to have 0% up to 30% not in cash but in an off-balance sheet commitment."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And so what happened until this year, that was allowed up to 15%, so 1-5 percent, of the contribution to the fund was allowed in off-balance sheet, so not impacting the P&L. And now what happened, a decision was made in February that basically the Single Resolution Board allowed the fraction of the contribution in the year '23 to be 22.5% to be off-balance sheet. So the amount that we had to pay was lower and the amount that we have to pay in cash lowered as well. So those are the two levers why that amount is lower than what we anticipated."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Then on your question, why do we believe that, that basically should fall away? Well, should fall away. The fund will be constructed and then it can continue to live. I mean if deposits go up or if it's used and so on and so forth. But that will not be the material thing. And so why -- what is the read on why it would end? It's basically the construction of this fund as 1% of deposits is written into law. So there's a law that basically says, by 2023, a fund has to be created 1%, and that's the law. And I remind you how strict the law is. I don't know Flora where you were in 2020, but I was really witnessing the COVID environment in banking. And so everybody was concerned, the authorities were concerned, what will the COVID situation do on the banks? And maybe we should not charge the banks with the contribution to the Single Resolution Fund."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And then they basically observed, wait a second, we are obliged by law to have that fund in 2023. So if we don't charge in 2020 that amount, then it will have to be done in '21, '22, '23. So in the end, let's not do that, and they really kept the payment to be done in 2020. So that is the overall thing. So it is a law that basically ends. There is no way they can extend that law. And so that is basically why we have that rate. So that is why it's lowered, and that is why we feel confident that the main contribution will fall away next year."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Then if you look at the banking union, if you look in Europe, there's basically -- yes, if you look at it in the banking union, there's three levers. So they basically have a guarantee fund in place and they have supervision in place. So they know how to supervise banks. And if something goes wrong, they can have that resolution. Well, they even now have the resolution fund to go with it. So that's a good thing. And if you compare how the Eurozone banking environment went in the last months compared to the U.S. and Switzerland, basically, that supervision mechanism worked very well and it didn't need the resolution. So then the next step is like saying, hey, that third lever, can we have one guarantee system for deposits and can we take it forward? And so that's something that Europe is thinking about, and it takes the countries to get to that. And that's one thing that maybe is going forward."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "But let's not forget, Flora, that's not necessarily enough. I mean even if you have these things, I don't know if you've been trying to one day take a mortgage in France and then another day in Germany, you will see that those products are totally different, yes. So it is a step that is going on. The two pillars are there. The two pillars are basically there and worked well. And so that third one is evolving. And so yes, maybe that is a silver lining of what we will see in the overall European environment. So Flora, this was a bit -- a long answer to your two questions."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from Delphine Lee with JPMorgan."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "So my first question is on deposit beta. Just wondering if you could give us a bit of color about what's going on in your main domestic markets. I think you refer to margin improvement. So if you could just share a little bit what you have been seeing on deposit costs, how is that trending. And also, just remind us a little bit on your €2 billion assumption for the NII sort of interest rate impact by 2025, what assumption on deposit beta have you assumed? And then my second question is really just briefly coming back to your guidance for this year in terms of net profit. I mean taking a step back, would you say that the improvement in your guidance to above 12%, is that mainly because in the first quarter so far, you've seen still very low level of provisions and very strong performance in CIB? Or is that a mixture of very different things? If you could just share a little bit the thinking here of why the improvement in the full year guidance?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Delphine, thank you for your questions. If we look at the deposits, basically, we don't see competitor -- in the countries where we are, we don't see competitors doing in a credible way, tangible things. So from that point of view, the whole pricing, we have it in our hands. And as we are profit-driven, that's what I told you on January and February, we basically manage that with a profit in mind, not having any other friction. And then it changed in March and basically the flight for quality drove retail and corporate clients basically more to us. So that's basically that."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "With respect to the €2 billion of the €5 billion that we stepped up in 2025, so the €2 billion that is related to the interest income, it's overall what we mentioned is the overall revenues. So that's the overall pickup that we see. And basically, we said that it would be phased, yes? So it would be roughly 1/3, 1/3, 1/3. And that's basically what you see. And don't get me wrong, I'm not -- we are not disclosing the kind of betas on those things. But that is what you see. You already see it now. And again, as I mentioned, I think earlier at the beginning of what we said to Tarik, when we put that €5 billion in the market, we are conservative in the things that we say. So that is basically how you should read it."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And then when we come to the net profit and the guidance. So there's two elements, if I take them one by one. So the first thing is we've guided that we have -- so as a reminder, we had €10.2 billion in profit last year. And we basically said that, yes, Bank of the West is gone, but our operational business is growing fast and solidly in such a way to more than compensate that Bank of the West that has gone. And in the first quarter, you clearly see this. And then on top of that, we basically say we add to you in the distributable income that €1 billion to anticipate the falling away of the Single Resolution Fund and therefore have the basis going forward. So that's the numbers. And then when you look at those compared to a year ago, you'll see the growth in the net income and you see the growth in the earnings per share. And what we mentioned, those growth, they are clearly in line with what we put in the market of our new ambition. They're even a tad better. And then on top, when it comes to the earnings per share growth this year, that will be further boosted by the fact that we are launching and are performing a €5 billion share buyback, so boosting it even further this year. So those, Delphine, would be my answers."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The last question is Kiri Vijayarajah with HSBC."
+  },
+  {
+    "person": "Kiri Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Just a couple of quick questions from my side. Firstly, coming back to the Personal Finance. So given you want to reduce the unsecured side but then want to grow the other segments in Western Europe, the asset base, as you described it, I'm just wondering kind of net-net in terms of RWAs, what should we really be expecting in terms of potential capital release from the whole Personal Finance exercise? Or is that not how -- the objective of that exercise? But anyway, any kind of numbers you can put in terms of the scope, which RWAs are potentially on the block would help there."
+  },
+  {
+    "person": "Kiri Vijayarajah",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "And secondly, just turning to AT1. I know in the past, you've talked about increasing the AT1 component of your total capital stack, primarily because it feeds into your leverage ratio, I think. But given some of the uncertainty in the AT1 market, have you had to reassess that kind of ambition to ramp up in AT1? Or is your feeling that in a few months or the back end of this year, the AT1 market will be kind of more business as usual fairly soon?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Thank you for your questions. Listen, if you look at it, you're absolutely right. If you look at the dynamics, so we bring down the unsecured and we ramp up the asset-backed. Now there's a couple of levers on which this plays. On one hand, to some extent, moving from unsecured to asset-backed, the gross operating income, so before cost of risk, is a tad tighter when it is asset-backed than when it is unsecured. However, that is more than compensated by the fact that the cost of risk is way lower. The fact that, that cost of risk is way lower, basically, therefore, also translate into your risk waiting on those assets to be lower. So indeed, what we basically said is that there might be €5 billion that is being stepped up, that €5 billion will have a \"better waiting\" than has a totally unsecured one. So that's the overall setup that we do. So we're already from going to an unsecured to secured. When you look at pretax income, it's basically already roughly the same, but then the yield is improving for the reasons that I mentioned. So that's on Personal Finance. I concur with your read on it."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And then when it comes to the AT1, yes, the AT1s, Well, as the business is growing, the balance sheet is growing, we have to grow this as well. But at the same time, you know us by now, right? We know each other now for a while, and you know we are a prudent bunch. And so that basically means there is already of what we aim to issue in a year, that 75% that is done and there's basically no calls outstanding for the rest of the year. So from that point of view, we feel comfortable with that situation. And then moreover, if you look at, for example, the leverage ratio, the fact that Bank of the West, the capital gain is there, we are well above that. So the AT1 is not an issue. We are comfortable this year. And moreover, you start to see the market coming back. So it is definitely not the point of attention. And in particularly, we have no concern in the coming months. So that will be my answers."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Mr. Machenil, there are no more questions registered at this time."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Thank you very much. Thank you all for your interest. And I think you've seen that the results of BNP Paribas are very solid, confirming their overall plan and delivering a very solid performance."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Thank you very much. Wishing you a great day."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Ladies and gentlemen, this concludes the call of BNP Paribas First Quarter 2023 Results. Thank you for participating, and you may now disconnect."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you very much. Ladies and gentlemen, the Q&A session starts now. [Operator Instructions] Thank you. Your first question comes from Jernej Omahen from Goldman Sachs. Please go ahead."
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Yes. Good - first of all, good morning from my side. I'm just going to ask two questions, please. The first one is on the return on tangible equity target, and how that could translate into tangible book value per share growth. I guess we've seen Santander records, you know, considering the circumstances, high levels of underlying profitability, but the tangible book value per share went backwards this year for reasons that we're all familiar with. I mean, what gives you the confidence that if you meet the targets that you've set yourself for this year, that they will translate into tangible book value per share growth as well?"
+  },
+  {
+    "person": "Jernej Omahen",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "And then the second question I have is on the EBA stress tests, they've announced the underlying assumptions for these tests and some of them seem to be very, very severe just forecasting a perpetual recession pretty much. And I was wondering to what extent, if at all, do you expect the results of the tests to drive the supervisory decisions around capital return dividends, buybacks, et cetera? Thank you very much."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "So thank you so much. So in, you know, this year tangible NAV, as you've seen and you said it, you know, has been very affected by exchange rates. We're working very hard on continuing and accelerating the change in the model, which we have really done a lot of that in the last five, six years. At the end, it's about reallocating capital to profitable growth, first, second, ensuring diversification, you know, US has been - has given us a very good return in dollars, and we need to ensure a proper balance between higher volatility currencies and the more let's say, stable currencies like the dollar and the euro. I say this, you know, maybe the pound also. So that is really the main way we are planning to improve the tangible NAV, continuous capital reallocation to the higher growth and profitability and throwing the balance and diversification through the cycle."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "If we look at the 13% to 15%, medium-term target, I can say, first, it's based on revenue growth. So we are saying middle - mid single-digit revenue growth at the basis of that. If we look at the shorter-term in terms of '21, we're looking to volume growth based on volumes, especially in the Americas, we are looking at positive assets repricing, we're looking at delivering half of the EUR1 billions or EUR500 million additional reduction in costs in Europe, and the cost of credit that trends downwards."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "So again, really doing everything we've done this year, but just doing it a bit more in a bit better for '21. And for the medium-term, focusing on these three priorities like this year, we have already seen I think Jose Antonio mentioned that it's not just the corporate investment bank and wealth management, which are now close to 40%. Again, these are higher - let's say, higher return on capital businesses, but acquiring and payment through PagoNxt should also help us a lot on this change in the model."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "On the EPA stress test. Yeah, there are some issues there that maybe Jose Antonio wants to comment. However, we feel that our capital buffers and our diversification, the fact that our pre-provision profit this year, which is around EUR24 billion, we could double provisions of 2020 and still not eat into capital, the buffers, we have even after that of EUR17 billion, EUR18 billion, you know, all of that gives us confidence that whatever happens with a stress test, which I don't know, you're going to give some details on, there are some issues in the stress test that mean that we might be penalized, but I don't know how you want to -"
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Well, as you know, you're in the stress test, we've been performing very well, we are a top performer there. Our capital depletion was lower than our conservation buffer. So and while we will have B2C on top of this, yeah. So we expect - do expect to continue to perform well there are the synergies are more severe. And there are two issues that we've been raising over the time, that particularly affect emerging market exposure like our case that is the static balance sheet that is probably as you know that in emerging markets loan books particularly very short run and in one year or two due to the - you renew the whole balance sheet and but is what it is."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And the second one that is new, somehow new is the provisions on the emerging markets are not allowed to depreciate with the depreciation of the currency that, well, technically speaking is not very natural, but is what it is. Having said that, we continue to expect during our diversification and the resilience of our business model, the stronger - we have the stronger pre-provision profit in the industry. We continue to perform well on our capital depletion new model that was in the industry."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "Yeah, if I may add just another for context, we have had in 10 years probably two of the biggest global crisis that have happened in decades. And just to understand the stability in our model, if we look at our performance in underlying profit in 2020, about EUR5 billion that's more than double what we had at the low point in 2008 and in 2013, in the 2008 crisis, again, it shows that we've made a lot of progress. And of course, this with 70% more capital than we had then. So, again, the stability in our earnings, diversification and how we perform under stress, I think is evident from what we have done in two global crises so far."
+  },
+  {
+    "person": "Sergio Gamez Martinez",
+    "role": "answerer",
+    "position": "Global Head of Shareholder and Investor Relations",
+    "text": "Thanks, Jernej. Next question, please."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Your next question comes from Ignacio Ulargui from Exane BNP Paribas. Please go ahead."
+  },
+  {
+    "person": "Ignacio Ulargui",
+    "role": "questioner",
+    "position": "Exane BNP Paribas",
+    "text": "Hi, good morning, everyone and thanks for taking the questions. I just have two questions. And one is on the Fiat strategy and just wanted to get a bit of your thoughts on how do you see these sort of like new business additions on Payment, Wealth Management or Investment Banking Pools to be or having to make a bit more dynamic performance on fees? I mean I do see a very clear tailwind from the bit of the unwinding of the one-year to three-year strategy in terms of funding costs and that is being very visible in NII in the UK also in the Spain so I mean, just want to get a bit of your thoughts on how do you see fees into the next couple of years? And I mean, what is the relevance of the Payments business on that process?"
+  },
+  {
+    "person": "Ignacio Ulargui",
+    "role": "questioner",
+    "position": "Exane BNP Paribas",
+    "text": "And also, second question is on the Brazilian business, and what has been a very good performance much better level we expected at the beginning of the year in this pandemic. I mean, which levers do you plan to take you're still continue improving the contribution of the country to the Group? Thanks."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "So you know, the growth in fees would continue to come from CIB Wealth Management of course, also, Retail is incredibly important, Insurance. So One Europe strategy, but also in the Americas, retail fees are also a big driver. It is clear that there's still uncertainty over the next few months. So we could have in the first half, not a great performance in fees, that's yet something which will depend a lot on the health situation. But what we have seen is that, once and we see that in the second half of the year, that once things open up a bit, the performance is much better."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "On the Payments, you'll see, again, with the listing of Getnet Brazil, just a flavor of what we can do in this space. The key thing here is that, we already have performed incredibly well in acquiring in Brazil or Spain within a couple of years of having our own, let's say, Payments factory, once we extend this to other countries. You asked about the timing, that's always difficult, but I would say a few years, we've said medium-term, you should see a very significant increase coming from these areas."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "You want to answer on Brazil, I mean, Brazil, I think it's every time in Brazil, we have a crisis. There's always uncertainty as to the performance, but it has actually has done a very good job. And again, remember that Brazil has historically low rates. So we now have a bit steeper interest rate curve which is also positive. And we are looking to growth in volumes and positive assets repricing for, I think I said that already for 2021 and cost of risk trending downward, in general, in all our geographies once more than others and it could be variations there. But I think that's really the picture for Brazil. And of course, the lower rates mean that that helps customers, you know, pay - for Payments and good performance I think as they exit moratoriums. Is that roughly -"
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Yeah, is basically we rely on volumes with expect to be growing double-digit in Brazil, as we did in 2020. So, this is probably the main lever, margins more stable than the ones we had in 2020. In 2020, remember about that we have the regulatory impact of the, what they call their personal check that this kind of overdraft that affect significantly their NIM and NII."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Well at the end the driver is market share gains and our capacity to keep growing the number of customers, you see the number of customers in the country had been booming in the last three, four, five years. Yeah. So and we are still there. Ana already mentioned Getnet, but Getnet is an example, we can go do all the Auto Finance, where our market share is 25%, you can go to our Agro business where we went from 2% market share to 9% market share and we keep counting in corporate wall, our cost or risk went down, in CIB we're a market leader. So while the franchise has very good momentum and we expect to continue these trends."
+  },
+  {
+    "person": "Sergio Gamez Martinez",
+    "role": "answerer",
+    "position": "Global Head of Shareholder and Investor Relations",
+    "text": "Thanks, Ignacio. Next question, please."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. The next question comes from Ignacio Cerezo from UBS. Please go ahead."
+  },
+  {
+    "person": "Ignacio Cerezo",
+    "role": "questioner",
+    "position": "UBS",
+    "text": "Yeah. Hi, good morning and thank you for the presentation. Two questions for me. The first one, if you can clarify or give us some colors around regulatory headwinds on capital in '21 and '22? And the second question is on the US business, obviously, the cost of risk performance has been very positive in the year again much lower than could be anticipated probably at the beginning of the year. There's a new stimulus plan come in with probably the possibility of cash and checks actually being handed again to customers. Do we have to still expect an increase of provisions in peers in particular? Or do you think the level of provisions in 2020 sustainable for the future? Thank you?"
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "So let me answer the US and then I'll pass over to you, Jose Antonio. So in terms of the US, we have been reviewing this in line with the peers that have presented results, we're very much aligned with our peers, regional and even the large banks, if we compare likes-for-likes in term of portfolios, we believe we're being prudent provisioning. So, you know, I would expect that to continue into 2021."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "The stimulus is going to be obviously very important for this. And so there's really nothing there, which should be out of line with the rest of our peers. Again, if you compare portfolios of the same type of segments, I mean, some of the larger banks have more C&I than we do. And that's why you've seen some reversals, that is not the case for us. And in terms of the consumer lender, again, we're in the range of our peers, but it had - it has performed very well, we believe that will continue to be the case into 2021."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "In terms of - do you want to answer the other question?"
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Yeah. In terms of capital regulatory headwinds in 2020, we were the impact of the different regulatory changes were around lately about 40 basis points in 2021. We - as you mentioned 2021 and 2022. Well in 2021 that I have more visibility we still continue to see some impacts coming from basically all the team review of the models, low default portfolios, all these issues that probably will come difficult to say always when you face this, but we expect to lower the impact on the one we've had in 2020, that I remember was slightly about 40 basis points."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And in 2022, while probably the trend is downwards, clearly, we spent [RoRWA] [ph] team goals, and all the review of the models and all these things will capture significant risk-weighted asset reduction in some models that we are building."
+  },
+  {
+    "person": "Sergio Gamez Martinez",
+    "role": "answerer",
+    "position": "Global Head of Shareholder and Investor Relations",
+    "text": "Thanks, Ignacio. Next question, please."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Your next question comes from Francisco Riquel from Alantra. Please go ahead."
+  },
+  {
+    "person": "Francisco Riquel",
+    "role": "questioner",
+    "position": "Alantra",
+    "text": "Yes, and thank you for taking my questions. And first one, I wonder if you can comment a bit more on the Getnet listing in Brazil, if you plan to offload more assets from PagoNxt into this unit. And what are your ambitions with this listing if you plan to eventually monetize this asset term or not?"
+  },
+  {
+    "person": "Francisco Riquel",
+    "role": "questioner",
+    "position": "Alantra",
+    "text": "And the second question is a follow-up on the US business that you guys mentioned operationally, I wonder if you can update strategically your views about the US and Retail business. I have also seen that you have frontloaded some restructuring expenses if you can also comment on this of cost cutting plans here? Thank you."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "So at the moment, we have just announced the listing of Getnet Brazil. This is not selling of shares, it's just a listing of Getnet Brazil. We are, as I explained on PagoNxt, we'll be giving more information during the course of 2021. The goal is that PagoNxt include three types of businesses, but really mainly two, one is acquiring business where we will be bringing together Getnet Brazil with Getnet mobile platform and eventually Wirecard, which we closed just a few days ago and SEMs. So that would be a global merchant acquirer eventually, but Getnet it's about a listing."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "In terms of the trade, it's also going to be part of PagoNxt. So there we have Ebury, Mercury, The Payments Hub and probably other products related to trade. So we have all of that in a global platform. We believe that is a very interesting business. It's a high growth business in payments related activities. In some cases, we're already given service to third-parties like in The Payments Hub. So that is really the goal with PagoNxt and Getnet."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Well, the second question about the US is strategy on the -"
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "Yeah, the US."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And I may take the cost cutting in the US, we're going to continue to naturally to improve efficiency in the US. Well, we have two angles there, they are probably there's more efficiency gains to making in the bank while SCUSA is growing, and probably the costs will go up. Overall in the US, I would say the costs going forward will be quite flattish, yeah. in the whole US, but not a specific restructuring cost and the way we are doing in Europe. Now, this is not in our vision for 20 - our plans for 2021."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "Yeah, in terms of the strategic view of the US. First is that the US market is the best risk return market probably in the world, aside from being large and a source of talent and innovation, institutional stability, there are strong and increasing connections to not just to LatAm, but to Europe. And what's very important is that both Santander Consumer and SBNA are working increasingly together a lot of the origination in Santander Consumer is financed by SBNA. So you know, we look at the US as a country, not as pieces of a different business, this is not different, by the way, what - to what we do in Brazil or Europe."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "And again, this year, it has - we have had some positive one-offs, but even in constant currency, we have had an increase in profit from the US. And the adjusted returns once we adjust for excess capital, which will not be there forever, actually add even a bit above the cost of equity, depending how you see that of 8.5%. So there are no plans to sell the business. And we are working as in the One Europe with increasing connectivity, not just in terms of working with customers across different Santander countries."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "Again, I think I mentioned in corporate investment bank and commercial we have seen 30% increases year-on-year, but also in building together. And so this is incredibly important. It was not an option a few years ago, today, you can leverage the same way you can build for Poland, UK and Spain, you can build for Mexico, US and you know, eventually why not Brazil or Europe. So this is really the very different approach to the management of the business, which is what we're calling the One Santander new operating model. So again, we are very focused on growing in a profitable way and building on the foundations of the last few years."
+  },
+  {
+    "person": "Sergio Gamez Martinez",
+    "role": "answerer",
+    "position": "Global Head of Shareholder and Investor Relations",
+    "text": "Thanks, Franco. Next question, please."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Your next question comes from Carlos Cobo from Societe Generale. Please go ahead."
+  },
+  {
+    "person": "Carlos Cobo",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "Hello. Thank you very much for the presentation and the extra detail on your vision for the future. Going a little bit back to the numbers of the quarter. Could you touch on the regulatory impact for 2021 again? Sorry to insist, and you said below the 40 basis points in 2020. The last guidance that I had was an impact of 10 basis points to 15 basis points in 2021. Are you still comfortable with that or there is some room for slightly higher impact just to fine-tune the model?"
+  },
+  {
+    "person": "Carlos Cobo",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "And then two quick questions are more strategic. If Payments a global business, and that's how you presented, why listing the Brazilian subsidiary? Just for me to understand, why starting that why not been more global in the distance? And the second question would be on COVID losses. Could you try to help us to gain a little bit more confidence on what's the vision or the outlook for 2022? What's the scenario of defaults that you'll cover for 2022? Because we thought the regulatory forehands and the support from the Stage rolling over the grace period from capital amortization."
+  },
+  {
+    "person": "Carlos Cobo",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "And on the restructuring of credits, we don't really have any visibility. It doesn't feel like 2021 is the year to see the big increase in MPLs. So what's the scenario that you have for 2022, where we should assume further progress in the cost of risk reduction? What's the percentage of total say, Stage II loans you expect to default? And how much of that has been covered already? Thank you very much."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "So I will take the strategic ones and then I will - you can answer the capital and COVID. But in terms of the Getnet listing in Brazil, this is the first step. The reason for that is exactly that what you said was, the goal is to create a global platform, which would be, let's say, parallel to the banks."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "So think about the One Santander, the banks, as owning customer relationships, think about PagoNxt as a global platform for acquiring, which provides the backbone, let's say, product factory for payments. This is really how we think about it. And so this is just the first step to create that global acquiring platform, which would allow us to add value to, you know, do not just do payments, our vision is that payments will happen, we will not actually do payments, but they will be the cornerstone of value-added services."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "So again, it's not about a processing business. It's about a value-added services business to our customers, built, of course, on the - eventually on the processing, but it's more than that. And to do that we actually need to have it all together, you know, outside of our listed banks, but also out outside our non-listed banks. And I hope that answers the question. We are - we will be giving more information and adding to this during 2021 and a lot more a year from now."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "Again, these are assets we have been building individually for the last five years. We have shown the work and now we want to make sure we take it to the next level. We have been rightly so challenged by investors and analysts, you guys, why do you not work better across countries? Well, we have done that in CIB, in Wealth Management, we are now going to do that for mass market and SMEs. So think of PagoNxt and our Payments businesses as providing a global platform where we can truly leverage the 147 million customers that we have in Retail, that we have in SMEs 4 million of them that we have in merchants."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "And again, we'll provide further clarity, but this is really the division. So I think the second question was again on the regulatory headwinds, I believe for 2021 and COVID losses."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Yeah, the first one, 2021, while I already elaborated on the regulatory capital impacting 2021, that we expect to be lower than the one in 2020. The main impact comes from the team and from the models. And well we expect like two stages, the first stage is to go up and to have an impact in 2021 and the second stage, once we get more models get approved."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Remember, that we still have significant amount of our portfolio under the standard models and some older models, our risk weighting is higher than our competitors. And at some point, we will come back with this for - in the medium-term. So in the short run, the numbers I gave you is lower impact in 2020. In the medium-term, we expect some positives from this side probably to split this, IR can talk to you in the small numbers and in more detail on this."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "On the COVID losses, if I understood you well, you're asking about 2022. Okay, so we guide you in 2021 to, this is an area natural is an area of uncertainty and everything is based on models, we'll still have the health crisis going on. What do we expect with, as Ana I mentioned before, we are working with kind of IMF scenario? So with this scenario we expect this year, the cost of risk to go down from the 12.8% we had and start the convergence to over the 1%."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "In 2022, I don't have any reason to think if we were right in anticipating our scenarios in the IFRS 9 forward-looking we built EUR4 billion of capital provisions that till now we are - in our balance sheet that we expect this to cover the majority, if not all the losses that arise from this."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Can we be wrong in the scenario, maybe more negative or more positive, but we are relatively are comfortable with this. And we even the quarter we keep reviewing our scenarios, our portfolios and building provisions accordingly with a conservative and prudent approach. And I do think from the 12.8%, I will bet on, reducing in '21 and reducing again in 2022. So this will be my initial expectation."
+  },
+  {
+    "person": "Sergio Gamez Martinez",
+    "role": "answerer",
+    "position": "Global Head of Shareholder and Investor Relations",
+    "text": "Thanks, Carlos. Next question, please."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Your next question comes from Alvaro Serrano from Morgan Stanley. Please go ahead."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Hello, good morning. I've got a couple of questions I guess on capital allocation. The first one, hopefully the capital build journey is now over. When I think about going forward, it sounds like clearly emphasis of growth is still Americas, but it sounds like a bit more balanced than previously. If I think about the PagoNxt, the Digital and the Consumer Bank initiatives, obviously, again, there was a tremendous success, because basically you returned back to your natural market share with the acquisitions like Wirecard in Germany and the push to become a global payments platform. So how should we think about you achieving sort of growth outside your natural footprint? What gives you that confidence?"
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And second on Openbank and Consumer Bank? You're into double profits? I think it is which is quite, I mean, it feels ambitious. Maybe you can talk us through which regions do you expect to grow the most then? And again, it is - some of it is outside your natural sort of footprint like Germany where you've got the Consumer Bank there, clearly, but what are the growth sources were in the region there?"
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And the second question also is more sector level, it's around, obviously, the sector, the inability to distribute, is accumulating capital, not just for you, but across Europe. And I would love to hear your thoughts and do you think this is going to have long lasting effects in terms of competition? Do you think it can trigger sort of M&A and even cross border M&A? And in that sort of sense, I've heard you loud and clear several times that you don't need to do M&A? But what would it take for Santander to be open to cross border M&A or M&A in general? What would you be looking for? Thank you."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "So you have heard me say, and I will repeat loud and clear, we're not interested in cross border M&A in Europe, we need further significant changes on the regulatory side for that to begin to be something we might look at. We are and as you've seen in the last months, we are much more active on the Digital and Payments side, we believe that we already have enough customers, enough scale, there's a lot of talk about scale, you need scale, you know, we have a 47% cost income, we are guiding to even lower than that in the next few years. Because we do have scale, we are the number one bank and I say, number one bank across Europe and the Americas in terms of number of customers, this is the scale that matters."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "Second, our revenues with you know, stable revenues in a year like 2020, I think that is remarkable. And so that is the scale we are aiming for. We have guided to single, sorry, mid single-digit revenue growth for the medium-term, even in 2021. And again, there's lots of uncertainty in the first few months. And that could affect our revenues in the first few months, especially on fees. But we feel confident that after what we've done in 2020, that we have a scale to drive revenues and we have the scale to drive with PagoNxt, with the Digital Consumer Bank to drive profitable growth. So again, not planning to M&A, cross border M&A, but rather looking at additional Digital opportunities."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "In terms of doubling the profit on the Digital Consumer Bank, that is going to be driven a lot by revenues. I, you know, 18 million active customers in Santander Consumer, Europe, 6 million new consumer customers every year. I encourage you to look at the flywheel and again, any questions please, very happy if you come back to us. But you know, this is very important because we have the data, we have the customers and now we have a go-to model which I don't think any of our peers have, which is the Openbank. So think of Openbank as giving us the knowhow to offer new banking products to customers that we don't need to invest to acquire because we're already acquiring them, by the way, profitably on the consumer side. This is crucially important."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "This is the virtuous circle that I described in the flywheel. And that's what gives us confidence that we can do that now, it's going to take a few years. So it's not going to be in '21 or '22. But three, four years down the road, what you're going to see is a change in the paradigm in terms of how we run our consumer business, and how that consumer business that is there it's real, it's over EUR1 billion in profits, I believe this year in 2020, lots of customers under Openbank tech stack, which is, you know, modern runs fully on the cloud. And it's not just about the customer experience, it's also about how we run the business in all the support functions we can expand to Holland, we can expand to Germany with very limited cost increases, actually, in all these support functions in a way that is very prudent and under control. So that's the reason we are again, not putting a date on this, but you should be seeing in the next few years."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "And finally on PagoNxt, and the acquisitions. So you know, it should all come together and, again, it will take a few years because there are several assets across Europe and the Americas. And the goal there again is to increase growth. And the way we're looking to do that is by value-added services in Payments, by delivering, for example, for SMEs a much better cross border experience for SMEs that trade. SMEs that trade at a high growth SMEs, we have 200,000 of those, we are already testing for example with Ebury, we have a great partnership with Ebury, we're able to offer services we were not offering before and vice versa, we are helping Ebury for example, to run the business in the way we run it and, in some areas, which is very important these days. So we think that it's a win-win you know, combination. And that's where we will be looking to integrate so we can grow faster."
+  },
+  {
+    "person": "Sergio Gamez Martinez",
+    "role": "answerer",
+    "position": "Global Head of Shareholder and Investor Relations",
+    "text": "Thank you. Next question, please."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Your next question comes from Daragh Quinn from KBW. Please go ahead."
+  },
+  {
+    "person": "Daragh Quinn",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Hi, good morning. Thanks for taking my questions. It's Daragh from KBW. One question just on the capital targets and dividends, you know you generated capital this year and headed back towards your targets presumably even if we forecast your cash dividend, you would still be looking to generate capital organically. Could you just say you know maybe how that would change or not a right look forward to the level of capital you think you should be holding in the future? And then on the dividends you can You can just confirm that there won't be that you're not planning any scrip dividends in the future, because obviously, that has been one of the headwinds in the past TNAV per share growth?"
+  },
+  {
+    "person": "Daragh Quinn",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "And on the business side of things maybe just if you could give a quick comment on the margin in two geographies, one in the UK, which has seen quite a strong improvement in margin and NII over the last couple of quarters as you've changed the pricing policy on the 123 accounts, if you could just comment on where things go from here and the outlook for 2021 in the UK and on the US, excluding the consumer business, it looks like it's just been very ongoing weak margin NII performance from the banking business. Maybe if you just provide a little bit of color of what's going on there and what's your outlook is? Thank you."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "So on capital, you know, our targets are to be between 11% and 12%. There is, we believe going forward, we're going to have more capital flexibility as you've sort of hinted that, we are planning to go back to the 40% to 50% on an underlying profit distribution - on an underlying basis as soon as we're allowed to do that. And the most important thing is that, even in a difficult year, we have made further progress in what we call the transformation of the model. You know, it happens at an operating level, which is what's driving the financial transformation, the operational goal, the One Santander new operating model is actually building for example, a common mobile app across Europe just built once and used across different countries."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "On a financial level, it means that, you know, we grow our earnings whilst growing capital, but we grow less our balance sheet and lending in proportion to that growth. And again that's what's going to allow us to generate more organic capital and better profitability. We are not, you know, this scrip is a I know we've gone back in 2020 to a scrip. And again, we need to keep a balance between Institutional Investors and also Retail and this Group was the only way we could get some dividend even though it was in shares to our Retail, the Board and Management intention, as we have said many times for the last six years is to go to 100% cash, this is what we're intending for 2021. And we will get news on what is the you know, recommendation from the ECB for European Banks in Q4, we'll be accruing a cash dividend this year. Hopefully we can return that to shareholders in some time in Q4 or Q1 of next year."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "In terms of the business, and how that's performing. I let Jose Antonio answer that, but I would say that both, you know, the more challenging region this year has been, without doubt, Europe, but UK and Spain, which has been the hardest hit from an economic point of view, and therefore we have our customers and therefore we have also reflected that. But the last couple of quarters have been quite encouraging. You know, there is a lot of uncertainty. But remember, we've seen, you know, lockdowns in Spain being very, very, I'd say, probably at the level of the more difficult ones right now."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "So we know what happens in a lockdown. We know what happens to activity to the top line. And both the UK and Spain have shown on a quarter-on-quarter basis, 5% to 6% increase in net interest income and doing much better also on fees. So and the transformation of the UK is not just about revenues. And by the way, UK has done really well in terms of mortgage growth, growing GBP4.5 billion in mortgages and actually more or less the same on business loans. So again, volumes have done well, margins are improving, and very importantly, very, very strong performance in cost. Again, not just the UK, Spain year-on-year is reducing costs by 10%."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "I want to stress that our focus in both the UK and Spain is going to be growth in revenues. But of course, better - through better experience for our customers. But the new operating model, which obviously is going to be also reducing our costs, we think of it as productivity. And I said I believe that we will be - our aim is to reduce EUR500 million of the EUR1 billion additional costs we announced in 2021."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "So in the US, you know SBNA as I said is part of the of the US business with consumer and net interest income in 2021 has gone up by 4%, total SBNA has gone up by 2%, Santander Consumer by 8%. So in spite of the lower rates doing well and net interest income, if you want to think about the Retail side separate from the Consumer side, even though increasingly, they're working together. I would also say that for the last few years, we've been more concentrated on regulatory remediation controls, setting up the structural basis for growth. So you should start seeing a different behavior of our business in the next couple of years. Again, we are very proud that in a year like this that US has been, I can say our best performing country, at least in terms of the bottom line and growth and profits."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "Do you want to add anything on the business of UK? I think I covered that."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Yeah, it's done. Yeah."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "Okay, so thank you."
+  },
+  {
+    "person": "Sergio Gamez Martinez",
+    "role": "answerer",
+    "position": "Global Head of Shareholder and Investor Relations",
+    "text": "And our last question, please."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. The next question comes from Fernando Gil de Santivanes from Barclays. Please go ahead."
+  },
+  {
+    "person": "Fernando Gil de Santivanes",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Hi, hello, good morning. Thank you for taking my questions and thank you for the presentation. A quick question on Spain NII and the trends. I mean, how much are you accruing on TLTRO? And how much do you think this will affect going forward in 2021 and 2022?"
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "That is a question for Jose Antonio. So -"
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So I don't have the numbers -"
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "So Jose Antonio is going to take - give it to our CFO. Thank you, Jose."
+  },
+  {
+    "person": "Jose Garcia Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "And we have some others in the room. So maybe."
+  },
+  {
+    "person": "Jose Garcia Cantera",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yeah, we currently have a total of around EUR75 billion in TLTRO. And obviously, we believe that we can apply the new conditions described recently. And that will mean an increase in '21 relative to '20 of around EUR300 million, of which, EUR250 million will come in Spain, more or less."
+  },
+  {
+    "person": "Sergio Gamez Martinez",
+    "role": "answerer",
+    "position": "Global Head of Shareholder and Investor Relations",
+    "text": "I think we are not taking - no more questions, limit really here already. So thanks very much, everyone. Thanks, Ana, Jose Antonio. And obviously the IR teams have to dispose off."
+  },
+  {
+    "person": "Ana Botin",
+    "role": "answerer",
+    "position": "Group Executive Chairman",
+    "text": "Yes, sorry. It was a bit longer presentation. We usually get feedback more time for questions. We try to answer all the questions you've asked. That last one really was quite something I'm very happy to have Jose with us here. Thank you so much everybody and you know, we're very proud of our results. Again, any further questions, our Sergio and Jose are at your disposal and stay healthy and safe. Thank you."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you. Bye."
+  },
+  {
+    "person": "Jose Antonio Alvarez",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

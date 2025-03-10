@@ -1,0 +1,932 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, Alison. [Operator Instructions] And your first question comes from the line of Martin Leitgeb from Goldman Sachs."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Good morning, Martin."
+  },
+  {
+    "person": "Martin Leitgeb",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Yes, good morning. The first question I have is, just in terms of yearly guidance from here and just bear in mind, two of your peers guided for significant net interest margin declines in the UK, and particularly starting in the second quarter this year. And I was just wondering if you could give us a similar hearing in terms of how meaningful an impact to expect here?"
+  },
+  {
+    "person": "Martin Leitgeb",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "And then the second question is more broader just on payment holidays and the latest industry statistics show that that 15%, 16%, 17% of mortgages in the UK are currently on a payment holiday. And I was just wondering if you could shed a bit of light how you see this playing in holidays, both for mortgages and for unsecured debt. What are the expectations in terms of some of this payment holidays converting into some form of payment issuance, to what extent were those payment holidays we’ll just see here that made a rebalance some of the debt mix out there? Thank you."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Well, let me touch on the payment holidays and then I’ll hand over to Katie on NIM. On the payment holidays on our mortgage book, we have around – 190,000 mortgage repayment holidays that we have agreed that’s about 18% by value of our book. At this point, it’s too early to call what the issues are and what that will move into and lot of cases what we’ve seen from customer behavior is, they’re asking for holidays from a prudent perspective rather than from a stress perspective."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "But obviously, we’re spending a lot of time talking to our customers about that, but that is broadly the behavior we’re seeing. And in terms of our deposits, you can see consumers and businesses are conserving cash and we’ve seen an increase in our deposits there. So I think it’s very early to call what that is. With that, I’ll hand over to Katie on NIM. Katie?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yeah, and thanks very much, Alison. So, if we look at bank NIMs obviously, Q1 to Q4 down 4 basis points. And then when you start to separate that into commercial and personal that was about 7 basis points and 8 basis points. But when you look our NIM guidance, as you know, we’re not big fans of giving NIM guidance, but we have given you enough for you to be able to work it through. I think the way that I think about it, Martin, and I know you’re very familiar with the disclosure we give you on how our structured heads and we deal with our managed margins."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So we’ve had a 65 basis point cut, we’d always talked about there being a 25 basis point cut and at some point, during this year. If you look at that managed margin, you know, for a 25 basis point cut, that’s about GBP 160 million in payroll disclosures. So I would say, if you just brought that up and for the fact that a 65 basis point, you’ll get broadly the right answer, you know, and that will give you, you know, GBP 400 million over the impact on NII within a year."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "We’ve talked a lot and previously that every GBP 10 million impact on NII would equal 1 basis point in any quarter. So you take your GBP 400 million a quarter, and then you can kind of apply that math, that would probably be my first base point. So you’ll see a natural deterioration because of the rate change. And I think you’ve probably already got that in your model already."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "The next thing is to think about what’s our kind of normal, just the pressure on the mortgage group that we’ve seen coming through, and again, you know, I think it probably give you enough guidance as to kind of get there. So I wouldn’t expect it to be an unexpected fall, but it will certainly be a slightly bigger fall than we’ve seen in this quarter really, because of that rate cuts."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Martin Leitgeb",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Perfect. And just a follow-up on the payment holidays. It says that the trends in how you approach them in terms of mortgages and unsecured. So you’re more worried about payment holidays and the unsecured side that goes to mortgages and if mortgages mainly credit?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "The difference is probably one that’s moved from the consumer side, so we continue to charge interest. Clearly if you’re a mortgage individual and you’ve got, you know 18 months left to run on your fixed rate period and potentially 20 years life, that interest will be spread over that time. So what you’ll see is your monthly payment will increase very slightly. And but if you’re naturally if you’re a credit card holder we’ll continue to charge interest and when you start to pay down that balance is immediately there and sort of things that that’s the kind of difference."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "From our perspective, it doesn’t have – I don’t predict a difference. And I think that’s why you’re seeing the view difference in terms of the number of people who are taking mortgage holidays, because actually it feels much more manageable on managing your personal cash flow versus so much lower levels in terms of the credit card space."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And Martin, I’ll just remind you the mix of our book which is 92% secured and only 8% of that is unsecured."
+  },
+  {
+    "person": "Martin Leitgeb",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Perfect, thank you. Thank you very much."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Our next question comes from the line of Andrew Coombs from Citi. Please go ahead, your line is now open."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Hi, Andrew."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Good morning. Two questions, please. That firstly just on the way that overlay is applied on the existing ECL. Can you just explain what’s the difference between applying the overlay with the economic assumptions you have, that is simplistically changing your IFRS 9 base case scenario to have those economic assumptions and put a 100% rating on it? If you could just explain the technicality between those two different approaches?"
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "And then my second question would just be on the prior core tier 1 target of 14% in 2021. Does that remain the target? I know that the mortgage floor has been slightly just bend but and you’re still aiming for a 14% core tier 1 ratio at the end of ’21?"
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Okay, thank you. Katie, do you want to walk through the –"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "The first piece, you know absolutely. So just in terms of your – your first question in terms of the economic assumption piece. So when we compare that to what we had previously and that there’s a nice table in page 14 of the IMS, we had our economic assumption that was mainly based on what the likely impact of Brexit would be and what we were seeing in the economics there. I mean, interestingly, if we go back to year end, I think, you know, some of us we were under pressure as to why you know even release that yet as things were looking more positive."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So what we then did at the end of this quarter is to kind of say, have a look at the economics, apply all the different end parameters as I told that in my narrative, to kind of come up with this number of GBP 798 million which I’d realize is so furious accuracy in terms of the impact on that. And basically both of those amounts come together. So what we did that in terms of the amount that we took through the accounts this quarter of the GBP 628 million, it was really just to talk about the whole MES overlay."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Look, in terms of the difference and why don’t you put into the base models, the reality is, because the base models rely and are fed by the experience that you’re seeing in your book. What you do with the MES overlay is to say that you understand and you accept that the models cannot possibly at the end of March we’ll be seeing the experience that we’re seeing. We weren’t actually experiencing any particular signs of stress and we certainly didn’t have a view at that point of where we’ll be sitting there today."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So you use your models based on the data and experiences coming out of your business. And then what you do is, with your overlays to say, well actually, I understand what that’s doing, the reality is, that probably doesn’t affect and we do believe things are developing and so we have this additional model, and that we that we use on top, you know, and I talked in my narrative that the reality is, you know, this model is obviously complicated, because it’s a situation that isn’t a simple economic situation as you would normally have seen in the past. I hope that that’s helpful. Alison?"
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Yeah. Thank you. And look in terms of looking at our capital, what I would bring you back to clearly, we’re starting from a very strong position at CET1 of 16.6% we’ve given you an indication of our view on impairment. But given the economic uncertainty and outlook in the variables there I think we are comfortable with our capital position, you would expect it to perform, but and I think we remain entirely comfortable with the robustness of that and our ability to manage through that period and not uncomfortable with where we’re starting from."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "I think we’ve also said, it would be inappropriate at this time to give you an update on medium-term outlook at this stage that we have obviously, not paid dividends this year and we’ve given you the – [indiscernible] pre-Covid performance in terms of our corporate position."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "If I could just come back on the point on IFRS 9, obviously your closest peers have changed their economic assumptions under their IFRS 9 models, regardless of the experience that they’re currently seeing. So I’m just trying to get a feel for in the overlay approach versus changing your economic assumptions, I’d assume that those are just reflecting a change in what is essentially LGD, because in either cases or you’re assuming stage migration. So are there essentially equivalent in approaching LGD?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And I think – we get to a point of equivalents of results certainly, so I think we are quite affluent. I think what’s important there, Andrew is, we haven’t changed the LGD. What we’ve done is changed the PDs, but the underlying models will have been updated as well. Remember that overlay is trying to do a forward loop on things that you don’t and completely understand as to how they’re going to play out in the economic that commence there. But in terms of all the standard updates that you would see and some of the underlying models."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "But it is really important to stress in our underlying models we weren’t seeing signs of stress. We had no single names in the quarter, which I think is really important. And you know, there are some quarters that will happen to you in the next quarter, you might – even I get two or three and we saw that certainly in – Q4 2019, where we had a few single names. I think that that’s also an important part of those core models as they build."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "But basically what –"
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Then define around this one, then I will drop. You’re saying it’s PD changes rather than an LGD changes. So even though you talk about a 19.7% house price index decline, that’s not fitting through into your LGD assumptions when you’re putting a provisioning on your secured portfolio."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Not at this stage, and the way that you can see clearly that that’s clearly not is that, as you look at the – on that page 14, where we show you the allocation by segments, where in terms of mortgages, we’re only holding at it at 28. You know, and bear in mind, our average loan to value is 57% at this stage. So well that’s important. I think it’s probably more important for the future business that you write on your book. We have no at this stage change the LGDs. I think we start to see that coming through in [technical difficulty]."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Okay, thank you."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Andrew."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Our next question comes from the line of Ben Toms of RBC. Please go ahead. Your line is now open."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Good morning, Ben"
+  },
+  {
+    "person": "Ben Toms",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Hi, good morning. [indiscernible]. In relations to the new loans announced government scheme for micro businesses and I think acronym is CSBILS I’m confused with the acronyms. That you start next week do you expect to set your own pricing for these loans? Would you expect the government to announce the cap over the week? And if there was a cap, do you choose not to lend that money if the price is the wrong level for you? Thank you."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you. So the scheme that is being announced next week is called the Bounce Back Loan. So that is for loans under GBP 50,000. You then have the CBILS loan and then the large CBILS loan. So that is Bounce Back Loans which is for the small loans. We are currently working on the details of that with the government in terms of the terms and conditions. And that is not yet finalized. So I do expect at this time not really able to comment on that at this stage."
+  },
+  {
+    "person": "Ben Toms",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Thank you."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thanks, Ben. Thank you. We now have a question, I believe on the webcast."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our first two questions come from Raul Sinha of JPMorgan."
+  },
+  {
+    "person": "Raul Sinha",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Question one. Could you please discuss the outlook and drivers of NII and NIM post the BoE rate cuts and the UK lockdown, especially into Q2? And question two. Could you also provide some additional thoughts on how sensitive your MES overlay as to changes in UK GDP in ‘20 and 21 – 2021?"
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you. So just looking at question two, and I think it’s not a sensible approach to think about one specific economic metric as we look at that GDP knocks on into corporate activity and then into unemployment and into consumer spending and so on. So having said that GDP is clearly the key driver. What you would expect, as we have approached this is, we are making a judgment call as we see things today and we’re positioning the bank to manage for all of the outcomes will be it, there are huge uncertainties and no consensus on these things at the moment."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Katie, is there anything further on NII and NIM post the BoE rate cuts that we haven’t covered."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "No I mean that I think on NIM, I think I probably answered that already with Martin’s questions. There’s really nothing further I would add on that. you know and that obviously just kind of leads through naturally from the NII. So we’ve seen the comment around the base rate cuts, you know, we’re likely in terms of any TFS, it’d be a little bit dilutive as well, but no, nothing really further to add I guess what we’ve – you know, we talked about already."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you. Back to audio. Now, join, please."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Your next question comes from the line of Jonathan Pierce from Numis. Please go ahead. Your line is now open."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Good morning, Jonathan."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Good morning, Jonathan."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "Hello, both. I got two questions. I’m sorry to come back on the margin again, but it’s been kind of awesome focus through the course of this week elsewhere that I just want to make sure I’m entirely clear what the guidance here that you’re giving is. Lloyds was talking about a 30 basis points to 40 basis points drop in the margin in the second quarter, Barclays similar to all in the magnitude top end of that. Sounds from everything you’re saying that even once been cleared some of the costs of the customers support program the issue of mix shift CBILS so on and so forth. But you think you’re going to be somewhat less than that? Can I just confirm that that’s what you are telling us this morning?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yes, that’s what I’m telling. I mean would really, I mean here is the guidance that we’ve given you so consistently on the structural heads to kind of work out the margin, that will give you the bulk of the drop. And then what we know in any one quarter is that, you know, we see us I mean it’s 6% this quarter, it was a little bit less last quarter in terms of the move, and then that will kind of be your sort of balancing figure."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "I think the thing about CBILS, although they are important, they’re still you know, given the size of our Group, they’re still a very small portion of the Group. So they will have a natural dilutive impact. I would go with the guidance that we’ve given you, and we’ll – you’ll get there I think in the run. So we’re not expecting the larger impacts others have spoken about."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "Okay, all right. That’s helpful. Thank you. The second question and again, sorry to come back on this point on the overlay. I understand that this is all horribly complex and deeply uncertain at the moment. But if I, again look at what you have done in the quarter versus what we’ve seen at Barclays and Lloyds, you’re stage 1, 2 ECL has been built by almost 60%. Those are two banks increased the stage 1, 2 provisions by about 35%. And I guess there was a bit of true up needed from you, because your economic scenarios at December particularly the downside scenarios were not particularly harsh. When you looked at where you are now, do you think that you have now largely trued up to an equivalent level of the other banks and hence overlays moving forwards will not necessarily be disproportionately sized versus what we’ll see elsewhere?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yeah, so look. Let me kind of run through the impairments so again and see if I can help you. So, what we did was, in total we charged GBP 802 million or 90 basis points of loans of advances. So, obviously, well in excess through the cycle and charge of 30 basis points to 40 basis points. Most of this was the GBP 628 million overlay."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So as I said in my speech that was based on our internal stress scenario, and because we didn’t actually feel that we had the data, and we were not seen the data yet, coming through our books. So the overlay that on assumptions on government support dilutive recovery, individual kind of sectoral stresses, and then that got us to a result in charge which equates to an increase in stage 2 exposure sort of 32% and 65% in personal and wholesale, and increased the provision stock to GBP 4.2 billion at the end of March, of which, GBP 798 million of that GBP 4.2 billion is in relation to the MES."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "There is therefore a significant uncertainty and judgment involved in our Q1 charge. There is much more uncertainty in thinking about how that will play out in 2020. This you know, we know about the wide range of views around medical issues and lockdown and economic impact on that and the shape, timing and scale and the duration of the recovery."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "What we’ve not done today is to forecast the 2020 impairment charge and how it might come through I think the difficulty in forecasting is reflected not only in all of your own forecasts that we’ve you know, in terms of the consensus we’ve published, we’ve got ranges of GBP 1 billion to GBP 4.6 billion. So there’s no real consensus coming through in that, and I think we’ve seen similar ranges coming out from some of our peer group as well."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "But given the analysts need to focus and we need to forecast, I guess, what can you do? I would say an absence of guidance from us and the significant caveats of uncertainties that we’ve just gone through, I would say a rational approach would be to extend something like our Q1 charge of 90 basis points through the rest of the year."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And let me now just, I don’t know if I can tell you but the uncertainties again, I’m happy to do so, that what we know definitely is that will not be an evenly spread 90 basis points, will not be the answer you know and I would say I don’t kind of offer this as a forecast but just as a rationale way to kind of approach the problem as we go through with the MES."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "Okay. That’s answer really helpful. So again accepting the uncertainty, what you’re essentially saying is, it’s good to get to any at the moment, if I take Q1 and multiply by 4 get to the little bit of above right consensus is at the moment, but that’s a good shot in the dark is any at the moment?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "No, I would – we’d go with that and you know, that mix of us compared to others is also something that’s important. You know and then –"
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "Right. thank you very much."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Jonathan, if I can just make sure that, because we’re clear that we’re in terms of the kind of the NIM and where we are, I think we’re sort of saying is that we’re kind of happy enough with where consensus is sitting. And that, you know, that kind of 10 basis point kind of impact as a result of the GBP 400 million is how we should read it, and don’t read it as 40 basis points. I think I may have confused you with that answer really, if that's helpful."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "Yeah, that’s really helpful. Thank you, Katie."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thanks a lot, Jonathan."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Your next question comes in the line of Edward Firth of KBW. Please go ahead. Your line is now open."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Good morning, Ed."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Yeah, good morning, everybody. I think you’ve actually answered all my questions. Just a very small one. I mean you said the runoff costs will be less than GBP 400 million. I guess that’s a huge range. Can you help us a little bit more than just less than GBP 400 million?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Ed, I’d love to."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "And what will be the losses for example?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "What we had said at year end was you know GBP 400 million in terms of those disposal losses that will obviously go against the income line. You know, at the moment, what we’re saying is we’re working towards the GBP 32 billion at the end of the year, we’d expect those losses to be slightly less than – as we get them, we’ll will share them with you."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Okay, but there will still be losses?"
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "No, that they will be less, Ed. One thing I’ll point out is, when we announced the NatWest Markets, refocusing strategy in February since then we have a dedicated team who are managing our RWAs and but we’ve obviously made some announcements around some changes in that business. We would expect to continue to reduce our RWAs without crystallizing the full amount of that GBP 400 billion. So there will be some losses, but they will be less."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Okay, thanks so much."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Your next question comes from a line of Chris Cant from Autonomous. Please go ahead. Your line is now open."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "Good morning. Thank you for taking my questions, both."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Good morning, Chris."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Good morning, Chris."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "If I could just come back on the revenue on NIM piece again. And I appreciate you’ve covered this on a couple of questions. But I’m just cognizant that we’ve seen consensus revenues need to move pretty consistently lower for four or five quarters now. Can I just come back on the previous answer? Are you saying you’re happy with where consensus is sitting for revenues for the full year, because I’m not sure you give us a NIM number for consensus of about 10.7 obviously that includes some disposal losses, which you’re now saying are going to be less than the GBP 400 million? I’m just trying to understand what it is you’re telling us there?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "No, absolutely. Chris, let me give you a kind of a clean revenue answer rather than kind of mixing up with NIM as well. So look we know the consensus where it’s sitting at 10.7, you’re absolutely right. We gave you really very fulsome guidance at the year end, the GBP 200 million. So which I think is quite well reflected in that 10.7 and I think that 10.7 has probably also reflected well in some of our structural hedge kind of guidance. So that – I overdraft at high cost of credit, the GBP 200 million guidance, we’re still in and around that number."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "We talked about the 25 basis point cuts, we got 65 basis points. You know, in that note, it gives you good views as to higher to kind of roll it forward, impact of lower margins and obviously from CBILS and CLBILS we’ll have a bit of an impact. You know, we do continue to accrue income for mortgages and other retail payment holidays. And although we do expect the disposal losses in line in NatWest Markets in the round, we kind of we know where consensus is sitting and we don’t feel the need to talk more about it."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "Okay, that’s helpful. Thank you. And if I could just follow-up on the questions around the IFRS 9 in the provisioning approach, just trying to understand you – scenario a little bit more, you’ve given us some slightly qualitative commentary relative to some of your peers where we’ve got some clearer tables outlining the scenarios. So did you just give us the GDP moves you’re assuming for 2020 and 2021 sequentially and the equivalent numbers for what you’re assuming for the unemployment rate in the UK in 2020 and 2021 just to help us cross compare between the banks I appreciate the approach is a little different. But I’m more interested in the scenarios that are underpinning the numbers? Thank you."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And so Chris, at this stage we haven’t shared those later dates. I’m sorry, I’m going to disappoint you on the call this morning in terms of what our assumptions are. And I think the reality is and what has become increasingly clear to us, I think during April is just actually how difficult it is to give you those forward-looking dates. So I think we – our guidance is really has been quite focused on the 2020 here and we’ll see how those go overnight."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "I would say that qualitative is as important as the quantitative in terms of how you actually get to a kind of number that you feel relatively comfortable with. And our view is very much, we’re so early in the crisis of how it unfolds. I think that we’ll a far more substantive conversation when we get to Q2. So, apologies I think that our guidance for ‘20s probably as far as we’ll go this morning."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "Okay, thank you."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thanks a lot, Chris."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Our next question comes from the line of Fahed Kunwar from Redburn. Please go ahead. Your line is now open."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Hi, Fahed."
+  },
+  {
+    "person": "Fahed Kunwar",
+    "role": "questioner",
+    "position": "Redburn",
+    "text": "Good morning. Good morning, Alison and good morning, Katie. And I have a couple of questions. Yeah and just one on the dividend. I know you’re of course getting medium-term outlook. When you have a 760 basis point buffer over your MDA, obviously dividend is cancelled in ’19 because of the PRA. But going forward, the buybacks have some changes, of course, but why would your ordinary dividend strategy change at all considering the size of the buffer unless you’re expecting you know extremely significant losses that that’s kind of capital buffer? Especially the CBILS are quite low risk weighted intensity? That was my first question."
+  },
+  {
+    "person": "Fahed Kunwar",
+    "role": "questioner",
+    "position": "Redburn",
+    "text": "My second question just on NWM revenue guidance. I know we talked about the rates income, I think harping from the kind of arbitrary reductions that you’re trying to see in that business. Is that still a relevant guidance or does that change or slow down based on the kind of changes you’re having to some of the disposal losses? Thanks."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thanks very much. On dividends clearly our strategy is to receive dividends at the appropriate points. We recognize it was disappointing for shareholders that we cancelled the dividend following discussions with the regulators which the banks went through, we would look to receive dividends at the appropriate moment, and we’ll review that at the end this year, and we see no need to change our dividend policy. And I remain committed to distributing back to investors and shareholders, I think that’s our position on that."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "In terms of NatWest Markets, Katie?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "You know, I would say Alison that in terms of that response, because that guidance was obviously for as we get further through the process in terms of where we are now. I would say that the – what we’ve said to you that you would expect ultimately that the rates business route, and we’d be significantly lower and that this year was probably quite a step down year."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "I do sort of note so on page 30 of the pack that the rates income for last year was 328 and we’ve done 276 in the first quarter. So I would say that they performed well with the volatility that was in the market, which is good, because it gives us a bit of a runway into the year as we continue to transition over that business. So our strategy is unchanged so I would continue that when we get to ultimately that guidance would still be valid, but obviously, we’re repeating the performance that they’ve had in the first quarter."
+  },
+  {
+    "person": "Fahed Kunwar",
+    "role": "questioner",
+    "position": "Redburn",
+    "text": "Okay. And can I just follow-up on one more question, sorry, it’s a slightly unfair question, but on the CBILS scheme as you’re a big partner to CBILS scheme and to the shape that the loans are getting out at the moment. Do you feel any kind of extra responsibility are there any kind of implicit pressure on your as a kind of state-owned bank to be the bigger part of that CBILS scheme? Is your log in market share are more because you have a larger market share in the UK corporates space? Thank you."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you. So it’s not an unfair question, very happy to take it. We are not under any undue pressure, nor do I feel any, I act in the best interest of all of my shareholders and we mad those decisions as an Executive and a Board as you would expect."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "In terms of CBILS, we are participating in that scheme, supporting our customers, one of the things that we were very aware of when the crisis unfolded. It was the need to move very quickly. I reorganized the organization very fast and we operationalized that program very quickly. And that was why we were able to move so fast and getting GBP 1.4 billion of lending out under that scheme, that is to our existing customers within our existing risk appetite taking into account very disciplined viability analysis in the normal course of business."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So, as you can see as other banks operationalize more and step up, they will take more of a share of that program we are lending to our existing customers, but no unique pressure for us at all, nor do I feel any, and I will act in the best interest of all of my shareholders."
+  },
+  {
+    "person": "Fahed Kunwar",
+    "role": "questioner",
+    "position": "Redburn",
+    "text": "Thank you very much for the answer."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thanks, Fahed."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Your next question comes from the line of Aman Rakkar from Barclays. Please go ahead. Your line is now open."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Good morning."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Good morning, Katie. Good morning, Alison. Yeah, I just want to come back to the ECL comment you made earlier. I appreciate the uncertainty in predicting the ECL portfolio. And I do really appreciate you giving us that kind of guidance about the times in Q1 by 4. I guess just based on that view of the world that is obviously a big part of the Q1 charge was the macro overlay."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "So I mean, you know for that 90 basis points show us the return in the remaining four quarters with three quarters, are we saying that there is a decent chance actually given the macro situation in flux and fast moving target that we potentially will see, you know, a mixture of additional macro overlays as your assumptions around the macro that you put into your models are kind of a bit become a bit more conservative."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "And I guess following on from that, you know, benefiting from our first line transitional relief in Q1 you know, simplistically, as we saw the same 90 basis points charge materialized in Q2 composed in the macro overlay and the actual underlying charge, could we see a similar level of transitional relief in coming quarters?"
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "And then final one was just interested in obviously printing a really, really strong capital ratio, the headwind to the MDA is massive basically. Just wondering how you guys were kind of weighing up the temptation that kind of gold plate your provision reserves kind of in front-loading potentially a higher charge in Q1, you can still print a really, really healthy CET1 ratio and potentially get ahead of this issue, you know, particularly relative to other banks. So we’re interested in to hear your thoughts on that? Thank you."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Let me start and then I’ll hand over to Katie. I think Katie’s given you hopefully a very detailed and helpful view on our approach to the overlay and impairments and the look forward. What I would say is, as you would expect, we are looking at a period of very significant uncertainty and I think there are a number of variables in there, both the duration of the lockdown and the speed with which the economy can and will recover as we come out of this situation, which in fact that what you would expect me and the team to be doing at this point is making a balanced judgment you remotely see running the various different scenarios and positioning the bank well to deal with that, I think what we’ve given you is a sense of our approach and also hopefully a view of how we look at that. So I think probably that’s you know, I would say on that."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "In terms of the strong capital ratio. You know, we are starting from a position of strength. We do have a strong CET1 ratio. We have a balanced portfolio and mix across our books, which I am not unhappy with and a resilient performance coming out of Q4 into Q1 pre the Covid. So I think that gives us a strong starting point facing into a challenging operating environment. We try to give you a balanced view and not gold plating anything, I think that is a balance sheet certainly not saying that our provisions and impairments in Q1 the end of it’s and that’s the guidance Katie has given you there. So hopefully that helps."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Katie, do you want to pick up the transitional –"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Absolutely look I mean, transitional relief, as you know is a kind of hideously complicated calculation. You know, it basically tracks the changes in stage 2 in the movement they’re in. So in the quarter, you can see that we got GBP 296 million of transitional relief, you can see that in our in our capital or capital kind of deductions are scheduled. What I would say is, I would absolutely say, given that we expect to incur more impairments, that we would expect to see more of that relief coming through and we’ll continue to kind of update you on the exact number as it kind of flows through."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And then I think you also asked did we see going forward that we’d end up with a mix of overlay and our base you know, the desire is always not to have overlays. I could imagine as we go through this year, you’ll still end up with a bit of a plan, because the reality is it’s going to be uncertain for the next few quarters. So we think you have a bit of a glide. I wouldn’t like to comment in any way what those numbers would be."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "All right. Thank you so much."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Alison, I think there’s a question from the web after this one. Shall we take this?"
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Yes. Let’s take this. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next web question comes from Robin Down of HSBC."
+  },
+  {
+    "person": "Robin Down",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "On page 15 of the accounts, you called out various corporate exposures where you see heightened risks for your airlines, leisure et cetera. And yet the stage 1 and stage 2 ECLs looked very modest, for example, just GBP 31 million on a GBP 2.4 billion oil exposure. How do we square that circle of elevated risks with low ECLs? Is the exposures to oil all majors for example. Why has the economic overlay not had a material impact here? Thank you."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you, Robin. Look, when I look at our oil exposure, I think as a percentage of our overlay is relatively low and our oil exposure is you know major companies and this is lending. So we’ve applied stress PDs but if the specific counterparty is very strong, then the overlay is not a key, so it’s really about risk appetite but as an overall percentage of our book, oil exposure to that being set against [technical difficulty]."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you. Shall we go back to the phones lines where any further questions."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. [Operator Instructions] The next question comes from the line of Jenny Cook from Exane. Please go ahead. Your line is now open."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Hi, Jenny."
+  },
+  {
+    "person": "Jenny Cook",
+    "role": "questioner",
+    "position": "Exane",
+    "text": "Thank you. Good morning, both."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Good morning."
+  },
+  {
+    "person": "Jenny Cook",
+    "role": "questioner",
+    "position": "Exane",
+    "text": "Can I just ask that in [indiscernible] in the next few years clearly in a tighter regardless in terms of what you’re expecting that consensus seems to be in the order of magnitude more optimistic than that? Secondly kind of following-up on Robin’s question, just thinking of the airlines in aerospace, leisure well I can see that your exposure increased around in the quarter, appreciate numbers are quite big relative move and your coverage kind of just decreased by 2 percentage points to just 1.5%. What are the nature of that exposures? And are you factoring a significant amount of government support to this sector?"
+  },
+  {
+    "person": "Jenny Cook",
+    "role": "questioner",
+    "position": "Exane",
+    "text": "And then the final question is just given that nearly 20% of your mortgage book is on a payment holiday, we’ve got this incredible disconnect between cash and accounting environment. And intuitively your assessment of risk must be going up in this environment. And in normal circumstances this would lead to higher mortgage spreads. You could see total underwriting moves just based on expected impairment losses around 25% to 40% above the loss rate. Are you going to look to maintain that profit in your underwriting? So could I therefore your perspective on the trend for mortgage spreads for the next few years from here? Thank you."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you. Sorry, Jennie I didn’t quite catch the first question."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "The first question was cost expectations –"
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you, sorry –"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Both here and into the future."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you. Sorry, apologies, my hearing not as good as Katie. So we reiterated our guidance on costs for this year of GBP 250 million as you know, we have a strong track record on costs and over the last few years, we’ve taken around 4% out of our cost base GBP 250 million this year."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "I’m reiterating that, we will continue to take cost out of the business. The next that you’d expect as changed and little as a result of as adapting to the crisis that may remain committed to that GBP 250 million and continuing downward pressure on our cost base and looking forward, we would expect that to continue. So I think that becomes and continues to be an imperative."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "We’ve obviously also reprioritized as you would expect some of our spending and where we will look to invest and where we will look to take cost out. So we remain committed to the GBP 250 million this year and continuing cost coming out."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "On the airline and aerospace exposure, what I would reflect back is, we have relatively low exposure to multinationals, given the nature and shape of our business, our airline exposure is included in lending to airline services as well not just airlines, so our exposure is relatively limited in terms of the big multinational players that you, I think are thinking about when you talk about airlines and we’ve obviously looked as we’ve assessed our impairments, both from a sector perspective and also government support and overlays, but I would go back to our exposure to airlines is relatively limited from that perspective."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Katie, do you want to pick up the mortgage?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Absolutely, there's naturally a disconnect between the cash and accounting floor that we’re seeing at the moment. You know, and certainly, you know, given the volume of requests that we’ve had around mortgage holidays, you know, 80%, what will happen is, they will all have been granted out three months and holiday."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And then there’ll be a process where we’ll go back and talk to every single one of those customers about and then we can make their mortgage payments and how they would like to do that and that’s where we’ll actually get through that process which will be in its very early stages now as we run into – through me and the payments are due to kind of start again, so we’re beginning in June. That’s and we’ll start to get some of the kind of the real insight within there."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "In terms of pricing on mortgages, look I think, obviously the way this swap curve has gone, it’s probably is beneficial. And at the moment, what we think is really interesting on future demand, 50% of our new business has to do with new mortgages. You know, you can see even in those numbers that we’ve shared with you up until the beginning of April, GBP 10 billion of – GBP 10.4 billion of new gross mortgage loans in Q1 we’ve done I think it’s got 1.4. it’s more or less in April. So you can see there’s just a massive kind of fall off in that volume."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Well, we have done with all of the mortgage offers that we have out there. We’ve extended them all so they’re all valid for six months. And I think we’ll just start to see as and when and how we emerge that some of those will still come back on the books. Some of them will move away and then I think, you know, in a year or two years’ time, it’s incredibly hard to call at the stage journey as to how we might you might kind of see that kind of evolving. Thanks, Jenny."
+  },
+  {
+    "person": "Jenny Cook",
+    "role": "questioner",
+    "position": "Exane",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our final question is another question from the line of Fahed Kunwar from Redburn. Please go ahead. Your line is now open."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Good morning, Fahed."
+  },
+  {
+    "person": "Fahed Kunwar",
+    "role": "questioner",
+    "position": "Redburn",
+    "text": "Hi. Sorry. Just one more question. Just on credit migration, I know you don’t want to give guidance, but just how to think about. It looks like a lot of the increase in risk weights over the course of this quarter were from RCF usage and you kind of flagged that the RCF usage has stabilized, and also that the mortgage risk rates have been postponed. So should we infer you’re expecting kind of reasonable significant credit migration in the corporate and regional book, but or should we say that the RCFs don’t actually get any worse from here than the risk weighted asset allocation could actually moderate it? Thank you."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yes. So we think of RCFs there are about a 57% risk weighting. So they’re not – I mean, there’s – in the round within our corporate group, we have seen that stabilized that’s really as a large part I think it was out of the CCFF scheme that’s come on with the with the government. So we’re not expecting that to particularly migrate. But I think in terms of how the kind of the Group migrates in general, I think we’ll obviously we’re watching it very closely, we’ll continue to continue to do so. But I wouldn’t see them as a particular flag within that migration."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "And I would add them that the RCF drawdown was very early on as the crisis happened, you’ve seen a lot of that come back in terms of deposits on our book. And as the capital markets have reopened, the credit markets have reopened a lot of the corporate are now accessing those markets, which were a period were very volatile. So I think we’re much more normalized."
+  },
+  {
+    "person": "Fahed Kunwar",
+    "role": "questioner",
+    "position": "Redburn",
+    "text": "Thank you very much."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, Alison. I would now hand the call back to you for closing comments."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thank you very much. Thank you everyone for joining and for your questions. Much appreciated. I think we have addressed most of your concerns. I would just end by reiterating what we’ve seen is a resilient performance coming into Q1 we’re clearly facing in today period of significant economic uncertainty and we are taking a measured and prudent approach in how we position the bank go forward mindful of supporting and preserving our financial liquidity strength and shareholder value as well as playing us parts and supporting the economy as we go through this difficult period. Thank you very much for your time."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Ladies and gentlemen that will conclude today’s call. Thank you for your participation. You may now disconnect."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

@@ -1,0 +1,788 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] We'll take our first question from Aman Rakkar of Barclays. If you could please unmute, and ask your question."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Good morning, Alison. Good morning, Katie. Hopefully, you can both hear me OK."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "We can. Yes."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Great. Thanks. I have a question on your revenue guide, first of all, and interest income, if I could."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Could you help us understand the guide around comfortably in excess of £1 billion per month? And you were telling us that the year '21. But I guess it lends itself to quite a wide range. If I was to take 2022 consensus and bank the net interest income, I mean, that number should be about 11.5 billion, I think so. Any kind of refinement of that guidance would be really helpful."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "The second was on net interest income. You're clearly benefiting from a really rich tailwind in '22 from rate hikes supporting deposit income this year. If I could ask you to cast your gaze perhaps forward into '23. Ultimately, my question is, do you think net interest income can continue growing in '23? And as part of that, could you help us understand your expectations for the structural hedge in '22 or '23? I think that could be a nice tailwind for '23, and that's going to be an important defense against mortgage margin compression."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Thank you very much."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Great. Thank you, Will. I'll get Katie to take you through those in a little bit more detail. But I guess in terms of comfortably above, we are feeling much more confident in terms of those numbers."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "But, Katie, do you want to walk through those questions?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yes, sure. Absolutely. I'll just sort of start by saying that the interest rate that we were looking at is one of the factors which we incorporate into our guidance. And so that I'm comfortable the total income is above that £11 billion."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "The degree to which it will be above is driven both by the magnitude and importantly the timing of U.K. base rate rises. Our guidance of comfortably above 11 includes our assumption of further Bank of England base rate rises this year, reaching 1.25% in Q4 ‘22. We do note the market expectations of further rises are currently above our estimates and our assumptions include two further rate rises this year."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "While this is below the current market assumptions, we are conscious of the increased uncertainties that face the economy and we remain comfortable at this level. So we do look to manage both sides of the balance sheet and we have seen continued deposit increases. There has been quite limited pass through in Q1, which has helped us kind of improve this guidance. However, I would say of the last deposit rate change that we saw -- we did saw in April was equivalent to 40% pass through there."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "There are some more attractive deposit accounts around for people as well. You can see with our interest rate disclosures on the slide is unchanged since the full year. This will be updated again in half one, but it gives you a good guide of -- as rates come through if they are above our estimate, what that might mean. But in terms of our estimates, it is around the 125."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "It won't surprise you, Amanda, to know that I'm not going to give you a precise, precise number. But the way that I would think about it is the faster pace of rates in Q1 and then the much lower pass through of those rates than expected. And compared to our expectations when we spoke in February, that's where you're getting your additional and revenue guidance as you move through. If you think of the structural hedge at this point, what we can say is it's definitely a positive as we move through."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "You can see that in the -- look, this last quarter, the yield moved up. So 72 from 71 for the whole piece, a small movement, but an important one, because what you can see is the benefit that is now kind of flowing through into those numbers. You can also -- and when you when you look at where we're kind of writing and what we're adding on in terms of that that structural hedge compared to where we were before, it's a much, much richer rate. If you look to kind of a year ago, it was kind of going on about 20 basis points is now going on over 200."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So I would say that is a positive as we move forward from here. We added on 8 billion in the quarter. We'll add another 5 billion over the next year if deposits stay as they are. And I would note that we haven't kind of seen that that growth in deposits, although it slowed, it hasn't disappeared."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So you can kind of take your own views on that. I would see something as we as we move forward, it should be helpful to us. I'm probably not going to get drawn on NII into 2023. I think you can take your -- our interest rate guidance and take it through from there."
+  },
+  {
+    "person": "Aman Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Sorry for the echo in my line."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Oh, sorry. We can hear, Aman, so it's fine. Apologies for you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you very much. And our next question comes from Andrew Coombs of Citi. Andrew, if you could please unmute and go ahead."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Good morning. Can you hear me?"
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Yes. Good morning. We can hear you. Hi, Andrew."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "Yes. Hi. Good morning. A couple questions for me."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citi",
+    "text": "First basically is a simple one which is given the AIB announcement today with another 6 billion of trackers moving across. Is that change any of your guidance on Ulster Bank in terms of withdrawal, costs, disposal losses, and so forth? And second question on capital, and you've seen the direct buyback already, you've still got a couple of billion of excess capital, in fact, 14% on ratio and you're still guiding to get to 40% by the year end. On Slide 30, you flag a couple of moving parts, regulation, and dividend in pension contribution. But perhaps you could just give us a bill for what this implies for buybacks, in your view, because aside from that, I don't think there's any other major capital charges to come through from here. So can we look at that 2 billion of excess capital you have today as on market buyback potential?"
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Great. Thanks. And you will let me let me take the Irish question. No change to guidance, obviously. Really pleased with the announcements today. And I think just continuing progress with our guidance on costs and disposals remain unchanged. But I think good momentum there and pleased we could announce that today. Katie, do you want to pick up the second question?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Buybacks? I know. Absolutely. So look, as you know there's kind of four ways that we can distribute capital. It's a combination of the ordinary special dividend."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So we said it's a minimum of a billion for '22 and '23 buybacks. We're halfway through the buyback that we announced in February. So we're pleased with the level of liquidity that we've seen in the stock, this enable us to kind of progress that quite quickly. And I would remind you that we reflected that in our year end numbers."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So we like buybacks. They work well, they make good economic sense for our balance sheet, and that's something that I think you could anticipate that we would continue to utilize. Clearly, decisions were made by the board at the right time in terms of that piece, we've obviously done the right to buyback with the government so that window’s closed, now, as you all know, for the rest of this year."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you very much. Next question comes from Rahul Sinha of J.P. Morgan. Rahul, if you could please unmute and go ahead."
+  },
+  {
+    "person": "Rahul Sinha",
+    "role": "questioner",
+    "position": "J.P. Morgan",
+    "text": "Hi. Good morning. Can you hear me, Kitty?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yes. Fine. We can hear you."
+  },
+  {
+    "person": "Rahul Sinha",
+    "role": "questioner",
+    "position": "J.P. Morgan",
+    "text": "I just wanted to I was hoping to get a little bit more color on your 40% pass through point. And I was wondering if you might be able to tell us, you know, what deposit beta assumptions you might have made within the retail as well as the commercial deposits separately. I'm just interested in your disclosure around the split of the margin evolution between the two divisions, and just was looking for some additional color on how you expect the pass through on the commercial side, perhaps to be different from the past from the retail side. And what does it look like against that 40% pass through? So that's the first question."
+  },
+  {
+    "person": "Rahul Sinha",
+    "role": "questioner",
+    "position": "J.P. Morgan",
+    "text": "The second one is just, Allison, on -- I think you mentioned that you would also look at other options to create value on top of capital return, presumably through acquisitions. And you've been quite clear, I guess, in past conference calls on this point, but I was just interested based on some of the sort of press commentary about -- is there been any evolution in terms of thinking around potential areas where there might be additional value that you could create? And I'm interested any color around what areas that might be, where you think you could actually add a lot of value by doing some bolt on M&A? Thank you."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Great. Thank you. On the M&A, no changed to my approach as my preference is distribution to shareholders. If there's anything of compelling shareholder value and strategic rationale, then we would look at that."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "I think if you look at what we've done so far, things like the metro mortgage book or we recently raised a money which was aligned with our strategy. So there's a pretty I guess there's a pretty high bar of things that we would look at. It's got to be compelling shareholder value, but our preference remains distributions, and we have, obviously, the very strong position where in that I'm able to invest in the business with the 3 billion investment program, continue to drive positive jaws with operating leverage and have a strong distribution story, and then look at other things that are compelling. So no evolution beyond what I've told you before."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Katie, do you want to pick up the pass through point."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And look -- absolutely, Rahul. It's one of those things, as you look at it, it's very kind of dependent upon, I think, what's happening in the market. But let me let me try to give you a bit of a kind of a fuller picture than that answer. So when we gave you the sensitivity, what we said at the time is it was built bottom up, incorporating different pass through assumptions for different products across all the franchises."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And those assumptions changed as we -- as they rake kind of increased and through those different levels. The actual pass through rate will be determined by levels of liquidity and also subject to prevailing market conditions, including, I think, the expectation of the pace and number of rate increases. If you look to the first quarter, we obviously got two rate rises. We put through a rate change in March which takes impact in April, which was equivalent to 40% of that of the last rate rise. Or you could look at it as kind of 20% of the first two."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "I think that that's an important distinction because as you think about it, actually, it does really depend what's kind of happening in the market and how much liquidity we've got within there. And then when you look across the book, you have to think, well, how much is fixed versus variable in terms of there. And if you go into the retail banking, the vast majority of our loans are retail bank or fixed, so they obviously have no impact on that."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And the CNI loans, and we do see a kind of reference rate which reprises immediately. So we get the benefit. But then you move into deposits, almost all of our retail and corporate deposit rates are managed rates. So they don't have any automatic price -- pricing changes due to the external rate changes."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Retail banking deposits 187 -- 189 billion, 40% current accounts, 60% savings accounts, an average cost of five basis points for the first quarter. You'll see that grow very slightly in the second because of the change. And then in terms of CNI average cost two basis points, and that will be very much managed as we move forward from here. If as a consumer, you're looking to get a better rate, we've got a very nice digital account which will pay you 3.25% M rates."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And then also in the business banking, there's also another opportunity to an enhanced account, everything pays about 40 basis points. So there is availability to you, but it is something that we look at as we kind of work through what's happening in the market and what's happening with our customers."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Our next question comes from Omar Keenan from Credit Suisse. If you could please unmute and go ahead."
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "I've got two questions. One on the just, I guess, the big picture question on the interest rate and asset quality outlook. And the second one on NatWest markets. So just firstly on the interest rates and asset quality outlook. I hear you that your assumptions in terms of the revenue guidance are Bank of England base rates is of 1.25% at the end of the year."
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "I guess if we look at current interest rate expectations it indicate that the Bank of England rates will probably be around something like 2.5% in one year and then settle at a neutral rate of about 2% in three years. And I realize this is quite a difficult question, but at what level of interest rate do you think that starts to put at risk the through the cycle guidance because I get a sense that's where a lot of people are, perhaps, struggling to think about at what level -- how your higher interest rates become a negative rather than the positive -- might be?"
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "And my second question on NatWest markets, so thank you for the continue disclosure of NatWest market. I can see now revenues are higher year-over-year, and it looks like some of the positive impacts in capital management units – funding costs are starting to come through but revenues and fixed income are still negative. Could you give us an update on how NatWest markets restructuring is going? And given that, you printed 150 million of revenues, is that something we can continue going forward -- expect to continue going forward on a quarterly basis?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Okay, great. Well, thanks for the question. So on NatWest market I think what I talked about is we would expect to see a sort of stabilization of the performance of that business on the restructuring of NatWest markets that's largely complete, we've made all the decisions around products and capital and the businesses very much on the front foot now in terms of growing."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "I think coming into Q1 NatWest markets has had a strong quarter, total income of 219, I think the disclosure, and as we said, we would keep showing you the performance there shows that both capital markets and currencies, had good performance increasing by 64% and 34%, respectively. In terms of the rates business I would categorize it as the start of the year pre that extreme volatility we saw created by the geopolitical events."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So it started well and had a more difficult environment as a result of the volatility from Ukraine, and a small loss. But overall, I'm very happy with the performance of NatWest markets. And I think if you look at it from the three business lines, it's up 15% versus Q1 ‘21. So I think we're very comfortable that the business managed well during the volatility and I'm really pleased with the refocusing. So I think we would expect that business, obviously, it has different movements through the year, but I think that stabilization I talked to, restructuring largely complete, it's performing well."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "On your interest rate and asset quality point, I think in terms of interest rate rises and at what point does it become a negative very, very significantly higher than any of the forecast on interest rates, and what we can see when we look through both leverage that's sitting with our customers and the level of liquidity, we have no concerns from a credit perspective caused by interest rates at these levels or forecast levels."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "I think as I look at it, our book is largely secured, good quality. You can see our RWA intensity continues to reduce and we act actively manage the capital, but we are not seeing the interest rate rises as anything that would cause us a concern on credit events across our work. And so we're very comfortable with our through the cycle guidance that we gave you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question comes from Guy Stebbings of Exane B&P Paribas."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Exane B&amp;P Paribas",
+    "text": "Hi, good morning. The first one is back on the above 11 billion guidance. And if I take your rate assumptions and the rate sensitivity and where we start from today, I'm deriving an I figure approaching 9 billion this year. Net fees and commissions were up 10% year-over-year in Q1. And guessing that, might moderate call it, 5% or so, that's another 2.2 to get to yhat 11 billion just from that. And then trading other income was 200 billion in Q1, one would hope that grows over the year."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Exane B&amp;P Paribas",
+    "text": "So it looks like you could end up near a 12 billion and 11 billion, even on some pretty conservative assumptions. Am I missing something or is this just conservative, which is understandable given the very uncertain environment. Then I have a follow up just specifically on sort of managed margin."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Exane B&amp;P Paribas",
+    "text": "If I talk assets spread compression to one side and focus on the tailwinds that you outlined in Slide 11, I mean the benefits from managed margin look to be roughly doubling scale what was captured in the rate sensitivity explosion, just wondering how much we should be tempering that sort of benefit on future heights as you pass on most depositors? I think you mentioned the change in the income guidance reflected lower pass through today and quicker hikes. But I'm guessing your assumption around deposit with some future heights hasn't changed, perhaps. Thanks."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thanks. We'll look on your first point, I think, Katie's answer that comes comfortably above and the assumptions that we've made on interest rates and the mix there. So I think we're feeling very comfortable on that number, which is why we've strengthened it a little bit."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Katie, do you want to --"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "I think the next piece so the way that I would think about the comfortably above is we're obviously at 125 basis points. So our kind of pass through assumptions up until that point are already kind of built into there. So then the way I would think about it, guys to say, well, actually, if I have a view that the forward curve is the one that we're going to land in, it's more of those kind of two and a half pieces, then I think we've given you the guidance in the managed margin piece."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "That -- when we give that to you in February, we talked a lot about that, that was already assuming that we were above the kind of 100 basis points. So you'd kind of got up to and kind of normalized level of pass through. So I think that's where you can use to kind of take a view as to how much further that could be a couple of -- if our guidance is exceeded. As market consensus would suggest, it may be. But let's see how the year the year progresses on that."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "Exane B&amp;P Paribas",
+    "text": "Can I maybe just come back briefly on other operating income, because it was down Q-on-Q and -- but I think that seasonality which is may be something we kind of overlooked during COVID, just given some of the distortions and it was up 10% year-over-year. I mean, is 10% maybe going to be tempered because the base gets a bit tougher as the year progresses. But ultimately, you are seeing good underlying momentum in other operating income now, if we adjust the seasonality, is that fair?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yes, I think what we're seeing is good kind of recovery in the underlying kind of businesses and there is there is always a little bit of seasonality in that Q1. So there's nothing to read into that. So I'll leave you to make your own view on the 10%. So I'm not going to be commenting on that specifically, but if I just look even at the slides on 15, you can see that the Q1 is often that little bit lower."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Jonathan Pierce of Numis."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "I've got two questions. The first one is on this pass-through comment, again. Apologies to come back to this. Just slightly surprised that, you're talking about a 40% pass-through on the latest rate hike, if I've understood you correctly. I mean, we can see you've pushed ICE rates up by that 10 bps in some of the business, reserve account by about 10 bps, but most of the other bigger portfolios look to be unchanged. Can I just make sure I understand what this pass-through rate is being applied to? You've got 465 billion in deposits in the Go-Forward Bank? You're hedging about 193 of those now. So maybe there's 250 billion unhedged. Is that what you're referencing when you talk about a 40% pass-through, so you'd pass-through 40% of the latest 25 basis point hike to 250 billion of balances. Is that how I should think about it?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Can I just add to that quite quickly, Allison in terms of that. So I think the one you've missed is the main retail instance save or change, and it's up 10 basis points in terms of that. So obviously no change on current accounts. And then you saw across our various savings accounts, different changes. The main one you've not picked up on is the retail saver change and that went up."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "I may have missed that. It’s on the website, I think it was still talking about one, but that's one up to 10 basis."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So that's, so and the reason it -- not sure about the websites, my apologies on that. It only takes effect in April in term -- in the early part of April. So it should be updated. So we'll have someone follow that point up. But that's the one that you've missed."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "That makes sense. Can I follow-up with the question on the structural hedge again?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yes."
+  },
+  {
+    "person": "Jonathan Pierce",
+    "role": "questioner",
+    "position": "Numis",
+    "text": "Exactly. I'm slightly confused as to why the hedge isn't turning the corner more quickly, you added a basis point on in Q1 versus Q4 in terms of the total yield. But the product hedge in the second half of last year was only 57 basis points. So you've obviously added 8 billion net to the hedge in Q1 and the swap curve, most durations is 1.5% to 2% through the quarter. You've got the old hedges rolling off, again, on to 2% during the quarter. Except the equity hedge is still a drag, but is there some oddity at the moment in the hedge that's holding the yield back or are we actually going to see this hedge income stocks move up much more appreciably over the rest of the year?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So if I look at it, there's nothing underlying that's kind of holding it back. What I would say is on the capital hedge, it's probably still a little bit of a headwind, but we can see that continuing to improve as we go through. But we would expect to see the hedging come from up, you can, I mean I know you're incredibly familiar with it, Jonathan. As you look at that, they'll schedule over the one, two and three years. You can see the first year comes through quite gently, and then it kind of grows as you go into year two and year three, as you come up. And it can also be a little bit lumpy, depending on when you put it on over the last number of years as well. But there's nothing untoward in there. You will see it -- you'll see it start to move up."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Ed Firth of KBW."
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "I wonder if I could just bring you back to credit. Because I guess this is the thing we're all struggling with. I mean, if I look at Sterling, it's a 125. If I look at your share prices, they're all pricing in I assume some sort of reasonably material downturn. And I hear your comments at the beginning about cost of living and you're worried, you accept people are stressed. But then on the question by interest rates, you seem to imply there's no stress at all, 2%, 2.5%, 3%, doesn't seem to matter."
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "So I'm just trying to, I'm really struggling, I'll be honest, trying to square what -- not just you, it's really the whole sector where all the sector management is telling me I've got no worries at all, and yet what I'm seeing in the market. And I just wondered, what is the scenario, which does make you nervous? At what point do you start thinking, that we could have a credit downturn here, and we do have to start to be more cautious in lending, raising provisions, et cetera. When I saw your non-performing loans are up a little bit, even if you exclude the regulatory adjustment, I don't know if that's coming from some piece in particular. But I don't, if you can try to help us try and -- try and square these two extremes that we seem to be battling with at the moment."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Let me try and help so. So what you've got, if we look specifically at our book, it's -- we're primarily a prime book, our book is largely secured. So I think shape of book is important, but in terms of the trends in the market and the issues we're seeing in all of the leading indicators that we would look at whether that is, calls into our financial health and support lines, requests for deferments and any sort of movement into what we would call heightened monitoring or increased drawdowns on things like credit cards or overdress. We are not seeing any of those leading indicators coming through."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Now, there is an element of the fact that there is -- across the UK economy, £186 billion of extra cash that is sitting in peoples savings and deposit accounts that they have built up during the pandemic and £26 billion, less consumer debt. So you've got across corporate balance sheets, lots of liquidity sitting there as well. So there is no signs of that distress coming through."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "What we are being very mindful of though is, all of those concerns around cost of living and inflation and supply chain. So we are really being very proactive, but we are not seeing any signs of it. And then if you look at the shape of our book, where we actively manage it."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "The big sort of driver in terms of what the dynamic would be is unemployment, that is -- that that really is the issue if you – and employment remains very high at the moment. So, I think once you start seeing unemployment biting that would really be more of an event that would bite into affordability, and start migrating into credit migration from that perspective."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So when we think about ECL, the key driver of that is unemployment. When you step back and look at interest rates at 1.25 or 3, wherever the consensus is getting, that is not going to be a driver of credit impairment, and the shape of our book looks pretty good. But it's unemployment that really will feed into ECL. So hopefully that helps."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "But what you have got is some very different dynamics happening. We are being very proactive in how we are supporting customers, the proactive support going into them through our relationship managers, through our teams and making sure we can address that. But leading indicators, no signs of distress. The area you would focus on would be unemployment. So, hopefully that's helpful."
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Yeah. No, that's very helpful. But, so in your internal modeling, et cetera, then do you have a sense at what level interest rates would have to be for unemployment to start going on, because I guess there will be a correlation at some point?"
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Well, I think when we sensitized the book unit, interest rates really are a driver of affordability, so that's going to affect affordability. Unemployment is another driver of affordability. If unemployment goes up and people aren't getting wages in and salaries in, then clearly that's a dynamic. But when you look at the cash buffer that has been built up on -- and generally the overall level of liquidity that's sitting across corporate balance sheets and across businesses, it's very high."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "If you look for example, around the amount -- and if I think about in our small business, Banking side, our small business customers, 50% of customers are on fixed rates. Things like the bounce back loan, those are all on fixed rates. A high degree of our mortgages are on fixed. So, that interest rate sort of rising will go into affordability. But unemployment is going to be a much more dramatic side of things. So, we are not concerned about interest rate biting into affordability at this point."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And I think, Alison, the only one thing I would add is just to repeat our guidance. What we have said to you is, we expect our impairment charge to be below our 20% to 30% through the guidance in 2022 and 2023. So, while we recognize the cost of living crisis, what we think in terms of the level provisions we have and where we are, it's not something we are expecting to manifest, particularly in our own impairment rates."
+  },
+  {
+    "person": "Ed Firth",
+    "role": "questioner",
+    "position": "KBW",
+    "text": "Great. Thanks very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. And next question comes from Rob Noble of Deutsche Bank. Please unmute and go ahead."
+  },
+  {
+    "person": "Rob Noble",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Good morning all, thanks for taking my questions. On inflation, so is the underlying cost -- I appreciate it, it's lumpy and this quarter looks particularly good. Is the underlying cost base performing in line with your expectations or is higher inflation a pressure on your cost target for this year?"
+  },
+  {
+    "person": "Rob Noble",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "And then, I appreciate you are saying that interest rates aren't a concern for credit. You did take a post-model adjustment for presumably cost of living in inflation. So what parts of the books are you worried about? What -- where does inflation negatively impact your book?"
+  },
+  {
+    "person": "Rob Noble",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "And then just leading on from that? And one of the points you just made is that people have a lot of excess savings, but one of the more cautious arguments in the UK is the excess savings are held by wealthier people and corporates that are in liquid positions. So what proportion -- do you know, can you see data where the -- what proportion of your customers actually holds the excess deposits?"
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So let me start on the costs question. Yes, costs are performing as we expect them to. Te've taken out 78 million or the 4.6%. And so we are very comfortable. We're on track for the 3%. We obviously considered inflation when we set our cost target and we remain comfortable with the 3%. I've always said this, the costs will not be linear. The takeout will not be linear. I know last year I said that as well, and everyone still times the first quarter by four. So, our guidance is 3%, but the cost performance is performing as we expect it to. And we're comfortable with the 3% sort of target we've given you for this year."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Katie, do you want to pick up the next question?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Yeah, absolutely. So Rob, I do recognize the juxtaposition of below 20% to 30% basis points guidance. Yes Katie, you've held back 69 million on your -- into your PMAs because of cost of living in supply chain. And what I would say, I think that's kind of a step of caution is we see how this rolls through. And it's not a particularly significant number, but we just felt that given where we are, given what we're looking at, like, let's just be a little bit cautious on that."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "We'll do a few update on economics and everything in Q2, and we will move to much more of our normal consensus kind of base. So we'll see where that is."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "But at the moment, it's not something we are kind of concerned about. Inflation is clearly in the numbers, but it's in our assumptions, but it's one of many different things we look at. And as we've kind of done those numbers, we will have tested against kind of where economics are sitting at the moment, so comfortable in that. But it was our kind of judgment decision to kind of hold a little bit back. It's not a kind of significant number."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "In terms of the, kind of the excess savings point, they are held by the wealthy, but they're also held across our retail franchise and also by small businesses in terms of that piece, which is there, that's where you've seen that kind of -- our slight kind of increase. I think when we -- when you think of what happens in an inflation environment, it's a discretionary spend that starts to get impacted. And when you look at the discretionary spend over the last number of years, we focused a lot on the kind of the retail real estate exposures, our leisure exposures to make sure that they're well managed. So if there's impact on those, then we can kind of watch the follow through on that to make sure that we're not kind of at risk in that space."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So we're obviously not immune, people will struggle. But those -- when we look at our books and we look at the people that we lend to, it's not the people that are going to be having the greatest impact, unfortunately of the cost of living impacts on them. So we need to keep a mindful of it. We need to keep there -- we need to keep coming back to this point, inflation -- sorry, unemployment is the thing you need to look at most closely. And at the moment you can see the UK unemployment stats are excellent."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Our next question comes from Chris Cant of Autonomous."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "Good morning. Thanks for taking my questions. If I could come back to NII please. So if I think about your NII run rate, it's about 8.2 billion for the quarter, and the average change in rates that we saw that generated something like a 730 million benefit based on the deposit margin improvements you show us in the slides. So if I trim that down for the most recent 25 bps and assume the 40% pass-through that you've indicated, even allowing for a bit of incremental mortgage pressure. And I think it was 4 bps on average for the quarter, so maybe another two to get to the end of the quarter. It feels like your NII exit run rate at March coming into April would've been about 8.5 billion, and that's before we have any further rate hikes, am I missing something there?"
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "Because I'm trying to think about this in the context of your comfortably above 11 as with some of the other questions, it feels like it could quite easily be close to 12 if market rate expectations prove to be correct. And I appreciate what you said on the 1.25, but just in terms of where you actually were as of March, is that about the right level at sort of an 8.5 billion annualized run rate for NII in the Go-Forward bank? And I had a question on NatWest markets as well, I can ask that now as well if that's okay."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Let me do this one then we'll come back to the markets one sort of thing. So look, as we look at it Chris, comfortably above, consensus is sitting at 8.2, we're clear to kind of push on a little bit from where we were. We had slightly faster rates coming through. We did a pass-through on the -- in terms of the interest rate rise into our deposits. You're very familiar with what's deposit and what's current accounts, so actually how much that kind of -- that kind of costs us. We've got two more rate rises in the pipe. We think we'll only get to the last one by Q4. If you look at consensus, that's on bit different."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So I think about your timing of where you are, but I guess we think of those words comfortably above 11, quite carefully. So, I'm going to probably leave you to just kind of work out what all of those means and not give you a kind of precise number, but it is good to see, I think the positive way that we're viewing the year and the continuing income both that we're generating across the piece as we move forward. Do you want do your NatWest markets question."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "Yes. So on markets -- rates you indicated that the sort of volatility, I guess, caught you off side or something to that degree. Are you expecting the rates business to be a non-negative revenue number for the coming quarters, absent any further unexpected volatility. I'm not asking you to forecast a massive positive revenue number, but is the rates business expected to stop being loss making at any point? Because it's had a string of really horrible quarters and obviously you're indicating that the restructuring is now done. So I presume you weren't going to be keeping that business, if you weren't expecting it to actually deliver some positive revenues at some point. Thank you."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Thanks. So I think that the volatility was managed really well by the NatWest markets team. My reference to the volatility was as a result of the invasion of Ukraine, you saw very extreme volatility in the market and our team managed that volatility very well. I'm very pleased with the performance of the rates business as I said to you in Q3 and Q4. It was a disappointing performance in a combination of market and us doing the restructuring. The restructuring is complete. That business has stabilized."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "You can see the contribution from NatWest markets into this quarter. And the rates business has continued to trend and perform positively. So it is not loss making and I don't expect it to be loss making. So I think that stabilization I expect is there. I didn't actually forecast the volatility in the market caused by the invasion, but the team handled it very well and we have a much less volatile business as a result of the restructuring we've completed. So I'm very comfortable with how that business is performing."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "And I think, Alison, if you look at the -- what -- our accounts in capital markets increased over 200 million of their income in the quarter. I think we're pretty pleased with how they've dealt with volatility, it's helped them across the place."
+  },
+  {
+    "person": "Chris Cant",
+    "role": "questioner",
+    "position": "Autonomous",
+    "text": "If I could just ask one follow-up on the first question. If I put it slightly differently, what was your exit NIM for 1Q, please? The 246 is obviously a period average, what was your exit now?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So guys, I gave you a lot of detail, I give you all sorts of numbers on exits and things, I think, let's just work, let's just work with what we've given you, I'm not going to give you the kind of the exit NIM from that. So the way that I would kind of think about -- when we’re looking at NIM for the whole year, we're definitely -- we're expecting it to continue to increase, and if I look at the kind of the rate rises, we've talked about how they've got two more kind of baked in. So given where the rate rises landed in Q1 and the timing of those, I'd still expect to see some further improvement of them as they come through. And we get a full kind of quarter impact of that."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "We've got very strong and growing deposit base, which I think is really helpful. I've shared with you how much more we're going to put on the structural hedge. So you can then work out how much more is going to get the benefit in terms of those ongoing and rate rises directly. But I'm probably not going to get caught on exit NIM because Chris, I feel that will cause me trouble in the quarters -- quarters to come. But we're very comfortable with performance."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Martin Leitgeb of Goldman Sachs."
+  },
+  {
+    "person": "Martin Leitgeb",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Thank you for taking my question and congratulations to the good set of numbers. First of all, I wanted to ask on mortgage pricing, and in the release, you stated application margins have fallen around 44 basis points in the quarter down from around 67 in the prior period. And I was just wondering if you could comment a little bit on the outlook for mortgage pricing here. Are you comfortable writing business at this level? Would you expect some of this pricing normalizes and bounces back as banks increasingly [pass on] swap rates? Or could there be a scenario that banks just are more on the liability side, liability margins, and that we could be heading into this kind of new normal here in terms of mortgage pricing? Thank you."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Thanks for asking. I was willing to worry we weren't going to get to mortgages at all on the call. So thanks for bringing up."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Let me talk about the mortgages specifically and we can do any follow-up if you need more a bit. So as we highlighted in our group, and then we increased by 15 basis points, and our retail bank NIM increased by 16 basis points in Q1. We expect to continue to see that NIM expansion based on the interest rate assumptions and market consensus as well, based on the rate sensitivities we've talked about a lot on the call. But I guess all of that said, our mortgage application margins at 44 basis points for the quarter are not where we want them to be and are below what we consider a sustainable levels despite the overall profitability improvements that you see in retail, and the group."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So I think you shouldn't expect to see our application margins remain at these low levels. We've don't have a lot of appetite to write business at this level for sustained periods of time. The market conditions in Q1 were exceptional, with swaps increasing very steeply in the latter part of January, and then through the rest of the quarter. In response to that, we increased our mortgage pricing 12 times in the quarter, increasing customer rates by over 50 basis points in Q1 and by over 100 basis points since mid of Q4. However, that still was not enough to keep pace in terms of the movements we were seeing in the swap curve. So as I've said, we don't see these levels of sustainable for long periods of time. And you should expect to see us continue to kind of price up."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "If I look at the Q2 application margins, I'm comfortable that they are going to continue to improve as we move forward. And we've stated doing more holistically, there are clearly large positives to the rate environment, which more than offset this pressure overall, not least the roll over the structural hedge, which we've talked about, the benefits, the swap increases there, another that puts pressure on the mortgage application. That combined with the base rate rises, its something that’s very positive for us. And the business overall, are under 23% ROE, even on the basis of their uplifted M capital."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "So clearly a very strong in there, but we would expect to continue to kind of price up to work to a more kind of normalized level. And I think we're kind of aiming for Q2 margins in the 60s, for the group in terms of those applications. So you should start to see them come through."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question comes from Robin Down of HSBC."
+  },
+  {
+    "person": "Robin Down",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "I got one question, one request. Maybe if I start with the request first, which is obviously with the cost of living crisis. I think, one of the key elements is that it feels like it's the low income households who are going to be most impacted. And I just request that maybe in future, you give us a bit of a demographic breakdown, maybe of your mortgage book in terms of kind of income levels. Any kind of FICO scores you've got for the credit card book, might just make it easier for us to see kind of where your customer bases is positioned relative to those low income households."
+  },
+  {
+    "person": "Robin Down",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Coming on to the question. Can we come back to the 40% deposit beta? I just wondered what the rationale was for raising rates. And I appreciate this, there'll be a number of factors that go into that. But is that to do with you seeing kind of deposit flow slowing during the quarter? Or do you feel there's some kind of political pressure to kind of raise rates? I'm just curious as to what the sort of fundamental drivers were to decide to raise rates? Because otherwise, we haven't really seen that, I think, elsewhere from your peers."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Well, just on our customer base, one of the things I would say is, we're a large lender, so our demographics largely reflect the UK, but if you look at the diversification of risk on our book, it is well diversified and like a predominantly a secured book. We're relatively low and unsecured and we're a prime book, and you can see the shape of that. And also, what we can see as it's been very, very resilient in terms of its performance."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So we're very comfortable with where we sit. We're also very active with our customer base in terms of helping them manage the challenges, but I would look at the risk diversification."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "On your point around the deposits and passing on interest rates. Actually, I would say, we're not out of line with the market. We've seen that being passed on as well across the market."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "But, Katie, do you want to pick that up?"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "Katie Murray"
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "In terms of the deposit, I think it's important. There has been 75 basis points of -- 65 basis points of hike here. Our deposit franchise is incredibly valuable to us, and in reality, we've passed through 10 of that 65 basis points of hike that's come through. We don't think it's -- we think it's the right thing to do. It's an important franchise. And if you look at our cost of funding overall, it's still incredibly low. So I think probably no more comments than math on it. Thanks."
+  },
+  {
+    "person": "Robin Down",
+    "role": "questioner",
+    "position": "HSBC",
+    "text": "Can I just come back on the mortgage point? I think, what the demographic data shows is that, the low income households don't have a great deal of mortgage borrowing. But it would be nice to be able to see that if you like, within your kind of data disclosures. So if we could see kind of medium income levels, for instance, for your mortgage customer base, that would be kind of helpful just going forwards. But, maybe it's something I can take offline with the IR guys."
+  },
+  {
+    "person": "Katie Murray",
+    "role": "answerer",
+    "position": "Chief Financial Officer",
+    "text": "No. I mean, Robin, very happy to have a chat with you on one-to-one. I mean always happy to look at requests. I think we do and you recognize this as in good disclosures of a lot of information. But I know you have been doing a lot of work on this, so very happy to have a conversation offline on it."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you very much. And I would now like to hand back to Alison for any closing comments. Alison, over to you."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "Great. Thank you. Thanks very much. Look, it's just a few closing comments. We are really pleased with a very strong performance in this quarter. I think what you have seen is strong, continuing delivery against our plans. We have growth in income. We are delivering on our cost reduction as planned. We have a strong capital base with a clear plan to distribute capital and a strong rating performance. We are very comfortable with the risk diversification of our book. We are very mindful of the challenges that our customers are going through, but we are seeing no signs of default or distress in our book and our book remains incredibly well-diversified and well-managed."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "We have strengthened our guidance on income a little bit to give you a bit of comfort on outlook. But as Katie and I sit here, we see a strong set of results building on two years of progress. Income and profits are up significantly on a year ago. Costs -- strong capital, continued growth across a well-diversified loan book. In terms of the strategic capital restructurings that we have done in our West market, strong performance in the quarter as the restructuring has completed at the end of the year. And obviously we have announced continued momentum on our Irish business with now almost 90% of the assets allocated and agreed for sales."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "So I think, we are working hard with our customers to make sure that they have the right support through the economic"
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "[Call Ends Abruptly]."
+  },
+  {
+    "person": "Alison Rose",
+    "role": "answerer",
+    "position": "Chief Executive Officer",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

@@ -1,0 +1,572 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] The first question is from Tarik El Mejjad with Bank of America. Please go ahead."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "This is Tarik from Bank of America. Just a couple of quick questions actually. The first one, maybe it's not fair to ask you that soon, but there were some headlines or some news in the Repubblica about potentially new solidarity levy for Italian banks and actually insurance as well this time. Do you have any comments on that? Is there certainly anything that's been discussed before? It looks like this time it will be more kind of consultation with banks before coming with proposals on how that will be calculated, any views?"
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "And second question, you commented on Crédit Agricole being willing to be active on consolidation in Europe. Were you referring mostly to the kind of deals you've done so far in wealth management and other smaller bolt-on, or you're thinking something bigger?"
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "And maybe I'll add a quick one on Degroof Petercam. And if you can give us some update on potential impacts on post full integration, if you have any update from the ones that you gave us pre-consolidation? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thanks, Tarik. New bank levies in Italy, I don't have any view on this point. You know that banks are an easy target for governments that want to impose taxes and to raise public money. The main point for us is that competition has to be maintained. So if there is something new in Italy, which is not something I can confirm, it would apply to all banks, and so it would simply mean a change in the conditions under which we operate in this country, which is going to hit all banks. So it's not necessarily a good news but it's not something which is a game changer. So definitely, we remain very cool about that."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Consolidation, we continue to stick to the same motto, first point, we do not believe that consolidation in large commercial or retail banks in Europe can take place cross-border, simply because there's too many headwinds. And we continue to think that there might be some room for further consolidation in specialized business lines. We've been able to seize opportunities in the past. I think we've been able to seize them with maintaining a very good financial discipline on those operations and we'll continue to do so going forward."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Lastly, on Degroof, maybe two or three elements. The first element is that it's very new for us because we've started only beginning of June to take control of the Degroof Petercam. So it's rather new. Second point, we continue to target an additional contribution to our net profit that would be between €150 million and €2 million by 2028, which I've said already in the first quarter call. This quarter, we've booked two elements of costs related to this acquisition."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "The first one is integration costs that started by a modest €5 million because, again, Degroof is with us only since the beginning of June, and we've booked also, but it's not on the cost line. We've booked some acquisition costs, €12 million. So it's hitting the net profit, but it's not on the cost line."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then maybe one last comment, which is that we've taken all the solvency impact of this acquisition this quarter. By end of June, we have only 68%, if I remember correctly, 68% of the capital or 65% of the capital of Degroof, but we are going to have 80% by end or close to 80% by end July. So definitely, this is going to represent an increase in our stake. But we've taken the full solvency impact of that, even we've taken also the solvency impact of the potential acquisition of the last 20% plus on which the minority shareholder has a lockup and then they have the capacity to remain in the long run. But definitely, we've taken the full impact of that. So no additional impact in terms of solvency is going to come from Degroof."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Giulia Aurora Miotto with Morgan Stanley. Please go ahead."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "My first question will be on capital. Can you please remind us of the impact coming, especially from the regulatory front and now that FRTB has been postponed? So that's a simple numbers question."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then secondly, French retail. You seemed encouraged by the development in site deposits. But can you give us some outlook on how you expect that revenue line to develop for the rest of the year?"
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And I have a very quick one on Slide 21, where you comment large customers. Basically, this slide has a good level of activity supported by structured equities. And my question is just what do you mean by structured equities because I know this was a strong quarter for equity derivatives. That’s what we heard from every bank that has reported before you. But I didn't think that was a big area for Crédit Agricole at all. So yes, I'm surprised by this comment. Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Okay. I can start directly with the last question. We have a small activity regarding equities, be it equity capital markets, be it equity derivative and be it also different categories of structured financing of equity acquisition. So the comment is related to all these equities businesses."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "It's a slight business for us. If you are looking at this slide on Page 21, it's included on the light blue element on the top of the bar chart. So it's all-in-all, and it's combined with also investment banking revenue. So definitely, it's not a very significant amount, but we wanted simply to mention the fact that, as was the case for much bigger players in the field of equity derivatives, we've had a good quarter in this business."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On the capital front, what we can tell you is that, ahead of us, first point, we have the last 5 points of the phasing out of IFRS 9. So this is going to take place in '25, and then we will be done with IFRS 9."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Then we have Basel IV. Again, I confirm that globally, Basel IV is going to be more or less neutral for Crédit Agricole S.A. But unfortunately, it's going to be neutral in several steps. So we'll have a negative step in Q4, which is the strengthening of the requirements for leasing activities. So this is going to represent around 13 bps, 13 of solvency for CASA in Q4 this year. Then we will have the bulk of Basel IV that is going to take place beginning of '25, which is going to be globally positive and positive by more than 13 bps, probably 15 bps or 16 bps. Many, many elements, operational risk, strengthening of the requirements on some categories of credit risk. But in the other direction, the easing of the constraint on the carrying value of the insurance activities. So this is going to, all-in-all be positive, probably by 15 bps, 16 bps."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then FRTB, which seems from today is going to bite only in 2026. And as of today, what we think is that it's going to represent a negative impact of a few bps. I don't know exactly how many bps, but probably 5 bps or 6 bps, 7 bps but quite uncertain at this point. So all-in-all, more or less neutral, but unfortunately in several steps."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then maybe the last point I can mention without stating any precise figure is the fact that we have announced the transaction between Amundi U.S. and Victory Capital. What we expect is that at CASA level, this transaction is going to free a little bit of capital, but it's not possible at this stage to quantify precisely how many bps of additional solvency it's going to generate. And probably, the closing of this transaction is going to take place in Q4, so precisely at the time when we'll have to take the leasing impact of Basel IV. So it's going to reduce probably a little bit the headwind for Q4."
+  },
+  {
+    "person": "Giulia Miotto",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "The French retail outlook?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Actually, French retail, absolutely, I was forgetting this question. I should not because I know that this is permanently a question in our call even though French retail is, in the scope of Crédit Agricole S.A., not a massive component of the revenue generation."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Now, what we've seen in this quarter is that we've had a good level of NII boosted actually by some one-offs. So it's difficult to tell exactly what would have been the NII evolution without the one-offs, but probably in the low single-digit evolution, which is definitely positive, but not as much as the plus 11%, 10.9% that we are posting formally this quarter."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "What we see, as I've said in my introduction is that there is a stabilization of the breakdown of the customer assets, which is positive, and of course, even a slight rebound of site deposits, which is definitely going to be positive if this is confirmed for the overall weighted cost of customer liabilities."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "The second point which may help going forward is the progressive reduction of the cost of the regulated savings account. So starting from August 1st as of today, there is a reduction from 5% to 4% on a specific category, which is called livret d'epargne populaire at LCL, it's not significant, it's €2 billion or €3 billion of deposits. But at the level of the Regional Banks of Crédit Agricole is much more significant, around €25 billion, if I remember correctly."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then possibly beginning of next year, we'll see the reduction of the livret rate because normally, if we believe in the forward, we should see an average between short-term rates and inflation rates around 2.5% next year. So this would apply definitely on a more significant customer deposit basis. So that would be also positive for the average cost of the customer liabilities."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Then when it comes to the yield of the loan book, it is still difficult to tell exactly the pace at which it will continue to improve because it fully depends on the production of new home loans. And it's clear that even though the production of new home loans was a little bit up in Q2 as compared to Q1. It's difficult to tell if in the present environment of political uncertainties in France, it will continue to catch up in Q3 and in Q4. So definitely continue to have a lot of uncertainties, but the real good news is the stabilization of the breakdown of the customer deposits."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Delphine Lee with JPMorgan. Please go ahead."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Just have really two quick ones. First of all is on Insurance. I just get a bit of color on the strength of this quarter, if there is anything that you can highlight in terms of pricing or product mix or anything on P&C, or life insurance that you can just help us sort of understand better?"
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And my second question is on capital. You previously talked about sort of optimizing a bit RWAs, if I remember this correctly. I mean, do you still have the €4 billion of TRIM impact, I think, coming maybe in '25? Just wondering what we should expect because organic growth was relatively strong this quarter."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And also just a very quick one on the capital increase for employees that you're doing in Q3. Do you intend like last year to offset this dilution with the buyback? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I'll start directly with the last question because the answer is clearly yes. So no surprise on this front. There is going to be a capital increase that is going to be probably acknowledged by end of Q3 but offset in Q4 by a dedicated share buyback operation."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "In Insurance activities, what we see is clearly a very good commercial momentum, which is with all the complexity of IFRS 17, which is more or less translated into the evolution of the revenues and into the evolution of the net profit. But definitely, the starting point is that we've had a very good quarter commercially in terms of life activities, a significant level of gross inflows in terms of P&C and protection, a good level of premium income."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And in terms of P&C, a rather, I would say, normal level of [indiscernible] which is also helping in terms of revenue generation. So all-in-all, again, with all the complexity coming from IFRS 17, a good level of activity this quarter, markets that were okay from an insurance point of view. And so this is leading to a good translation in terms of revenues and profits."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "RWA optimization. We continue to work on the capacity of optimizing our RWAs. Maybe 2 or 3 additional precisions regarding your question. The €5 billion of TRIM impact that we've been talking about since now many quarters is part of the Day 1 Basel IV impact, I was referring to for the beginning of '25. So no additional cost to integrate. It's taken into account in the plus 15 bps or 16 bps of solvency created by the implementation of Basel IV beginning of '25."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "When it comes to RWA consumption by the business lines, it's been a dynamic quarter at CACIB with a specific element, a technical element that is partially probably reversible, which is the fact that we have had a slight modification of the rules to update the internal rating of our different counterparts. The position of the ECB up to now that we had 1 month after the 12-month period that is compulsory to adjust and now this additional 1 month is off the table. So this is leading to a few or several million euros of additional RWAs this quarter that we are going to try to get rid of in the coming quarters."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "But definitely a good level of activity at CACIB is indeed translating into a higher level of RWA, which is normal. And again, you perfectly have in mind that if we think that it's going too fast from an RWA point of view, we are able to use securitization or different techniques in order to outstream RWAs even if it's at the cost."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Guillaume Tiberghien with BNP Paribas."
+  },
+  {
+    "person": "Guillaume Tiberghien",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "Two very small question in French retail. Number one is on the current account deposits. You say that you see possibly tentative signs of improvement. Could it be due to the last 3 weeks of June where people were a bit paralyzed because of the elections and they decided to put money, even if it doesn't remunerate much, on very liquid deposits?"
+  },
+  {
+    "person": "Guillaume Tiberghien",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "The second question is on trying to quantify because you don't give it, the one-off in NII in French retail. And I noticed that the tax rate is only 22% in French retail instead of normally 25%. So can I work it backwards and basically say that this is roughly €35 million untaxed private equity gain in there? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Guillaume, I always appreciate how cleverly you can work out figures. So definitely, it's a good path to acknowledge this level of private equity. So what I was mentioning is that probably restated from all the one-offs, the positive evolution of the NII in French retail should have been in the lower-single digit levels. So definitely positive, but definitely far less than the plus 11% that we are posting."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "In terms of site deposits, the reason you're making is precisely the reason why I am a little bit cautious before confirming the full stabilization of the customer deposit breakdown in French retail. We have seen the latest GDP figures for the French economy that were published 2 days ago. And what we have seen is that surprisingly, the level of the GDP growth for the quarter was good, 4.3%, but was not reached with a good level of consumption, which we were expecting actually."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So there is certainly some attentisme in the consumer spending. This attentisme may be linked to the political situation. It's probably also linked to some more, I would say, conjunctural elements like the weather. Definitely what we hear on the ground is that many, many restaurants and bars that we're planning to have outside offers suffered a lot in June because of the rain, that's unfortunate, but that's the case."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And there is also this point that probably French customers have not yet fully acknowledged that indeed, in average, they are gaining in consumption power because salary increases beginning of this year were overall higher in average than the level of inflation. So there is indeed an increase in purchasing power by the French consumers. But it's not fully acknowledged yet and the narrative regarding the difficulties of the daily life for the French citizen is also probably triggering this caution before spending."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So we have to see exactly where it goes. And we will have to see also if this triggers some outflows from the site deposits if consumption starts to rebound. So we'll talk about it in the course of the coming quarter."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Stefan Stalmann with Autonomous Research. Please go ahead."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "I wanted to ask first about the Insurance business, please. I think this is the first time in probably 5 years that you had net inflows into Eurolife policies. Do you think there's a more permanent, maybe an early sign of a more permanent switch of clients who actually never quite like the unit-linked and now have an opportunity to go back into Euro policies given the better rates environment? And if that is in fact the case, what do you think this means for, let's say, solvency and capital management in the Insurance business in the medium term, if anything?"
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "And the second question is on your dividend plans or the payout plans. The accrual rate that you apply every quarter seems to be a bit uneven. It's now 54% of EPS for the first half. So it's close to your 50%, but not exactly at 50%. How should we think about the accrual for the second half of the year? Is it going to follow just 50% of EPS, are there other considerations? And what does this all mean for the dividend for the full year here, if anything? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Let me start with the second question. Actually, we should dig a little bit into the numbers because we are accruing exactly 50% of the attributable or payable or distributable results. So I don't know exactly what is the difference between the 54% that you've calculated and the 50% that we are indeed accruing. So there should be some technical explanation, which I do not have in mind now. So we'll check that, and we'll revert to you in order to give you the explanation. But the intention is clearly to stick to the 50% payout on what we deem normal to distribute. So there is probably a technical explanation."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "There was about a €200 million negative AT1 FX effect, I think in the first quarter. And I'm not sure how you treated that for your payouts, but maybe you look through that."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, exactly. So I was suspecting it was coming from the AT1 because when it comes to the result, there's nothing that needs to be restated. So it's elements that do not feed into the P&L that indeed are playing a role and probably it's coming from the AT1. I agree."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Second point on Insurance, it's clear that there is at the same time more attractivity for Euro products and less attractivity for UL because you know that the strong growth in UL products in the last 2 years was coming from fixed income unit-linked products that we've generated with bonds issued by the group and wrapped into unit-linked products."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And considering the fact that long-term rates have peaked that credit spreads have shrunk a lot, we are no longer in a position to propose the same type of remuneration for this UL product. So at the same time, you have Euro products that seem to be more attractive and UL products, which are less attractive."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So indeed, this has triggered this positive inflows for Euro products over the quarter. But definitely, we are talking about less than €1 billion of net new inflows over the quarter. So we do not see that as a danger for the capital solvency monitoring of the insurance activities. It's positive for our customers. We are happy with that."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "We are proposing a remuneration, which is taking into account the reality of the assets that we can have in the portfolio. And we do not see this slight level of positive inflows as a threat to the management of our capital position in the Insurance business."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Joseph Dickerson with Jefferies. Please go ahead."
+  },
+  {
+    "person": "Joseph Dickerson",
+    "role": "questioner",
+    "position": "Jefferies",
+    "text": "Can you just discuss the strength in the consumer finance business because it stood out versus your peers quite strong. I think last quarter, you talked about some of the front book margins now starting to pick up. And I suppose that might accelerate with whatever happens with interest rates coming down over the rest of the year. So I guess what's the outlook for that business and what are the drivers there because that was quite a standout performance versus peers."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Actually, the business is at the same time in a profound transformation in terms of breakdown of activities because we've invested a lot in order to develop what we call mobility financing, i.e., all the business of financing cars, which is developing much more rapidly than the rest of the business. You can see on Page 23 that it's growing at a pace of close to 14% in terms of outstanding, whereas the rest is more in the region of around 4% to 5% of development. So that's one point."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And the second point is that, indeed, we are now slightly improving, and we continue to improve the average margin because we continue to benefit from a reduction in the refinancing costs, while trying to continue to pass to the customers the past increases in rates that we had to withstand. So definitely, it's a business that is developing well from a commercial point of view, and that is improving from a strictly financial point of view."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And last point maybe, we've seen a stabilization and even a slight improvement in the cost of risk of this business. So this is also a last point which is positive for the business."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Jacques-Henri Gaulard with Kepler. Please go ahead."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler",
+    "text": "Two questions which are linked really. The first one is about the increase in the stake of the regional banks into CASA, which is now at 62.8%. So the question is, can you remind us where they are bound if they've communicated or where they can actually go up to?"
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler",
+    "text": "And the second question, which is linked to that, clearly, and we're back a bit to acquisition, you clearly have and that's a tribute to what you've done with Xavier and Philippe over the last 10 years, your multiple has more or less doubled, which is not necessarily the case of every French bank. You have a tool to basically buy something maybe not big. I'm not talking about the big consolidation. But you have an optionality to use that multiple to actually develop. Is it something that might be considered or it's not at all on the cards? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Thank you, Jacques-Henri, for the appreciation of what we've been doing. Starting with the stake of the regional banks, their only communication is that their intention was not to go above 65%. So theoretically, they have room to go from 62.8% up to 65% without having to modify their formal communication. And obviously, if they want to go above 65%, the only condition besides the technical conditions is simply to state that they have a new internal target of a stake. But I haven't heard anything about modifying this 65% target."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "When it comes to using our multiple in order to finance M&A operations, what I would say, I do not want to rule out or to confirm any kind of significant operation. What I just want to say is that any potential M&A transaction has to be looked at, firstly, for its own strategic and financial merit. And then, if it makes sense from a strategic and financial point of view, we have to check what is the best way to finance it. But definitely, the starting point is to check if the operation makes sense from a strategic point of view and if it meets our financial criteria."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then of course, when it comes to how we fund the operation, we have a series of options up to now what we've done and it was the most efficient ways of doing things was simply to use our capital generation capacity above distribution and above the organic growth of the business line. In the last 3, 4 years, that was exactly what we did. It doesn't mean that we have to stick to that for the future. But up to now, it's exactly the best way to do things."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Flora Bocahut with Barclays."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Two questions on my side. The first question is actually regarding the ECB rate cut that happened at the end of the quarter in June. I finally, when I look at your business mix at Conseil d'Etat, that rate cuts may actually benefit a lot of your businesses. So I was just wondering, obviously, it was only month and there's been noise elsewhere. But have you seen any impact whether on your businesses, on your clients' behavior, on the way your competitors reacted across the market post the ECB rate cuts?"
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "The second question is regarding your net profit guidance for this year. You did, obviously, a very strong H1. You've achieved now €3.7 billion of net profit in H1. I know you don't like to change that target too often. But the question is simply, is there anything that we need to expect in H2 beyond the normal seasonality that will explain why you keep the guidance unchanged despite the strong H1? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On the first point, for the time being, the cut was very modest, and it took place in the middle of June. So it hasn't had time to really change neither from a direct mechanical point of view on our numbers, neither on the behavior of the customers. I would say that the area in which it has triggered a reaction that shouldn't have taken place was the pricing of home loans because definitely, home loan pricing in a country where the home loans are granted on a fixed rate, long-term basis shouldn't be impacted by a short-term rate cut by the ECB. But it was, I would say, from a psychological point of view, it created some kind of momentum to increased competition between banks and it has played a role in this decrease that we've seen. For the time being, it's manageable, but nevertheless, the decrease from the pricing of new home loans."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So what we need to check in the coming quarters is, first, is the ECB really going to stick to what we have in mind, i.e., two other rate cuts up to the end of the year and then another two or three cuts next year in order to reach a neutral rate that we see around 2.5%. In an environment where then there would be a normalization of the rate curve of all the maturities because for the time being, we are still in an abnormal situation. But for the time being, it hasn't had a very significant impact on us."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Net profit journey for '24. Yes, we are a little bit ahead of the curve at end of June in order to reach the 6 million plus target before year-end. There is a normal seasonality, and so you all know that in certain of our businesses, the summer is a weaker period of time. It's the case for CIB activities, clearly. And there is another seasonality in December. If the year has been good, then everybody stops working beginning of December. So this is triggering potentially a weaker level of revenues in some activities, both for Q3 and Q4. But besides this normal classical level of seasonality, there is nothing bad you should expect in the second part of the year."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from Anke Reingen with RBC. Please go ahead."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Just two small questions. The first is on the underlying cost growth of 5.7% year-over-year. Just confirming that this is sort of like almost like a peak as your second half last year was already a higher cost base? Or should it continue to run at this rate considering inflation as far as potential investments?"
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "And then, secondly, I was just wondering if you have anything to add on the ECB review of the leverage finance exposures and if you're happy to provide any indication about the size of the exposure that will be in scope at your bank? Thank you very much."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "The cost base is not peaking, and it's not growing rapidly. I tried to explain why actually we have had an increase this quarter, which was triggered by the scope effect significantly, probably 40% of the whole cost increase. And so the scope effect, it's not a peak, it's a new step that we've went up, and this is also leading to a new step that we have to go up in terms of revenues. But definitely, inside our cost basis, we will have starting from now the full scope of RBC. And starting in Q3, there is no longer any kind of scope effect because it was already present in Q3 '23, and it's going to be the same for Q3 '24."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "When it comes to Degroof Petercam, there is going to be a new increase in Q3 as compared to Q2 because in Q2, we had only 1 month of Degroof. And starting in Q3, we have definitely a 3-month per quarter of cost base of Degroof. But besides there is no project of massively increasing the cost basis. We think that the inflation is now significantly curved, and we are no longer in the mood of granting general salary increases in the middle of the year contrary to what we did in '22 and in '23. And so we are going to monitor classically the cost basis with budget that foresee the level of cost that we deem acceptable for the coming year."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then, of course, the capacity to react in the course of the year, because the main KPI that we keep in mind is the cost income ratio and especially a cost income ratio that is differentiated by business line. So this is going to be, as was the case in the past, the main driver of the management of the cost basis within Degroof."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "When it comes to the ECB review of leverage finance, we hear a lot of the concerns of the ECB about leverage finance. We are regularly monitored by the ECB from different point of view, including the leverage finance portfolios. We expect nothing significant from the different reviews that took place in the past or that may take place in the future concerning this category of loans. So no significant worry and nothing significant to expect on this aspect."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Chris Hallam with Goldman Sachs. Please go ahead."
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "So first one, just on Italy. On the volume side, clearly a bit of a change, I guess in approach to mortgages. Production was trending down 13% in the first quarter and now it's up 40% year-over-year in Q2. NIM is stable, I guess Q2 versus Q1, I think it was also stable Q1 versus Q4 last year. So just looking through the rest of the year for Italy, how do you expect that business to sort of trend both in terms of volumes and in terms of margins?"
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "And then, secondly, and maybe just a bit of a broader question on M&A and perhaps a bit of a follow-up to Jacques-Henri's question earlier. But you've done quite a few transactions now, right, like Alpha, Degroof Petercam, RBC, Worldline. How confident are you in your process and your team in identifying targets, assessing potential value creation, delivering the integration? Is that machine now pretty much as well-oiled as it can be? And does that give you greater confidence in doing something bigger than perhaps you would have felt comfortable doing beforehand?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "That's a very ample question that you're asking on the second point. How confident are we that we are able to access different opportunities? I would say that all the colleagues in investment banks are here to make sure that we do not miss any opportunity. So if I could show you the number of blue books I receive regularly, you would be perfectly reassured on our capacity to access all possible opportunities. And our job is much more to dig into them in order to really choose the best operations rather than having access to the deal flow."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "More seriously, yes, we have a very seasoned team in order to assess and to evaluate and to negotiate these operations. And I'm fully confident that we will continue to be able, even if the number of operation increases or even if the size of the operations increase, but definitely, we've done in the past quite significant operations in terms of size. So absolutely no doubt that we have this capacity to continue to be very disciplined in the management of the transactions themselves."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Then there is, of course, this very important question regarding integration and the capacity of really taking advantage of the acquisitions in terms of enhancing our scope of activities and accelerating our organic growth. And this is clearly in the hands of the heads of businesses. And this is why I'm making sure permanently that at the same time, one head of business is not working on too many subjects of this kind because clearly succeeding in an integration is a matter of management dedication. And we need to make sure that if the management of a specialized business line is working on a transaction. It is not, I would say, disturbed by the prospect of a new transaction that is coming too fast. So we are really very, very cautious about that."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Italy, it's clear that the production of new loans has been positive this quarter. We've accelerated a little bit, and we've accelerated especially in home loans, that's true. Pricing is like in every country, it's a matter of competition. And I guess that the big players in retail banks in Italy are also working on being competitive in this field. We do not expect pricing to grow and to improve massively, but we are finding our way and considering that we are not so big in the Italian market. We have the capacity to remain selective with having a certain level of organic growth and will start keeping a good level of margin. So we are positive on the development of the activities in Italy going forward."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The last question is from Pierre Chedeville with CIC. Please go ahead."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "A follow-up question on consumer credit and Insurance. Consumer credit, you mentioned a decrease in production. And you mentioned China, could you explain exactly what happened there? Is it something which is a heavy trend or is it something punctual there?"
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "And concerning the Insurance, you mentioned, of course, the good commercial dynamism. But you also mentioned technical gaps of experience. And I wanted to know what the part of this gap in the growth of revenues is compared to the growth of revenues due to commercial dynamism."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "And last question, you also mentioned a good development of creditor insurance at the international level. I wanted to know what you mean by international. Is it Italy, which is actually your second market or other countries? Thank you very much."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So on consumer credit, it's clear that in China, you know that we have a joint venture with GAC, which is a big Chinese carmaker. And it's clear that in the beginning of this year, GAC is having some weakness, I would say in the development of the production of new loans with possibly two elements."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "One element which is the fact that in China, as in every country, there is a competition between car loans and leasing and our business is only car loans. And then, there is also a general context in China, which is that consumption has been weak in the last several quarters. And so, we are suffering from that also. But definitely, the point is that we are not in all channels of distributing car financing in China with our partner because we are working only for the time being on car loans and not on leasing. And again, leasing is taking a significant part of the business."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "In Insurance, I will not be able to be very specific in terms of how much of the revenue increase is triggered by what we call the experience gap if I have the right wording in English operating variance. So I'm not able to tell exactly what is the proportion of the revenues coming from that. Maybe just a simple point is that at the same time, we have a positive element coming from operating variance, but we have also some unfavorable impact of market movements. And so we have a negative impact on this quarter on the CSM coming from market elements. So I don't know exactly how this balances the other element, but it's not only one way, I would say."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then, the last question was regarding creditor insurance. If I remember correctly, and your question was, what are we talking about when we are talking about international activities. So credit insurance activities in Crédit Agricole Assurance is the operation that we have in Dublin that is working across all Europe alongside with our consumer credit business. So it's not specifically Italy. It's across all Europe. It's in Germany with Creditplus. It's in Portugal with Credibom. It's in several other countries. So it's definitely a pan-European business."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "I understand it was the last question. So it's for me the opportunity to wish all of you a very happy and resting summer. On my side, I think it will start quite soon now. And I'm very happy to discuss with you again in 3 months' time or so. Bye-bye. Have a good day."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

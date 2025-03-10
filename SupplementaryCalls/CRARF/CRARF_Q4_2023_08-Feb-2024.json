@@ -1,0 +1,860 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "[Operator Instructions] At this time the first question is from Giulia Aurora Miotto of Morgan Stanley. Please go ahead."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Yes, hello?"
+  },
+  {
+    "person": "Giulia Aurora Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Yes, hi. Can you hear me?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Hello? We don't hear you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Yes, we are going to take the next question and we'll go back to you just afterwards because we don't hear you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "I apologize. The next question is from Delphine Lee of JPMorgan. Please, go ahead."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Good afternoon. Thank you for taking my question. So, I've got two. My first one is on the cost, income and cost in general. You're already at 55%, which is clearly well below your target, long term target, below 58%. So, just wondering, is the intention in the next couple of years to continue to have just a positive jaws of 0.5 percentage point or just kind of wondering, how does that square with your targets in '25?"
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "My second question is on capital and payout. If you could just remind us of the moving parts on capital between the acquisitions and trim. And just so we says, and also on payout is 105 bps like the new floor. So, do you intend to continue to be flexible about the payout ratio and potentially payout maybe closer to, I don't know, 55%, 60% going forward? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Thank you, Delphine. When it comes to the cost income ratio target, I think we are comfortable with this target of being below 58%, because we think that considering the business model that we have, considering the type of risks that we take, considering the size of the balance sheet that we mobilize, having a cost income ratio of 58% is prudent enough, or below 58% is prudent enough to enable us to cover any level of credit risk that can arise and so this is a very high level of security for us."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "We don't think that it's useful to improve permanently the cost income ratio and to target permanently further improvements of the cost income ratio. And we think that there is probably a better way to remunerate our shareholders and to boost our development, which is to use the capacity that we have had to generate cost cutting and improvements in the cost income ratio to continue to invest."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "So definitely there is no intention from our side to modify this level. We target and we've committed to be below 58%. We are going to do whatever we can in order to remain below 58%, this is clearly a commitment, but we are also happy to invest in order to enhance our development capacities going forward. So no modification of the cost income ratio commitments."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "No - of course, no decision to increase the cost base without any purpose, and the capacity to invest whenever it's needed in order to enhance further the development. And it's going to be more or less the same story regarding the capital trajectory and the way we see the capital situation."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Let me start with the first part of your question regarding the moving pieces that are going to take place vis-a-vis the capital going forward. The elements that are known for the coming one or two years are trim. We still have another €4 billion of RWAs to take, and it's not sure if it's going to be in 2024 or 2025."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "We have the closing of the Degroof Petercam acquisition, that is going to take place this summer. Again, the precise date is not set for the time being. We continue to collect the different authorization that we need to have before closing the deal, but it's going to be either end of Q2 or beginning of Q3. And we know that this operation is going to represent a hit between 25 bps and 30 bps of CET1 ratio at the level of CASA."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "We then have the last layers of the phasing out of IFRS 9, it's a tiny 5 bps this year and a tiny 5 bps next year. And then we have Basel IV starting January 25 and we continue to be of the opinion that, seen from now, this is going to be neutral for CASA in terms of capital consumption, in terms of solvency. And again, when it comes to the phasing in of the output floor, end of the period. So in 2030 and even 2032, this is going to bite but bite only at the level of the Group, not at the level of CASA."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "So definitely these moving pieces are tiny, are well identified and are completely compatible with our level of capital that we have now. And then going forward, we stick and excuse me, there is one last point, which is an element of actuality, because it's an operation that was announced only yesterday."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "There is this acquisition of Alpha Asset Management by Amundi that is going to be closed in the coming, I think, weeks. It's not a very complex operation. And this is going to represent 6 bps of capital consumption for us. So, again, perfectly compatible with the level of capital that we have now."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "So when it comes to the dividend policy, payout policy, we will continue to stick to the 50-50 policy because we think that it's perfectly normal that we remunerate generously our shareholders and we've proven in the past that we are very flexible to remunerate our shareholders. But we also want not to jeopardize our growth capacity. And we've proven also that we have the capacity to grow organically and inorganically in a profitable manner. And so we continue to foresee a further development of our business lines."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Mostly organic development, but ready to see the opportunities if we see some. So the 50% cash payout policy seems to us perfectly in line with this will of being able to continue to grow."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Great. Thank you very much."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Thank you. We go back to the previous question. I think we have now Morgan Stanley in line. Is that right?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Yes. The next question is from Giulia Aurora Miotto from Morgan Stanley, please."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Hello, Giulia."
+  },
+  {
+    "person": "Giulia Aurora Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Hi, Jerome. Can you hear me now?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Yes, we can hear you."
+  },
+  {
+    "person": "Giulia Aurora Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Great. Okay. Perfect. Okay. So two questions from me. The first one, as you just pointed out in the previous answer, you're not going to have any impact from Basel IV, basically and 11%, I guess, remains your minimum. So with capital generation, that leaves you a bit of excess capital. Do you have any bolt on opportunity in the horizon. And what are you looking for there? A continuation of what we have already seen or any change. And then secondly, if I look at the revenue trajectory on slide eight, I think, of course, there has been some very solid growth. Looking forward, where do you see most growth coming from your divisions And is there any part which instead is perhaps more challenged. Thanks."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Well, thank you for your two questions, Giulia. In terms of bolt-on opportunities, we are not presently working on any specific opportunity, so there is no file on which we are actively working nowadays that would represent an opportunity in the very near future. But nevertheless, this is a permanent, I would say, focus for us and for the different business lines."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Of course, maintaining the strict discipline that we have had in the last two or three years in terms of acquisitions, return on investment, return on normalized equity, capacity to integrate without any difficulty, and so on and so forth. So, we are ready to take advantage of opportunities. Nothing very concrete seen from now."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "But of course, this is by definition what happens with opportunities, they arise at any moment. When it comes to the growth possibilities that we see - organic growth possibility, mainly, well, it's limitless for us, because, again, and Page 8 perfectly illustrates this strategy by continuing to attract new customers, by improving the equipment of those customers with the scope of products and services that we are able to propose to them already now, and by trying to look at expansions, further expansion of this scope of products and services, we have very solid growth engines and so we continue to think that Crédit Agricole S.A. will be a growth story in the coming years."
+  },
+  {
+    "person": "Giulia Aurora Miotto",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Next question is from Jacques-Henri Gaulard from Kepler Cheuvreux. Please go ahead."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Yes, good afternoon. I just had one question. Sorry, which was about the one of that you reported, the one of items in insurance to start with, and also generically throughout your cost base. One is the feeling that this was a choice rather than a necessity, probably to think, well, the nine months were already fantastic. We already had a really very good year, might as well not make the year that exceptional to leave us a little bit of leeway for 2024. Is this the right way to look at it? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Well, Jacques, of course we have to strictly apply all accounting rules so there is not so much flexibility but of course, when you end up in September with such a high result, there is always the capacity of optimizing a little bit the further evolution of the level of profit."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Kepler Cheuvreux",
+    "text": "Thank you, Jerome."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. The next question is from Tarik El Mejjad from Bank of America. Please go ahead."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Hello Tarik."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Hello, Jerome. I'm a bit surprised by your last answer. Actually, I'm still thinking about it. Look, you want to surprise us every quarter not to manage expectations, so anyway. Now, my question was really strategically on your view of your profitability. I know saying above 12 means can be anything, right? You can be thinking on your budget, 13,14, whatever. But for us, we can't give you much more credit than that, than 12. And as you pointed out, you've been delivering on average same for seven years and above 12 for the last few quarters and years. You've been very active on both on M&A, and I guess all very profitable and high margin business and you're still aiming for the same net profit group share of above six."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "So are you being really conservative and you stick to your very - discipline on not moving targets within the plan or there are some elements that you thought could be better and it didn't turn out that way. And then you have some positives from growth somewhere else and you still think that's the right number. And maybe a question, I mean, you don't have to answer that, but I would ask it, do you think consensus is reflecting all the latest M&A or bolt on M&A's you've done? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Well, thank you, Tarik. Well, I think that actually what we should have done is to put on the same page the series of return intangible equities that we've posted in the last seven years. So between 11 and 12 and 13.1% actually, because these are the different levels that we've reached."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "So, in average, probably 12 and on the same page, the evolution of our top line, because clearly, what we want to propose to our shareholders is not a return that would target to permanently improve, because at a certain point in time, trees do not reach the sky, and there are some levels of profitability that may be a little bit unsustainable or that could lead to too high risks. So our value proposal is a story of growth."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "And so we are growing the top line, we are growing, of course, the equity basis - the tangible equity basis and we are proposing a very steady level of return on this growing equity basis. And this is the value proposal that we are having. So some of our competitors are targeting to improve their level of return and it's funny to look at the gray bars on the bar chart on Page 10, where you can see that from 2020 to 2023, some competitors have managed to increase significantly their level of profitability, approaching now ours."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "But is this also growing alongside with an increase of the basis on which this profitability is calculated, I don't know, but our value proposal is clearly to continue to post, as much as possible, very high level of profitability over time and at the same time to grow."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Thank you. I mean, the drawback of that's you know a quarter like today, when you have volatility of insurance, that's normal under an IFRS 17 worth, which is not always very well understood, you get penalized and as your part of your value proposition, of tangible book and so on so, I hear you and I respect that approach. Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Yes. Maybe I take the opportunity of your comment just to comment, the level of profitability of the insurance business. On this quarter, despite this very high level of claims on weather events, we've posted a level of profit which is close to €350 million on the insurance business division and for the full year, it's €1650 billion and it's up 12.5% as compared to last year."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "So, definitely, we are very happy with the insurance that we have, even though this quarter was a little bit more bumpy, it posted a very decent level of profitability and in both cases for the quarter and for the full year, it represents around 25% of the net profit of CASA."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Bank of America",
+    "text": "Absolutely. Thank you, Jerome."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Chris Hallam of Goldman Sachs. Please go ahead."
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Yes, thanks for taking my questions. Two really quick ones, I think just on the cost of risk in consumer finance, €170 million in the fourth quarter. I think you said on the call that that was a normal level. So I just wonder if that is the right level to run rate or to annualize for 2024. So maybe the clarification on what you said earlier and then just secondly maybe a broader question just on the deal with Worldline, maybe could you just sort of remind us what the strategy is there and what do you think you can do with a 7% stake in Worldline that you weren't able to do previously?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Two good questions, of course, Chris. The first question regarding the cost of risk at CACF. In average the cost of risk on the book of loans that is consolidated within CACF is a cost of risk of around 120 bps. So it's more or less stabilized at this level. I think that the assumption that we had in the medium term plan for this business in terms of cost of risk I would say across the cycle or cost of risk that we deem compatible with, the capacity of reaching the €6 billion of net profit was rather 160 bps."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "So all in all, we are below this peak level of cost of risk. Nevertheless, what is important from my point of view because it's a business in which we have the capacity to fine tune the credit granting criteria very rapidly in order to adjust the level of risk that we are taking. I think we are stabilized and it's okay for us. Of course we would like, and we would hope at a certain point in time to see this decreasing. But nevertheless, 120 bps is perfectly okay."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Second point regarding Worldline, the strategy is very clear. The strategy is to conclude an industrial partnership with Worldline. We are working on it since now many, many months and even more than that. We've signed this agreement with them back last year middle of last year, I think it was in July."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "We are still waiting for the approval from the European Commission to establish the joint venture. And I have now the idea that this approval from the European Commission is going to be granted probably in March this year, so next month, which will enable us to create the joint venture formally. And it's going to go live very rapidly because, of course, we're preparing that since now, many, many months."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Then this joint venture is going to start already working in order to improve the scope of products and that the Group is offering to their merchant clients. And this joint venture is going also to apply for a specific license in order to be able to propose directly payment services to customers. And it's going to develop its own business in partnership with the Group and their clients."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "So this is the strategy, is to conclude and to develop an industrial joint venture and an industrial partnership with Worldline. When we saw what happened at Worldline last year, end of last year, with the sharp decrease in the share price and some other elements of the kind, we deemed it was relevant to show our confidence regarding Worldline and its capacities by taking this stake at a price that that we deem reasonable."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "And this is, I would say, outside the scope of the industrial partnership that we've concluded. So really what is important for us, what is key is the creation of this joint venture, the development of its business, and progressively the development of our industrial and commercial partnership. The 7% is something different. It comes with it. It was not a necessity. It was more triggered by the circumstances, and it's not the basis of our strategy."
+  },
+  {
+    "person": "Chris Hallam",
+    "role": "questioner",
+    "position": "Goldman Sachs",
+    "text": "Okay, thanks very much."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Geoff Dawes from Societe Generale. Please go ahead."
+  },
+  {
+    "person": "Geoff Dawes",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "Hi, everyone. Yes, good afternoon. Geoff Dawes here from Soc Gen. A couple of questions, if I may. First of all, on Amundi and obviously the Alpha acquisition yesterday. You've said in the past that you will try and limit integration efforts and acquisitions to one per operating division at any one time. Is Alpha big enough to kind of qualify as that? Is that your kind of operational bandwidth for bolt-on deals for asset management for the year, or can you run things alongside that as well? So that's the first question."
+  },
+  {
+    "person": "Geoff Dawes",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "On the second question, French retail. Could you give us some idea as you're restarting production a little bit in the mortgage book, what kind of margins, pricing, ROE, whatever you look at, new mortgages in France are actually generating, just to give us an idea on a standalone basis before any cross sell and everything else. So those are the questions. Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Thank you. Well, this acquisition that Amundi has signed and concluded, announced yesterday, is very important for Amundi because it's bringing some significant complement to the real asset business of Amundi. But nevertheless, it's a tiny operation. So I think it does not really apply or justify a very longer acquisition ban, to take your expression, because this one is, I think, quite easy to plug onto the rest of Amundi. It's not as complicated and as I would say, large in terms of assets under management and in terms of teams to integrate than, for example, the Lixor one, just one and a half year ago. So definitely not the same category for sure."
+  },
+  {
+    "person": "Geoff Dawes",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "And It's open for deals if needed."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "And I think that Amundi is permanently explaining their strategy regarding the possibility of making acquisitions. When it comes to French retail, what we're seeing for the time being, let's talk first with volumes, and then let's talk about volumes, and then let's assess a little bit pricing. When it comes to volumes, they were again a little subdued in the fourth quarter of last year, as was the case for most of the year. And even we've seen a decrease between the third and the fourth quarter in the production of new loans."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "But at the same time, we've seen a continuation of the increase in the level of rates, customer rates, that we've been able to justify vis-a-vis our customers. And so the loans that were produced in the course of the fourth quarter were in average 46 bps above the rates of the loans that were produced in the third quarter. But you know that banks - French banks have been lagging behind the increase of the Azure rate ceiling in the last one and a half year."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "So I think we've now reached a level where this ceiling is no longer that much biting. Nevertheless, the rates that we've signed and not put in place yet. In the beginning of 2024, had a rate in average of 4.4%, which is, of course, very significantly above the back book. So, of course, this is positive for the future net interest income of LCL and globally for the market."
+  },
+  {
+    "person": "Geoff Dawes",
+    "role": "questioner",
+    "position": "Societe Generale",
+    "text": "Brilliant. That's pretty clear. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Sam Moran-Smyth of Barclays. Please go ahead."
+  },
+  {
+    "person": "Sam Moran-Smyth",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Hi. Thanks. Hi, Jerome. Yes, two questions, please, both on LCL. So, firstly, specifically on the quarter, you saw quite a bit of cost inflation. I think, in the slides you're flagging hierarchy and staff costs. So just wondering to what extent we should view those as impacting each quarter from here or some of the kind of higher staff costs, Q4, specific?"
+  },
+  {
+    "person": "Sam Moran-Smyth",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "And then secondly, just a bit more strategic. So you announced at your CMD 18 months ago that you would relaunch BforBank. We haven't heard much more on that since then. On customer numbers alone, it seems to be somewhat behind the curve. So just wondering if there's a reason that a digital bank brand seems to be of kind of lower importance to CASA than it does for peers? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Thank you. Starting with the cost base at LCL, we've taken some one offs at LCL, as well as in other business divisions. Let me name two for LCL. The first one is that we've had in France, a decision from the Supreme Court, Cour de Cassation, regarding the way we must calculate some specific provisions on paid leave."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "So all employers had to recalculate their paid leave provisions. And this triggered an increase, which was quite significant, actually, for LCL, because LCL has a significant number of staff. And so I think for LCL, it was in the region of €10 million of additional cost, which is a one off, absolutely a one off."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "It's not going to be repeated quarter after quarter. It is simply a readjustment of the level of the provision. And now - starting from now, the provision is going to be calculated according to new rules set by the Supreme Court, so nothing to expect in the future."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "The second element is regarding some IT costs. We've decided to write off some IT investments that we had in our balance sheet that we are going to generate, over time, some amortization and for some reasons, either linked to their obsolescence or some other reasons, we've decided to write off those elements from our balance sheet, thus easing the efforts of amortizing over time. And this is representing, I think, between €10 and €20 million for this specific element."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "So all in all, at LCL, the non-recurring element of increase in the cost basis represent €32 million on the quarter alone. And going forward, we'll continue to monitor the cost base at LCL much closer to what you've seen in the last period of time, which is also the case globally for 2023, with an increase for the full year, which was limited to less than three and a half percent."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Then when it comes to BforBank, it's not moving the needles at the level of the figures for Crédit Agricole S.A. globally nowadays. But we've relaunched completely BforBank back in September, and so now we have a very steady level of customer capture, which is around 2000 customers a week, and it's been regularly improving in the last four months."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "And so we are on track. The idea is not to pay a lot to attract customers that are going to leave us very rapidly, but to build really a customer base that is going to be loyal to BforBank in the long run, and that is going to appreciate the specific value of BforBank for their customers. So we are on track and no worry regarding BforBank at this point in time."
+  },
+  {
+    "person": "Sam Moran-Smyth",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Stefan Stalmann from Autonomous Research. Please go ahead."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Yes, Stefan?"
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Hi, Jerome. Hope you're well. I wanted to ask two things, please. On slide 19, where you detail your cost of risk, there's about €66 million of other provisions. Could you maybe explain what they relate to? Some of them seem to be in Italy. And the second question, also a, let's say risk question regarding U.S. commercial real estate, which is becoming a bit of a hot topic these days with banks in the U.S. and Japan and Europe being caught out, individual banks. Very importantly, do you see anything in your particular commercial real estate book where, let's say, fault lines appear or are you totally comfortable with the way the portfolio looks like in how it's provisioned?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "The €66 million of provision globally at CASA is spread between CACIB on the one hand, and CA Italia on the other hand. It's made of different categories of provision for legal claims for different elements. So not just one specific issue, but bits and pieces of provisions regarding different topics which are not credit risks related, but nothing very specific, and nothing that is going to be repeated over time, I would say, even if it's not under IFRS 9, it's prudent rather than anything else. When it comes to commercial real estate, if we were seeing signs of difficulties in our portfolio, we would certainly have taken some additional provisions, especially considering the level of cost of credit risk at CACIB, which was almost nil on this quarter."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "But definitely, what we see is that we have not identified any weakness in our portfolio, neither globally nor specifically in the U.S., where we have a rather small portfolio as compared to the size that we have globally. And so, no, definitely, of course, we are seeing what is taking place in the world, but no specific worry regarding our portfolio. And we provide on Page 65 some additional information regarding our portfolio."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Autonomous Research",
+    "text": "Great. Thank you, Jerome."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Guillaume Tiberghien from BNP Paribas. Please go ahead."
+  },
+  {
+    "person": "Guillaume Tiberghien",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "Thank you. Good afternoon. I've got two questions and one clarification, please. The clarification earlier you said that the new business rate in Q4 for LCL was 4.4. Did you say mortgages specifically or overall? And is it in January still 4.4? The two questions are, number one on the cost. You seem to suggest the underlying cost rate, cost growth is about 3.7. Are there any elements in 2024 that get you to think that we can ease from that level of 3.7? And then the second question, a small detail, but on the RWA slide you highlight, plus €2.9 billion on corporate center due to some FX impact. So are we going to get back those €2.9 billion in Q1? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Okay. Very precise questions, Guillaume. As usual on the 4.4, if it's the level of the rate, the home loans that we've approved in January, and so those loans have not been put in place yet and had not been put in place in the figures of the fourth quarter, by definition, they are going to be progressively put in place over the course of the fourth quarter of the first quarter of this year, and this level was already around the same level back in October. So I think that what we can acknowledge is that we've reached some kind of a plateau when it comes to the pricing of new home loans in France, at least in our activities."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "On the cost base. What do we see going forward in 2024? We are going to continue to have in the first quarter some scope effects, in the first and second quarter, because the integration of Crédit Agricole Auto Bank was made only in the beginning of the second quarter of 2023. So the first quarter is going to have a scope effect and the integration of RBC's European activities took place only beginning of the third quarter. So again in the second quarter we will still have the scope effect regarding RBC."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Then we will have, of course, the integration of Degroof Petercam middle of the year, and we will have some integration costs both for RBC and for the Degroof Petercam, So these elements are definitely going to play a role in the overall cost base in 2024. But we will of course, provide all the details regarding those specific elements of cost."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "When it comes to the RWAs of the corporate center, I can tell you that a first operation that represents €O1.5 billion RWAs has already taken place. So this part is already out and the second part, I don't know exactly when it's going to come, but we'll check the element. But the one and a half is already gone end of January. It was a specific provision that we needed to take considering the RWA calculation rules because we bought the dollars to repay an 81 and the repayment of the 81 is indeed done. So now we have no longer the dollars in our books and so we don't have the impact in terms of RWA."
+  },
+  {
+    "person": "Guillaume Tiberghien",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "Thank you. My question on the cost maybe was misunderstood. It was more to try and understand whether on the underlying basis, excluding the scope, you can get better than the 3.7 where we finished the year."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "We'll see. We'll do as much as we can, of course, to monitor the cost base. We'll certainly have the full year effect of some salary increases that we had granted middle of last year. So for the first part of the year it's going to have an effect. But then otherwise we have adopted our budgets. We don't disclose the budgets. But I can tell you that we have had some harsh discussions with the different business lines in order to curb as much as possible their asks regarding their capacity to spend."
+  },
+  {
+    "person": "Guillaume Tiberghien",
+    "role": "questioner",
+    "position": "BNP Paribas",
+    "text": "Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Anke Reingen from RBC. Please go ahead."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Yes, thank you very much for taking my question. I have two follow up questions. Firstly, on the question from [indiscernible] earlier about the 105 being a floor, I think you responded with the 50% payout ratio. But I guess that wouldn't exclude you revisiting where you end up at year end and then potentially top up. And then secondly on the cost of risk, around 40 basis points versus your current run rate. I guess that just assumes like some buffer for the financing area or is there a structural shift that we should be expecting that exhausts the 40 basis points. Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Well, we haven't said that 105 was a floor. It happens that for specific reasons it's been the same level in the last three years. But actually the 105 of this year is not the same as the 105 we had in the last two years. So I leave to every one of you the responsibility of assessing if there is a floor or not."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "But we do not commit to any kind of floor and the only commitment that we make in terms of dividend policy is the 50% payout policy in cash. When it comes to the cost of risk, the 40 bps with an assumption which is a blend actually between the different businesses, retail banking activities, corporate banking, consumer credit. So it's a blend. It's a conservative assumption of what could be the cost of risk, I would say across the cycle. And it's also an element of the commitment in terms of net profit, because what we are targeting is to be able to deliver a net profit above €6 billion, even though we have a 40 bps cost of risk."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "So it's a calculation element, it's not a forecast, it's not a target. Of course, it simply is an element of explanation of how you should look at the over €6 billion net profit target for 2025."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "RBC",
+    "text": "Okay, thank you very much. That was clear. Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Pierre Chedeville from CIC. Please go ahead."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Yes, good afternoon, Jerome. One question regarding insurance, as we see that people focus on that. Do you think that you would need to change your underwriting policy or your reinsurance policy regarding P&C, considering the fact that now, unfortunately, we are probably living in a new world of Nat cat, more frequent, notably."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "And do you think there is something like that to do in order to stabilize your technical ratio? And I was also wondering if we have a decrease in the rate, notably in the second half of 2024, do you think that you will have a significant sensitivity regarding the discounting effect on your reserves that may probably disturb the understanding of your results in that part. And do you think that it would be useful to give any sensitivity of your technical ratio regarding evolution of rates in IFRS 17?"
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "My second question is about Italy. You mentioned that you have reached a ceiling on interest revenues, which is understandable regarding the high growth last year. But in the meantime, some of your competitors, Italian competitors, said that they see a continuing growth next year, less than in 2023, but still a growth in their interest margin. How do you explain that? Thank you very much."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Well, let me start with your last question, because it's going to be quite swift, actually. I don't want to comment what some of our competitor said. What I'm seeing, and actually we're seeing it already in the course of the fourth quarter, is that there is some kind of stabilization at a high level of the net interest income at Crédit Agricole Italia and probably we are not exactly the same as the other Italian banks because we have probably granted more fixed rate loans in Italy than the average of the market, because we think that it's good for the consumers and thus, at the end of the day, good for our cost of risk."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "When it comes to P&C insurance activities and underwriting criteria or re-insurance policy, it's clear that every year when we prepare the next year, we have some elements on which we're going to play. We are, of course integrating the cost of risk of year x into the pricing of the new policies for year x plus one."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "And definitely after a year in which the cost of risk, cost of weather events has increased significantly, there is a translation into the pricing of the policies. So that is going to take place, of course. And then the second element is that we're discussing with the different reinsurance companies in order to adjust the level of re-insurance that we take."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "And it's a permanent arbitration between the cost of this reinsurance and the level of protection that is providing to us. In addition to that, you may have seen that last year Pacifica, which is the P&C Insurance Company of the Group, has issued a cat bond in order to complement its coverage of natural catastrophe's impact going forward."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "So it's a permanent adjustment. We have to play on these different elements in order to adjust to what we can foresee in terms of intensity and cost of weather events. But it's pretty sure that the cost of weather event is going to increase going forward and that the only way to cover this increase in the cost is through the level of the premium that we have to apply."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "By definition, there is no possibility for us to take the charge at the place of our consumers. Then when it comes to the impact of rates on the discount dimension of the combined ratio, I don't have in mind any sensitivity on this topic. So I'll check if we have some. And if we have some, I promise that we'll come back to you. But I don't have in mind any sensitivity analysis of this kind."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "CIC",
+    "text": "Okay, thank you very much. Okay, thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "I think we still have one question to go. Two, three? So please go ahead."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Alberto Artoni from Intesa Sanpaolo. Please go ahead."
+  },
+  {
+    "person": "Alberto Artoni",
+    "role": "questioner",
+    "position": "Intesa Sanpaolo",
+    "text": "Good afternoon. Thank you for taking my questions. Yes, just a quick follow up on the cost. I just wanted to understand, is it fair to say that for you beating your target of 12% return in tangible equity would be more important than beating your target of the cost income below 58%? And that would be explained by the type of bolt-on acquisition that you've made where perhaps you might have higher cost income, but very interesting return on tangible equity."
+  },
+  {
+    "person": "Alberto Artoni",
+    "role": "questioner",
+    "position": "Intesa Sanpaolo",
+    "text": "And my second question very quickly. I understood that you expected some recovery on LCL in the second half of 2024. Is it still the case? Is there something changed from that point of view? Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Okay, so let me start with your first question, which is a difficult one. And hopefully we have not been faced up to now with this arbitration to do between cost income ratio and return on tangible equity. Because all the bolt-on acquisitions that we've made in average, had a cost income ratio after synergies that was at or below 58%."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "So nothing dilutive regarding our cost income ratio in terms of a commitment. So, no, I would say jeopardization of our commitment of keeping our cost income ratio below 58%. And at the same time all these operations were generating a return on tangible equity - marginal return on tangible equity, normalized equity above 12%."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "So all these operations were meeting at the same time. Those two criteria. I don't have in mind any operation that could lead to that could pose the question of making an arbitration between those two elements. It would be, of course, a puzzling situation, but for the time being, I don't have in mind any operation that would pose such a question."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "When it comes to 2024 and the forecast at LCL. Of course, when we say that we expect a pickup in the NII at LCL somewhere in 2024, this is under a certain number of assumptions regarding the evolution of rates, namely the fact that rates would not start to decrease too rapidly and would not decrease too abruptly, because, of course, if rates go back down very rapidly, and I don't expect that to take place, it would change a little bit the situation, but under the assumptions that we've made, and this assumption is namely the fact that the rates are not going to decrease before probably September, this is what we expect."
+  },
+  {
+    "person": "Alberto Artoni",
+    "role": "questioner",
+    "position": "Intesa Sanpaolo",
+    "text": "Thank you very much."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Benoit Valleaux from ODDO BHF. Please go ahead."
+  },
+  {
+    "person": "Benoit Valleaux",
+    "role": "questioner",
+    "position": "ODDO BHF",
+    "text": "Yes, good afternoon, Jerome. Two questions on. Hello? Do you hear me? Yes, okay. Sorry. Two questions on insurance. One in P&C, one in life, maybe in P&C, just kind of follow-up question regarding profitability outlook. You mentioned price increase, post Nat cat losses. So how do you see the level of profitability? So is this year. I mean, is it fair to assume, for example, that your command ratio could return to rally 22 level at, I don't know, 95% or below that under IFRS 17."
+  },
+  {
+    "person": "Benoit Valleaux",
+    "role": "questioner",
+    "position": "ODDO BHF",
+    "text": "And the second question? In life, we've seen a decrease in outflows on traditional life insurance product in Q4 versus Q3, Despite this, you have reduced your level of PPE reserves, meaning that you've tried to boost your level of crediting rate paid to policyholders. So I just wonder if it's a kind of defensive move in order to preserve your book of business, or do you see this business as being profitable and therefore you'd like to push self on this product going forward?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Well, two good questions and difficult to answer. Very simply, of course, we've seen an increase in the combined ratio in 2023 as compared to 2022. And I think that all the elements that I was mentioning earlier, underwriting pricing policy, reinsurance policy, CAT bond insurance, all these elements are here in order to improve further, going forward the combined ratio. We cannot commit to go back in '24 to the level of '22, but certainly we want to reduce this combined ratio going forward."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "When it comes to life insurance activities, we've been using the PPE exactly for the purpose for which it was made. Actually, the PPE is here to accompany the increase in rates in order to preserve the portfolio, to develop the business, to remunerate the clients, the policyholders. And so we've used a small part of the PPE that we had. We still have 4.5% or 5% of Euro denominated products outstandings in PPE for the future."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "But clearly the idea of the PPE was to be used, and legally we must use it in the in the eight years after the building up of the PPE. So it's here to be used, and we've used it for all the purposes you mentioned, to preserve the book, to remunerate the customers and to improve their loyalty and to increase their loyalty, and also to apply our client policy, which is a policy that needs to be client friendly. And so we deemed it was reasonable to do so."
+  },
+  {
+    "person": "Benoit Valleaux",
+    "role": "questioner",
+    "position": "ODDO BHF",
+    "text": "Okay, thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Thank you"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The last question is from [indiscernible] Societe Generale. Please go ahead."
+  },
+  {
+    "person": "Unidentified Analyst",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Hello, this is [indiscernible] from SocGen. Can you hear me?"
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Yes, absolutely."
+  },
+  {
+    "person": "Unidentified Analyst",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Hello. Thank you very much. Thank you for taking my questions and I have two, actually, please, on your Italian retail business. So apologies in advance if I'm missing anything here, but your describing a quite strong performance in in the business this quarter. But on a quarter on quarter basis, it actually looks like your revenues are down quite significantly in the division. So can you give us some explanations around that and whether you expect NII growth to decelerate quite quickly in the coming quarters, even in a context of gradual potential rate cuts, as you described it earlier."
+  },
+  {
+    "person": "Unidentified Analyst",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then secondly, still in Italy, but more generally, you're giving us a number of customers acquisition in the business this quarter. Can you remind us your retail market share in the country and whether you've been happy with the way it has evolved over the recent past? So those are my two questions. Thank you very much."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Thank you. On your last question, which country are you talking about, in Italy again?"
+  },
+  {
+    "person": "Unidentified Analyst",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Still Italy. Yes, indeed."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Okay. So in in Italy, what we've seen in the last quarter was that, of course, the revenues were up globally for Crédit Agricole Italia, if you can just show the page, revenues were up 4.4%. And the net interest margin was a little bit down between Q3 and Q4. So exactly what we've been saying already between Q2 and Q3, i.e., we have more or less reached some kind of a plateau in terms of NII in Italy, because rates have stabilized and even started to decrease a little bit if we talk about long term rates."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "So this is perfectly in line with what we had in mind and I think there's nothing more to say on that. Of course, the same assumption for the future revolution of feds applies as for LCL. In terms of the development in the country, the last significant operation that we made was the acquisition of Creval inorganic growth operation."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "But now we are working on the organic development of Crédit Agricole Italia. And in terms of number of new customers that we've managed to capture in Italia, we've managed to attract 175,000 new customers in Crédit Agricole Italia, which was an acceleration as compared to 2022."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "So we combine inorganic growth when available and organic growth every time it's feasible. And just to mention that our market share in Italy, it is now in retail banking in Italy is now at 5%, which is the highest level we've reached ever."
+  },
+  {
+    "person": "Unidentified Analyst",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thank you."
+  },
+  {
+    "person": "Jerome Grivet",
+    "role": "answerer",
+    "position": "Deputy CEO",
+    "text": "Thanks very much. I think it was the last question. So again, thanks for attending this call and looking forward to seeing you in the coming weeks or months. Bye-bye."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Ladies and gentlemen, thank you for joining the conference, now over, you may disconnect your telephone."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

@@ -1,0 +1,668 @@
+[
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, sir. [Operator Instructions] First question is from Madam Flora Bocahut from Jefferies. Madam, please go ahead."
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes, good afternoon. Thank you for taking my questions. Thanks also for the presentation and also the new disclosures. Look, the first question I wanted to ask you is focused a bit more on the next year, although you did provide us obviously here with targets towards 2025. The reason why I’m asking specifically for the next year is because when we look at Q4, it shows a slowdown in the revenue growth in some of the businesses. There’s also sharp deterioration in the jaws at group level suddenly this quarter. Now you’ve tell – you’ve told us, that you target revenue growth positive jaws towards 2025. Can we also expect that you’re going to achieve revenue growth and positive jaws, including in 2022 and any year of the plan?"
+  },
+  {
+    "person": "Flora Bocahut",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "The second question is regarding the rate sensitivity because as you mentioned in the slide deck, you’ve made a conservative assumptions on the rate outlook. Can you maybe tell us how much of a boost that would be to your target if we were to see rate hikes at the ECB within the next 12 to 18 months. Thank you."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So thank you very much for your two questions. On the positive jaws, as I said, we’re committed to positive jaws in all divisions every year, year-after-year during the plan. So it’s not only a commitment for 2025 on a kind of marginal approach or average approach, it’s every year, any division year-after-year. And the main difference looking at that plan to previous plan, and we have no adaptation costs. So the first year you will see an increase on the net result because there is nothing that at the very end pushes down the net results."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So all divisions are going to pay for their own investments and nevertheless, they will deliver starting in 2022 as 2021 delivered positive jaws. This is very important. Maybe it’s not clear in our presentation, but again positive jaws starting in 2022 down to 2023, 2024, 2025 in all three divisions, this is very important and there is no adaptation costs outside of what we said that the so-called €500 million at group level, which is really a minimum compared to what we did in the previous plans."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Looking now the sensibility of the rate scenario. We know that we have taken to some extent, kind of cautious scenarios as always in that rates would move, let’s say 50 bps above. Ultimately in 2025 this could all in all represent kind of €500 million net result globally at group level. So if you look globally at the picture in 2025, if you imagine that in 2024, we are already at 11% return on tangible equity, in 2025, we’re clearly above 11%."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "If we’re able to invest the disciplined way the proceeds for BancWest this will push further the return on tangible equity. And if we get because of the rate scenario, the equivalent of €500 million, in that case, we would be close to 12% return on tangible equity. So this is, let’s say a kind of a more aggressive or more positive optimistic approach, but this is the way it goes. So 11%, this is the target. We reach the target in 2024 and beyond. If we can invest in a disciplined whereas it said – being said at the end of the presentation, we’re further beyond 11% and closer to 12%. And if we’re lucky to be in a better rate scenario, then we can reach 12%. So this is the way you can look at the sensitivity of plan."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So do you want me just to add one color on Q4? So indeed for what Jean-Laurent has said is the aim is to have operating jaws positive every year. Just to give a little bit of color what triggered your question is the cost evolution in the fourth quarter. So as a quick reminder, the fourth quarter is every year atypical because it contains some elements of cost related to the full year. I think about kickbacks to distributors, it depends on how the year went. So that’s EBITDA. And then moreover, this year there are several new businesses that we start. I think of what we have with prime brokerage or the Jaguar Land Rover deal, which basically come with some cost of the interfacing between us and them."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And therefore have a little bit the delay in when the revenues come. So there is this kind of exaggeration that you see in Q4. But overall, as Jean-Laurent said, we have a full focus on jaws and we will keep them positive."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, madam. Next question is from Mr. Jon Peace from Credit Suisse. Please go ahead."
+  },
+  {
+    "person": "Jon Peace",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes. Thank you. Good afternoon. My first question is I just wanted to double check my maths please. If I exclude the sale of BancWest and exceptional items, so we’re starting from a clean net profit of €8.3 billion. So if we compound that at 7%, we should be looking at something north of €11 billion by 2025, and then potentially more still as you’ve discussed, if we get interest rate rises and reinvestment of the excess capital. And then the second question please is, could you just remind us what your total single resolution fund expense was for this year and the rough divisional split? So we can see where that comes out as we model it forward. Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. Jon. I’ll take your questions. So if you look at your mathematics, if I can, in order to apply the 7%, intrinsically it’s rather simple. What you have is, the BancWest has a bit of growth, which is in line with what the group is. So the 7% in income, you can apply it to the full parameter for the full period. And as you know, yes, at some point in time, it will be out of it. So the metric to use is the earnings per share because the earnings per share, we will use part of the process to basically get the earnings per share stable."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So that’s basically what we have. And as Jean-Laurent said, you can add let’s say a bit – add more north of 5% from the redeployment. When it comes to the – your question on the single resolution, BNP Paribas contributes just shy of €1 billion, €970 million to be precise. So that’s basically what you do. And if you look at the allocation the way it is calculated, it goes a tad more into CIB and a tad less into domestic markets and IFS. So that will be my answer, Jon."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, sir. Next question is from Mr. Pierre Chedeville from CIC. Please go ahead."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes. Good morning. Two question on business. First question regarding assets under management. We know there are two deep trends currently regarding development of real assets and passive asset management in this business. And I wanted you to, to give us an update of where you are here and what is your strategy going forward because you seem to lagging behind some of your main competitors and these two areas that are quite significant to develop this business."
+  },
+  {
+    "person": "Pierre Chedeville",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "My second question is about Arval. How do you see the evolution of Arval revenues in a normalized use car prices? And also what is your target in terms of electrification of your fleet? And you have seen one of your major competitor being very aggressive regarding this electrification. And maybe last question for Lars. What is your view regarding the 40 basis point of cost of risk? Does it include a significant amount of write backs regarding S1 and S2 provisioning in 2020? If I remember it’s €1.4 billion. Thank you very much."
+  },
+  {
+    "person": "Yann Gérardin",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, I will take your first question on the private assets. As I mentioned before, it’s part of our initiative also – three main initiatives for the IPS pool to develop and to increase – to accelerate or present in this kind of asset class. This is answering to a huge demand of our customers, meaning that individuals and institutional on both parts on equity and on debt as well. And what I can add is that we started with this kind of assets a long time ago, because we use it in all the business lines within IPS. First, Cardif is a long is investing in this kind of asset for a very long time for Eurozone. Wealth Management is providing their customers with private assets for five years now, and assets, the Asset Management has invested a lot in the debt – in the private debt. And I just mentioned the move we did last year with the acquisition of the Dutch mortgage provider in our asset manager."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Maybe the question of Arval. On your second question, the target on the electrified vehicles, it’s"
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "700,000 vehicle acres in 2025 is roughly 35% of the fleet and the evolution of the fleet it’s like the last two years it was roughly between 6% and 7% per year, and we will be at the same pace for the next period. So it was the ability for Arval to gain market share because the evolutions these last years was better than the competition."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And then John on your last question, on the cost of risk. So as you see the economic scenarios that we have used to underbuild our plan, which are a tad conservative when it comes to rates that if you look at the generic economic cycle it basically puts us a bit in the average of the cycle to cost of risk. And so the average of the cycle for BNP Paribas is a cost of risk when I express it in basis points, it’s somewhere between 35 and 40. It used to be higher with given the evolution that BNL in Personal Finance, it’s basically done. And so we put ourselves on the safe side towards that 40 basis points. So normally in that scenario, we would not use those reserves, but then again I don’t have a crystal ball on it, but that’s the assumptions we took."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, sir, Next question is from Mr. Stefan Stalmann from Autonomous Research. Sir, please go ahead."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes, good afternoon. Thank you very much for the presentation. I would like to start by asking something about the business plan. I think if I start with your net profit in 2021, and I apply your growth targets I can back so that you’re probably expecting to make about €40 billion odd net profit in the next four years. And you need about €12 billion of that to fund your risk-weighted asset growth at 3% target rate. And so that’s roughly 30% of what you expect to make. And at the same time, you have a payout target of about 60%. So there seems to be about a 10% buffer. And I was wondering how about that buffer, why you keep it? And if you don’t need it whether that signals that there’s maybe additional room for opportunistic returns to shareholders."
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And the second point going back to rate sensitivity last year in your registration document, you disclosed that if all curves go up by 50 basis points, you make €600 million additional NII in year three already hinged, whether this sensitivity will look very different from last year when you publish your updated document next? Thank you very much."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I’ll take your first question Stefan on the 10% that you talk about. Listen, there are a couple of elements on the horizon that we basically need to cater for, and that is why we kind of 10% buffer to be available. What do I think of? I think of, for example when it comes to insurance there is an introduction, which will consume a couple of basis points, and it is the same thing with the new regulation on the Forex of banking book. So there is still a slew of things that is ahead of us. And so we basically take that to cover that. Stefan, can you rephrase your second question?"
+  },
+  {
+    "person": "Stefan Stalmann",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes. Your sensitivity to rising interest rates in your last registration documents, you said it would be €600 million additional NII in year three for 50 basis parallel shift upwards. I was wondering if that disclosure will look very different, is your sensitivity is still kind of the same that it was a year ago, or has it gone up or maybe down?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "No, no, it is basically, it’s basically the sensitivity that we will publish in our recommend, which we will see in a couple of weeks is basically unchanged. It’s in that same neighborhood, the situation of the bank hasn’t really changed. So it’s of the same orientation."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, sir. Next question is from Matthew Clark from Mediobanca. Sir, please go ahead. Mr. Clark, your micro has been open. So next question is from Madam Giulia Miotto from Morgan Stanley. Madam please go ahead."
+  },
+  {
+    "person": "Madam Giulia Miotto",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes. Hi. Good morning. Can you hear me?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Yes. We can."
+  },
+  {
+    "person": "Madam Giulia Miotto",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Perfect. So, two questions from my side. The first one is Slide 56. So, you hinted to the potential of deploying part of the excess capital that you will be left with from the Bank of the West sale and generating more than 5% of earnings with that. Can you give us a little bit more color, is that towards fintech, is that towards, I don’t know, asset management, wealth management or more CIB type of deals. So, that’s essentially my first question."
+  },
+  {
+    "person": "Madam Giulia Miotto",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then secondly, I wanted to ask you on the various initiatives basically that I think you have underway, and I’m talking – I’m thinking about could you see some of the agreement on prime brokerage, then the new partnership with Jaguar, the agreement with Stellantis. Can you help us quantify the revenue impact that potentially we could see over 2022? Thank you."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So for your first question around the investment of the proceeds of the sale Bank of the West, as we said, we’re looking at investing in technology, new business models, bolt-on acquisition, accelerating organic growth in number of domains, as you can see the group is well diversified. There’s a lot of opportunities. You mention of businesses we could consider looking at the past five, six, seven years, you can see the businesses in which we move to achieve bolt-on acquisition, consumer lending, car fleet leasing, private banking, security services, equities platform payments. So this is the variety of demands we could consider for bolt-ons or for new technology or new business model."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And again, when you start to project, there’s a kind of did it not the day after you get the full return. So imagine we invest, we reinvest progressively the kind of 8% additional excess equity just after the disposal of Bank of the West. And after having, I would say bought back for €1 billion if you invest the day after there is a certain delay. So by 2025 you get on your portion of the potential of those new investments. So with 5% is an indication. I mean, maybe we a bit shy, maybe it’s going to be above, but progressively long-term, after four, five years, we’ll get the 8% minimum, because in fact, there is also the possibility to have additional leverage. So probably in the long, this process that today potentially represent 8% of the liquidity run could be translate in 10%, 12%, 13% additional earnings in the long run."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So this is the way we’re considering the situation. This has to be progressive discipline, no hurry. And in any case, as it was mentioned, we have even before, I would say those proceeds some room to maneuver, and some of you have made a competition around this potential 10%. Well, there is a certain room to maneuver, of course. So even before we have certain possibility to accelerate the organic growth, but the plan is already, I would say ambitious with the 3.5% I would say annual growth rate. So well this is the way we are looking at the situation. So disciplined approach, variety of domains in which we're relevant, well-positioned to invest, no hurry. And then progressively we will see the effect in the group net result, earning per share 5% I would say an illustration of the impact by the end of the planned 8% is for sure in more medium term, 10%, 12% could be potentially associated to those."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And again, the group, in my opinion, is quite uniquely positioned in the banking universe because of the variety of those platforms, the variety of those leading position and for us in the years to come, it will be a unique opportunity to grow one step further, looking at the global banking context in Europe. And moving that way, we will continue to some extent to consolidate, I would say through number of various businesses in the mid long term. So this is the plan. You have the second question?"
+  },
+  {
+    "person": "Madam Giulia Miotto",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thank you. Yes. My second question was on the initiative already announced like Jaguar, like Stellantis, like Credit Suisse potentially. So what sort of impact are on the short-term? So my second question is much more short-term than first one was strategic? And thank you for the color on that."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On Stellantis maybe – on Stellantis, it's a very important deal for personal finance because the ability focus on three strategic markets for PF, especially in Germany and in the UK for all the brands of the group, active is to increase volumes by €6 billion of loans versus €11 billion as of today. So it's very important deal for us and we will invest on one mutualized IT platform for all the brands of Stellantis group. So it's a game changer for PF clearly on car finance."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And again, the word on this, if you look at personal finance 10 years ago I would say through the cycle, cost of risk was in the range of 200 bps. Progressively, we went down to 150 bps and with this kind of rebalancing towards more, I would say financing of the auto universe, we could push down through the cycle, the cost of risk to 121 bps or 125 bps. So that level would be best-in-class as a platform for Europe. And this is also part of that transformational move at the personal funds. That will also benefit from the pay now – buy now pay later platforms. We bought recently in France and we will roll out through Europe, like we're trying to roll out the company we bought five years ago, so personal finance is again like Arval [indiscernible] is at the very core of the growth of the group."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And if I had the JLR deal, it's €4 billion of outstanding more in 2025, so €6 billion plus €4 billion, it's roughly €10 billion of outstanding with very good risk, because for JLR for example, the cost of risk is very low because the clients are very good. So it's two big partnerships, very good news for PF Aval and Cardif in JLR deal because Cardif will contribute with this insurance."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And I guess you are referring to the prime brokerage agreement. So of course it comes with the prime brokerage deal that we did with DB. So let me tell you first, we are very satisfied with the agreement with DB, because we haven't been able to transfer the client, the technology and the key staff to BNP Paribas before the end of 2021 as schedule despite the COVID-19 period in between the announcement and the closure. So we are very pleased with what we did and the platform is now up and running. And the fact that we have been able to clean this deal with testament of the fact that we are comfortable with the quality of the platform today. This gives me more comfort to maintain last previous guidance as a revenue contribution and cruising speed of a few euro on a full-year basis."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, Madam. Next question is for Mr. Omar Fall from Barclays, sir, please go ahead."
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Hi, thank you for taking my questions. Firstly, just as a follow up to previous question in the event that you don't see the opportunities that you've got on Slide 56, I'm just wondering if you would leave the door open to returning some of the €7 billion capital left from BancWest to shareholders, I guess, if the price of growth or bolt-ons become prohibitive or some of the projects you have in mind, don't come through. If any given year you'd retain some flexibility to maybe top up that, that 60% pay-out?"
+  },
+  {
+    "person": "Omar Fall",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Then the second question is, if you could give some color on the 8% revenue CAGR targeted for the specialized businesses, it doesn't seem like much normalization of trends that maybe aren't sustainable forever, like the used car result at Aval or the retail trading boom in Germany. It's obviously been a great business and it's fantastic that there's better disclosure now, but I'm just wondering how much is cyclical all versus structural there. Thank you."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So on your first question, you're asking your question very cautious way. I mean, it's a very remote scenario, most probably looking again at the variety of the group in Europe. And I would say that the number businesses in which we enjoy, I will say key position with this, this is a remote scenario, but of course we're not here to pile up equity. So if at the end of the day for unknown reasons, the interesting room to maneuver is already enough to provide the group with all the equity necessary to seize the opportunities. Yes, of course we would consider additional I would say a return to investors could be a dividend, could be buybacks. I mean, this is obviously we have already I would say down the job in terms of additional equity linked to the finalization of Basel."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So there is no need for us to begin additional equity. So I consider this scenario as remote, but nevertheless for again, unknown reasons this would take place then we would take action and we say reconsider or position in terms of returning cash to shareholders. So this is obvious, this is the normal discipline. I mean no question."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Looking at specialized businesses here, of course we will answer the question. I mean, these are great businesses, who have developed global Pan-European platforms. We can grow at a marginal cost. If you look at the result of some results, some recent tenders, it's very clear that we're not only very competitive, but very relevant in terms of ability to provide the right services. And this will give us additional I would gross power for the years to come. But Thierry will answer to you with additional details."
+  },
+  {
+    "person": "Thierry Laborde",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, give you some colors on our Arval and Leasing solution. Of course, these businesses are in a very good shape, very dynamic. So last year was very good. And the momentum for the beginning of this year for the plan, it's also very good there. They're winning market share. It's a case for Arval, it's the case for Leasing solution and with new partnership also with Arval with well Jaguar Land Rover with the big dealers influence and in some other countries with a good partnership with some banks in Europe, in central Europe, for example we are dealing some very good partnerships."
+  },
+  {
+    "person": "Thierry Laborde",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "It's also the case for PF of course, with this big move on the auto business, we have also some margin to improve with the price of all cars for Arval, because the momentum is so good for maybe one year, maybe a large part of this. So it's exceptional in the cycle, but for 2022 it'll be very good and we have also all the new digital businesses with Nickel with the project to Europeanize Nickel with the opening of – in Portugal, in Belgium and in Germany after Spain this year and the year after this year. And also the project to develop very faster on the flow of platform in four or five countries in 2022 and 2023 on this very dynamic market on buy now, pay later."
+  },
+  {
+    "person": "Thierry Laborde",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "With the strength of PF, of course, but also of the acquiring business, and to develop this platform with big retailers, especially big key retailers. So I think that the 8% of CAGR of specialized businesses, it's very solid."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Our next question is from Mr. Tarik El Mejjad from Bank of America. Sir, please go ahead."
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Good afternoon, everyone. And thank you for taking my questions. Two questions, please. First, on capital. Just coming back on the capital return and – so if you – and back to Stefan's question. So if you have 60% payout and 30% to grow, I understand the remaining could be used for some tailwind of – sorry, tail off of regulations, but that's probably and then you will start to again diverge from the 12.9% Basel 3 CET1. And clearly, if you want to stay around 12.9% CET1 or 12% Basel IV, would you consider at end of each financial year, reassess where you are and then return additional capital to stay at this level because I guess all the bolt-on and acceleration of organic growth would come from the 7 billion from BancWest?"
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And the second question is on the capital on the buyback. So if you close the deal by end of this year, so you have 4 billion buyback, and I think you can do 600 million, 700 million per month. So that means that will be done in 2022 and 2023, plus the 10% payout from 2022 earnings. So that will be quite a lot in here is that you feel they have the capacity to execute all this buyback?"
+  },
+  {
+    "person": "Tarik El Mejjad",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And secondly, on costs. So could you please just clarify on the Single Resolution Fund contribution. So you had 970 million, I think, last year. And so 200 million remaining, is that off the SRF? Or this DGS contribution or bank levies that remains? Could you just clarify that, please? Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I'll start with the last question. So indeed, what we talk about is this 970 million is a Single Resolution Fund contribution. But there are several other kinds of costs because if you take all the costs which fall under this FY 2021, you get to close to 1.5 billion. So normally, what you have is once this Single Resolution Fund has been built up, that will basically fall to zero. And that is what we expect to happen in 2024. However, there are other local taxes in several countries that existed before the introduction and that have been suspended while there was the building up of the Single Resolution Fund."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So it's like rather local taxes for local resolution approaches. And so we anticipate that those will continue or will, let's say, come back. So the Single Resolution Fund contribution will drop to zero. But the 200 million recurring cost that basically has been stopped while the Single Resolution Fund was built up, that one is expected to come back. So that is why we say that the 970 million would be 200 million."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Before handing it over to Jean-Laurent, just on the 10%, let's be fair. Listen, Tarik, we are not in the business of stacking up capital, yes? So it's that 10%. So if we can redeploy it, we redeploy it. And otherwise, back to that question, if we cannot do anything with it, we're not in the business of stacking up capital."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And on that buyback, just to position you when you ask the capacity to do so. If you take like the buyback corresponding to like 10% of earnings, that basically takes on average a month to execute. So doing the share buyback related to Bank of the West, that will probably three to four months. So overall, it is not an impossible volume or an impossible amount. So you'll let us handle, but it should be very handleable. Those will be my answers, Tarik."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you sir. Next question is from Mr. Jacques-Henri Gaulard from Kepler Cheuvreux. Sir, please go ahead."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes, thank you. Good afternoon. Three questions. Considering the weight of the platforms, in particular in the engine that you were mentioning, is it fair to assume that you're going to continue to adjust your number of branches so that by 2025, you will still be reasonably down versus the already big effort you've done over the first – over the length of the past plan? That's the first question."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "The second, for the 7 billion reinvestment on BancWest. And it's great to reinvesting capital and not necessarily returning it. Is it fair to assume a 10% return on investment, which is usually your return? And maybe historically, if we could have one example or a couple of examples of where you stand with your past investments, I'm thinking about Nickel in particular, if you're happy about how the investment has developed financially more than commercially."
+  },
+  {
+    "person": "Jacques-Henri Gaulard",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And lastly, on the presentation, you had a couple of nonrecurring items, which were obviously quite big in Personal Finance and in Euro-Med in revenues? And if we could identify how much those represent, that would be really super helpful. Thank you. Thank you."
+  },
+  {
+    "person": "Yann Gérardin",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Maybe on the number of branches for the plan, it clearly depends on the situation of each market. Because in France, for example, it's a very interesting information. The demand of appointments with human people in branches in 2021 was increased by 5% compared to 2019. It's a very important trend. So we have to be careful on this evolution."
+  },
+  {
+    "person": "Yann Gérardin",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "In Belgium, our BNP Paribas Fortis is leading the market and all the big banks are in the same trend to reduce their number of branches, it will be different. So to be clear, the rate will continue in Belgium. In France, we have to be cautious. We will it will be different. So to be clear, the rate will continue in Belgium. In France, we have to be cautious. We will adapt the number of branches in, in fact, with the behaviors of the clients. And in Italy, it will be stable. What I can say about the branches."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And looking at the return of our, I would say, investment, 10%, yes, this is kind of average number for the group. But if you invest in a disciplined way, businesses in which you have already global platforms, you have a certain ability to scale up the investments. So you will – I would say have a kind of marginal growth in terms of the cost base. So ultimately, the platform is at 10% plus. And if you invest in a disciplined way because the – the cost base is being, I will say, increased at a marginal cost. This is the other way of having synergies."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I mean, the marginal return on those investments is well above 10%. If you look at Compte-Nickel, if you look at [indiscernible], if you look at Opel consumer lending platform, if you look at Security Services, if you look at the number of platforms we aggregated during the past seven, eight years. Looking back at those investments were well above 10%, well above 10%. This is why ultimately mid, long term, if you consider you have to invest 8% ultimately, you should get more than 8% effect on the EPS."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Ultimately, if you are disciplined, well organized and if you are coming across the right opportunities with the price of – the entry price is a key situation, is the key element, of course. But again, it depends on your ability to sale opportunities, and this ability depends on the variety of businesses you are, I would say, entitled to invest in a professional way. And there are many of those businesses at BNP Paribas."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And on your third question on the effects in Euro-Med and Personal Finance, it's what you have some time if you take, for example, in Poland or in the south of Europe, you can have the overall banking system that has some counteracting on how products are positioned. For example, in Euro-Med, you had some investment products that were linked to the Swiss franc and where the authorities basically decided how to unwind those kind of products."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So that's the kind of things you have which is roughly, we have – we are provisioned a bit similar to the rest of the market. And this is basically what you see in Euro-Med. But it was already provisioned at the group. So at the group, it's basically not really an impact. So I can read that, that would be the call on that."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, sir. Next question is from Mr. Andy Simpson from KBW. Sir, please go ahead."
+  },
+  {
+    "person": "Andy Simpson",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thanks everyone. And thanks for taking my questions. And first one on the leverage ratio, and then the second one on the sustainable finance goal, please."
+  },
+  {
+    "person": "Andy Simpson",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Firstly, on the leverage ratio and you've got a target Slide 54, the footnote says that you have a target to run at an average of 4.1% through the plan. I just want to check that that is on the assumption of a future minimum of 4% as of next year, I think, and if so then why only 10 basis points is the planned buffer. That just seems quite small to me and it's obviously significantly smaller than the management buffer over the CET1 minimum you have?"
+  },
+  {
+    "person": "Andy Simpson",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then secondly, on the sustainable finance goal, firstly, it's great to see that 350 billion number. I just wondered if you have got an idea of what mix between loans and bonds you think that that might that – might take. And assume that we are starting now that target at zero as of today, or at least at the start of the year or are you already going to count the nearly 200 billion that you'd achieved in the last plan? Thank you."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I maybe take the question on leverage. So yes, well, anyway, the mentioning of the G-SIB is something which is under exploration, right? Because normally there is this law, which basically said that the intra-Eurozone exposure should not count twice. And so Basel is reviewing that to update the definition into that, in which case that is not 4%, but 3.7%."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Nevertheless, having said that if you that the ratio, the leverage ratio is a bit of a \"Brutal Metric\" it's basically looking at the balance sheet. But as it is brutal, it is not really swinging up and down, yes. And so from that point of view as it is a stable metric, as our capital is stable, moreover in the leverage ratio, there is also the 81. So it's not only capital that is included 81. And in the fringe of the plan, as we are stepping up our capital, we are also stepping up our 81 issue. So from that view, if you look at the volatility around it and the 4.2 objective works very well for us and us."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On unsustainable finance, the split is the following 150 billion on the loan and 200 billion on bonds without taking into continue to effect."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "The next question is from Delphine Lee from JP Morgan. Madam, go ahead."
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes. Good morning. I just have a few questions. First of all, if I can ask on your cost base, just want to understand a little bit the trajectory between now and 2025. You're committing to a positive jobs every year, but is it a 2 percentage point every year, or is that 2 percentage point positive jobs really just for the end of the plan when you release from the single regulation sound contribution. And also related to cost, what is your inflation assumption during the plan and also investments? Just trying to understand maybe the different moving parts and also just the timing of investment and the cost trends going in into 2025?"
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "My second question is on just a quick follow-up on sensitivity to rates that you mentioned earlier on the call. Is it possible to get the split between the sensitivity to short-term rates versus long-term rates and the time of that?"
+  },
+  {
+    "person": "Delphine Lee",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then my third question is on asset management. I think this is kind of one of the business where we are seeing really a step up in the growth rates that you're targeting for the next five – for the next year. So I'm just wondering what has changed and in terms of strategy in that business, are you planning to make a bit more M&A and acquisitions than in the past? I mean, it's clear that other businesses like Arval and [indiscernible] have done deals with asset management. Just wondering how you're thinking about that business going forward versus the past. Yes, those would be my three questions? Thank you very much."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I'll start with the cost base. And – so indeed we have that commitment and focus on the cost and so we are not getting to that just taking into account the contribution to the single resolution fund. So we basically have those jobs every year. Now that we've also fair, I mean, revenues will pick up, so costs will also grow with that. And so that is basically what you will see. So we have that and the jaws will be basically there every year."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And when on your question of inflation, actually if you look at the plan looking at one element of the P&L on the cost for example, and inflation doesn't really make sense. Yes, so we took a coherent set of what inflation would be and what of rates would be therefore impacting the top line and the costs and therefore the bottom line."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And so, yes, indeed, if you – if there is an evolution, there can be several scenarios where indeed let's go up and therefore also inflation goes up. But that basically means that intrinsically DRB the – so that the profit before tax will even step up further. So from that point of view, looking at that at one that doesn't really make, make sense."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And when on your third question, when it comes to the stress testing, so indeed, if we do a – what we have, what we typically use is a 50 basis points, parallel shift that basically leads to the improvement of 600 million and the ROTE tilting towards a 12%. But as I said, it's a parallel shift, yes. So if it would be a steepening, you can imagine that would be even a further cherry on the cake."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "There was a fourth question, but I'm not sure I grasped the fourth question. Is that – would you have? What their last question Delphine?"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "She has disconnected."
+  },
+  {
+    "person": "Yann Gérardin",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "I just want to remind you that our plan, which is very ambitious for the Asset Management is based on the on the organic groups. And if you look at the growth of the net cash flow in 2021 of [indiscernible] billion and the performance – the performance compare in financial performance as different fund compared to experience, we are in a very, very good shape. And as it has been said by Jean-Laurent, of course, during the bolt-on, we envisage, it could be – could be one of the client – client of this future operations."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you. Next question is from Madam Anke Reingen from RBC. Madam, please go ahead."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes. Thank you very much for taking my question on this call. Just two more follow-up questions. Firstly just on capital on the Slide 53. I just wanted to confirm the 12% that is are on the BancWest. And I just wonder, I mean we have been piling on buffer over the years. So you think by 2025, we're really in a position and where you think you can run more than 12% and not having to build a buffer and buffer? And then coming back on the costs; if your interest rate assumption plays out, do you think in 2022, you will still be able to – will deliver positive jaws given the inflation is coming in a bit faster than the NII benefit?"
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then just – one simple question on the cost. It seems as if your cost management has sort of like changed from the previous strategic plans when you had like multiyear billion cost savings. I just wonder, is it now you're running – is your cost management more dynamic? And what have you changed in order to make it a more realistic plan? Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "On the couple of questions, I'll first take your jaw. So as I said, in 2021, we will have jaws because you mentioned, you hurt a bit my feelings, you basically say because the net interest income benefit might not be there. Just let me hammer this, we don't count our net interest income benefits to have operating jaws, yes. We have operating jaws because we aligned the revenues and the costs that go weighted because they are the variable costs that support that. So that's basically we will have positive jaws in 2022. So on the capital, as you know, we basically, as a bank, we are a diversified bank. If you look at whatever stress test you see, we basically withstand very well. And that is because we are so diversified and we don't have one dominating activity, which can tilt the bank. So from that point of view you clearly see that the 12% at which we operate is fine. And that is what we have been operating at. We operate for the moment at 12.9, which basically allows for implementing the inflation of RWAs, according to Basel. So which we put us back at 12%, and we’re very happy campers at that. I'm not sure; I understood your third question"
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Management normally. I mean, looking back in your strategic plan, you always have like multibillion cost savings plan, and this is different this time. And you talk about reported cost and not about adjusting for restructuring charges. So have you changed your cost management?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. Basically, well there's a couple of things. In the past, when we had like one main team, which was digitalization, we wanted to be very fast. And so we upfronted a lot of investments to be really on the Vanguard of those changes and the savings came down basically in the third year. Whereas now we really changed the approach, where there are many now teams that we are pushing and that basically lead to a first investment, that rapidly leads to savings."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "And those savings a part of them will then be used to do the next leave of, of investment. So that's basically what we do. We pace the investment and at the same time, Laurent David will basically monitor to ensure that all optimizations in cost reductions will be there. We'll talk more about that in March – on March 14. So yes, they will be under control and face differently."
+  },
+  {
+    "person": "Anke Reingen",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Thank you."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, Madam. Next question is from Madam Azzurra Guelfi from Citi. Madam, please go ahead."
+  },
+  {
+    "person": "Azzurra Guelfi",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Hi, good afternoon. Thank you for the presentation. I have two question. One is on the Commercial and Personal Banking and Service Division. When I look at and I just heard your answer on the cost. I just wanted to know if you have any flexibility or you haven't, you have some, buffer of conservatism or whether there is a different development on the revenue side on your cost because that seems to be a division where you have the biggest potential reduction in cost income."
+  },
+  {
+    "person": "Azzurra Guelfi",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "The second one, I'm not sure if you can comment on this, but there has been useful that the stock could be reclassified in a different index. And I don’t know if you can comment on that. Thank you."
+  },
+  {
+    "person": "Thierry Laborde",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. About CPBS and you can see on Page 62, the averages effect during the next plan, it'll be roughly plus three points, and you can see that the decrease will be compare 25 to 21, a big decrease of the cost incom ratio for this division for 62 to 58. So we will do, we will do a lot on operational efficiency of course. And we have also some fuel for develop the revenue. So, you are right. You will put a lot on the just effect and we'll do a lot of efforts about personal efficiency"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes, on the FTSE. What you saw was a preliminary review that they published. And that basically is a way to, to allow banks to react and see if those reviews would be impacted by some misqualification of entities. And so what we saw is that this preliminary calculation had a misclassification of two of the businesses with a high contribution in revenues. And that was swiftly corrected by the FTSE Russell. That because that's the idea, they publish it to allow to see if there are reactions. We reacted to identify those two things. And it was a couple of days later."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "So that's basically where we stand. And so it has nothing to do with the Bank of the West changes. It is just two of our basic activities, bank activities that were misqualified. So that's addressed. So it's not an issue."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, Madam. Next question is from Mr. Kiri Vijayarajah from HSBC. Sir, please go ahead."
+  },
+  {
+    "person": "Kiri Vijayarajah",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "Yes. Good afternoon. So firstly coming back to the rate sensitive topic, and specifically on interest rate increases outside the Eurozone, in places like Eastern Europe, where we've already actually had some pretty, meaningful rate increases. And my question is, are you seeing the NII benefit that you expected or are you finding that some of the mechanical upside is getting competed away? And the reason I ask is when I look at revenues in Europe-Med, you want to exclude the exceptional item, it looks to be pretty flat at best. So first question on NII dynamics in geographies, where we've already had rate rises."
+  },
+  {
+    "person": "Kiri Vijayarajah",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "And then secondly, on the 4 billion buyback from the sale of BancWest, I just wondered what's to stop you starting that buyback before the sale closes, get the ball rolling early because as you sort of alluded to, you've got kind of plenty of capital buffers in your projection. So just your thoughts on the timing of buyback, because, it's probably going to take you a few months. It's not a few quarters to get it done so, why not it early? Thank you."
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. I'll start with your question on rates. Let's be fair. We are not a good beacon when you look at those Eastern European activities. Because if you look at us, what we have mainly is, is Poland. And in Poland, well, the impact, as I mentioned on the top line is rather to do with the, exposures on Swiss francs and nothing particular on the interest rate and on the other countries, our activities are too slim to really say something on what it implies on the banking sector."
+  },
+  {
+    "person": "Kiri Vijayarajah",
+    "role": "questioner",
+    "position": "Unknown",
+    "text": "The buyback?"
+  },
+  {
+    "person": "Lars Machenil",
+    "role": "answerer",
+    "position": "Unknown",
+    "text": "Yes. And so sorry. Yes, Kiri on the buybacks, listen, it there's two things to that, right? On one hand, we want to do the buybacks in order to get the dilution. And so that basically is logical at the moment we get closed, we do this and it's a bit the same thing in the redeployment. So therefore that is the, the pivotal point. And as I mentioned earlier, if you look at the volumes the peers that we have ahead of us, that works very fine."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Sir, we have no other questions. Back to you for the conclusion."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "So thank you very much for attending the conference. We're committed to deliver the plan. As you can feel it, on the 14th of March, we'll have the Investor Day. It's going to be a digital session. Unfortunately we cannot gather in Paris. But we'd be happy to have you at home. And we will give you more details, don’t hesitate to forward us questions. We will try to take care of those questions and give you, the full detailed version of the strategic plan by mid-March."
+  },
+  {
+    "person": "Jean-Laurent Bonnafé",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "We believe this is a solid project. BNP Paribas is a growth engine because of the variety of businesses key and nice positions throughout Europe. And this is the goal. And of course at the very center, of the plan we have sustainability. This is also a dimension in which we have we enjoy a nice position and we believe that this nice position will grow in even more. I would say a competitive advantage looking at, so thank you very much again. Take care, stay safe and see you soon in Paris digitally. Thank you"
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Ladies and gentlemen, this concludes the call of BNP Paribas 2021 Full Year Results. Thank you for your participation. You may now disconnect."
+  },
+  {
+    "person": "Operator",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]

@@ -1,0 +1,1232 @@
+[
+  {
+    "person": "A - Douglas Radcliffe",
+    "role": "operator",
+    "position": "Unknown",
+    "text": "Thank you, Charlie. We've set aside about an hour for Q&A. And in line with normal practice, please anyone asking questions, actually state their name and their company. Let's start with Alvaro."
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "Not sure, yes, it's on. Good morning, Alvaro Serrano from Morgan Stanley. I have two questions. Some of the guidance is obviously open ended around the margin this year and the over 10% ROTE. Could you maybe share some thoughts and some of the assumptions behind that? Obviously, William, you've mentioned the rate sensitivity, but maybe some of the assumptions around the mortgage book. I just want to gauge is that over 10%? Is it 10.1% -- or is it 11 what's a sense of what you're trying to steer us to?"
+  },
+  {
+    "person": "Alvaro Serrano",
+    "role": "questioner",
+    "position": "Morgan Stanley",
+    "text": "And the second question is on other income. I take your points on the run rate you've given for Q4 but that's still even taking out the extra ordinaries the one-offs. The contribution of central items and LDC is still pretty high. In the context of the plan, could you help us maybe give a bit of color on to what is the normalized level of that division that you call out versus the offsets we're going to see in growth in insurance? Just want to get a feeling as well for what kind of other income is sensible in the outer years? Thank you."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Sure. Thank you for that, Alvaro. I'll perhaps take each of those questions in turn. On the guidance as to greater than 10%, we feel very confident in greater than 10%. How much depends, I think, upon how key assumptions play out. We've deliberately constructed a plan which is based upon conservative macro and market assumptions in order to ensure that it's our plan to make the difference as it were."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "But on the revenue side, two in particular stand out, rates and mortgage margins, as you identified. I think in both, we are conservative. So to focus on one in particular, if we superimpose the market implied top curve right now based upon our planning assumptions, then that would lead to a revenue increase for structural hedge income alone, leave aside any BBR effect or bank base rate effect, but structural hedge increase alone would be £400 million. That, as you know, equates to around 75-ish basis points difference in ROE. And as I said, that is before you consider any bank base rate pass on questions around the base rates that may follow the development of that swap curve."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Mortgage margin assumptions, we simply rolled forward where the mortgage market is today or where we expect it to be into our plan over the future periods. And specifically, what I mean by that is, we've had a look at the completion rates in Q4, which, as I mentioned, is 115 basis points."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "We've also had a look at what we have seen during the course of November, December and January, and therefore, will inform the completion rate that we expect to be talking to you about in April. And we expect that to be somewhere between 75 to 100 basis points. And that's the assumption that we then rolled forward in our plan. So effectively, our forward-looking mortgage margin as we get into 2023, 2024 is based on that circa 75 to 100 basis points applications margin that we think we'll be telling you about in completions margin come Q1."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Beyond that, our revenues are -- we feel very good about on the BAU. We feel very comfortable with the 0.7 incremental revenues from the strategic initiatives. And as you know, our costs are clear, and we've got, I think, an exceptional track record in terms of delivering on costs."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So overall, we feel very confident in greater than 10%. And it’s worth actually just bearing in mind as a final comment that this is while absorbing considerable investment costs. Investment costs are leading to a P&L charge of circa £500 million. Again, that's not short of roughly 1% ROTE and a cash charge during the year, given the accounting policies of more like £1 billion, if you average out £3 billion over the course of 3 years. So bear in mind that these metrics that we're giving you are after having absorbed that investment demand."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So I think overall, again, just to finish with the punch line, we feel very comfortable indeed about in excess of 10%."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "William, can I add one thing on top of that. I won't do this for all the questions. We obviously had a lot of conversation around how do we think about the uncertainty in the market and the external or exogenous factors versus what we control. And hopefully, what you see in this is the things we can't control, competitive pricing on mortgages and rates, we'll take a conservative and prudent view. We know you'll be a bit able to adjust those assumptions over time, and we'll be able to talk about those assumptions. So we've taken a prudent view on the things we can't control. One of the things we can control and that we're committing to around growing our businesses, committing to revenue growth and managing costs and investments we think we've been pretty ambitious."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "And that's what we're really focused on is the controllable and the ambition we've laid out for those things. Obviously, we'll have a chance to talk about this over the coming quarters as to how the external environment develops, but that's been the core philosophy around this strategic plan."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Alvaro, you asked about other income as well. So I'll address that perhaps before moving on. Other income, as I said, in Q4, we saw an achievement in other income of just over £1.3 billion. Within that, there was about £80 billion of insurance basis review assumptions. So the run rate coming out of Q4 is effectively a little over £1.2 billion."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Now you talked there about LDC and the contributions of our equity led businesses, they were back to normal in Q4. So I think it's fair to say the run rate, therefore, is a notch above £1.2 billion after you've taken out the ADR, the insurance business review assumptions of circa £80 million."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "How do we look at that going forward? A couple of points. One is, you'll remember from our previous conversations that I've talked in the past about business activity lost in other income of circa £300 million to £400 million over the lockdown period. We think that we've recovered about half to 2/3 of that, somewhere in that zone. And therefore, as we go into 2022, we would expect recovering GDP and activity levels to contribute to giving us the other one-third to half or thereabouts. So that will build into other income over the course of 2022."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "On top of that, as you know, you've also got Citra and Embark. And if you add those two together, you're looking at increased an inter contribution to revenues of about £100 million from those two added together. And then I think it's fair to say that our previous investments, not for the moment, the strategic investments, but I think our investments in things like cash management and payments, for example, the home protection app that we have developed, for example, that will gradually help us in our other income contribution but that will be gradual. So over time, that will build in, but it will take us time."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So as I said, hopefully, that gives you a sense of the building blocks for other income as we go into 2022 and the growth that we expect."
+  },
+  {
+    "person": "Douglas Radcliffe",
+    "role": "answerer",
+    "position": "Head of IR",
+    "text": "Omar?"
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "Good morning. Thank you very much for the presentation and all the hard work that's gone into it. I've got a follow-up question on Alvaro's question actually on the ROTE assumption and the interplay with rate sensitivity. And here, you've baked in very conservative assumptions."
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "Some of your peers have put in I guess, deposit pass-through assumptions based on what they expect to play out in the market. Barclays yesterday said that even for the next 250 basis points, they're expecting deposit pass-through below 50%."
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "So hear what you said about mortgage margins, here what you said about the rate assumptions. Can you please talk about what you've got on deposit pass-through? And maybe I'll just ask my second question as well. So on the incremental revenue from OOI, when I look at that in the marginal cost income the ROI on that looks really great, which implies that is low-hanging fruit. And so I guess the question is what were the impediments to realizing these gains in the past? And what do you think has changed now to allow the delivery of that?"
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Shall I take the second question?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes, of course."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Thanks, Omar. On the effect of net interest income and the contribution to ROTEs, the assumptions that we are building into that sensitivity that you see in the analyst presentation that you have is essentially the same as Q3. And so we assume -- we are assuming a 50% pass-on assumption there on the liability side, which again is just safe consistency done on exactly the same basis as Q3."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "How does that relate to reality and what we've seen so far, I think it is fair to say that at the moment, we have seen less of a pass on than those numbers would suggest. And I think at very low interest rates, that is likely to be the case today and probably will continue to be case for a little while going forward. Now of course, the extent of that pass on is obviously determined by competitive conditions as well as the funding position of the bank, and so forth. And so these factors will develop and will evolve into our overall parcel assumptions."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "But as I said, the sensitivity that we've shown is based on 50%, to-date, that has proven to be an overestimate if you like, of what would be passed on, just as perhaps some of our peers have been indicating. I expect that will continue for the time being, but we just have to see how competitive conditions develop."
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "Great. And then in terms of -- sorry, just in terms of the OOI progression and why we think we can go after that now. One bit of context, obviously, as William laid out, there is a lower marginal increase in costs partly because we're building off platform. But we're also committing to other efficiency savings to offset some of those costs, which makes the aggregate numbers look really good."
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "But I think there's really three reasons. And again, coming in with a fresh perspective to the group has been great that make a difference. The first is external. So if you look at the level to which our customers now are interacting with us digitally, external environment, and we look at what their expectations are going forward, we have even greater opportunities given the strength of our digital capabilities to meet needs to put great products and services in front of customers and to respond to that."
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "And similarly, we see the focus at the other end of our business on transition and net zero as really an important growth opportunity. We're already one of the leaders in infrastructure finance with a leading transport or vehicle electric vehicle finance in the U.K. as examples. And obviously, with the most meaningful housing financing organization. So we see there's really significant growth that we can get off the back of some of the things going on externally. That's the first thing."
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "Second thing is, the groups continue to invest and build its capabilities and probably the most obvious example is the Embark acquisition, and then the progression of our investments around insurance and wealth mean we can now really continue to bring those services and innovate those services and bring them to our 26 million existing customers. And that's a unique opportunity. No one else operates in this market with that breadth of customers and the breadth of services that we have."
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "And I talked briefly, I won't go deeper right now unless you want to, but I talk briefly about customers in the de-accumulation stage of their lives, which is actually where most of the mass affluent opportunity is. If you can't join up around housing, pensions and then investments and really help customers at that stage in their lives, you can't go after that opportunity. And actually, no one else has that opportunity in the way we do."
+  },
+  {
+    "person": "Omar Keenan",
+    "role": "questioner",
+    "position": "Credit Suisse",
+    "text": "So that's the second thing building off our capabilities. And the third is the simple one, which is, I think this is the first time that these groups for a while made a focus around joining up for our customers with a more explicit growth ambition. So we can reorganize and organize ourselves to really go after those as we look forward. And that's what we're committing to."
+  },
+  {
+    "person": "Douglas Radcliffe",
+    "role": "answerer",
+    "position": "Head of IR",
+    "text": "Guy, why don't you take the next question?"
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "Guy Stebbings from BNP Paribas Exane. Thanks for the color this morning. Just building on some of the prior questions to start with on rate sensitivity. So thanks for the color on the £400 million for the structural hedge if we took prevailing swap rates, I guess doing the same for base rate, even assuming quite a cautious deposit each on that incremental additional base rate, looks like it should be well north of £500 million by 2024 based on prevailing market expectations."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "And then as you've said, the deposit beat to date has been better than what's in the plan. So it looks like well north of £1 billion to net interest income just from taking the rate curve. That's north of 2%, so effectively, we're looking at a greater than 12% ROTE in 2024 as we took the forward curve. I mean is that fair the math? Or am I getting something wrong? Or would you give some back on costs because you do that to invest more or under that rate scenario, there's more inflation in the economy. So that's the first question."
+  },
+  {
+    "person": "Guy Stebbings",
+    "role": "questioner",
+    "position": "BNP Paribas Exane",
+    "text": "The second question is more kind of big picture on costs. If you look at Lloyds over the last three, four, five years, I would argue it compares quite favorably in terms of investment spend versus its closest peers. Yet today, you're pointing to more incremental investment than some of your peers. So I'm just trying to work out, is that because it's not fed through to efficiencies or the bottom line is you might have hoped or your view of the world, three, four years forward is just different in terms of what you need to do, invest to compete, who you're competing with isn't necessarily the same traditional players as today?"
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Shall I take the second one?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Thanks, Guy, for the question. On the full effect of base rate changes, which might follow the curve that's in effect today, as said, the guidance that we have given or rather the comments that I made around the sensitivity of our plan to the current market swap curve of £400 million, that is simply for the structural hedge component of that mix. For work base rates to take on a more kind of aggressively upward stance versus what we have in the economic assumptions that we've shown you today. I won't put a precise number on that."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Safe to say that if you look at our £200 million sensitivity for a 25 basis point change, in year one, some 40% to 45% of that is from effectively the base rate pass-on assumption. That will then hopefully give you a building block, if you like, to use as you project that forward and what the effect of accelerated base rate changes might be."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "In terms of what would we choose -- if that were to come through in that way, what we choose to do with that? I think the vast majority of it would simply drop to the bottom line. As I said, it would go to improve the ROTE in the way that you said. It is obviously our business to remain competitive in the markets that we operate in and mortgage markets are a good example of that."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So how much we would choose to pass on to depositors in the context of that 50% assumption, deposit beta assumption or otherwise, again, very much a function of the balance sheet and our funding position, which, as you know, is highly liquid right now within a loan deposit ratio of 94%. But also, again, how we stay relevant on the asset side in some of the markets that we want to participate in, such as mortgages, and that's part of the reason why we've taken a conservative view on look-forward mortgage margin assumptions."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Overall, however, those are pricing decisions about how we stay relevant in the markets that we want to stay relevant in. As I said, we've got a very liquid balance sheet right now. So I think that 50% is probably hearing on the conservative side. How asset prices develop, we'll have to see. But again, we've embedded as a base case, a conservative assumption on the asset side in our modeling. And then we just have to see how things develop beyond that."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "What we will not do is invest any more in terms of the operating expenses of the business and the investments of the business beyond what we have set out today, it is not a question of us achieving, if you like, higher revenues and then going back to revisit this investment plan that we're laying out for you today. That is what we're going to spend, and that's it."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Great. Let me just comment if that's okay, just on the broadcast view. And I'll just build on that point. That was partly why we wanted to be very clear and ambitious around costs and revenues and actually give you three views around real numbers, because we want to be committed to those. I've built in my career a few base rate plans based on rising base rates. And I don't think that's a good place to be. We can agree the assumptions and see how the market evolves. You need to hold us accountable, and we are committed to delivering what we've laid out."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "On the broader cost point, I think it's a really helpful question. First thing you've seen, and William talked about this, we do have still the leading cost income ratio today and with a commitment to offset inflation and have flat costs, we think we'll still have that on our BAU costs. So this is about the investment and why we think that's good for shareholders and then for creating more sustainable and diversified position in the medium to longer term. That's the way we certainly think about that additional £3 billion of investment over three years and £4 billion over five years."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Again, building on your question about rates and how the NIM evolves, a 200 basis point increase in ROTE based on that £3 billion investment with more diversified income with greater and deeper relationships across our core customer franchises in the U.K. We see that as a very positive and accretive investment for our shareholders, and we think it actually creates real sustainability into the future. I know we now will have models that go out that far, but we're convinced that's a good investment."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "And the way we're thinking about it is very much as that investment is for that broader and higher return and more sustainable return that we're talking about, and we'll continue to be the cost leader around the franchise that you know today."
+  },
+  {
+    "person": "Douglas Radcliffe",
+    "role": "answerer",
+    "position": "Head of IR",
+    "text": "Next."
+  },
+  {
+    "person": "Amandeep Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "It's Aman Rakkar from Barclays. Two questions, if I may. First, a double header on capital. I think for a couple of quarters now, you've indicated that there could be a reduction in some of your capital requirements, which may have been interpreted as maybe bringing the CET1 ratio down from 13.5%. I'd be interested to know what your thoughts were there. Does it have anything to do with the reintroduction of a 2% account cyclical buffer?"
+  },
+  {
+    "person": "Amandeep Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "And I guess related to that, I guess, on the pro forma 14% CET1 ratio, you've got about £1 billion of surplus currently. Cap generation of 150 basis points half of that is probably going to be consumed by an ordinary dividend. A decent chunk of that remaining half is probably consumed by the pension in the next two years."
+  },
+  {
+    "person": "Amandeep Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "The scope for surplus distributions looking forward, it's not obvious to me. So any color that you can give us there? Is there any chance of announcing anything to the quantum of what you've announced today in future years?"
+  },
+  {
+    "person": "Amandeep Rakkar",
+    "role": "questioner",
+    "position": "Barclays",
+    "text": "I guess the second was just on cost. One thing I'm struggling with a little bit is the idea that investment spend should fall away in 2024. I mean your increased investment here is perhaps rightly so a recognition of the change that's taking place in terms of digitization, sources of disruption, some of the emerging business models. Isn't this just the cost of doing business in U.K. retail banking going forward? I mean how credible is it really that investment cost should step away even if the strategic investment does, do we not need to see a step up elsewhere? Thank you."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Do you want to deal with the capital ones, and I'll deal with cost again? This feels like a form partial."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Thanks for the question. I mean, first of all, in terms of capital ratio, as said, our capital ratio is 12.5%, plus management buffer of 1%, just as a start point. And that gives us cover, if you like, for the regulatory requirements, the need of the business and any buffer that we might need for uncertainty. That's had been a historical foundation."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "As I mentioned last year, we have seen a period including first of January of this year, where RWA intensity has increased in the business. But at the same time, we haven't really seen a change in the economic risk that we perceive in the business at least. And so all other things being equal, you would have thought that might make 1 think about capital issue."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Having said that, we also have some tailwinds alongside of that. So we would expect Pillar 2A to change going forward as we reduce the pension deficit through contributions. But it is the case today. As you know, there are a number of uncertainties, if you like, around the regulatory capital questions. We have the reintroduction of the buffer that you mentioned in your question. We also have the consultation phase around the OSII charge that is going on right now."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And then we're also in an environment of great uncertainty. I mean witnessed the events of this morning, obviously in Europe, but also the trails of the pandemic, which we hope doesn't come back, but we don't know for sure. And so you add all of that together, I mean, and I think where we are now with our capital target of 12.5% plus 1% feels about right for the time being. And we'll just see how things fare over the course of the medium term beyond that. But for now, I think we're fine."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "In terms of your surplus capital distribution looking forward, actually, we feel pretty good about that. We feel good about it for a couple of different reasons. One is the strength of the capital position right now. As you said in your question, that is circa £1 billion in excess of our target capital ratio."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "We've committed to going down to our target capital ratio over the course of the plan. And we'll obviously see how those factors that I just mentioned play out in contemplation of how we plan that or how we put that going forward."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "The second reason we feel good about it is because as built into our plan, you can see there's some very conservative backbone assumptions for BAU. We talked earlier on about rates, we also talked about mortgage margins. We feel very confident about the other BAU components of our business and indeed the £0.7 billion of strategic initiative revenues."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So all of that makes us feel that we are likely to see capital generation. We've outlined it today at averaging 150 basis points over the course of the plan, but it is predicated upon what feel very conservative assumptions, and therefore, we'll see how we fare. The second reason why we feel good about capital distribution within the business."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And the third, you mentioned the pensions plan. When we look at the pension plan, we obviously have the commitment to give one-third of in-year shareholder distributions to pensions and that's appropriate given the actuarial deficit that we set out in 2019."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "But two points. One is that while a part of that 150 basis points will indeed be consumed by the pension plan. It is only a part, and therefore, there is still a gap between the amount of capital that goes out for the ordinary dividend, the amount that goes back to the pension plan, and there is a spare amount within that. And we'll look at what to do with that. And obviously, distributions in the form of buybacks or special dividends will be high up on our agenda."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Final point on pensions, which I think is worth bearing in mind because it puts this issue somewhat into context. We have an actuarial pension deficit as of 2019 of £7.3 billion, as you know. The latest mark-to-market of that pension deficit as of December 2020, which you'll see in our public documents, is £6 billion off the back of contributions."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Over 2021, we made a further circa £1 billion, just a shade under £1 billion contribution to that pension fund, gets it down to £5 billion. This year, by virtue of 30% in year variable pension contributions plus the £800 million of fixed contributions that you know we have, we're going to be making a contribution of about £2 billion to the pension funds, combining fixed and variable components. Takes that 5 down to 3."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "If you mark-to-market the pension -- the actuarial pension deficit for the current prevailing interest rates, you want to knock off about another £300 million from that number."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "If you then bear in mind that, that number also includes £1.7 billion of contested charges, if you like, because of the RPI, CPI debate that is going through the house of launch right now, which we're not a party to, but if it is one, we will be a beneficiary of then you can see that number will come down again. I'm not profiting what that court case or rather how that court case goes than it is a material item."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So if you take the actuarial pension deficit and actually knock off what has been contributed and what will be contributed this year, combine that with the fact that we are going to be entering a negotiation with the trustees at the end of this year about suitable contributions thereafter. I think it helps you keep the issue in proportion."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Great. So let me just talk about costs briefly, if that's okay. And I think there's three parts that will help unpack why we believe the costs -- investments will come down and costs will come down. The first is, and I talked about it quickly. A part of the investment we're doing is about modernizing our technology and changing our ways of working."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "So one of the very important outcomes from that is that the cost to deliver change and improvement is actually going to go down, and therefore, for the same level of investment that we have today, we should be able to continue to compete in a higher pace at a faster pace than we do today. And that's one of the clear objectives we've laid out for this investment, and we laid out some targets, some operational targets around that in the investment. And that's really important because it means we can get more for the same amount of money invested in the business."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "The second thing is this was incremental to our current high level of investment. We think we're already investing above our competitors in the U.K. market. And so we're talking after 2024 coming back down to the level of investment, which is already the leading in the market. And again, leading in the market, and we're going to improve the bang for the buck from that investment."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "And then the third thing, which we didn't make an explicit cost absolute cost target. But let me just give you a filing for what it is. In our plans, we are building efficiency in '22, '23, '24 that we know will benefit us significantly on run rate cost BAU cost in '25, '26. And so there's other efficiencies that come in the later part of the plan? I know your models probably won't go out that far."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "But as a management team, we have to be thinking about efficiencies, especially when you thought think about end-to-end digitization, how our customers are using our channels, and then building more productivity and efficiency through the middle and back office of the bank. Some of those things take two or three years to get to a full year run rate. So the benefit is in '25, '26. So because of all three of those factors, actually, we do plan that the investment would decline."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "We still have the highest investment in the U.K. We'll be getting more bang for the buck for that investment, a higher level of change at a higher pace, and we see other efficiencies in those outer years, which is how we get comfortable with the 50% cost income ratio in those outer years. And that's a core part of giving us that extra 200 basis points of ROTE or the extra capital generation that we've committed to."
+  },
+  {
+    "person": "Douglas Radcliffe",
+    "role": "answerer",
+    "position": "Head of IR",
+    "text": "Rohith, why don't you ask the next question?"
+  },
+  {
+    "person": "Rohith Chandra-Rajan",
+    "role": "questioner",
+    "position": "Bank of America Merrill Lynch",
+    "text": "Thanks. Good morning. Rohith Chandra-Rajan, Bank of America. I wondered if I could start by just coming back to net interest income, please, and particularly starting with mortgages. So thank you for the 75 to 100 basis point margin that you anticipate, I guess, application spreads currently at 60 basis points or so, and that takes a while to flow through to completion spreads. So I guess sort of start in would be how quickly do you think you'd get into the 75 to 100 basis points range in terms of new business being written."
+  },
+  {
+    "person": "Rohith Chandra-Rajan",
+    "role": "questioner",
+    "position": "Bank of America Merrill Lynch",
+    "text": "And that 75 to 100 basis points, you're applying that to the £244 billion of front book, that's what that rolls over to over time? And what are your expectations around the 14% or so over the book that's still on standard variable rate that obviously ends at a much higher margin. So that was sort of around the mortgage piece."
+  },
+  {
+    "person": "Rohith Chandra-Rajan",
+    "role": "questioner",
+    "position": "Bank of America Merrill Lynch",
+    "text": "You've given us very clear guidance on risk-weighted assets. I wondered if you could comment about your expectations for the nominal balance sheet, particularly average interest earning assets for 2022 and through the course of the plan, particularly noting that you want to stay competitive in the mortgage market. And ground secured lending."
+  },
+  {
+    "person": "Rohith Chandra-Rajan",
+    "role": "questioner",
+    "position": "Bank of America Merrill Lynch",
+    "text": "And then the final question was just the doubling or more than doubling of the new initiative revenues between 24% and 26%. Is that broad-based as your new initiatives gather pace? Or is there -- or are there particular things that come online in that sort of last two-year period that drive that significant uplift in the revenues? Thank you."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "I’ll take one and two and then over you for three."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Thanks for the question, Rohith. As you say, application spreads have been a bit all over the place for the last few weeks. There's a couple of things, I think, going on there. One is that the swaps market, as you know, has been moving up, and that's obviously what causes me to give the comments earlier on around the NII sensitivity. That has not been accompanied by pricing moving up within the market so far."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And I think that, that is largely because many of the mortgage providers have put in place swaps ahead of the time at which they write the business. And so effectively, they're able to weather the storm, if you like, maintain the spread despite a moving up swaps market because they have this built-in protection from effectively mortgage pipeline hedging that they've done."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "I think having said that, what we're seeing right now, and you'll see, I think, from all providers really that there is some pricing up going on in the market as those hedges run off. People are now having to hedge into, if you like, more highly priced swap markets. And off the back of that, they are adjusting front-end mortgage book pricing."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Now we have to see where all of that settles down because as I said, there has been a fair amount of volatility over the course of the last few weeks. But having said that, we feel that in the context of what we've seen both in the latter part of last year, at the beginning of this year, plus also putting it in a form of kind of RFP historical context, if you like, that 75 to 100 basis points feels like an appropriate assumption, and again, a pretty conservative one for what we might see in two to three years' time."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And of course, we are hopeful that things will end up better than that. We'll just have to see whether or not that's the case. But certainly, some history would suggest that it might be."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "As to the second part of your question, SVR, SVR, as I mentioned, we've seen attrition over the course of Q4 of 16%. And what's going on there is that effectively people who are moving on to SVR in the context of a rising rate environments are choosing to take out a fixed rate mortgage looking forward because they obviously feel exposed to potential higher payments."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So as a result, what you've got is you've got a lower flow onto the SVR book. The runoff is about the same. It's not far different, but the new entrants onto the SVR book are lower because those new entrants are choosing to take fixed rate products as the rates come out, and therefore, the decision is a more important one from a financial point of view."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And of course, that is entirely understandable. It's a sensible thing for many customers to do, and we'll do everything we can to support them in making that right decision. As to how that goes forward, I think if we see a rising rates curve, it's quite likely that, that type of behavior is going to continue. And then that will lead to an attrition assumption that is probably not far different from 16% that we saw in Q4, albeit I do think it will ebb and flow just as we saw over the course of the last year. What have we built into our plan is basically that. So we've built into our plan and attrition assumption that is substantially similar to what we have seen during the course of Q4."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "On RWAs, as you've seen, we've given you RWA guidance at the end of this year of £210 million. We've given you guidance for the end of the year -- sorry, the end of the '24 period, I should say, of 2020 to 2025. You asked about AIEAs for 2022. The way that we see AIEAs for 2022 is very much in line with the strategic comments that Charlie and I made in the presentation earlier on. So we expect continued mortgage growth, for example. It will not be as fast as it was in 2021 for all the reasons that you know about, including stamp duty holiday, including pace interest rate changes, maybe one or two other factors. But nonetheless, we do expect continued mortgage growth."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "We also expect unsecured growth. We've seen that coming back in the course of Q4. As I mentioned in my comments, we've seen about £0.5 billion being added on to the credit card book during that time."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So far, all the signs that we've seen in January and February have been very supportive of that return of the unsecured mortgage book. And it goes hand-in-hand with some of the reduced constraints at the back of the ebbing of the coronavirus crisis at these for now. Alongside of that, we expect the commercial picture to be more or less a wash. And what I mean within that is that we've got high levels of liquidity within SME banking. At the same time, we've got some emerging demand and in line with some of the strategic initiatives within our overall large corporate offering. So net of those two will be more or less a wash within the commercial bank."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "But overall, when you add the two components together, that expects -- that leads us to expect low single-digit AIEAs for 2022. Now when you combine that with the margin developments that we are seeing above 260, then we would expect no interest income growth in a pretty solid fashion over the course of the year, and that's simply the natural arithmetic that arises from those inputs."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "You asked about plan look forward assets versus RWAs. In short, you could probably use the same characterization for assets over the course of the plan. So if you describe asset growth in the plan as low single digit, you'd be about right."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "RWAs, however, partly because the initiatives that Charlie talked about in the strategic component of our presentation is likely to be about half that."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Great. Can I just come back on the question about revenues in the outer years, which I think is where you are saying and kind of how does that build and why is it going later. As I said upfront, we've looked at a kind of portfolio of things that deliver today, this year, in the next two, three years and then beyond that. And that's because we're talking about organically growing with our customers and increasing the fundamental breadth and depth of our relationships in many of these businesses. And we know that takes some of those things take time. I think about it in three ways. So these things build over time, as you know, and I'll give you a couple of examples."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "We have some investments that were made in the last few years, where we've seen significant growth. And we talked about to actually the worksite pensions growth we've seen, we'll continue to see that building throughout the next three years, and that will roll over into '24, '25 and '26. And actually, the cash management and payments capabilities that we've invested in our large corporate franchise. Again, we were successful last year onboarding a large number of clients, and we see that building right from this year all the way through the plan."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "The second type of investment is investments where we know we can get to market relatively quickly. And probably the best example of that is some of the intermediated products we have in our retail business. So in mortgages, which we just talked about, but specifically, when we think about the growth that we've talked about in auto leasing and through car dealerships and through the embedded finance businesses we've talked about, and there, we know that if we make some investments, we can see kind of medium-term growth quite quickly by working with our intermediated partners."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "And then the third thing is we're committing to some things that we know will take longer to deliver but actually have very, very strong, sustainable, diversified revenues. And probably the mass affluent opportunity is the best example. And let me just be a bit clear on that."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "So as we need to build some of our new journeys to enable simple investments being made available to those customers. We then need to engage our customers around that new proposition in those journeys as an example. And then over time, customers will engage on that and they'll start to build their broader relationship with us, whether it's banking or investments. And we know that some of those things will take 18 to 36 months to deploy, and then customers will then build actually over the following one, two, three years. And some of those revenues are more back ended in the plan."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "The combination of those three types of investments, if that makes sense, is the plan does build in the out years. And the reason we were really keen to share with you 2026 targets, is it starts to give you a feeling for the real value of the investments both from a diversification, a deepening perspective with our customers. And then in terms of the scale that we think that will go to over the longer term. Does that help?"
+  },
+  {
+    "person": "Douglas Radcliffe",
+    "role": "answerer",
+    "position": "Head of IR",
+    "text": "Chris, why don't you take the next question from yourself?"
+  },
+  {
+    "person": "Christopher Cant",
+    "role": "questioner",
+    "position": "Autonomous Research LLP",
+    "text": "Good morning. It's Chris Cant from Autonomous. Thanks for taking my question. One on sort of the dividing line between strategic and BAU and then a couple of headwinds, please. So strategic distinction you're drawing and you're talking about the £0.7 billion of additional income, what's included within that and what's not. So Citra and Embark within that, you talked about £100 million of additional other income from that into 2022? Is that part of that or not?"
+  },
+  {
+    "person": "Christopher Cant",
+    "role": "questioner",
+    "position": "Autonomous Research LLP",
+    "text": "And when you're talking about sort of balance sheet growth, you talked about wanting to develop your SME franchise and things like this. Is that part of that 0.7 or not? Where are you drawing the distinction there? Just help us understand what's included and what's not."
+  },
+  {
+    "person": "Christopher Cant",
+    "role": "questioner",
+    "position": "Autonomous Research LLP",
+    "text": "And the reason I ask that is I'm trying to understand the fuzzy buy you give us on Slide 49 for existing franchise income growth. So there's obviously rising rates, and we can discuss after that. So I'm just going to leave that to one side. In terms of the headwinds within that, from what you've said in terms of mortgage pricing, should we be thinking about something like a £2 billion mortgage NII headwind by the time we get to 2024? I think that's what some of the numbers you've given us today would imply that kind of ballpark."
+  },
+  {
+    "person": "Christopher Cant",
+    "role": "questioner",
+    "position": "Autonomous Research LLP",
+    "text": "When I think about operating lease depreciation I'm guessing that's about £200 million to £300 million. I know you've had quite chunky gains this year on used cars. So that's got to go up. There's about £400 million from IFRS 17. So there's some pretty big headwinds in there. And we cannot pencil in what we want for rates, but I'm just trying to understand whether I should be offsetting Citra in there. Is there anything else I should be offsetting in there as a big positive? Thanks."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Shall I take those?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Thanks for the question, Chris. On strategic initiatives, Citra and Embark are not part of these strategic initiatives. So they are outside of the £0.7 billion. On SME growth, Charlie may want to comment further. But in essence, within SME growth, we have defined some fairly clearly delineated strategy initiatives that we see in particular around digitalization of the business and the incremental revenues that we expect those to achieve above and beyond BAU, Chris."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "I can't really give you a precise breakdown of exactly what those are simply because we're not disclosing it today. But they are pretty clearly delineated within the benefits as we call them, that we expect to get from the SME piece above and beyond the ongoing growth in the SME business that we would expect to see as a matter of the ordinary course."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "In terms of the headwinds, your comment on -- I won't provide too specific numbers for obvious reasons. But the mortgage NII headwind of £2 billion, that's a little above what we expect, and so there is a mortgage headwind in there for all the reasons that we discussed. I mean we were writing business rather front maturity business was around the £150 million mark in Q4. We were writing new business at 115 in Q4. That gives you a sense as to turnover."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "We then put in place that assumption, as I said, of 75 to 100 for new business going forward. And you know roughly speaking, the all in our overall mortgage book today, but as I said, it's below the £2 billion that you mentioned, but it is above £1 billion. Maybe I'll put it at that."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Operating lease depreciation. As you say, we've seen a period of very benign performance in car prices, and that's a function of two things, really. What is the supply of component parts for new cars, which has been, as you know, limited and therefore, people have moved into the used car market?"
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "And the second is a preference for public transport -- sorry, private transport in the context of what's been going on. And therefore, you have seen used car prices reflect increased demand essentially. As we look forward, that operating lease depreciation line will start to return to normality as we expect to see essentially the dropping off of some of the temporary demand factors and indeed potentially at least the increased supply. How much of that, when we look forward, we had a 2021 charge for operating lease depreciation, as you know, of about £ 460 million. I would expect 2022 to be a little bit of a reversion to normal, but perhaps not quite back yet to levels that we saw in 2020."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "And the reason why I don't think it will necessarily go all the way in 2020, as you know, is about an 884 charge. In 2020, it was reflecting kind of a period of normality to a degree at least. I don't think we're there yet. I think you still continue to see used car prices that are buoyant. You continue to see to an extensively some aspects of that playing through into our LEX business, which in turn, because of its more limited profile in the current market, reduces the operating lease depreciation charge going forward."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "So I think you see a markup from that £460 million. I don't think you see a full return to 880 as we saw in 2020, at least not for 2022."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "IFRS 17, I would essentially agree with your numbers, Chris. I mean we made disclosures as of Q3, which said that we expected circa £400 million of IFRS 17 accounting hit in 2023. If you look at it for 2021 and say what would the IFRS 17 have been in 2021, it's a shape below that, actually. But it's not more than a shape below that. So you're not too far off."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "It's just worth me reiterating on IFRS 17, that it made no difference to the cash profile of the business. And I know that you would expect me to say that. But the reason why it's important is because ultimately, as the cash that leads the insurance dividend that contributes to the capital that we're then able to pay out to shareholders."
+  },
+  {
+    "person": "Douglas Radcliffe",
+    "role": "answerer",
+    "position": "Head of IR",
+    "text": "Okay. Thank you. Just before I actually take any more questions from the room. There's a couple of questions that are coming online. So firstly, from Robin Down at HSBC and he's rather giving away his age with this question. But for 26 years, I've listened to Lloyd's CEO stand up and say they have low product penetration of the customer base, and they want to cross-sell more. It's why Widows was bought in 1998, so what is different this time? Do you think consumers' willingness to buy from a bank has improved? Or is it the use of digital channels that you think will lead to greater success? Can you help convince a skeptic that this time is different?"
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Great. So I'll take that one. Great question. Thank you, Robin, for my old organization as well. I love it. Well, I partly I think, discussed it earlier when I said why are we convinced this time is different in terms of how we can grow the business. And I think the starting point is where you started, Robin, which is around consumer preferences. And when we look at consumers, we still are seeing a great level of digital engagement and a real willingness to engage with us as we look forward. And we do see that there's going to continue to be a set of consumers in the U.K. that really value and integrated and joined up financial services offering."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "There's definitely another group of consumers that are looking to shop around and go through intermediaries and buy products. And the great news for Lloyds Banking Group as we are the leader in both markets. We're a leading relationship-led bank in our retail franchise. And we also have the leading products through the distribution partners in the big banking products, and we've just laid out an aspiration to extend and increase our relevance, especially around investments in insurance."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "So yes, I think there's a change in consumer behavior. The second thing is, as I said, the maturity and the capabilities we have developed in the last three and four years, and then specifically, how consumers have changed their preferences in the last 18 months through COVID really give us an ability to make it simple and easy for our customers to access our products and fulfill their needs. And so we think there is an additional benefit in that context."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "And I think the third thing just to say is -- and this is something that the benefit of coming new to this. I can't talk about the last 26 years in the same way. But certainly, when I look at the momentum that we've inherited around some of the initiatives that the team has been focused on in the last 18 months, we are making really significant progress on some of those cross-sell, whether it's about home insurance and protection between our Scottish Widows business and our retail business is actually William, you kicked off when you were interim CEO last year or you really focused the team on?"
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Or equally, if I look at the other end of the business, I've had a chance to meet a number of our CEOs of our corporate clients, large corporate clients. And all of them have said something, which was very interesting to me as I came in, they say we are the only organization able to help them across the full breadth of the things and the issues they have. So some of our biggest corporate clients are looking to us help and with their defined benefit schemes through our box business through Scottish Widows."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "They have a pension with us through Scottish Widows. We help them with their car leasing. We help them in the building sector, finance their customers' purchasing of their houses -- and of course, we're helping them with their green financing infrastructure as a leader in the U.K., and we're providing all of our debt and cash and liquidity management services."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "And we're an acquirer and nobody else is able to provide that joined-up service. And what I'm hearing from our customers is that's a really distinctive position to be, which is why on the corporate and institutional side, we think there is this very targeted opportunity for us to do that even more going forward."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "And again, without spending too much time if you think about the challenges they're facing in the next few years, transition to electric transport, transition to net zero, needing to look for more green financing and green alternatives originating long-term assets that can be shared dealing with their defined benefits, DC schemes, defined contribution schemes. These issues are going to be bigger for them going forward than they have been in the last 10 years, and we're well placed to serve those needs."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Charlie, can I perhaps just add is on that? You've seen from Charlie's presentation that essentially, we have built the competitive initiatives and strategic initiatives that we're embarking on, predicated upon our advantages. And those advantages are, again, as manifested in Charlie's presentation, built around our business model, around our scale and around our information access. All of those three, I think, are indisputable competitive advantages that we have."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And what does that mean in practice? I'll take 1 example, and again, Charlie talked a bit about this in his presentation. The information access that we have, to the 26 million customers that we serve allows us to create data. The creation of that data, as long as we deal with it properly, allows us to create identification and offers to customers. It allows us to identify risk-based pricing to their same customers and allows us to improve the journey that those customers have if they interact with us in multiple areas."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "And so I think in answer to Robin's question, the competitive advantages that we have are clear, we are now investing in and able to take advantage of those competitive advantages in a distinct way. And you'll see an awful lot of our investment. And a lot of our time is going to be spent deploying our money, our people into exploiting what we see as our competitive advantages and data is a very good example."
+  },
+  {
+    "person": "Douglas Radcliffe",
+    "role": "answerer",
+    "position": "Head of IR",
+    "text": "Excellent. There's another online question from Joe Dickerson, Jefferies. Do you plan to prioritize buybacks over dividends when it comes to capital return going forward?"
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Thank you, Joe, for the question. The First of all, I think it's worth reiterating that our capital return policy will include the commitment to a progressive and sustainable dividend, which, therefore, incorporates a pretty healthy yield to shareholders going forward. We will also take a look at the best way to repatriate excess capital above and beyond what we give back in the course of the ordinary dividend."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "So far this year, as you've seen, we've got a £2 billion buyback going on and given the stock price of the share price, I should say, trading below book, that appears to be an appropriate thing to do. It is also the preference of a number of our large institutional investors. And therefore, we have gone down that path. We do recognize the importance of dividends."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "But as I said, based upon valuation concerns based upon investor preferences as a whole, we also recognize the importance of buybacks. And so in short, in answer to Joe's question, I think it's very likely that our ongoing capital return story is a combination of ordinary dividend and some form of buyback, depending upon how the stock trades and we'll see how that goes."
+  },
+  {
+    "person": "Douglas Radcliffe",
+    "role": "answerer",
+    "position": "Head of IR",
+    "text": "Okay. Other Raul?"
+  },
+  {
+    "person": "Raul Sinha",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "Hi, good morning. It's Raul Sinha from JPMorgan. I guess the first one is just on your targets. The challenge with this plan is that the costs are very tangible and upfront and the upside is very long dated. And also you're giving us a combined portfolio outcome, which goes into 2026. So I was hoping for a little bit more granularity. William you've mentioned Embark and Citra, outside of the strategic growth initiatives. But could you perhaps help us quantify out of the £1.5 billion ambition, what are the three largest areas just to get a sense of a little bit more granularity behind what's really driving the upside?"
+  },
+  {
+    "person": "Raul Sinha",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And then the second question, if I can give you that right now is, I think, like everybody else, I'm struggling to understand the 10% return on tangible equity target versus where rates are currently? And I guess I wanted to check within that, are you taking a conservative assumption again around the recovery in unsecured balances, where do you assume unsecured balances will top out over the next couple of years relative to pre-pandemic levels?"
+  },
+  {
+    "person": "Raul Sinha",
+    "role": "questioner",
+    "position": "JPMorgan",
+    "text": "And also, if you could address within your NII non-NII mix, there's been obviously a regulatory-driven shift with overdraft income going into NII, how has that impacted the potential margin from a recovery perspective, if you kind of bake in all of the unsecured growth into your plan? Thanks."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Yes. Thank you. Do you want to do it the first one first? So first of all, thank you for the question, Raul. So we haven't split out the £1.5 billion and part of it is a longer-term view. Obviously, our plans have a clear view of the split. I talked about five growth areas, and all five of them are really important for that growth. And as I said, in one of the other questions, some of those five growth areas start building in years one, two and three and others are more three, four and five."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "But when you get to years four and five, those five growth areas I talked about are the ones driving that additional £1.5 billion of revenue, and they are distinct and incremental to the BAU growth. And I know we haven't given that complete breakdown. But one of the things we will continue to do is share some of what I would call the leading indicators as we go through the next quarters, which we're committed to delivering to show you how we're building that underlying franchise growth. So you'll get a real feel for that as we go forward. But we're really comfortable with that level of growth and the initiatives that really drive it."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "William, shall I pass you on."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Thanks. Thanks. On ROTE, Raul, our approach to unsecured has been to assume that we see some recovery in unsecured over the course of this year, in line with the 3.7% GDP growth that we expect to see. And a bit of a change in customer behavior as well as low as people look to take expectations over the course of this year, and we see only a gradual ramp-up in unsecured during the course of 2022, 2023 and 2024. And it's really only by '24 that you start to get back to levels that we saw before the pandemic."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Now that's an approximation of how things go, but it's therefore, built upon what we think is a relatively -- forgive the word again, but prudent approach to the buildup of unsecured balances. And it simply reflects the uncertainties that we see. I do think that if we see economic confidence returning, and if we see, in particular, travel returning, which, as you know, is some 30%, 40% of our overall unsecured balances, then we would see potentially a faster ramp-up, not just in the unsecured balance, but also in some of the revenues coming from it, therefore."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "You asked about areas conservatism within the ROTE. We've talked a lot about interest rates, we've talked a bit about mortgage margins with there talked about unsecured balances. The other area is potentially AQR. Now we've given guidance for the AQR of circa 20 basis points this year. Based upon the performance today, as I mentioned in my comments earlier on, we are seeing very benign underlying. If we project that forward over the course of this year and beyond, we're going to come well inside of that circa 20 basis points."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Now again, let's see how things fare over the course of this year. There's still plenty of uncertainties out there. But based upon today's mark-to-market and rolling that forward, we are ahead of that 20 basis points. There's then a question as to what happens to the overlays that we still have within the portfolio, which as you know, total around £800 million of COVID-related overlays, of which about £400 million is essentially insurance against vaccine resistant virus mutations coming out. And the other £400 million is against worst default experience, but for various forms of principal government support being in place."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "I think we have to see how the year rolls forward. And every quarter, we'll be looking at whether or not those overlays are still valid based upon them prevailing conditions. But that AQR assumption, we are aware of the fact that we are outperforming it today. We'll see how the rest of the year fares."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Overdraft moving to NII. I think I understood the point correctly, but we have seen overdraft be compressed off the back of various initiatives. I mean, A, obviously, the lower levels of customer activity, but also B, a bit of a change in product preferences as well. And I suspect that in some corners, not terribly much our base customer base, but in some corners of the market, I'm sure that buy now pay later is playing is having an effect upon overdraft balance too."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "That's not so much our customer demographic as it were, but nonetheless, I'm sure there's an effect of the margin. So I think overall, overdraft, we do expect some come back in line with economic activities. We're not building our plan upon it."
+  },
+  {
+    "person": "Douglas Radcliffe",
+    "role": "answerer",
+    "position": "Head of IR",
+    "text": "Okay. Thank you. I'm going to go right to the back, and I don't think we can get any further back an edge at the back there."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "Keefe, Bruyette &amp; Woods",
+    "text": "Great. Thanks very much, indeed. And yes, thank you very much indeed for finally putting restructuring back into the numbers, so we have proper earnings, so thank you very much for that. And thank you also for the pension disclosure, which is super helpful."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "Keefe, Bruyette &amp; Woods",
+    "text": "I just had two questions for Charlie, really. The first one is about culture. And really, I don't know how transparent you can be, but what your observation is what you found as a new arrival at Lloyd's? Because you're talking about the products per customer and trying to sell more. But if there's one thing that's characterized Lloyds in the last 10 years, it's been a very aggressive approach to its customers. And we've seen that with things like PPI where your exposure was much bigger than everybody else's."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "Keefe, Bruyette &amp; Woods",
+    "text": "Your predecessor told us it was solved, but then we had HBOS, which this time last year was 60 customers, and we didn't have to worry about it. And is now a £600 million one-off hit below the line."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "Keefe, Bruyette &amp; Woods",
+    "text": "So firstly, the question is how -- what has been your experience since you've arrived? And how might it compare and contrast with perhaps what you've seen at other places you've worked. So that would be my first question, if that's okay. Do you shall I go for the second one as well?"
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "I'm happy up to you I'll write it down both and I'll come back."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "Keefe, Bruyette &amp; Woods",
+    "text": "And then the other question is one, I guess, is again a question more for the sector rather than just for you, but you talked a lot about digital and how everybody is going digital and how well placed you are there. And I do get that -- but if I look at your digital competitors, you talk about your cost efficiency. They're running off anywhere between operating costs of between £10 and £30 a customer per year. Now it's difficult to get your numbers, but your numbers look like between £150 and £200 a year. And that's not going to change based on your plans you've given us today, that's not going to change materially over the next two or three years."
+  },
+  {
+    "person": "Edward Firth",
+    "role": "questioner",
+    "position": "Keefe, Bruyette &amp; Woods",
+    "text": "So I'm just asking how confident are you that, that is sustainable that you can be running with such a materially different cost base versus the new entrants who now have certainly contacts with 30% or 40% of the customer franchise. Thanks so much."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Great. So two great questions, difficult questions. So if you don't mind, I won't refer to my previous experiences on, but I will tell you what I've seen and how I'm thinking about it. And I think the starting point is a couple of things. First of all, what I found is a culture that cares about customers is purpose-driven is very disciplined around risk and costs, and I'll come back to the risk point in a second. And actually, those attributes have always been my personal view, those are the attributes you need of a systemically important financial services group. You have to be customer-driven in this industry, in the context of the U.K., we have to care about how we serve and then support broader society, but you really do need cost and risk discipline."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "And I think certainly, those attributes, there's other ways of describing the culture are things that have been certainly true to Lloyds Banking Group for a long period of time. And they come across in space as you come in as an outsider, which is what I've obviously just done in the last six months."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "You talked about HBOS and PPI. And obviously, those have been obviously very material and they've had a material impact on shareholder returns over the last decade. But of course, they come from a period and from the parts of the group, which really are in the history and the upper when I think about conduct and the focus on customer outcomes, this organization really has been very focused on that."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "We've got lots of capability and discipline within their teams and invested in a lot of ways of serving customers with a real focus on customer outcomes. And so I've been very impressed by what I've seen there. When I look forward, what do I see we need, we need to be able to move at a faster pace. We need a culture that really embraces change and our ability to be able to drive change and support customers. And we need to be able to join ourselves up more across the organization to deliver and a joined up way for our customers."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "And I don't think that will ever put us in a difficult position going forward with respect to customer outcomes because the difference in the 2020s versus the 2000s is the point that you were making earlier, William that we have a different level of opportunity to use data and digital to engage our customers and to make customers at the heart of choosing who they go to for their financial needs. So I think culture is a great starting point in this organization and real strength. We definitely if we're going to deliver on this set of strategic initiatives and this execution path, it's something we've already started very proactively discussing and we're starting to shape as we go forward."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "On digital, this is the core question of our time, and I think it's a really helpful question to look at. Of course, the starting point is today, if customers are going to do something meaningful with you, really bring their relationship, really trust you with their money, and then build a profitable financial services relationship, which means today, largely having a strong balance sheet, which you can then build broader fee income and investments. I mean if you think about the full service, customers want to have either as a backup or an ability to serve them as they go through their relationship, humans, people that can really provide advice can be available to them so that they can solve problems."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "And then for a large part of U.K. financial services, your stable funding comes from actually people that still want to have a full multichannel experience. And that's been evolving, and that will continue to evolve, and that's what our plan says. But if you want to create the proper revenue per customer to build a sustainable shareholder return, you can't do it with a digital-only proposition."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "I won't comment on specific digital organizations, but you'll know them all. If you look at their revenue per model and their revenue growth and their sustainability around their economic model today, they don't have a clear path to those things because people don't trust them today at the level they need to."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "So I think the first starting point is this is as much or more about building trust and confidence to capture a big enough share of wallet on the revenue per customer as it is cost to serve. Now obviously, cost to serve the numbers I've seen those numbers quoted me multiple times. I think that's one way of looking at it. But we need to look at the sustainable returns of those relationships and the ability to then really grow those over time from a net profitability per customer."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "And today, we think actually, our stance having multiple channels or all channels with trusted brands with full service is actually the only proven way of creating sustainable returns. Obviously, some of the investments we're making, and again, this is where the time horizon of investments. I know it's slightly uncomfortable for this discussion, if you've got a 3-year view, as we modernize our technology and we create the kind of data and modern technology application infrastructure that underpins these relationships. As customer behavior changes over the next 3, 5, 10 years, we're going to be well placed to optimize against that. That's my thought on cost efficiency. I don't know, William, if you have anything else."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Yes, just one point that I'd like to follow up on, actually, which is in relation to heading, when we were taking charges for HBOS Reading last year, we always said that there would be an ongoing charge for HBOS Reading. There was nothing that we said different to that."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "What is different today in accordance with accounting standards, based upon the judgment made in the HBOS Reading case, we have brought forward the future charge in relation to HBOS Reading as to process and has to address. So just to be very clear, there's nothing inconsistent about what we said on HBOS Reading last year versus this year. And I just want to make sure that's acknowledged."
+  },
+  {
+    "person": "Douglas Radcliffe",
+    "role": "answerer",
+    "position": "Head of IR",
+    "text": "Just relating to Ed's question, there was another question on life on Fahed Kunwar of Redburn. On the investment itself, how much is defensive versus offensive. I ask this question because we see businesses, fintech and big U.S. banks looking at the U.K. as an opportunity and investing heavily. Is this investment just to keep Lloyds competitive, so it doesn't lose share and profits? Or should we look at this investment as a way of gaining market share in fee income and profit growth over and above pandemic recovery?"
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "So I am quicker at that, you might want to comment on that. So the answer is always is it's both. But what we hope we've done today and what we're committed to is that we will -- the investments have a clear non-defensive return on investment. So we're very comfortable when you look at the portfolio of investments, there is either efficiency or revenue growth, and in many cases, both that are associated on a go-forward basis that give us a return that we think is quite compelling and a number of the questions today have said if you look through these investments, you can see how compelling they are."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Now the reality is if we weren't to continue to innovate, improve and invest in our business, then there's a downside risk either to cost inflation exceeding the pace at which our revenues grow or alternatively losing share. We haven't built the investment case on that. The investment case is built very clearly on what we need to do to progress on our revenues and efficiency. But William, I don't know if you build on that."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Well, I think you captured most of it, Charlie. Safe to say that at some level, it's just quite hard to distinguish between what is defensive and what is offensive. They all go to support the future of the business. And as we've discussed through this presentation, now feels like on a particularly important time to be making the right investments for the sustainable future of the business."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Added to that, you do as you look forward, see a set of investments, both in 2024, but particularly in 2026, that have very attractive ROIs, it's attractive in 2024 for the mathematics that you can work out, but it becomes particularly so as we move forward in 2016 for two reasons. One is the traction of the investments starts to be gained, if you like, producing a better revenue outcome. And 2 is we have to fall away from the investment requirements and therefore, the reduced CapEx and depreciation charge associated with it. That combination produces a very powerful ROI for the business, particularly when we're operating at scale as we do."
+  },
+  {
+    "person": "Douglas Radcliffe",
+    "role": "answerer",
+    "position": "Head of IR",
+    "text": "Okay. Thank you. Any other questions."
+  },
+  {
+    "person": "Robert Noble",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "Good morning. It's Rob Noble at Deutsche Bank. Just two questions, please. One was on the cost of risk that you mentioned, William. The £180 million that you moved from fraud charges from impairment to costs for one of a better phrase, is that a normal level of fraud? And should we not be thinking by 2024, if you've moved fraud out your unsecured balances are going to be far lower than ever were in the past, even by 2026, presumably, should your through-the-cycle cost of risk cannot be lower than it was in the past?"
+  },
+  {
+    "person": "Robert Noble",
+    "role": "questioner",
+    "position": "Deutsche Bank",
+    "text": "And secondly, just on the strategy, Charlie, I just wanted to ask about the road not traveled. What did you look at in terms of growth that you threw out because of -- and why did you throw it out because of hurdle what are your hurdles that they didn't meet maybe thinking about specialist buy-to-let lending, for example, buy now pay later or anything else you looked at, be interesting to show what didn't make the bar?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Thanks for the question, Rob. On fraud, essentially, what's changed with fraud is that it used to be the case that much of the fraud that happened in the business was linked to the lending side of the business. What's happened with the growth -- unfortunate growth of push payment forward is that it's moved the liability side of the business. And so it becomes very transactional from a customer basis. And therefore, in line with our statutory accounting, we've chosen to move it up and put it into the cost base."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Is that a normal level of fraud as you say, it's a sort of unfortunate war phrasing it in a sense, but I suspect that, that will be more or less the characteristics of fraud as we move forward. I don't expect it to necessarily grow much. I'd like to see it shrink, but that obviously will depend upon the success of some of our initiatives to tackle the fraudsters in line hopefully with other participants in the payment industry."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "When we look forward for 2024, given the fact that we have removed that forward from the impairment line and given frankly, other relatively benign factors that are going on today and to a degree, at least, are factored into our macro-economic forecast of kind of 1.5% growth next year and the year beyond."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "I would expect our through-the-cycle charge to be inside of the guidance that we are giving of below 30 basis points. So it's deliberately set at below 30 basis points today. If you look at our historical charges, they've been around 35 basis points. Today, we're moving to below 30 basis points over the cycle, based upon that fraud impact, amongst other factors going on in the macro, then I would expect us to be inside of that 30 basis points."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Great. And then on the second question, which is obviously such a fundamental question when you think about strategy. One bit of context, which is obvious, but let me just repeat it, which is Lloyds Banking Group comes out of 2 decades, not just one decade of restructuring two decades where we've been optimizing ROE through the Britain era and then the last decade where we post the financial crisis have been restructuring and made a pretty bold decisions and clear decisions around participation choices, if that makes sense."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "And focusing back on a core U.K. centered retail and commercial bank at the core of what we do. So I think that's the first important starting point when you think about what choices we made."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "And our perspective was we have this well managed, derisked and focused business that has an opportunity to grow. Now having said that, it's slightly different. I'll characterize if it's okay, between our retail businesses, the affluent wealth businesses and then the corporate and institutional businesses. There's lots of choices we were going through. So I'll give you examples."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "On the retail side, it would be more about risk appetite and you talked about BNPL. But actually, when you look at our unsecured lending businesses and then our mortgage businesses, there are segments of the market we don't participate. It surprised me coming in actually, we just don't participate in the subprime or near-prime segment. We're a prime plus relationship-led institution around unsecured lending. And we've continued to say that we want to operate in that way."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "And in what is talked about as BNPL externally, we are in our embedded finance world, looking at how we provide lending and payments going forward in a more -- in a simpler more embedded through third-party platforms model. But we think it will look different from BNPL because you need to be able to look at a customer's whole borrowing exposure across all of their relationships and then really help them build their borrowing in that context."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "So yes, we decided to not participate in BNPL as it is today, but we do actually like some of the ways that we can serve the customers in a more simplistic way. So that's on the retail side, risk appetite choices."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "On the affluent piece, actually, the core decision was not moving up into high net worth, ultra-net worth private banking space. And probably that's clear. We obviously have some customers in that context today. Our view is what's really distinctive about Lloyds Banking Group is the two million customers that we know have money to invest to kind of £75,000 plus."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "And the fact there's a gap in the U.K. for serving those customers in a joined up way. So it was more around wealth and where we wanted to really build a distinctive franchise."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "And then on the corporate and institutional space, actually, there was a whole set of choices around which sectors we would versus wouldn't prioritize which products. So I don't know if the cash debt risk management works for you, but it's a very focused franchise. We start from a place where we're in sterling and in the U.K., we're actually a leader in many of those segments today and in guilt, which is we wouldn't -- we know you can't be successful without having scale and really strong capability to date."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "And we looked at, do we need to have any capabilities in other parts of the world to serve those corporates, those U.K. linked corporates, and we excluded some of the choices in that. So it was a combination of geographies, products and the sectors that we were going to focus on around the things we just said, we can't compete, provide sustainable returns and really build the franchise we need to be. So those are core choices. Does that help? Thank you."
+  },
+  {
+    "person": "Douglas Radcliffe",
+    "role": "answerer",
+    "position": "Head of IR",
+    "text": "Excellent. Okay. Given the time, we've probably got time for one more question. I can see a hand at the back there."
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citigroup",
+    "text": "Hi, thank you. It's Andrew Coombs from Citi. If I could have one follow-on for William and one for Charlie. For William, just coming back to the deposit beta point and just to be specific on 2022 NIM outlook. You talked about using a 50% deposit beta going forward for future rate hikes you said your experience had not been 50%, we can to be lower thus far. So for your 2022 NIM guidance, are you putting in what you in reality seen for the first couple of hikes and then assuming 50% for the next two that's baked into your assumptions? So if you could just clarify that, please?"
+  },
+  {
+    "person": "Andrew Coombs",
+    "role": "questioner",
+    "position": "Citigroup",
+    "text": "The bigger picture question for Charlie is there seems to be an awful lot of initiatives here to essentially come to the same output. And what I mean by that is if we go back in time and think of the ROTE, that you're doing pre-COVID or Lloyds is doing pre-COVID, the targets were out there the old organic capital generation target of 170 to 200 basis points and you're now talking about 175 to 200 but all the way out in 2026. I guess my question is, there's a lot of good initiatives here. So what's gone wrong to offset those? And more importantly, is this as good as it's ever going to get."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Great. Do you want to go first?"
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "Thank you. Thanks for the question, Andrew. On your question around the 50 basis points or 50% pass on assumption. What we've assumed for the business plan for 2022 is not too far off that, Andrew. What in fact we will do will be driven by a number of factors. Obviously, customer requirements, so first and foremost amongst them, but also considerations around the market and competitive conditions and also considerations around liquidity of the balance sheet, which, as I mentioned before, is extremely high."
+  },
+  {
+    "person": "William Chalmers",
+    "role": "answerer",
+    "position": "CFO",
+    "text": "So how that plays out, we'll see. I mean, so far, as per my comment earlier on, we have seen a lesser part on across the sector, actually, not just ourselves, but a lesser part on versus that 50% assumption. I suspect as long as rates are low, that may continue to be the case. But for our planning purposes, we put in an assumption that it's not bang on 50%, but it's not far off."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Great. Thank you. So I'll take the second question. Thanks for the question again. So a couple of thoughts. The first is just looking forward, hopefully, one of the things you've seen today and that we're committed to is actually the diversification and the sustainability of the revenues in the business we're talking about as we look forward is materially different. And that's both because of the nature of the businesses we're talking about growing and now we will be deepening relationships with customers, but it's also how we're seeing margin evolving through the next few years."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "So bluntly, if you look at IFRS 17 coming through and producing from an income perspective, not from a shareholder return perspective, the income story and then the margin on mortgages, we have at the end of this period, we think, significantly more sustainable franchise than you may have seen in prior targets. I'm not going to comment about the prior targets."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "And the second thing is, obviously, the world in the context has changed significantly from those prior targets and when we look at this, we think this provides a very good shareholder return and sustainable position going forward. I think the third is if you look at returns in financial services over the last decade and you look at what we're now talking about and where we are aspiring to get Lloyds Banking Group to."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "We're still seeing we can talk about NIM progression in the first few years, but a 200 basis point lift with an organization that's already covering its cost of equity and is planning to get closer bluntly to Nordic like star banks than U.K. and the rest of European banks. We think that's a clear blue water. It will make us a leader in terms of financial returns in the financial services U.K. market, and it's actually a pretty bold aspiration."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "Now, the whole discussion today, I think, a really good discussion around how does margin and rates and competitive pricing play out relative to that 10% greater than 10% return on tangible equity or 12%. But what we're laying out as a management team is a commitment to grow 200 basis points of return on tangible equity above already are covering our cost of equity. That is not what has been delivered by financial services in the U.K., as you well understand, nor has it been driven by most of your other European banks in the last decade."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "So we do see this as a materially different trajectory from the past -- and we see it as ambitious. And you'll take a call on whether it's also got alpha on the macro play on rates."
+  },
+  {
+    "person": "Douglas Radcliffe",
+    "role": "answerer",
+    "position": "Head of IR",
+    "text": "Excellent. Thank you, Charlie. I think that's a good conclusion. So that will conclude the Q&A. I'm conscious that there are a couple of people in the room that haven't been able to ask their questions. And I'm also conscious that there's a number of people online that haven't been able to ask their questions. So what we'll make sure if all of those individuals could get in contact directly with the Investor Relations team and we'll respond to those appropriately. Otherwise, if I could just briefly hand back to Charles just to effectively provide a brief closing response."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "So thank you, Douglas, and thank you for facilitating the question-and-answer session. And thank you to everyone who joined today. It's great actually to be back in person especially for my first proper face to face, and especially with everything that's going on externally today. We really appreciate you joining both physically and virtually. So thank you for coming."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "We also hope you have a good sense of our ambition and share our excitement about the group's future and how our new strategy will deliver higher and more sustainable returns. We're really looking forward to updating you in future quarters and engaging offline. And on that, I hope you have a great rest of your day. Thanks very much."
+  },
+  {
+    "person": "Charlie Nunn",
+    "role": "answerer",
+    "position": "Group Chief Executive",
+    "text": "You can now buy 1 year of Seeking Alpha Premium for whomever you like."
+  }
+]
